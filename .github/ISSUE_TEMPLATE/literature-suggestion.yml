@@ -1,0 +1,40 @@
+name: Literature suggestion
+description: Suggest a polar paper or correction / 推荐极地文献或勘误
+title: "[Literature] "
+labels: [literature]
+body:
+  - type: input
+    id: doi
+    attributes:
+      label: DOI or persistent identifier / DOI 或永久标识符
+      placeholder: 10.xxxx/xxxxx
+    validations:
+      required: true
+  - type: dropdown
+    id: pole
+    attributes:
+      label: Polar region / 极区
+      options:
+        - Arctic / 北极
+        - Antarctic / 南极
+        - Bipolar or comparative / 两极或比较研究
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Relevance and evidence / 相关性与证据
+      description: Summarize the sampling scope, methods, principal result, and limitations without copying the abstract.
+    validations:
+      required: true
+  - type: textarea
+    id: data
+    attributes:
+      label: Data accessions or open resources / 数据登录号或开放资源
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checks / 提交确认
+      options:
+        - label: I have not pasted copyrighted full text or an abstract. / 我未粘贴受版权保护的全文或摘要。
+          required: true

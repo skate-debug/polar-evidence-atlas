@@ -1,0 +1,3793 @@
+{
+  "@context": {
+    "pkg": "https://example.org/polar-kg/",
+    "schema": "https://schema.org/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "skos": "http://www.w3.org/2004/02/skos/core#"
+  },
+  "@graph": [
+    {
+      "@id": "pole:arctic",
+      "@type": "pkg:Pole",
+      "rdfs:label": "Arctic",
+      "schema:description": "Ocean-centred northern polar region, here including the Arctic Ocean, its marginal seas, islands, terrestrial catchments, permafrost, and gateways."
+    },
+    {
+      "@id": "pole:antarctic",
+      "@type": "pkg:Pole",
+      "rdfs:label": "Antarctic",
+      "schema:description": "Continent-centred southern polar region, including Antarctica, its ice sheet and shelves, surrounding islands, and the Southern Ocean."
+    },
+    {
+      "@id": "pole:bipolar",
+      "@type": "pkg:Pole",
+      "rdfs:label": "Bipolar",
+      "schema:description": "A pattern, comparison, or distribution involving both polar regions."
+    },
+    {
+      "@id": "region:arctic-ocean",
+      "@type": "pkg:Region",
+      "rdfs:label": "Arctic Ocean",
+      "schema:description": "Small, strongly stratified ocean surrounded by continents and connected to the Pacific and Atlantic through restricted gateways.",
+      "skos:broader": {
+        "@id": "pole:arctic"
+      }
+    },
+    {
+      "@id": "region:southern-ocean",
+      "@type": "pkg:Region",
+      "rdfs:label": "Southern Ocean",
+      "schema:description": "Circumpolar ocean surrounding Antarctica and linking the Atlantic, Indian, and Pacific basins.",
+      "skos:broader": {
+        "@id": "pole:antarctic"
+      }
+    },
+    {
+      "@id": "region:central-arctic",
+      "@type": "pkg:Region",
+      "rdfs:label": "Central Arctic Ocean",
+      "schema:description": "Deep central basins and ridges of the Arctic Ocean.",
+      "skos:broader": {
+        "@id": "region:arctic-ocean"
+      }
+    },
+    {
+      "@id": "region:fram-strait",
+      "@type": "pkg:Region",
+      "rdfs:label": "Fram Strait",
+      "schema:description": "Deep Atlantic–Arctic gateway between Greenland and Svalbard.",
+      "skos:broader": {
+        "@id": "region:arctic-ocean"
+      }
+    },
+    {
+      "@id": "region:west-spitsbergen-current",
+      "@type": "pkg:WaterMass",
+      "rdfs:label": "West Spitsbergen Current",
+      "schema:description": "Northward-flowing branch carrying warm Atlantic-origin water through eastern Fram Strait.",
+      "skos:broader": {
+        "@id": "region:fram-strait"
+      }
+    },
+    {
+      "@id": "region:east-greenland-current",
+      "@type": "pkg:WaterMass",
+      "rdfs:label": "East Greenland Current",
+      "schema:description": "Southward flow exporting Arctic-origin water and sea ice along Greenland.",
+      "skos:broader": {
+        "@id": "region:fram-strait"
+      }
+    },
+    {
+      "@id": "region:canada-basin",
+      "@type": "pkg:Region",
+      "rdfs:label": "Canada Basin",
+      "schema:description": "Major Amerasia Basin component with strong freshwater stratification.",
+      "skos:broader": {
+        "@id": "region:arctic-ocean"
+      }
+    },
+    {
+      "@id": "region:eurasia-basin",
+      "@type": "pkg:Region",
+      "rdfs:label": "Eurasia Basin",
+      "schema:description": "Arctic deep basin divided into the Nansen and Amundsen basins by the Gakkel Ridge.",
+      "skos:broader": {
+        "@id": "region:arctic-ocean"
+      }
+    },
+    {
+      "@id": "region:amerasia-basin",
+      "@type": "pkg:Region",
+      "rdfs:label": "Amerasia Basin",
+      "schema:description": "Arctic basin including the Canada and Makarov basins and intervening ridges.",
+      "skos:broader": {
+        "@id": "region:arctic-ocean"
+      }
+    },
+    {
+      "@id": "region:gakkel-ridge",
+      "@type": "pkg:Region",
+      "rdfs:label": "Gakkel Ridge",
+      "schema:description": "Ultraslow-spreading mid-ocean ridge crossing the Eurasia Basin.",
+      "skos:broader": {
+        "@id": "region:eurasia-basin"
+      }
+    },
+    {
+      "@id": "region:lomonosov-ridge",
+      "@type": "pkg:Region",
+      "rdfs:label": "Lomonosov Ridge",
+      "schema:description": "Continental ridge separating the Amerasia and Eurasia basins.",
+      "skos:broader": {
+        "@id": "region:arctic-ocean"
+      }
+    },
+    {
+      "@id": "region:greenland",
+      "@type": "pkg:Region",
+      "rdfs:label": "Greenland",
+      "schema:description": "Large Arctic island bearing the Greenland Ice Sheet.",
+      "skos:broader": {
+        "@id": "pole:arctic"
+      }
+    },
+    {
+      "@id": "region:svalbard",
+      "@type": "pkg:Region",
+      "rdfs:label": "Svalbard",
+      "schema:description": "High-Arctic archipelago north of Norway.",
+      "skos:broader": {
+        "@id": "pole:arctic"
+      }
+    },
+    {
+      "@id": "region:storfjordrenna",
+      "@type": "pkg:Region",
+      "rdfs:label": "Storfjordrenna",
+      "schema:description": "Trough south of Svalbard influenced by Arctic and Atlantic water masses.",
+      "skos:broader": {
+        "@id": "region:svalbard"
+      }
+    },
+    {
+      "@id": "region:lake-a",
+      "@type": "pkg:Region",
+      "rdfs:label": "Lake A",
+      "schema:description": "Meromictic High-Arctic lake on Ellesmere Island containing anoxic, sulfidic relict seawater.",
+      "skos:broader": {
+        "@id": "pole:arctic"
+      }
+    },
+    {
+      "@id": "region:bonanza-creek",
+      "@type": "pkg:Region",
+      "rdfs:label": "Bonanza Creek LTER",
+      "schema:description": "Interior Alaska boreal–permafrost research site.",
+      "skos:broader": {
+        "@id": "pole:arctic"
+      }
+    },
+    {
+      "@id": "region:qeqertarsuaq",
+      "@type": "pkg:Region",
+      "rdfs:label": "Qeqertarsuaq, West Greenland",
+      "schema:description": "Arctic coastal waters influenced by seasonal glacial melt.",
+      "skos:broader": {
+        "@id": "region:greenland"
+      }
+    },
+    {
+      "@id": "region:siberian-shelves",
+      "@type": "pkg:Region",
+      "rdfs:label": "Siberian Arctic shelves",
+      "schema:description": "Broad shallow Kara, Laptev, East Siberian, and Chukchi shelf system with strong river, sea-ice, sediment, and Pacific-water influence.",
+      "skos:broader": {
+        "@id": "region:arctic-ocean"
+      }
+    },
+    {
+      "@id": "region:arctic-continental-slope",
+      "@type": "pkg:Region",
+      "rdfs:label": "Arctic continental slope",
+      "schema:description": "Narrow transition between broad Arctic shelves and deep central basins; an important boundary-current and nutrient-transport corridor.",
+      "skos:broader": {
+        "@id": "region:arctic-ocean"
+      }
+    },
+    {
+      "@id": "region:antarctica",
+      "@type": "pkg:Region",
+      "rdfs:label": "Antarctica",
+      "schema:description": "Ice-covered southern continent divided broadly into East and West Antarctica by the Transantarctic Mountains.",
+      "skos:broader": {
+        "@id": "pole:antarctic"
+      }
+    },
+    {
+      "@id": "region:east-antarctica",
+      "@type": "pkg:Region",
+      "rdfs:label": "East Antarctica",
+      "schema:description": "Predominantly high, old continental-crust sector of Antarctica.",
+      "skos:broader": {
+        "@id": "region:antarctica"
+      }
+    },
+    {
+      "@id": "region:west-antarctica",
+      "@type": "pkg:Region",
+      "rdfs:label": "West Antarctica",
+      "schema:description": "Lower-elevation, tectonically complex sector containing marine-based ice-sheet basins.",
+      "skos:broader": {
+        "@id": "region:antarctica"
+      }
+    },
+    {
+      "@id": "region:antarctic-peninsula",
+      "@type": "pkg:Region",
+      "rdfs:label": "Antarctic Peninsula",
+      "schema:description": "Maritime Antarctic mountain chain extending toward South America.",
+      "skos:broader": {
+        "@id": "region:antarctica"
+      }
+    },
+    {
+      "@id": "region:ross-ice-shelf",
+      "@type": "pkg:Region",
+      "rdfs:label": "Ross Ice Shelf",
+      "schema:description": "Large floating ice shelf fringing the Ross Sea.",
+      "skos:broader": {
+        "@id": "region:west-antarctica"
+      }
+    },
+    {
+      "@id": "region:mercer-subglacial-lake",
+      "@type": "pkg:Region",
+      "rdfs:label": "Mercer Subglacial Lake",
+      "schema:description": "Hydrologically active lake beneath the West Antarctic Ice Sheet.",
+      "skos:broader": {
+        "@id": "region:west-antarctica"
+      }
+    },
+    {
+      "@id": "region:marguerite-bay",
+      "@type": "pkg:Region",
+      "rdfs:label": "Marguerite Bay",
+      "schema:description": "West Antarctic Peninsula shelf embayment containing the Rothera Time-Series site.",
+      "skos:broader": {
+        "@id": "region:antarctic-peninsula"
+      }
+    },
+    {
+      "@id": "region:rothera-time-series",
+      "@type": "pkg:Region",
+      "rdfs:label": "Rothera Time-Series",
+      "schema:description": "Long-term coastal ocean site in Ryder Bay/Marguerite Bay at 67.572°S, 68.231°W.",
+      "skos:broader": {
+        "@id": "region:marguerite-bay"
+      }
+    },
+    {
+      "@id": "region:king-george-island",
+      "@type": "pkg:Region",
+      "rdfs:label": "King George Island",
+      "schema:description": "South Shetland Island with research stations and terrestrial contamination gradients.",
+      "skos:broader": {
+        "@id": "region:antarctic-peninsula"
+      }
+    },
+    {
+      "@id": "region:deception-island",
+      "@type": "pkg:Region",
+      "rdfs:label": "Deception Island",
+      "schema:description": "Active volcanic caldera island with geothermal habitats.",
+      "skos:broader": {
+        "@id": "region:antarctic-peninsula"
+      }
+    },
+    {
+      "@id": "region:livingston-island",
+      "@type": "pkg:Region",
+      "rdfs:label": "Livingston Island",
+      "schema:description": "South Shetland Island with maritime Antarctic soils and glaciers.",
+      "skos:broader": {
+        "@id": "region:antarctic-peninsula"
+      }
+    },
+    {
+      "@id": "region:maxwell-bay",
+      "@type": "pkg:Region",
+      "rdfs:label": "Maxwell Bay",
+      "schema:description": "Glacial-melt-influenced coastal bay at King George Island.",
+      "skos:broader": {
+        "@id": "region:king-george-island"
+      }
+    },
+    {
+      "@id": "region:dome-fuji",
+      "@type": "pkg:Region",
+      "rdfs:label": "Dome Fuji",
+      "schema:description": "High East Antarctic plateau region surveyed for subglacial geology and oldest ice targets.",
+      "skos:broader": {
+        "@id": "region:east-antarctica"
+      }
+    },
+    {
+      "@id": "region:mertz-polynya",
+      "@type": "pkg:Region",
+      "rdfs:label": "Mertz Polynya",
+      "schema:description": "East Antarctic coastal polynya and site of dense-water formation and intense seasonal production.",
+      "skos:broader": {
+        "@id": "region:southern-ocean"
+      }
+    },
+    {
+      "@id": "region:western-antarctic-peninsula",
+      "@type": "pkg:Region",
+      "rdfs:label": "Western Antarctic Peninsula",
+      "schema:description": "Rapidly changing coastal and shelf ecosystem west of the Antarctic Peninsula.",
+      "skos:broader": {
+        "@id": "region:antarctic-peninsula"
+      }
+    },
+    {
+      "@id": "region:south-georgia",
+      "@type": "pkg:Region",
+      "rdfs:label": "South Georgia",
+      "schema:description": "Subantarctic island and productive shelf ecosystem downstream of the Antarctic Circumpolar Current.",
+      "skos:broader": {
+        "@id": "region:southern-ocean"
+      }
+    },
+    {
+      "@id": "habitat:marine-water-column",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Marine water column",
+      "schema:description": "Pelagic seawater from surface to deep ocean."
+    },
+    {
+      "@id": "habitat:surface-ocean",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Surface ocean",
+      "schema:description": "Sunlit or near-surface marine waters."
+    },
+    {
+      "@id": "habitat:deep-ocean",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Deep ocean",
+      "schema:description": "Mesopelagic, bathypelagic, and abyssal waters."
+    },
+    {
+      "@id": "habitat:ice-shelf-cavity",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Ice-shelf cavity",
+      "schema:description": "Dark marine water and sediment beneath a floating ice shelf."
+    },
+    {
+      "@id": "habitat:sea-ice",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Sea ice",
+      "schema:description": "Solid ice, brine channels, and associated biological interfaces."
+    },
+    {
+      "@id": "habitat:melt-pond",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Melt pond",
+      "schema:description": "Seasonal water body on sea ice."
+    },
+    {
+      "@id": "habitat:surface-microlayer",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Sea-surface microlayer",
+      "schema:description": "Submillimetre air–water interface."
+    },
+    {
+      "@id": "habitat:polar-soil",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Polar soil",
+      "schema:description": "Cold, often oligotrophic terrestrial mineral or organic soil."
+    },
+    {
+      "@id": "habitat:contaminated-soil",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Hydrocarbon-contaminated soil",
+      "schema:description": "Soil affected by petroleum hydrocarbons and associated nutrient imbalance."
+    },
+    {
+      "@id": "habitat:permafrost",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Permafrost",
+      "schema:description": "Ground remaining frozen for at least two consecutive years."
+    },
+    {
+      "@id": "habitat:peat",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Peat soil",
+      "schema:description": "Organic-rich wetland soil storing substantial carbon."
+    },
+    {
+      "@id": "habitat:subglacial-lake",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Subglacial lake",
+      "schema:description": "Liquid-water ecosystem beneath an ice sheet."
+    },
+    {
+      "@id": "habitat:glacier-foreland",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Glacier foreland",
+      "schema:description": "Recently deglaciated terrain forming a primary-succession chronosequence."
+    },
+    {
+      "@id": "habitat:geothermal-soil",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Antarctic geothermal habitat",
+      "schema:description": "Volcanically warmed soil or sediment within Antarctica."
+    },
+    {
+      "@id": "habitat:lake",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Polar lake",
+      "schema:description": "Fresh, brackish, or meromictic inland water body."
+    },
+    {
+      "@id": "habitat:sponge-holobiont",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Sponge holobiont",
+      "schema:description": "Sponge host plus associated bacteria, archaea, and microbial eukaryotes."
+    },
+    {
+      "@id": "habitat:benthos",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Marine benthos",
+      "schema:description": "Seafloor and organisms living on or in it."
+    },
+    {
+      "@id": "habitat:coastal-polynya",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Coastal polynya",
+      "schema:description": "Persistent or recurrent open-water area within coastal sea ice."
+    },
+    {
+      "@id": "habitat:plastisphere",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Marine plastisphere",
+      "schema:description": "Biofilm community colonizing plastic debris."
+    },
+    {
+      "@id": "habitat:ice-cap-surface",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Ice-cap surface",
+      "schema:description": "Supraglacial snow and ice exposed to light."
+    },
+    {
+      "@id": "habitat:marine-sediment",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Marine sediment",
+      "schema:description": "Deposited seafloor material and porewater habitat."
+    },
+    {
+      "@id": "realm:viruses",
+      "@type": "pkg:Realm",
+      "rdfs:label": "Viruses",
+      "schema:description": "DNA and RNA viruses, including bacteriophages, archaeal viruses, and eukaryotic viruses."
+    },
+    {
+      "@id": "realm:bacteria",
+      "@type": "pkg:Realm",
+      "rdfs:label": "Bacteria",
+      "schema:description": "Domain Bacteria."
+    },
+    {
+      "@id": "realm:archaea",
+      "@type": "pkg:Realm",
+      "rdfs:label": "Archaea",
+      "schema:description": "Domain Archaea."
+    },
+    {
+      "@id": "realm:eukaryota",
+      "@type": "pkg:Realm",
+      "rdfs:label": "Eukaryota",
+      "schema:description": "Microbial and macroscopic eukaryotes."
+    },
+    {
+      "@id": "taxon:caudoviricetes",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Caudoviricetes",
+      "schema:description": "Class containing tailed double-stranded DNA bacteriophages."
+    },
+    {
+      "@id": "taxon:nucleocytoviricota",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Nucleocytoviricota",
+      "schema:description": "Phylum of large and giant double-stranded DNA viruses infecting eukaryotes."
+    },
+    {
+      "@id": "taxon:mirusviricota",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Mirusviricota",
+      "schema:description": "Eukaryote-associated large DNA viruses with evolutionary links to herpesviruses and giant viruses."
+    },
+    {
+      "@id": "taxon:crassvirales",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Crassvirales",
+      "schema:description": "Order of tailed bacteriophages."
+    },
+    {
+      "@id": "taxon:polinton-like-viruses",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Polinton-like viruses",
+      "schema:description": "Large eukaryotic DNA viruses related to polintons and virophages."
+    },
+    {
+      "@id": "taxon:virophages",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Virophages",
+      "schema:description": "Viruses that parasitize the replication systems of giant viruses."
+    },
+    {
+      "@id": "taxon:pithoviridae",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Pithoviridae-like giant viruses",
+      "schema:description": "Large DNA viruses found in permafrost and other environments."
+    },
+    {
+      "@id": "taxon:marseilleviridae",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Marseilleviridae",
+      "schema:description": "Family of giant viruses infecting eukaryotes."
+    },
+    {
+      "@id": "taxon:flavobacteriaceae",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Flavobacteriaceae",
+      "schema:description": "Bacterial family commonly associated with marine organic-matter degradation and blooms."
+    },
+    {
+      "@id": "taxon:pelagibacteraceae",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Pelagibacteraceae",
+      "schema:description": "Abundant marine alphaproteobacterial family including SAR11 lineages."
+    },
+    {
+      "@id": "taxon:nitrosopumilaceae",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Nitrosopumilaceae",
+      "schema:description": "Ammonia-oxidizing archaeal family."
+    },
+    {
+      "@id": "taxon:nitrosopumilus",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Candidatus Nitrosopumilus",
+      "schema:description": "Marine ammonia-oxidizing archaeal genus."
+    },
+    {
+      "@id": "taxon:thioglobus",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Thioglobus",
+      "schema:description": "Sulfur-oxidizing bacterial genus."
+    },
+    {
+      "@id": "taxon:patescibacteria",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Patescibacteria",
+      "schema:description": "Radiation of bacteria with generally small cells and reduced genomes."
+    },
+    {
+      "@id": "taxon:nitrospira",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Comammox Nitrospira clade B",
+      "schema:description": "Bacteria capable of complete ammonia oxidation in a single organism."
+    },
+    {
+      "@id": "taxon:tariuqbacteria",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Candidatus Tariuqbacteria",
+      "schema:description": "Proposed bacterial class from anoxic, sulfidic relict seawater in High-Arctic Lake A."
+    },
+    {
+      "@id": "taxon:amylibacter",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Amylibacter",
+      "schema:description": "Marine alphaproteobacterial genus associated with late-summer Arctic microbiomes."
+    },
+    {
+      "@id": "taxon:pelagibacter",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Pelagibacter",
+      "schema:description": "Ubiquitous marine SAR11 bacterium with polar genomic adaptations."
+    },
+    {
+      "@id": "taxon:diazotrophs",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Diazotrophs",
+      "schema:description": "Organisms capable of biological dinitrogen fixation."
+    },
+    {
+      "@id": "taxon:ucyn-a",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "UCYN-A",
+      "schema:description": "Symbiotic unicellular cyanobacterial diazotroph, Candidatus Atelocyanobacterium thalassa."
+    },
+    {
+      "@id": "taxon:diatoms",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Diatoms",
+      "schema:description": "Silica-walled photosynthetic stramenopiles important to polar production and carbon export."
+    },
+    {
+      "@id": "taxon:haptophytes",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Haptophytes",
+      "schema:description": "Photosynthetic or mixotrophic eukaryotic plankton including Phaeocystis lineages."
+    },
+    {
+      "@id": "taxon:cryptophytes",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Cryptophytes",
+      "schema:description": "Small flagellated algae often favored in fresher, stratified Antarctic coastal waters."
+    },
+    {
+      "@id": "taxon:syndiniales",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Syndiniales",
+      "schema:description": "Diverse parasitic dinoflagellates prominent in marine microeukaryotic communities."
+    },
+    {
+      "@id": "taxon:cercozoa",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Cercozoa",
+      "schema:description": "Diverse protists including heterotrophic and parasitic lineages."
+    },
+    {
+      "@id": "taxon:mast",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Marine stramenopiles (MAST)",
+      "schema:description": "Mostly heterotrophic marine stramenopile lineages."
+    },
+    {
+      "@id": "taxon:antarctic-benthos",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Antarctic benthic assemblages",
+      "schema:description": "Diverse and often endemic seafloor fauna and associated communities."
+    },
+    {
+      "@id": "taxon:snow-algae",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Antarctic snow and ice algae",
+      "schema:description": "Photosynthetic eukaryotes forming visible blooms on snow and ice."
+    },
+    {
+      "@id": "taxon:sponge-microbiome",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Antarctic sponge microbiome",
+      "schema:description": "Host-associated bacterial, archaeal, and eukaryotic consortia."
+    },
+    {
+      "@id": "process:viral-lysis",
+      "@type": "pkg:Process",
+      "rdfs:label": "Viral lysis",
+      "schema:description": "Virus-mediated rupture and mortality of host cells."
+    },
+    {
+      "@id": "process:lysogeny",
+      "@type": "pkg:Process",
+      "rdfs:label": "Lysogeny",
+      "schema:description": "Integration or stable maintenance of a viral genome in a host lineage."
+    },
+    {
+      "@id": "process:viral-shunt",
+      "@type": "pkg:Process",
+      "rdfs:label": "Viral shunt",
+      "schema:description": "Release of cellular material to dissolved and particulate pools through viral infection and lysis."
+    },
+    {
+      "@id": "process:cold-adaptation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Cold adaptation",
+      "schema:description": "Genomic, biochemical, or physiological adjustment to low temperature."
+    },
+    {
+      "@id": "process:carbon-fixation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Carbon fixation",
+      "schema:description": "Biological conversion of inorganic carbon to organic matter."
+    },
+    {
+      "@id": "process:carbon-export",
+      "@type": "pkg:Process",
+      "rdfs:label": "Biological carbon export",
+      "schema:description": "Transfer of biologically produced carbon from surface waters to ocean interior or sediments."
+    },
+    {
+      "@id": "process:biological-carbon-pump",
+      "@type": "pkg:Process",
+      "rdfs:label": "Biological carbon pump",
+      "schema:description": "Biological production, transformation, and downward transport that stores carbon in the ocean."
+    },
+    {
+      "@id": "process:nitrogen-fixation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Nitrogen fixation",
+      "schema:description": "Conversion of dinitrogen gas to biologically available nitrogen."
+    },
+    {
+      "@id": "process:nitrification",
+      "@type": "pkg:Process",
+      "rdfs:label": "Nitrification",
+      "schema:description": "Oxidation of ammonia to nitrite and nitrate."
+    },
+    {
+      "@id": "process:denitrification",
+      "@type": "pkg:Process",
+      "rdfs:label": "Denitrification",
+      "schema:description": "Reduction of nitrate/nitrite toward gaseous nitrogen products."
+    },
+    {
+      "@id": "process:sulfur-oxidation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Sulfur oxidation",
+      "schema:description": "Oxidation of reduced sulfur compounds for energy or detoxification."
+    },
+    {
+      "@id": "process:sulfur-reduction",
+      "@type": "pkg:Process",
+      "rdfs:label": "Sulfur and sulfate reduction",
+      "schema:description": "Anaerobic reduction of sulfur species."
+    },
+    {
+      "@id": "process:trace-gas-oxidation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Atmospheric trace-gas oxidation",
+      "schema:description": "Microbial use of gases such as hydrogen or carbon monoxide at low concentration."
+    },
+    {
+      "@id": "process:primary-succession",
+      "@type": "pkg:Process",
+      "rdfs:label": "Primary succession",
+      "schema:description": "Community establishment on newly exposed substrate."
+    },
+    {
+      "@id": "process:microbial-seasonality",
+      "@type": "pkg:Process",
+      "rdfs:label": "Microbial seasonal succession",
+      "schema:description": "Recurring taxonomic or functional community change through an annual cycle."
+    },
+    {
+      "@id": "process:atlantification",
+      "@type": "pkg:Process",
+      "rdfs:label": "Atlantification",
+      "schema:description": "Increasing Atlantic-water influence and associated physical, chemical, and biological change in the Arctic."
+    },
+    {
+      "@id": "process:overturning-circulation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Overturning circulation",
+      "schema:description": "Large-scale density-driven exchange among surface, intermediate, deep, and abyssal waters."
+    },
+    {
+      "@id": "process:dense-water-formation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Dense-water formation",
+      "schema:description": "Production and sinking of cold, saline water, often aided by sea-ice brine rejection."
+    },
+    {
+      "@id": "process:upwelling",
+      "@type": "pkg:Process",
+      "rdfs:label": "Upwelling",
+      "schema:description": "Vertical movement of deeper water and its dissolved constituents toward the surface."
+    },
+    {
+      "@id": "process:riverine-supply",
+      "@type": "pkg:Process",
+      "rdfs:label": "Riverine nutrient and carbon supply",
+      "schema:description": "Transport of dissolved and particulate material from land to the Arctic Ocean."
+    },
+    {
+      "@id": "process:coastal-erosion-supply",
+      "@type": "pkg:Process",
+      "rdfs:label": "Coastal-erosion supply",
+      "schema:description": "Release of carbon, nutrients, and sediment through erosion of Arctic coasts."
+    },
+    {
+      "@id": "process:chemical-weathering",
+      "@type": "pkg:Process",
+      "rdfs:label": "Chemical weathering",
+      "schema:description": "Rock and mineral dissolution and alteration that releases solutes."
+    },
+    {
+      "@id": "process:phytoplankton-community-shift",
+      "@type": "pkg:Process",
+      "rdfs:label": "Phytoplankton community reorganization",
+      "schema:description": "Change in the relative contribution of phytoplankton groups."
+    },
+    {
+      "@id": "process:antiviral-defense",
+      "@type": "pkg:Process",
+      "rdfs:label": "Prokaryotic antiviral defense",
+      "schema:description": "CRISPR–Cas and other mechanisms that recognize, restrict, or retain molecular memory of mobile genetic elements."
+    },
+    {
+      "@id": "process:subglacial-drainage",
+      "@type": "pkg:Process",
+      "rdfs:label": "Subglacial drainage",
+      "schema:description": "Filling, connection, and drainage of water bodies beneath an ice sheet."
+    },
+    {
+      "@id": "process:surface-melt",
+      "@type": "pkg:Process",
+      "rdfs:label": "Snow and ice surface melt",
+      "schema:description": "Production of liquid water by surface energy absorption and melting."
+    },
+    {
+      "@id": "process:hydrothermal-circulation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Hydrothermal circulation",
+      "schema:description": "Seawater circulation through geothermally heated ocean crust and return of heat and reaction products to the ocean."
+    },
+    {
+      "@id": "process:seafloor-spreading",
+      "@type": "pkg:Process",
+      "rdfs:label": "Seafloor spreading",
+      "schema:description": "Creation and extension of oceanic crust at a divergent plate boundary."
+    },
+    {
+      "@id": "process:tectonic-assembly",
+      "@type": "pkg:Process",
+      "rdfs:label": "Crustal and supercontinent assembly",
+      "schema:description": "Accretion, collision, rifting, and reworking that construct continental and ocean-basin architecture."
+    },
+    {
+      "@id": "driver:sea-ice-cover",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Sea-ice cover",
+      "schema:description": "Extent, concentration, thickness, duration, and seasonality of sea ice."
+    },
+    {
+      "@id": "driver:temperature",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Temperature",
+      "schema:description": "Thermal state of air, ice, soil, sediment, or water."
+    },
+    {
+      "@id": "driver:salinity",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Salinity",
+      "schema:description": "Dissolved salt concentration and its contribution to density structure."
+    },
+    {
+      "@id": "driver:light",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Light availability and spectrum",
+      "schema:description": "Amount and spectral quality of photosynthetically available radiation."
+    },
+    {
+      "@id": "driver:freshwater",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Freshwater input",
+      "schema:description": "River, precipitation, sea-ice, iceberg, and glacial meltwater input."
+    },
+    {
+      "@id": "driver:glacial-retreat",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Glacial retreat",
+      "schema:description": "Loss and landward retreat of glacier or ice-sheet margins."
+    },
+    {
+      "@id": "driver:atlantic-water",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Atlantic Water inflow",
+      "schema:description": "Advection of relatively warm, saline Atlantic-origin water into the Arctic."
+    },
+    {
+      "@id": "driver:hydrocarbon-contamination",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Hydrocarbon contamination",
+      "schema:description": "Petroleum-derived environmental disturbance."
+    },
+    {
+      "@id": "driver:oxygen",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Oxygen availability",
+      "schema:description": "Oxic–anoxic gradient structuring aerobic and anaerobic metabolism."
+    },
+    {
+      "@id": "driver:ph",
+      "@type": "pkg:Driver",
+      "rdfs:label": "pH",
+      "schema:description": "Acidity/alkalinity condition shaping community composition and mineral chemistry."
+    },
+    {
+      "@id": "driver:moisture",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Moisture availability",
+      "schema:description": "Liquid-water availability in terrestrial habitats."
+    },
+    {
+      "@id": "driver:water-mass",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Water-mass identity",
+      "schema:description": "Integrated hydrographic setting characterized by temperature, salinity, oxygen, and history."
+    },
+    {
+      "@id": "driver:permafrost-thaw",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Permafrost thaw",
+      "schema:description": "Warming and loss of perennially frozen ground."
+    },
+    {
+      "@id": "driver:bathymetry",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Seafloor bathymetry",
+      "schema:description": "Depth and shape of shelves, slopes, basins, ridges, sills, and gateways that steer water and modify mixing."
+    },
+    {
+      "@id": "driver:wind",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Wind forcing",
+      "schema:description": "Atmospheric stress and heat exchange that move sea ice, open polynyas, and drive ocean circulation."
+    },
+    {
+      "@id": "driver:environmental-filtering",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Environmental filtering",
+      "schema:description": "Deterministic selection of organisms by local physical and chemical conditions."
+    },
+    {
+      "@id": "nutrient:nitrate",
+      "@type": "pkg:Nutrient",
+      "rdfs:label": "Nitrate",
+      "schema:description": "Oxidized dissolved inorganic nitrogen source."
+    },
+    {
+      "@id": "nutrient:ammonium",
+      "@type": "pkg:Nutrient",
+      "rdfs:label": "Ammonium",
+      "schema:description": "Reduced dissolved inorganic nitrogen source and nitrification substrate."
+    },
+    {
+      "@id": "nutrient:phosphate",
+      "@type": "pkg:Nutrient",
+      "rdfs:label": "Phosphate",
+      "schema:description": "Major dissolved inorganic phosphorus source."
+    },
+    {
+      "@id": "nutrient:silicate",
+      "@type": "pkg:Nutrient",
+      "rdfs:label": "Silicate",
+      "schema:description": "Dissolved silicon used by diatoms to build frustules."
+    },
+    {
+      "@id": "nutrient:iron",
+      "@type": "pkg:Nutrient",
+      "rdfs:label": "Iron",
+      "schema:description": "Trace metal that limits or co-limits much Southern Ocean phytoplankton growth."
+    },
+    {
+      "@id": "nutrient:manganese",
+      "@type": "pkg:Nutrient",
+      "rdfs:label": "Manganese",
+      "schema:description": "Trace metal that can co-limit Southern Ocean phytoplankton growth and nutrient drawdown."
+    },
+    {
+      "@id": "nutrient:organic-carbon",
+      "@type": "pkg:Nutrient",
+      "rdfs:label": "Organic carbon",
+      "schema:description": "Dissolved or particulate reduced carbon serving as substrate and carbon-cycle pool."
+    },
+    {
+      "@id": "nutrient:dissolved-inorganic-nitrogen",
+      "@type": "pkg:Nutrient",
+      "rdfs:label": "Dissolved inorganic nitrogen",
+      "schema:description": "Combined nitrate, nitrite, and ammonium available for transport and biological use."
+    },
+    {
+      "@id": "nutrient:sulfate",
+      "@type": "pkg:Nutrient",
+      "rdfs:label": "Sulfate",
+      "schema:description": "Oxidized sulfur anion produced by sulfide weathering and used as an anaerobic electron acceptor."
+    },
+    {
+      "@id": "water:atlantic-water",
+      "@type": "pkg:WaterMass",
+      "rdfs:label": "Atlantic Water",
+      "schema:description": "Relatively warm, saline water entering the Arctic through Fram Strait and the Barents Sea."
+    },
+    {
+      "@id": "water:pacific-water",
+      "@type": "pkg:WaterMass",
+      "rdfs:label": "Pacific Water",
+      "schema:description": "Water entering the Arctic through Bering Strait, carrying heat and nutrients."
+    },
+    {
+      "@id": "water:arctic-halocline",
+      "@type": "pkg:WaterMass",
+      "rdfs:label": "Arctic halocline",
+      "schema:description": "Strong salinity stratification that separates fresh surface water from warmer Atlantic-origin water."
+    },
+    {
+      "@id": "water:antarctic-circumpolar-current",
+      "@type": "pkg:WaterMass",
+      "rdfs:label": "Antarctic Circumpolar Current",
+      "schema:description": "Strong eastward circumpolar current connecting the major ocean basins."
+    },
+    {
+      "@id": "water:circumpolar-deep-water",
+      "@type": "pkg:WaterMass",
+      "rdfs:label": "Circumpolar Deep Water",
+      "schema:description": "Relatively warm, nutrient- and carbon-rich Southern Ocean deep water that upwells and can access continental shelves."
+    },
+    {
+      "@id": "water:antarctic-bottom-water",
+      "@type": "pkg:WaterMass",
+      "rdfs:label": "Antarctic Bottom Water",
+      "schema:description": "Dense abyssal water formed from Antarctic shelf waters and exported to the global ocean."
+    },
+    {
+      "@id": "water:antarctic-surface-water",
+      "@type": "pkg:WaterMass",
+      "rdfs:label": "Antarctic Surface Water",
+      "schema:description": "Cold upper-ocean water north of the continent and south of the polar front."
+    },
+    {
+      "@id": "water:dense-shelf-water",
+      "@type": "pkg:WaterMass",
+      "rdfs:label": "Antarctic Dense Shelf Water",
+      "schema:description": "Cold saline shelf water produced partly through sea-ice formation and brine rejection; a precursor to Antarctic Bottom Water."
+    },
+    {
+      "@id": "method:shotgun-metagenomics",
+      "@type": "pkg:Method",
+      "rdfs:label": "Shotgun metagenomics",
+      "schema:description": "Untargeted sequencing of community DNA."
+    },
+    {
+      "@id": "method:viral-metagenomics",
+      "@type": "pkg:Method",
+      "rdfs:label": "Viral metagenomics",
+      "schema:description": "Metagenomics enriched for viral particles or sequences."
+    },
+    {
+      "@id": "method:metatranscriptomics",
+      "@type": "pkg:Method",
+      "rdfs:label": "Metatranscriptomics",
+      "schema:description": "Community RNA sequencing used to assess expressed genes and active populations."
+    },
+    {
+      "@id": "method:long-read-metagenomics",
+      "@type": "pkg:Method",
+      "rdfs:label": "Long-read metagenomics",
+      "schema:description": "PacBio or nanopore sequencing enabling long genomic assemblies."
+    },
+    {
+      "@id": "method:amplicon-sequencing",
+      "@type": "pkg:Method",
+      "rdfs:label": "16S/18S amplicon sequencing",
+      "schema:description": "Marker-gene sequencing for community composition."
+    },
+    {
+      "@id": "method:single-cell-genomics",
+      "@type": "pkg:Method",
+      "rdfs:label": "Single-cell genomics",
+      "schema:description": "Genome amplification and sequencing from individual cells."
+    },
+    {
+      "@id": "method:hi-c",
+      "@type": "pkg:Method",
+      "rdfs:label": "Hi-C metagenomics",
+      "schema:description": "Chromosome-conformation capture used to link DNA fragments and mobile elements to genomes."
+    },
+    {
+      "@id": "method:stable-isotope-probing",
+      "@type": "pkg:Method",
+      "rdfs:label": "Stable-isotope probing",
+      "schema:description": "Tracing substrate assimilation using isotopically labeled material."
+    },
+    {
+      "@id": "method:flow-cytometry",
+      "@type": "pkg:Method",
+      "rdfs:label": "Flow cytometry",
+      "schema:description": "Particle or cell counting and characterization by optical signals."
+    },
+    {
+      "@id": "method:network-analysis",
+      "@type": "pkg:Method",
+      "rdfs:label": "Ecological network analysis",
+      "schema:description": "Inference of associations or candidate interactions from co-variation and graph structure."
+    },
+    {
+      "@id": "method:remote-sensing",
+      "@type": "pkg:Method",
+      "rdfs:label": "Remote sensing",
+      "schema:description": "Satellite or airborne observation of surface properties."
+    },
+    {
+      "@id": "method:ocean-biogeochemical-model",
+      "@type": "pkg:Method",
+      "rdfs:label": "Ocean biogeochemical modeling",
+      "schema:description": "Numerical simulation coupling circulation, nutrients, ecosystems, and carbon."
+    },
+    {
+      "@id": "method:review-synthesis",
+      "@type": "pkg:Method",
+      "rdfs:label": "Review synthesis",
+      "schema:description": "Structured synthesis of published observations, experiments, and models."
+    },
+    {
+      "@id": "method:airborne-geophysics",
+      "@type": "pkg:Method",
+      "rdfs:label": "Airborne geophysics",
+      "schema:description": "Magnetic, radar, gravity, or related measurements collected from aircraft."
+    },
+    {
+      "@id": "method:seda-dna",
+      "@type": "pkg:Method",
+      "rdfs:label": "Sedimentary ancient DNA metabarcoding",
+      "schema:description": "Recovery and marker-gene analysis of preserved DNA from dated sediment."
+    },
+    {
+      "@id": "method:pigment-analysis",
+      "@type": "pkg:Method",
+      "rdfs:label": "Diagnostic pigment analysis",
+      "schema:description": "HPLC pigment measurements and algorithms used to infer phytoplankton groups."
+    },
+    {
+      "@id": "method:sediment-trap",
+      "@type": "pkg:Method",
+      "rdfs:label": "Sediment trap",
+      "schema:description": "Collection of sinking particles to estimate vertical flux."
+    },
+    {
+      "@id": "method:genome-resolved-analysis",
+      "@type": "pkg:Method",
+      "rdfs:label": "Genome-resolved metagenomic analysis",
+      "schema:description": "Assembly, binning, and interpretation of metagenome-assembled genomes."
+    },
+    {
+      "@id": "region:aasiaat",
+      "@type": "pkg:Region",
+      "rdfs:label": "Aasiaat coastal region",
+      "schema:description": "Western Greenland coastal and channel system around Aasiaat used for community-engaged bathymetry and relative sea-level assessment."
+    },
+    {
+      "@id": "region:bayelva",
+      "@type": "pkg:Region",
+      "rdfs:label": "Bayelva permafrost observatory",
+      "schema:description": "High-Arctic permafrost and active-layer monitoring area near Ny-Alesund, Svalbard."
+    },
+    {
+      "@id": "region:gough-island",
+      "@type": "pkg:Region",
+      "rdfs:label": "Gough Island",
+      "schema:description": "Remote South Atlantic island used for sub-Antarctic wildlife and disease surveillance."
+    },
+    {
+      "@id": "region:prydz-bay",
+      "@type": "pkg:Region",
+      "rdfs:label": "Prydz Bay",
+      "schema:description": "East Antarctic embayment and continental-shelf region used for marine biological and physical observations."
+    },
+    {
+      "@id": "habitat:active-layer-soil",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Permafrost active-layer soil",
+      "schema:description": "Seasonally thawed soil above perennially frozen ground."
+    },
+    {
+      "@id": "habitat:benthic-microbial-mat",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Benthic microbial mat",
+      "schema:description": "Layered, surface-attached microbial community growing on lake or marine sediment."
+    },
+    {
+      "@id": "taxon:polar-bear",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Polar bear (Ursus maritimus)",
+      "schema:description": "Arctic marine mammal used in comparative and conservation genomics."
+    },
+    {
+      "@id": "taxon:brown-bear",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Brown bear (Ursus arctos)",
+      "schema:description": "Holarctic bear lineage compared with polar bears in evolutionary genomics."
+    },
+    {
+      "@id": "taxon:great-skua",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Great skua (Stercorarius skua)",
+      "schema:description": "Wide-ranging seabird implicated in movement of avian pathogens among remote islands."
+    },
+    {
+      "@id": "taxon:h5n1-clade-2344b",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "H5N1 clade 2.3.4.4b",
+      "schema:description": "Highly pathogenic avian influenza A virus lineage detected in polar and subpolar wildlife."
+    },
+    {
+      "@id": "process:southern-ocean-teleconnection",
+      "@type": "pkg:Process",
+      "rdfs:label": "Southern Ocean-to-tropics teleconnection",
+      "schema:description": "Atmospheric and coupled-ocean pathway by which Southern Ocean forcing influences tropical climate."
+    },
+    {
+      "@id": "process:transposable-element-insertion",
+      "@type": "pkg:Process",
+      "rdfs:label": "Transposable-element insertion",
+      "schema:description": "Integration of a mobile DNA sequence into a genome, potentially changing local regulation or structure."
+    },
+    {
+      "@id": "process:gene-regulation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Gene regulation",
+      "schema:description": "Control of gene expression through promoters, enhancers, untranslated regions, chromatin, and related mechanisms."
+    },
+    {
+      "@id": "process:relative-sea-level-change",
+      "@type": "pkg:Process",
+      "rdfs:label": "Relative sea-level change",
+      "schema:description": "Change in sea-surface height relative to the moving solid Earth at a particular coast."
+    },
+    {
+      "@id": "process:coastal-water-exchange",
+      "@type": "pkg:Process",
+      "rdfs:label": "Coastal water exchange",
+      "schema:description": "Movement and renewal of water, dissolved constituents, and particles through coastal channels and embayments."
+    },
+    {
+      "@id": "process:phosphorus-cycling",
+      "@type": "pkg:Process",
+      "rdfs:label": "Phosphorus cycling",
+      "schema:description": "Biological and geochemical uptake, transformation, storage, and release of phosphorus compounds."
+    },
+    {
+      "@id": "process:organic-matter-degradation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Organic-matter degradation",
+      "schema:description": "Biological breakdown and remineralization of organic substrates."
+    },
+    {
+      "@id": "process:microbial-growth",
+      "@type": "pkg:Process",
+      "rdfs:label": "Microbial growth",
+      "schema:description": "Production of new microbial biomass and DNA following resource or environmental change."
+    },
+    {
+      "@id": "process:microbial-predation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Microbial predation and epibiosis",
+      "schema:description": "Growth supported by attacking, consuming, or attaching to other microbial cells."
+    },
+    {
+      "@id": "process:seabird-migration",
+      "@type": "pkg:Process",
+      "rdfs:label": "Seabird movement among islands",
+      "schema:description": "Foraging, migration, or dispersal movements that can connect remote island populations and pathogens."
+    },
+    {
+      "@id": "driver:climate-model-mean-state",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Climate-model mean-state bias",
+      "schema:description": "Persistent simulated background-climate error that alters modeled feedbacks and teleconnections."
+    },
+    {
+      "@id": "driver:southern-annular-mode",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Southern Annular Mode",
+      "schema:description": "Leading mode of Southern Hemisphere extratropical atmospheric circulation variability."
+    },
+    {
+      "@id": "driver:glacial-isostatic-adjustment",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Glacial isostatic adjustment",
+      "schema:description": "Solid-Earth deformation and gravity change following past and ongoing ice-mass redistribution."
+    },
+    {
+      "@id": "method:coupled-climate-model",
+      "@type": "pkg:Method",
+      "rdfs:label": "Coupled climate modeling",
+      "schema:description": "Numerical experiments coupling atmosphere, ocean, sea ice, and sometimes ice sheets or land."
+    },
+    {
+      "@id": "method:whole-genome-resequencing",
+      "@type": "pkg:Method",
+      "rdfs:label": "Whole-genome resequencing",
+      "schema:description": "Genome-wide sequencing of multiple individuals against one or more reference assemblies."
+    },
+    {
+      "@id": "method:multibeam-bathymetry",
+      "@type": "pkg:Method",
+      "rdfs:label": "Multibeam bathymetric mapping",
+      "schema:description": "Ship-based acoustic mapping of seafloor depth and morphology."
+    },
+    {
+      "@id": "method:community-knowledge",
+      "@type": "pkg:Method",
+      "rdfs:label": "Community knowledge co-production",
+      "schema:description": "Research design and interpretation that formally integrates knowledge and priorities of local communities."
+    },
+    {
+      "@id": "method:multi-omics",
+      "@type": "pkg:Method",
+      "rdfs:label": "Integrated multi-omics",
+      "schema:description": "Joint analysis of genomic, transcriptomic, proteomic, metabolomic, or related molecular layers."
+    },
+    {
+      "@id": "method:quantitative-stable-isotope-probing",
+      "@type": "pkg:Method",
+      "rdfs:label": "Quantitative stable-isotope probing",
+      "schema:description": "Taxon-resolved estimation of growth or substrate incorporation from density shifts in isotope-labeled nucleic acids."
+    },
+    {
+      "@id": "method:climate-reanalysis",
+      "@type": "pkg:Method",
+      "rdfs:label": "Climate reanalysis",
+      "schema:description": "Dynamically consistent reconstruction combining observations with a numerical weather or climate model."
+    },
+    {
+      "@id": "method:phylogenetics",
+      "@type": "pkg:Method",
+      "rdfs:label": "Phylogenetic analysis",
+      "schema:description": "Reconstruction of evolutionary relationships and candidate dispersal histories from sequence data."
+    },
+    {
+      "@id": "method:animal-tracking",
+      "@type": "pkg:Method",
+      "rdfs:label": "Animal movement tracking",
+      "schema:description": "Telemetry or geolocation used to reconstruct wildlife movements and possible connectivity."
+    },
+    {
+      "@id": "method:glacial-isostatic-modeling",
+      "@type": "pkg:Method",
+      "rdfs:label": "Glacial-isostatic-adjustment modeling",
+      "schema:description": "Numerical modeling of solid-Earth deformation and gravity change caused by ice-mass history."
+    },
+    {
+      "@id": "method:viral-whole-genome-sequencing",
+      "@type": "pkg:Method",
+      "rdfs:label": "Viral whole-genome sequencing",
+      "schema:description": "Recovery and comparison of near-complete or complete viral genomes from isolates or clinical and environmental samples."
+    },
+    {
+      "@id": "method:long-read-genome-sequencing",
+      "@type": "pkg:Method",
+      "rdfs:label": "Long-read genome sequencing",
+      "schema:description": "PacBio HiFi, nanopore, or comparable long-read sequencing used to assemble an organismal reference genome."
+    },
+    {
+      "@id": "habitat:fur-seal-gut",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Antarctic fur-seal gut",
+      "schema:description": "Host-associated intestinal microbial habitat represented by Antarctic fur-seal fecal material."
+    },
+    {
+      "@id": "taxon:jonahs-icefish",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Jonah's icefish (Neopagetopsis ionah)",
+      "schema:description": "Hemoglobin-free Antarctic notothenioid fish endemic to the Southern Ocean."
+    },
+    {
+      "@id": "taxon:antarctic-fur-seal",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Antarctic fur seal (Arctocephalus gazella)",
+      "schema:description": "Antarctic and sub-Antarctic pinniped whose diet and gut microbiome connect marine and terrestrial coastal ecosystems."
+    },
+    {
+      "@id": "taxon:micromonas-polaris",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Micromonas polaris",
+      "schema:description": "Cold-adapted picophytoplankton species and host for Arctic prasinoviruses."
+    },
+    {
+      "@id": "taxon:mpov-44t-a",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Micromonas polaris virus MpoV-44T.A",
+      "schema:description": "Lytic Arctic dsDNA prasinovirus separated from the mixed MpoV-44T culture."
+    },
+    {
+      "@id": "taxon:mpov-44t-b",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Micromonas polaris virus MpoV-44T.B",
+      "schema:description": "Lytic Arctic dsDNA prasinovirus co-isolated with MpoV-44T.A and comparatively abundant in Arctic metagenomes."
+    },
+    {
+      "@id": "process:chitin-degradation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Chitin degradation",
+      "schema:description": "Enzymatic depolymerization and utilization of chitin from crustacean or other biological material."
+    },
+    {
+      "@id": "process:antimicrobial-resistance",
+      "@type": "pkg:Process",
+      "rdfs:label": "Antimicrobial resistance potential",
+      "schema:description": "Genomic capacity that may confer reduced susceptibility to antimicrobial compounds; gene detection alone does not establish phenotype."
+    },
+    {
+      "@id": "driver:nutrient-availability",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Nutrient availability",
+      "schema:description": "Concentration and form of growth-limiting or supporting nutrients in an organism's environment."
+    },
+    {
+      "@id": "region:weddell-gyre",
+      "@type": "pkg:Region",
+      "rdfs:label": "Weddell Gyre",
+      "schema:description": "Cyclonic Southern Ocean gyre and sea-ice domain spanning the Weddell Sea sector."
+    },
+    {
+      "@id": "region:ross-sea",
+      "@type": "pkg:Region",
+      "rdfs:label": "Ross Sea",
+      "schema:description": "Antarctic marginal sea containing a large marine protected area and strongly stratified shelf water masses."
+    },
+    {
+      "@id": "region:amundsen-sea",
+      "@type": "pkg:Region",
+      "rdfs:label": "Amundsen Sea",
+      "schema:description": "West Antarctic marginal sea containing productive polynyas, seasonal sea ice, and strong ice-sheet–ocean connections."
+    },
+    {
+      "@id": "region:ny-alesund",
+      "@type": "pkg:Region",
+      "rdfs:label": "Ny-Ålesund",
+      "schema:description": "High-Arctic research settlement and glacier–foreland–fjord study region in western Spitsbergen, Svalbard."
+    },
+    {
+      "@id": "region:ofotfjorden",
+      "@type": "pkg:Region",
+      "rdfs:label": "Ofotfjorden",
+      "schema:description": "Cold Norwegian fjord whose seawater was used to form experimental Arctic sea ice for oil-response studies."
+    },
+    {
+      "@id": "region:utqiagvik",
+      "@type": "pkg:Region",
+      "rdfs:label": "Utqiaġvik",
+      "schema:description": "Alaskan Arctic coastal and landfast-sea-ice study region bordering the Chukchi and Beaufort seas."
+    },
+    {
+      "@id": "habitat:bottom-sea-ice",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Bottom sea ice",
+      "schema:description": "Porous basal sea-ice layer at the ice–ocean interface where algae, microbes, organic matter, and nutrients concentrate."
+    },
+    {
+      "@id": "habitat:sea-ice-ridge",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Sea-ice pressure ridge",
+      "schema:description": "Deformed sea ice containing rubble, brine channels, block surfaces, and water-filled or refrozen voids."
+    },
+    {
+      "@id": "habitat:rotten-sea-ice",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Rotten sea ice",
+      "schema:description": "Highly porous, brine-drained sea ice in an advanced stage of summer melt."
+    },
+    {
+      "@id": "habitat:glacial-ice",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Glacial ice",
+      "schema:description": "Land-derived glacier ice and its resident or entrained microbial community."
+    },
+    {
+      "@id": "habitat:glacier-fed-freshwater",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Glacier-fed freshwater",
+      "schema:description": "Proglacial lakes and streams carrying water, solutes, particles, and microorganisms from retreating glaciers."
+    },
+    {
+      "@id": "habitat:fjord",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Fjord",
+      "schema:description": "Glacially carved coastal marine basin receiving terrestrial, glacial, and oceanic inputs."
+    },
+    {
+      "@id": "taxon:gammaproteobacteria",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Gammaproteobacteria",
+      "schema:description": "Bacterial class containing many abundant marine, sea-ice, heterotrophic, and hydrocarbon-responsive lineages."
+    },
+    {
+      "@id": "taxon:bacteroidia",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Bacteroidia",
+      "schema:description": "Bacterial class containing abundant degraders of algal and other complex organic matter in polar marine systems."
+    },
+    {
+      "@id": "taxon:ice-algae",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Sea-ice algae",
+      "schema:description": "Photosynthetic eukaryotes living within or attached to sea ice, commonly dominated by pennate diatoms."
+    },
+    {
+      "@id": "taxon:oleispira",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Oleispira",
+      "schema:description": "Cold-adapted gammaproteobacterial genus containing obligate or specialized hydrocarbon degraders."
+    },
+    {
+      "@id": "taxon:bermanella",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Bermanella",
+      "schema:description": "Marine gammaproteobacterial genus reported in cold hydrocarbon-exposed communities."
+    },
+    {
+      "@id": "taxon:pseudoalteromonas",
+      "@type": "pkg:Taxon",
+      "rdfs:label": "Pseudoalteromonas",
+      "schema:description": "Marine gammaproteobacterial genus with metabolically diverse and particle-associated representatives."
+    },
+    {
+      "@id": "process:dmsp-cycling",
+      "@type": "pkg:Process",
+      "rdfs:label": "DMSP cycling",
+      "schema:description": "Biological synthesis, demethylation, cleavage, and recycling of dimethylsulfoniopropionate and related sulfur compounds."
+    },
+    {
+      "@id": "process:ice-algal-primary-production",
+      "@type": "pkg:Process",
+      "rdfs:label": "Sea-ice algal primary production",
+      "schema:description": "Photosynthetic carbon fixation by algae living in or attached to sea ice."
+    },
+    {
+      "@id": "process:turbulent-nutrient-supply",
+      "@type": "pkg:Process",
+      "rdfs:label": "Turbulent nutrient supply",
+      "schema:description": "Transport of dissolved nutrients across an interface by turbulence and mixing."
+    },
+    {
+      "@id": "process:microbial-dispersal",
+      "@type": "pkg:Process",
+      "rdfs:label": "Microbial dispersal",
+      "schema:description": "Movement of microorganisms among connected habitats, followed by possible establishment or loss through environmental filtering."
+    },
+    {
+      "@id": "process:hydrocarbon-degradation",
+      "@type": "pkg:Process",
+      "rdfs:label": "Hydrocarbon degradation",
+      "schema:description": "Microbial transformation and consumption of petroleum-derived hydrocarbons."
+    },
+    {
+      "@id": "process:sea-ice-melt-export",
+      "@type": "pkg:Process",
+      "rdfs:label": "Sea-ice melt export",
+      "schema:description": "Release of cells, aggregates, particulate matter, and dissolved molecules from melting sea ice into seawater."
+    },
+    {
+      "@id": "process:trace-metal-cycling",
+      "@type": "pkg:Process",
+      "rdfs:label": "Trace-metal cycling",
+      "schema:description": "Inputs, biological uptake, scavenging, phase partitioning, and transport of trace metals in marine systems."
+    },
+    {
+      "@id": "driver:turbulence",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Turbulence",
+      "schema:description": "Small-scale fluid motion that enhances mixing and material exchange across ocean and ice interfaces."
+    },
+    {
+      "@id": "driver:sea-ice-structure",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Sea-ice structure",
+      "schema:description": "Ice thickness, porosity, brine connectivity, deformation, and void geometry that create microbial habitats and control exchange."
+    },
+    {
+      "@id": "driver:chemical-dispersant",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Chemical dispersant exposure",
+      "schema:description": "Exposure to surfactant formulations used to disperse crude oil, potentially restructuring microbial communities."
+    },
+    {
+      "@id": "driver:thermal-stratification",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Thermal stratification",
+      "schema:description": "Vertical density structure caused by temperature differences and associated water-mass layering."
+    },
+    {
+      "@id": "driver:trace-metal-availability",
+      "@type": "pkg:Driver",
+      "rdfs:label": "Trace-metal availability",
+      "schema:description": "Supply and chemical form of micronutrient or contaminant metals that regulate biological uptake and productivity."
+    },
+    {
+      "@id": "nutrient:dmsp",
+      "@type": "pkg:Nutrient",
+      "rdfs:label": "Dimethylsulfoniopropionate (DMSP)",
+      "schema:description": "Organosulfur osmolyte and microbial substrate that links stress physiology, sulfur recycling, and dimethyl sulfide production."
+    },
+    {
+      "@id": "method:edna-metabarcoding",
+      "@type": "pkg:Method",
+      "rdfs:label": "Environmental-DNA metabarcoding",
+      "schema:description": "Taxonomic profiling from environmental DNA using amplified genetic marker regions."
+    },
+    {
+      "@id": "method:primary-production-assay",
+      "@type": "pkg:Method",
+      "rdfs:label": "Primary-production assay",
+      "schema:description": "Tracer or incubation measurement used to estimate photosynthetic carbon fixation."
+    },
+    {
+      "@id": "method:trace-metal-analysis",
+      "@type": "pkg:Method",
+      "rdfs:label": "Trace-metal analysis",
+      "schema:description": "Measurement of dissolved and particulate metal concentrations and phase partitioning."
+    },
+    {
+      "@id": "method:iron-addition-incubation",
+      "@type": "pkg:Method",
+      "rdfs:label": "Iron-addition incubation",
+      "schema:description": "Controlled enrichment experiment used to test phytoplankton responses to added iron."
+    },
+    {
+      "@id": "method:mesocosm",
+      "@type": "pkg:Method",
+      "rdfs:label": "Mesocosm experiment",
+      "schema:description": "Controlled community-level experiment that retains multiple interacting organisms and environmental processes."
+    },
+    {
+      "@id": "method:ft-icr-ms",
+      "@type": "pkg:Method",
+      "rdfs:label": "FT-ICR mass spectrometry",
+      "schema:description": "Ultrahigh-resolution mass spectrometry used to assign molecular formulae in complex dissolved organic matter."
+    },
+    {
+      "@id": "domain:antarctic-prokaryotes",
+      "@type": "pkg:Domain",
+      "rdfs:label": "Antarctic prokaryotes",
+      "schema:description": "Curated literature area: Antarctic prokaryotes."
+    },
+    {
+      "@id": "domain:antarctic-viruses",
+      "@type": "pkg:Domain",
+      "rdfs:label": "Antarctic viruses",
+      "schema:description": "Curated literature area: Antarctic viruses."
+    },
+    {
+      "@id": "domain:arctic-prokaryotes",
+      "@type": "pkg:Domain",
+      "rdfs:label": "Arctic prokaryotes",
+      "schema:description": "Curated literature area: Arctic prokaryotes."
+    },
+    {
+      "@id": "domain:arctic-viruses",
+      "@type": "pkg:Domain",
+      "rdfs:label": "Arctic viruses",
+      "schema:description": "Curated literature area: Arctic viruses."
+    },
+    {
+      "@id": "domain:polar-earth-system",
+      "@type": "pkg:Domain",
+      "rdfs:label": "Polar Earth system",
+      "schema:description": "Curated literature area: Polar Earth system."
+    },
+    {
+      "@id": "domain:polar-eukaryotes",
+      "@type": "pkg:Domain",
+      "rdfs:label": "Polar eukaryotes",
+      "schema:description": "Curated literature area: Polar eukaryotes."
+    },
+    {
+      "@id": "src:piedade-2024-antarctic-viral-seascape",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Seasonal dynamics and diversity of Antarctic marine viruses reveal a novel viral seascape",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1038/s41467-024-53317-y",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-024-53317-y"
+    },
+    {
+      "@id": "src:lopez-simon-2023-ross-ice-shelf-viruses",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Viruses under the Antarctic Ice Shelf are active and potentially involved in global nutrient cycles",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1038/s41467-023-44028-x",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-023-44028-x"
+    },
+    {
+      "@id": "src:van-goethem-2025-antarctic-immune-systems",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Novel adaptive immune systems in pristine Antarctic soils",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41598-024-83942-y",
+      "schema:sameAs": "https://doi.org/10.1038/s41598-024-83942-y"
+    },
+    {
+      "@id": "src:pitot-2024-polar-lake-giant-viruses",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Distinct and rich assemblages of giant viruses in Arctic and Antarctic lakes",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1093/ismeco/ycae048",
+      "schema:sameAs": "https://doi.org/10.1093/ismeco/ycae048"
+    },
+    {
+      "@id": "src:frere-martiniuc-2025-king-george-virome",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Viral Diversity in Polar Hydrocarbon-Contaminated Soils: A Transect Study from King George Island, Antarctica",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1007/s12560-025-09653-3",
+      "schema:sameAs": "https://doi.org/10.1007/s12560-025-09653-3"
+    },
+    {
+      "@id": "src:calayag-2025-arctic-virus-seasonality",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Arctic Ocean virus communities and their seasonality, bipolarity, and prokaryotic associations",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41467-025-61568-6",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-025-61568-6"
+    },
+    {
+      "@id": "src:rahlff-2024-arctic-surface-microlayer",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Surface microlayer-mediated virome dissemination in the Central Arctic",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1186/s40168-024-01902-0",
+      "schema:sameAs": "https://doi.org/10.1186/s40168-024-01902-0"
+    },
+    {
+      "@id": "src:trubl-2021-arctic-peat-viruses",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Active virus-host interactions at sub-freezing temperatures in Arctic peat soil",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1186/s40168-021-01154-2",
+      "schema:sameAs": "https://doi.org/10.1186/s40168-021-01154-2"
+    },
+    {
+      "@id": "src:rigou-2022-permafrost-giant-viruses",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Past and present giant viruses diversity explored through permafrost metagenomics",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.1038/s41467-022-33633-x",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-022-33633-x"
+    },
+    {
+      "@id": "src:meng-2023-polar-giant-virus-adaptation",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Genomic adaptation of giant viruses in polar oceans",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1038/s41467-023-41910-6",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-023-41910-6"
+    },
+    {
+      "@id": "src:queiroz-2026-arctic-giant-virus-isolates",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Isolation of a Cohort of Giant Viruses From Above the Arctic Circle in Northern Norway",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1111/1462-2920.70366",
+      "schema:sameAs": "https://doi.org/10.1111/1462-2920.70366"
+    },
+    {
+      "@id": "src:kim-2025-mercer-subglacial-microbiome",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Genetic isolation and metabolic complexity of an Antarctic subglacial microbiome",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41467-025-62753-3",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-025-62753-3"
+    },
+    {
+      "@id": "src:ricci-2025-antarctic-glacier-foreland",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Metabolically flexible microorganisms rapidly establish glacial foreland ecosystems",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41467-025-66734-4",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-025-66734-4"
+    },
+    {
+      "@id": "src:han-2024-coastal-antarctic-nitrogen",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Unveiling unique microbial nitrogen cycling and nitrification driver in coastal Antarctica",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1038/s41467-024-47392-4",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-024-47392-4"
+    },
+    {
+      "@id": "src:myeong-2024-antarctic-geothermal-genomes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Genomic profiling of Antarctic geothermal microbiomes using long-read, Hi-C, and single-cell techniques",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1038/s41597-024-03875-z",
+      "schema:sameAs": "https://doi.org/10.1038/s41597-024-03875-z"
+    },
+    {
+      "@id": "src:moreno-pino-2024-antarctic-sponges",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Unveiling microbial guilds and symbiotic relationships in Antarctic sponge microbiomes",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1038/s41598-024-56480-w",
+      "schema:sameAs": "https://doi.org/10.1038/s41598-024-56480-w"
+    },
+    {
+      "@id": "src:priest-2025-arctic-microbiome-recurrence",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Seasonal recurrence and modular assembly of an Arctic pelagic marine microbiome",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41467-025-56203-3",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-025-56203-3"
+    },
+    {
+      "@id": "src:boulton-2025-mosaic-mags",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Metagenome-assembled-genomes recovered from the Arctic drift expedition MOSAiC",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41597-025-04525-8",
+      "schema:sameAs": "https://doi.org/10.1038/s41597-025-04525-8"
+    },
+    {
+      "@id": "src:priest-2023-biological-atlantification",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Atlantic water influx and sea-ice cover drive taxonomic and functional shifts in Arctic marine bacterial communities",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1038/s41396-023-01461-6",
+      "schema:sameAs": "https://doi.org/10.1038/s41396-023-01461-6"
+    },
+    {
+      "@id": "src:vigneron-2023-tariuqbacteria",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Discovery of a novel bacterial class with the capacity to drive sulfur cycling and microbiome structure in a paleo-ocean analog",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1038/s43705-023-00287-9",
+      "schema:sameAs": "https://doi.org/10.1038/s43705-023-00287-9"
+    },
+    {
+      "@id": "src:royo-llonch-2021-arctic-mag-catalogue",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Compendium of 530 metagenome-assembled bacterial and archaeal genomes from the polar Arctic Ocean",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1038/s41564-021-00979-9",
+      "schema:sameAs": "https://doi.org/10.1038/s41564-021-00979-9"
+    },
+    {
+      "@id": "src:faure-2026-southern-ocean-water-mass-genes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Water mass specific genes dominate the Southern Ocean microbiome",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1038/s41467-026-69584-w",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-026-69584-w"
+    },
+    {
+      "@id": "src:medeiros-2026-antarctic-soil-mags",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Antarctic soil prokaryotic diversity: a dataset of 319 metagenome-assembled genomes from Deception and Livingston Islands",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1128/mra.01346-25",
+      "schema:sameAs": "https://doi.org/10.1128/mra.01346-25"
+    },
+    {
+      "@id": "src:zeng-2026-maxwell-bay-succession",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Temporal succession and assembly of marine bacterial communities in Maxwell Bay, Antarctica during summer",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3389/fmicb.2026.1748960",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2026.1748960"
+    },
+    {
+      "@id": "src:schlangen-2026-greenland-nitrogen-fixation",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Nitrogen fixation in Arctic coastal waters (Qeqertarsuaq, West Greenland): influence of glacial melt on diazotrophs, nutrient availability, and seasonal blooms",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.5194/bg-23-1-2026",
+      "schema:sameAs": "https://doi.org/10.5194/bg-23-1-2026"
+    },
+    {
+      "@id": "src:hayward-2025-antarctic-phytoplankton",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Antarctic phytoplankton communities restructure under shifting sea-ice regimes",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41558-025-02379-x",
+      "schema:sameAs": "https://doi.org/10.1038/s41558-025-02379-x"
+    },
+    {
+      "@id": "src:adroli-2026-southern-ocean-regime-shift",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Southern Ocean regime shift: divergent trends in surface phytoplankton community composition using a diagnostic pigment framework",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1038/s41467-026-75303-2",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-026-75303-2"
+    },
+    {
+      "@id": "src:oldenburg-2024-fram-strait-winter-reset",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Beyond blooms: the winter ecosystem reset determines microeukaryotic community dynamics in the Fram Strait",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1038/s43247-024-01782-0",
+      "schema:sameAs": "https://doi.org/10.1038/s43247-024-01782-0"
+    },
+    {
+      "@id": "src:griffiths-2024-antarctic-benthos",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Antarctic benthic ecological change",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1038/s43017-024-00583-5",
+      "schema:sameAs": "https://doi.org/10.1038/s43017-024-00583-5"
+    },
+    {
+      "@id": "src:horstmann-2024-arctic-fjord-picoplankton",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Biogeographic gradients of picoplankton diversity indicate increasing dominance of prokaryotes in warmer Arctic fjords",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1038/s42003-024-05946-8",
+      "schema:sameAs": "https://doi.org/10.1038/s42003-024-05946-8"
+    },
+    {
+      "@id": "src:thomson-2025-antarctic-ice-cap-algae",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Surface darkening by abundant and diverse algae on an Antarctic ice cap",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41467-025-57725-6",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-025-57725-6"
+    },
+    {
+      "@id": "src:lacerda-2025-antarctic-plastisphere",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Oceanic regions shape the composition of the Antarctic plastisphere",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s43247-025-02445-4",
+      "schema:sameAs": "https://doi.org/10.1038/s43247-025-02445-4"
+    },
+    {
+      "@id": "src:isla-2025-wap-particle-flux",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Intense autumnal coastal biogenic particle settling fluxes align with phytoplankton phenology changes off the western Antarctic Peninsula",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41598-025-92914-9",
+      "schema:sameAs": "https://doi.org/10.1038/s41598-025-92914-9"
+    },
+    {
+      "@id": "src:nethupul-2026-svalbard-eukaryote-sedadna",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Marine eukaryote community responses to the climate and oceanographic changes in Storfjordrenna (southern Svalbard) over the past ~13.3 kyr BP: insights from sedimentary ancient DNA analysis",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.5194/bg-23-2525-2026",
+      "schema:sameAs": "https://doi.org/10.5194/bg-23-2525-2026"
+    },
+    {
+      "@id": "src:gaina-2025-arctic-bathymetry",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Arctic Ocean bathymetry and its connections to tectonics, oceanography and climate",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s43017-025-00647-0",
+      "schema:sameAs": "https://doi.org/10.1038/s43017-025-00647-0"
+    },
+    {
+      "@id": "src:rintoul-2025-antarctic-bottom-water",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Antarctic Bottom Water in a changing climate",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s43017-025-00750-2",
+      "schema:sameAs": "https://doi.org/10.1038/s43017-025-00750-2"
+    },
+    {
+      "@id": "src:golledge-2025-antarctic-polynyas",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Antarctic coastal polynyas in the global climate system",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s43017-024-00634-x",
+      "schema:sameAs": "https://doi.org/10.1038/s43017-024-00634-x"
+    },
+    {
+      "@id": "src:boyd-2024-southern-ocean-biota-carbon",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The role of biota in the Southern Ocean carbon cycle",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1038/s43017-024-00531-3",
+      "schema:sameAs": "https://doi.org/10.1038/s43017-024-00531-3"
+    },
+    {
+      "@id": "src:oziel-2025-arctic-carbon-pump",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Climate change and terrigenous inputs decrease the efficiency of the future Arctic Ocean’s biological carbon pump",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41558-024-02233-6",
+      "schema:sameAs": "https://doi.org/10.1038/s41558-024-02233-6"
+    },
+    {
+      "@id": "src:santos-garcia-2026-arctic-sea-ice-nitrogen",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Sea ice loss drives a regime shift in Arctic Ocean nitrogen biogeochemistry",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1038/s43247-026-03569-x",
+      "schema:sameAs": "https://doi.org/10.1038/s43247-026-03569-x"
+    },
+    {
+      "@id": "src:zhou-2024-antarctic-subglacial-hydrology",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The Antarctic Subglacial Hydrological Environment and International Drilling Projects: A Review",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.3390/w16081111",
+      "schema:sameAs": "https://doi.org/10.3390/w16081111"
+    },
+    {
+      "@id": "src:guy-2024-dome-fuji-tectonics",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Tectonic structures of the Dome Fuji region, East Antarctica, based on new magnetic data",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1038/s41598-024-69471-8",
+      "schema:sameAs": "https://doi.org/10.1038/s41598-024-69471-8"
+    },
+    {
+      "@id": "src:nikishin-2025-amerasia-tectonics",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Tectonic evolution of the Amerasia Basin, Arctic Ocean",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.gr.2025.06.005",
+      "schema:sameAs": "https://doi.org/10.1016/j.gr.2025.06.005"
+    },
+    {
+      "@id": "src:hokada-2024-east-antarctica-geochemistry",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Recent advances in mineralogy, petrology, geochemistry, and geochronology in East Antarctica",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.2465/jmps.231105",
+      "schema:sameAs": "https://doi.org/10.2465/jmps.231105"
+    },
+    {
+      "@id": "src:oziel-2022-arctic-slope-nutrients",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The Pan‐Arctic Continental Slope as an Intensifying Conveyer Belt for Nutrients in the Central Arctic Ocean (1985–2015)",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.1029/2021GB007268",
+      "schema:sameAs": "https://doi.org/10.1029/2021GB007268"
+    },
+    {
+      "@id": "src:terhaar-2021-terrestrial-arctic-npp",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Around one third of current Arctic Ocean primary production sustained by rivers and coastal erosion",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1038/s41467-020-20470-z",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-020-20470-z"
+    },
+    {
+      "@id": "src:browning-2021-southern-ocean-manganese",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Manganese co-limitation of phytoplankton growth and major nutrient drawdown in the Southern Ocean",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1038/s41467-021-21122-6",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-021-21122-6"
+    },
+    {
+      "@id": "src:lucas-2025-a68a-meltwater",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Giant iceberg meltwater increases upper-ocean stratification and vertical mixing",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41561-025-01659-7",
+      "schema:sameAs": "https://doi.org/10.1038/s41561-025-01659-7"
+    },
+    {
+      "@id": "src:kemeny-2023-arctic-sulfide-weathering",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Arctic Permafrost Thawing Enhances Sulfide Oxidation",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1029/2022GB007644",
+      "schema:sameAs": "https://doi.org/10.1029/2022GB007644"
+    },
+    {
+      "@id": "src:nikishin-2026-gakkel-ridge-review",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Geology of the Eurasia Basin and Gakkel Ridge, Arctic Ocean: Review and update",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.earscirev.2026.105525",
+      "schema:sameAs": "https://doi.org/10.1016/j.earscirev.2026.105525"
+    },
+    {
+      "@id": "src:mehling-2026-greenland-meltwater-amoc",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Limited impact of Greenland meltwater on abruptness and reversibility of future Atlantic overturning changes",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1126/sciadv.aed2633",
+      "schema:sameAs": "https://doi.org/10.1126/sciadv.aed2633"
+    },
+    {
+      "@id": "src:dong-2026-southern-ocean-tropical-bias",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Tropical impacts of the Southern Ocean underestimated by mean-state biases",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1126/sciadv.aed1936",
+      "schema:sameAs": "https://doi.org/10.1126/sciadv.aed1936"
+    },
+    {
+      "@id": "src:njagi-2026-bear-transposable-elements",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Recent Dominant Transposition Events Affect Gene Regulatory Regions, but Not Coding Sequences, in Polar and Brown Bear Genomes",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3390/cimb48060639",
+      "schema:sameAs": "https://doi.org/10.3390/cimb48060639"
+    },
+    {
+      "@id": "src:tinto-2026-aasiaat-relative-sea-level",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Impacts of future sea level change on Greenland from community knowledge, coastal mapping, and glacial isostatic adjustment models",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1073/pnas.2528615123",
+      "schema:sameAs": "https://doi.org/10.1073/pnas.2528615123"
+    },
+    {
+      "@id": "src:de-visscher-2026-bipolar-lake-mats",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Functional genetic potential of benthic microbial mat communities in Arctic, Antarctic, and sub-Antarctic lakes",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1093/femsec/fiag060",
+      "schema:sameAs": "https://doi.org/10.1093/femsec/fiag060"
+    },
+    {
+      "@id": "src:dou-2026-sam-summer-sea-ice",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Interdecadal shift in the spring Southern Annular Mode intensifies its lagged influence on Antarctic summer sea ice",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1093/nsr/nwag314",
+      "schema:sameAs": "https://doi.org/10.1093/nsr/nwag314"
+    },
+    {
+      "@id": "src:abuah-2026-svalbard-carbohydrate-degradation",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Capacity of Arctic fjord sediments to degrade carbohydrates from permafrost active layer",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1128/spectrum.00456-26",
+      "schema:sameAs": "https://doi.org/10.1128/spectrum.00456-26"
+    },
+    {
+      "@id": "src:cramm-2026-high-arctic-thaw-growth",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Seasonal thawing of high Arctic soils triggers selective microbial growth and predation",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1128/msystems.00738-25",
+      "schema:sameAs": "https://doi.org/10.1128/msystems.00738-25"
+    },
+    {
+      "@id": "src:steinfurth-2026-gough-h5n1",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Investigating high pathogenicity avian influenza virus incursions to remote islands: detection of H5N1 on Gough Island in the South Atlantic Ocean",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1080/22221751.2026.2627076",
+      "schema:sameAs": "https://doi.org/10.1080/22221751.2026.2627076"
+    },
+    {
+      "@id": "src:cao-2026-jonahs-icefish-genome",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Chromosome-scale genome assembly and annotation of Jonah's icefish Neopagetopsis ionah",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1038/s41597-026-07848-2",
+      "schema:sameAs": "https://doi.org/10.1038/s41597-026-07848-2"
+    },
+    {
+      "@id": "src:meyer-2026-arctic-micromonas-viruses",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Infection Dynamics and Coexistence of Two Novel Arctic Phytoplankton Viruses",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3390/v18070726",
+      "schema:sameAs": "https://doi.org/10.3390/v18070726"
+    },
+    {
+      "@id": "src:lai-2026-antarctic-fur-seal-gut",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Deep metagenomics uncovers functional adaptations and pathogenic risks in the gut microbiome of Antarctic fur seals (Arctocephalus gazella)",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1186/s40793-026-00919-2",
+      "schema:sameAs": "https://doi.org/10.1186/s40793-026-00919-2"
+    },
+    {
+      "@id": "src:pettersson-2026-bipolar-sea-ice-viruses",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Viral genetic diversity and functional potential in polar and subarctic sea ice",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1093/femsec/fiag077",
+      "schema:sameAs": "https://doi.org/10.1093/femsec/fiag077"
+    },
+    {
+      "@id": "src:buthelezi-2026-antarctic-sea-ice-dmsp",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Dimethylsulfoniopropionate metabolism shapes microbial ecology and physiological adaptation during the austral winter in Southern Ocean sea ice and seawater",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1038/s41467-026-73596-x",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-026-73596-x"
+    },
+    {
+      "@id": "src:sogaard-2026-greenland-ice-algal-production",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "High sea ice algal primary production near marine-terminating glaciers linked to turbulence-driven nutrient fluxes across the ice–ocean interface",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1038/s41598-026-53846-0",
+      "schema:sameAs": "https://doi.org/10.1038/s41598-026-53846-0"
+    },
+    {
+      "@id": "src:liu-2026-svalbard-glacier-microbial-filtering",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Unique microbes released by retreating glaciers are rarely propagated to coastal ecosystems",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1038/s43247-026-03399-x",
+      "schema:sameAs": "https://doi.org/10.1038/s43247-026-03399-x"
+    },
+    {
+      "@id": "src:ge-2026-amundsen-trace-metals",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Distinct Distribution Patterns of Dissolved and Particulate Trace Metals in Surface Waters of the Amundsen Sea: From Polynya to Open Waters",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1029/2026GL124120",
+      "schema:sameAs": "https://doi.org/10.1029/2026GL124120"
+    },
+    {
+      "@id": "src:choi-2026-ross-sea-edna",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Unveiling Ross Sea eukaryotic diversity through environmental DNA metabarcoding",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.marenvres.2026.108259",
+      "schema:sameAs": "https://doi.org/10.1016/j.marenvres.2026.108259"
+    },
+    {
+      "@id": "src:nolvak-2026-arctic-ice-oil-mesocosm",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Microbial succession and hydrocarbon-degrading potential in Arctic sea ice exposed to dispersed crude oil and chemical dispersant",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1093/femsmc/xtag022",
+      "schema:sameAs": "https://doi.org/10.1093/femsmc/xtag022"
+    },
+    {
+      "@id": "src:muller-2026-arctic-sea-ice-ridges",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Arctic sea-ice ridges are biomass hotspots harboring diverse microbial communities",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1038/s43247-026-03364-8",
+      "schema:sameAs": "https://doi.org/10.1038/s43247-026-03364-8"
+    },
+    {
+      "@id": "src:frantz-2026-rotten-sea-ice",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Microbial Ecology of Rotten Sea Ice: Implications for Arctic Carbon Cycling with Global Warming",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3390/microorganisms14020482",
+      "schema:sameAs": "https://doi.org/10.3390/microorganisms14020482"
+    },
+    {
+      "@id": "src:cardozo-mino-2026-sea-ice-melt-export",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Microbial and chemical signatures of melting sea-ice: export of bacteria, microeukaryotes, and molecules",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.dsr2.2026.105607",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr2.2026.105607"
+    },
+    {
+      "@id": "claim:001-rothera-viral-novelty",
+      "@type": "pkg:Claim",
+      "schema:text": "The Rothera coastal time series yielded 7,957 mid- to high-quality vOTUs, about 75% of which lacked species-level representation in the comparison ocean-virus catalogues.",
+      "pkg:subject": {
+        "@id": "region:rothera-time-series"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "realm:viruses"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:piedade-2024-antarctic-viral-seascape"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:002-ross-shelf-virus-hosts",
+      "@type": "pkg:Claim",
+      "schema:text": "Viral genomes beneath the Ross Ice Shelf were computationally linked to ammonia-oxidizing Nitrosopumilus hosts, alongside transcriptional evidence that viruses were active.",
+      "pkg:subject": {
+        "@id": "realm:viruses"
+      },
+      "pkg:predicate": "infects_or_targets",
+      "pkg:object": {
+        "@id": "taxon:nitrosopumilus"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:lopez-simon-2023-ross-ice-shelf-viruses"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:003-antarctic-soil-antiviral-defense",
+      "@type": "pkg:Claim",
+      "schema:text": "Pristine Antarctic soil metagenomes contained diverse Class 1 CRISPR–Cas systems and divergent Class 2 type-V architectures, including unusual Cas12-like effectors.",
+      "pkg:subject": {
+        "@id": "habitat:polar-soil"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "process:antiviral-defense"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:van-goethem-2025-antarctic-immune-systems"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:004-polar-lakes-giant-viruses",
+      "@type": "pkg:Claim",
+      "schema:text": "A comparative survey of polar and temperate lakes recovered 3,304 giant-virus MAGs spanning all recognized Nucleocytoviricota orders and found strong lake-level endemism.",
+      "pkg:subject": {
+        "@id": "habitat:lake"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "taxon:nucleocytoviricota"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:pitot-2024-polar-lake-giant-viruses"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:005-contamination-caudoviricetes",
+      "@type": "pkg:Claim",
+      "schema:text": "Caudoviricetes accounted for more than 90% of viral relative abundance in contaminated King George Island soils, compared with less than 62% in uncontaminated soils.",
+      "pkg:subject": {
+        "@id": "driver:hydrocarbon-contamination"
+      },
+      "pkg:predicate": "increases",
+      "pkg:object": {
+        "@id": "taxon:caudoviricetes"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:frere-martiniuc-2025-king-george-virome"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:006-arctic-virus-seasonality",
+      "@type": "pkg:Claim",
+      "schema:text": "At the HAUSGARTEN Arctic time-series site, viral community composition recurred annually and tracked prokaryotic community composition across four years.",
+      "pkg:subject": {
+        "@id": "realm:viruses"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:microbial-seasonality"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:calayag-2025-arctic-virus-seasonality"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:007-microlayer-viral-cold-potential",
+      "@type": "pkg:Claim",
+      "schema:text": "Arctic sea-surface-microlayer vOTUs encoded candidate ice-binding and glycerol-related auxiliary genes that could contribute to cryoprotection.",
+      "pkg:subject": {
+        "@id": "realm:viruses"
+      },
+      "pkg:predicate": "encodes_potential_for",
+      "pkg:object": {
+        "@id": "process:cold-adaptation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:rahlff-2024-arctic-surface-microlayer"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:008-active-peat-virus-hosts",
+      "@type": "pkg:Claim",
+      "schema:text": "Stable-isotope probing identified 243 active viral populations under anoxic sub-freezing peat conditions, with one-third linked to active bacterial populations.",
+      "pkg:subject": {
+        "@id": "realm:viruses"
+      },
+      "pkg:predicate": "infects_or_targets",
+      "pkg:object": {
+        "@id": "realm:bacteria"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:trubl-2021-arctic-peat-viruses"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:009-permafrost-pithovirus",
+      "@type": "pkg:Claim",
+      "schema:text": "Ancient Siberian permafrost metagenomes contained prominent Pithoviridae-like sequences, including a complete 1.6-Mb circular genome from an approximately 42,000-year-old sample.",
+      "pkg:subject": {
+        "@id": "habitat:permafrost"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "taxon:pithoviridae"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:rigou-2022-permafrost-giant-viruses"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:010-temperature-polar-giant-virus",
+      "@type": "pkg:Claim",
+      "schema:text": "Global comparative analyses separated polar from non-polar giant-virus communities and identified temperature as a major correlate of virus–host network structure.",
+      "pkg:subject": {
+        "@id": "driver:temperature"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:cold-adaptation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:meng-2023-polar-giant-virus-adaptation"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:011-arctic-viable-giant-viruses",
+      "@type": "pkg:Claim",
+      "schema:text": "Culture-based screening isolated five marseilleviruses and five megaviruses from diverse natural and human-influenced sites above the Arctic Circle.",
+      "pkg:subject": {
+        "@id": "pole:arctic"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "taxon:marseilleviridae"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:queiroz-2026-arctic-giant-virus-isolates"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:012-mercer-patescibacteria",
+      "@type": "pkg:Claim",
+      "schema:text": "Single-cell genomics recovered extensive and largely novel Patescibacteria diversity among 1,374 SAGs from Mercer Subglacial Lake.",
+      "pkg:subject": {
+        "@id": "region:mercer-subglacial-lake"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "taxon:patescibacteria"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:kim-2025-mercer-subglacial-microbiome"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:013-foreland-trace-gas-metabolism",
+      "@type": "pkg:Claim",
+      "schema:text": "Early glacier-foreland colonizers encoded flexible energy strategies that included potential oxidation of atmospheric trace gases and sulfur compounds.",
+      "pkg:subject": {
+        "@id": "habitat:glacier-foreland"
+      },
+      "pkg:predicate": "supports",
+      "pkg:object": {
+        "@id": "process:trace-gas-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:ricci-2025-antarctic-glacier-foreland"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:014-antarctic-comammox",
+      "@type": "pkg:Claim",
+      "schema:text": "Complete-ammonia-oxidizing Nitrospira genomes were prominent in the sampled coastal Antarctic soils and encoded traits consistent with cold stress protection and high substrate affinity.",
+      "pkg:subject": {
+        "@id": "taxon:nitrospira"
+      },
+      "pkg:predicate": "encodes_potential_for",
+      "pkg:object": {
+        "@id": "process:nitrification"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:han-2024-coastal-antarctic-nitrogen"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:015-geothermal-genome-resource",
+      "@type": "pkg:Claim",
+      "schema:text": "The data resource combines long-read, Hi-C, and single-cell genomic datasets from two rarely sampled Antarctic geothermal systems.",
+      "pkg:subject": {
+        "@id": "src:myeong-2024-antarctic-geothermal-genomes"
+      },
+      "pkg:predicate": "catalogues",
+      "pkg:object": {
+        "@id": "habitat:geothermal-soil"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:myeong-2024-antarctic-geothermal-genomes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:016-sponge-exclusive-prokaryotes",
+      "@type": "pkg:Claim",
+      "schema:text": "Antarctic sponges contained many host-exclusive prokaryotic ASVs: 76% of bacterial and archaeal ASVs were sponge-exclusive in the reported dataset.",
+      "pkg:subject": {
+        "@id": "habitat:sponge-holobiont"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "taxon:sponge-microbiome"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:moreno-pino-2024-antarctic-sponges"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:017-arctic-microbiome-recurrence",
+      "@type": "pkg:Claim",
+      "schema:text": "A multi-year autonomous time series resolved five recurring temporal microbiome modules representing distinct seasonal ecological states.",
+      "pkg:subject": {
+        "@id": "habitat:marine-water-column"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "process:microbial-seasonality"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:priest-2025-arctic-microbiome-recurrence"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:018-mosaic-genome-catalogue",
+      "@type": "pkg:Claim",
+      "schema:text": "The MOSAiC catalogue contains 2,407 prokaryotic MAGs and 56 eukaryotic MAGs from 73 Central Arctic samples spanning a full seasonal cycle and multiple habitats.",
+      "pkg:subject": {
+        "@id": "src:boulton-2025-mosaic-mags"
+      },
+      "pkg:predicate": "catalogues",
+      "pkg:object": {
+        "@id": "realm:bacteria"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:boulton-2025-mosaic-mags"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:019-atlantification-microbiome",
+      "@type": "pkg:Claim",
+      "schema:text": "Atlantic inflow and reduced ice favored seasonally fluctuating populations, while densely ice-covered waters retained a comparatively stable resident microbiome.",
+      "pkg:subject": {
+        "@id": "driver:atlantic-water"
+      },
+      "pkg:predicate": "drives",
+      "pkg:object": {
+        "@id": "process:atlantification"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:priest-2023-biological-atlantification"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:020-tariuqbacteria-sulfur-reduction",
+      "@type": "pkg:Claim",
+      "schema:text": "The dominant Tariuqbacteria genome from Lake A's anoxic relict seawater layer supports a strictly anaerobic lifestyle with sulfur or sulfate reduction and versatile carbon metabolism.",
+      "pkg:subject": {
+        "@id": "taxon:tariuqbacteria"
+      },
+      "pkg:predicate": "encodes_potential_for",
+      "pkg:object": {
+        "@id": "process:sulfur-reduction"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:vigneron-2023-tariuqbacteria"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:021-arctic-mag-novelty",
+      "@type": "pkg:Claim",
+      "schema:text": "The Arctic Ocean genome catalogue represents 526 species, of which 441 had not previously been reported and 299 appeared exclusively polar in the comparison data.",
+      "pkg:subject": {
+        "@id": "src:royo-llonch-2021-arctic-mag-catalogue"
+      },
+      "pkg:predicate": "catalogues",
+      "pkg:object": {
+        "@id": "realm:bacteria"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:royo-llonch-2021-arctic-mag-catalogue"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:022-water-mass-gene-structure",
+      "@type": "pkg:Claim",
+      "schema:text": "Across 218 circumpolar metagenomes, water-mass identity was a dominant organizer of prokaryotic gene composition, with many genes showing bipolar yet Southern-Ocean-enriched distributions.",
+      "pkg:subject": {
+        "@id": "driver:water-mass"
+      },
+      "pkg:predicate": "drives",
+      "pkg:object": {
+        "@id": "process:microbial-seasonality"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:faure-2026-southern-ocean-water-mass-genes"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:023-maritime-antarctic-soil-mags",
+      "@type": "pkg:Claim",
+      "schema:text": "The resource releases 319 bacterial MAGs from soils on Deception and Livingston islands, expanding reference coverage for maritime Antarctic soil lineages.",
+      "pkg:subject": {
+        "@id": "src:medeiros-2026-antarctic-soil-mags"
+      },
+      "pkg:predicate": "catalogues",
+      "pkg:object": {
+        "@id": "realm:bacteria"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:medeiros-2026-antarctic-soil-mags"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:024-maxwell-bay-filtering",
+      "@type": "pkg:Claim",
+      "schema:text": "Maxwell Bay community assembly shifted toward 84.68% deterministic homogeneous selection in February, consistent with stronger late-summer environmental filtering.",
+      "pkg:subject": {
+        "@id": "driver:environmental-filtering"
+      },
+      "pkg:predicate": "drives",
+      "pkg:object": {
+        "@id": "process:microbial-seasonality"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:zeng-2026-maxwell-bay-succession"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:025-greenland-ucyn-a",
+      "@type": "pkg:Claim",
+      "schema:text": "Seasonal molecular observations identified symbiotic UCYN-A among prominent diazotrophs where measured nitrogen fixation supported coastal productivity near West Greenland.",
+      "pkg:subject": {
+        "@id": "taxon:ucyn-a"
+      },
+      "pkg:predicate": "supports",
+      "pkg:object": {
+        "@id": "process:nitrogen-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:schlangen-2026-greenland-nitrogen-fixation"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:026-antarctic-phytoplankton-trend",
+      "@type": "pkg:Claim",
+      "schema:text": "A 25-year synthesis estimated declining summer diatom chlorophyll and increasing haptophyte and cryptophyte chlorophyll, followed by partial reversal after the 2016 sea-ice regime change.",
+      "pkg:subject": {
+        "@id": "driver:sea-ice-cover"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:phytoplankton-community-shift"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:hayward-2025-antarctic-phytoplankton"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:027-post-2016-diatom-shift",
+      "@type": "pkg:Claim",
+      "schema:text": "After an approximately 7% step decrease in September sea-ice extent, mean spring diatom contribution rose by as much as about 10% in sea-ice-influenced regions but declined on parts of the summer shelf.",
+      "pkg:subject": {
+        "@id": "driver:sea-ice-cover"
+      },
+      "pkg:predicate": "shifts_to",
+      "pkg:object": {
+        "@id": "taxon:diatoms"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:adroli-2026-southern-ocean-regime-shift"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:028-fram-winter-reset",
+      "@type": "pkg:Claim",
+      "schema:text": "A four-year Fram Strait series supports a winter reset in which prevailing winter conditions strongly constrained the microeukaryotes present in the following spring bloom.",
+      "pkg:subject": {
+        "@id": "driver:light"
+      },
+      "pkg:predicate": "drives",
+      "pkg:object": {
+        "@id": "process:microbial-seasonality"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:oldenburg-2024-fram-strait-winter-reset"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:029-benthos-regional-response",
+      "@type": "pkg:Claim",
+      "schema:text": "Antarctic benthic responses to warming and cryosphere change are regionally heterogeneous, with local disturbance, freshening, sediment, and species traits determining biomass gains or losses.",
+      "pkg:subject": {
+        "@id": "driver:temperature"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "taxon:antarctic-benthos"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:griffiths-2024-antarctic-benthos"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:030-arctic-fjord-picoplankton",
+      "@type": "pkg:Claim",
+      "schema:text": "High-Arctic fjords supported more trophically diverse picoeukaryotes, whereas warmer fjords showed a larger prokaryotic contribution to the 0.2–3-µm community.",
+      "pkg:subject": {
+        "@id": "driver:temperature"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "realm:eukaryota"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:horstmann-2024-arctic-fjord-picoplankton"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:031-ice-algae-melt",
+      "@type": "pkg:Claim",
+      "schema:text": "Darkening by visible algal blooms contributed up to 2.4% of total modeled surface melt under observed conditions on the Antarctic ice cap.",
+      "pkg:subject": {
+        "@id": "taxon:snow-algae"
+      },
+      "pkg:predicate": "increases",
+      "pkg:object": {
+        "@id": "process:surface-melt"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:thomson-2025-antarctic-ice-cap-algae"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:032-antarctic-plastisphere",
+      "@type": "pkg:Claim",
+      "schema:text": "Antarctic plastic debris carried eukaryotic communities rich in diatom-lineage Gyrista, fungi, and arthropods, alongside Pseudomonadota- and Bacteroidota-dominated prokaryotic records.",
+      "pkg:subject": {
+        "@id": "habitat:plastisphere"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "realm:eukaryota"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:lacerda-2025-antarctic-plastisphere"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:033-wap-autumn-export",
+      "@type": "pkg:Claim",
+      "schema:text": "Diatoms and euphausiid fecal pellets dominated collected biogenic particles, and autumn particulate-organic-carbon export was comparable to the summer pulse at this coastal West Antarctic Peninsula site.",
+      "pkg:subject": {
+        "@id": "taxon:diatoms"
+      },
+      "pkg:predicate": "supports",
+      "pkg:object": {
+        "@id": "process:carbon-export"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:isla-2025-wap-particle-flux"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:034-svalbard-paleo-reorganization",
+      "@type": "pkg:Claim",
+      "schema:text": "Across a 13.3-kyr sedimentary ancient-DNA record, major climatic and water-mass transitions reorganized eukaryotic assemblages mainly through species replacement while many functional roles persisted.",
+      "pkg:subject": {
+        "@id": "process:atlantification"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:phytoplankton-community-shift"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:nethupul-2026-svalbard-eukaryote-sedadna"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:035-arctic-bathymetric-control",
+      "@type": "pkg:Claim",
+      "schema:text": "Arctic shelves, basins, ridges, and gateways steer current pathways and modify mixing and ventilation, coupling geological architecture to modern hydrography.",
+      "pkg:subject": {
+        "@id": "driver:bathymetry"
+      },
+      "pkg:predicate": "drives",
+      "pkg:object": {
+        "@id": "process:overturning-circulation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gaina-2025-arctic-bathymetry"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:036-bottom-water-abyssal-transport",
+      "@type": "pkg:Claim",
+      "schema:text": "Antarctic Bottom Water ventilates the abyss and redistributes heat, carbon, oxygen, and nutrients after dense shelf waters descend the continental slope.",
+      "pkg:subject": {
+        "@id": "water:antarctic-bottom-water"
+      },
+      "pkg:predicate": "transports",
+      "pkg:object": {
+        "@id": "nutrient:organic-carbon"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:rintoul-2025-antarctic-bottom-water"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:037-polynya-dense-water",
+      "@type": "pkg:Claim",
+      "schema:text": "Wind-driven opening, rapid sea-ice production, and brine rejection make Antarctic coastal polynyas key formation sites for dense shelf water.",
+      "pkg:subject": {
+        "@id": "habitat:coastal-polynya"
+      },
+      "pkg:predicate": "supports",
+      "pkg:object": {
+        "@id": "process:dense-water-formation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:golledge-2025-antarctic-polynyas"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:038-southern-ocean-carbon-export",
+      "@type": "pkg:Claim",
+      "schema:text": "Southern Ocean ecosystems export a globally important quantity of biologically produced carbon through sinking particles and dissolved organic matter.",
+      "pkg:subject": {
+        "@id": "region:southern-ocean"
+      },
+      "pkg:predicate": "exports",
+      "pkg:object": {
+        "@id": "nutrient:organic-carbon"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:boyd-2024-southern-ocean-biota-carbon"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:039-arctic-carbon-pump-projection",
+      "@type": "pkg:Claim",
+      "schema:text": "The regional model projects an approximately 40% decline in Arctic biological-carbon-pump efficiency by 2100 under the analyzed climate scenario.",
+      "pkg:subject": {
+        "@id": "src:oziel-2025-arctic-carbon-pump"
+      },
+      "pkg:predicate": "projects",
+      "pkg:object": {
+        "@id": "process:biological-carbon-pump"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:oziel-2025-arctic-carbon-pump"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:040-siberian-shelf-denitrification",
+      "@type": "pkg:Claim",
+      "schema:text": "The reconstruction attributes at least half of Arctic benthic denitrification to the broad, shallow Siberian shelf system and shows a rapid increase after the 2009 sea-ice regime transition.",
+      "pkg:subject": {
+        "@id": "region:siberian-shelves"
+      },
+      "pkg:predicate": "supports",
+      "pkg:object": {
+        "@id": "process:denitrification"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:santos-garcia-2026-arctic-sea-ice-nitrogen"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:041-subglacial-lake-network",
+      "@type": "pkg:Claim",
+      "schema:text": "More than 600 Antarctic subglacial lakes have been identified, and repeated filling and drainage show that some participate in dynamic, material-transporting hydrological networks.",
+      "pkg:subject": {
+        "@id": "habitat:subglacial-lake"
+      },
+      "pkg:predicate": "supports",
+      "pkg:object": {
+        "@id": "process:subglacial-drainage"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:zhou-2024-antarctic-subglacial-hydrology"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:042-dome-fuji-tectonic-domains",
+      "@type": "pkg:Claim",
+      "schema:text": "Airborne magnetic patterns reveal multiple subglacial crustal domains and structural boundaries around Dome Fuji that record assembly and reworking across supercontinent cycles.",
+      "pkg:subject": {
+        "@id": "region:dome-fuji"
+      },
+      "pkg:predicate": "formed_by",
+      "pkg:object": {
+        "@id": "process:tectonic-assembly"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:guy-2024-dome-fuji-tectonics"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:043-amerasia-composite-basin",
+      "@type": "pkg:Claim",
+      "schema:text": "The Amerasia Basin comprises distinct crustal provinces whose evolution involves Canada Basin opening, terrane motion, and Alpha–Mendeleev magmatism rather than one simple spreading episode.",
+      "pkg:subject": {
+        "@id": "region:amerasia-basin"
+      },
+      "pkg:predicate": "formed_by",
+      "pkg:object": {
+        "@id": "process:tectonic-assembly"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:nikishin-2025-amerasia-tectonics"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:044-east-antarctic-crustal-record",
+      "@type": "pkg:Claim",
+      "schema:text": "Exposed East Antarctic rocks preserve a discontinuous Archean-to-Cambrian record of crustal formation, metamorphism, and Gondwanan assembly.",
+      "pkg:subject": {
+        "@id": "region:east-antarctica"
+      },
+      "pkg:predicate": "formed_by",
+      "pkg:object": {
+        "@id": "process:tectonic-assembly"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:hokada-2024-east-antarctica-geochemistry"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:045-arctic-slope-nutrient-corridor",
+      "@type": "pkg:Claim",
+      "schema:text": "The modeled Arctic continental slope carries a disproportionate share of advective dissolved-inorganic-nitrogen transport despite occupying only a small fraction of Arctic Ocean area.",
+      "pkg:subject": {
+        "@id": "region:arctic-continental-slope"
+      },
+      "pkg:predicate": "transports",
+      "pkg:object": {
+        "@id": "nutrient:dissolved-inorganic-nitrogen"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:oziel-2022-arctic-slope-nutrients"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:046-land-inputs-arctic-production",
+      "@type": "pkg:Claim",
+      "schema:text": "Model experiments estimate that rivers and coastal erosion sustain approximately 28–51% of contemporary Arctic Ocean net primary production through nutrient delivery and shelf recycling.",
+      "pkg:subject": {
+        "@id": "process:riverine-supply"
+      },
+      "pkg:predicate": "supports",
+      "pkg:object": {
+        "@id": "process:carbon-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:terhaar-2021-terrestrial-arctic-npp"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:047-manganese-colimitation",
+      "@type": "pkg:Claim",
+      "schema:text": "At sampled offshore Southern Ocean stations, combined iron and manganese addition stimulated stronger phytoplankton growth and major-nutrient drawdown than iron alone.",
+      "pkg:subject": {
+        "@id": "nutrient:manganese"
+      },
+      "pkg:predicate": "co_limits",
+      "pkg:object": {
+        "@id": "process:carbon-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:browning-2021-southern-ocean-manganese"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:048-a68a-freshwater",
+      "@type": "pkg:Claim",
+      "schema:text": "Iceberg A-68A released an estimated 152 ± 61 Gt of freshwater within 300 km of South Georgia between November 2020 and March 2021.",
+      "pkg:subject": {
+        "@id": "driver:freshwater"
+      },
+      "pkg:predicate": "supplies",
+      "pkg:object": {
+        "@id": "region:south-georgia"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:lucas-2025-a68a-meltwater"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:049-arctic-sulfide-oxidation",
+      "@type": "pkg:Claim",
+      "schema:text": "Stable-isotope-constrained inversion attributed approximately 80% of river sulfate in the studied Koyukuk watershed to sulfide oxidation.",
+      "pkg:subject": {
+        "@id": "process:sulfur-oxidation"
+      },
+      "pkg:predicate": "supplies",
+      "pkg:object": {
+        "@id": "nutrient:sulfate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:kemeny-2023-arctic-sulfide-weathering"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:050-gakkel-hydrothermalism",
+      "@type": "pkg:Claim",
+      "schema:text": "The ultraslow-spreading Gakkel Ridge hosts hydrothermal activity amid strong along-axis variation in magmatism, tectonic extension, and crustal construction.",
+      "pkg:subject": {
+        "@id": "region:gakkel-ridge"
+      },
+      "pkg:predicate": "supports",
+      "pkg:object": {
+        "@id": "process:hydrothermal-circulation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:nikishin-2026-gakkel-ridge-review"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:051-greenland-meltwater-amoc-weakening",
+      "@type": "pkg:Claim",
+      "schema:text": "In EC-Earth3 under SSP5-8.5, prescribed Greenland runoff and calving added about 0.9 sverdrups per century of AMOC weakening through 2100 and approximately 4 sverdrups of weakening by 2300 relative to the no-added-meltwater ensemble.",
+      "pkg:subject": {
+        "@id": "driver:freshwater"
+      },
+      "pkg:predicate": "decreases",
+      "pkg:object": {
+        "@id": "process:overturning-circulation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:mehling-2026-greenland-meltwater-amoc"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:052-mean-state-limits-southern-ocean-teleconnection",
+      "@type": "pkg:Claim",
+      "schema:text": "Tropical mean-state biases, especially in the ITCZ and surface winds, weaken the simulated tropical response to Southern Ocean cooling across the analyzed climate-model hierarchy.",
+      "pkg:subject": {
+        "@id": "driver:climate-model-mean-state"
+      },
+      "pkg:predicate": "limits",
+      "pkg:object": {
+        "@id": "process:southern-ocean-teleconnection"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:dong-2026-southern-ocean-tropical-bias"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:053-southern-ocean-cooling-drives-tropical-response",
+      "@type": "pkg:Claim",
+      "schema:text": "Idealized Antarctic meltwater cooling produces a remote tropical surface response that is amplified when the background winds permit a stronger wind-evaporation-sea-surface-temperature feedback.",
+      "pkg:subject": {
+        "@id": "driver:freshwater"
+      },
+      "pkg:predicate": "drives",
+      "pkg:object": {
+        "@id": "process:southern-ocean-teleconnection"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:dong-2026-southern-ocean-tropical-bias"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:054-bear-te-regulatory-association",
+      "@type": "pkg:Claim",
+      "schema:text": "Curated lineage-dominant CAN SINE insertions in sampled polar and brown bears were concentrated in untranslated, upstream, and other candidate regulatory regions rather than protein-coding sequence.",
+      "pkg:subject": {
+        "@id": "process:transposable-element-insertion"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:gene-regulation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:njagi-2026-bear-transposable-elements"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:055-polar-bear-lineage-te-candidates",
+      "@type": "pkg:Claim",
+      "schema:text": "The analyzed polar-bear genomes contain lineage-dominant transposable-element-associated structural variants, including fixed derived insertions near genes proposed as candidates for polar-bear and brown-bear phenotypic divergence.",
+      "pkg:subject": {
+        "@id": "taxon:polar-bear"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "process:transposable-element-insertion"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:njagi-2026-bear-transposable-elements"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:056-aasiaat-relative-sea-level-fall",
+      "@type": "pkg:Claim",
+      "schema:text": "Ice-mass and glacial-isostatic-adjustment models project approximately 0.41 to 0.93 metres of relative sea-level fall near Aasiaat by 2100 across the analyzed RCP2.6 and RCP8.5 cases.",
+      "pkg:subject": {
+        "@id": "driver:glacial-isostatic-adjustment"
+      },
+      "pkg:predicate": "drives",
+      "pkg:object": {
+        "@id": "process:relative-sea-level-change"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:tinto-2026-aasiaat-relative-sea-level"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:057-aasiaat-channel-exchange",
+      "@type": "pkg:Claim",
+      "schema:text": "Combining projected relative sea-level fall with newly mapped shallow thresholds indicates that the Nivaaq and Ikerasannguaq channels may shoal or close, reducing navigation access and potentially coastal water and nutrient exchange.",
+      "pkg:subject": {
+        "@id": "process:relative-sea-level-change"
+      },
+      "pkg:predicate": "decreases",
+      "pkg:object": {
+        "@id": "process:coastal-water-exchange"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:tinto-2026-aasiaat-relative-sea-level"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:058-polar-mat-phosphorus-potential",
+      "@type": "pkg:Claim",
+      "schema:text": "Benthic microbial mats from Arctic, Antarctic, and sub-Antarctic lakes share a functional core that includes genes for phosphorus acquisition and cycling alongside broad stress-response functions.",
+      "pkg:subject": {
+        "@id": "habitat:benthic-microbial-mat"
+      },
+      "pkg:predicate": "encodes_potential_for",
+      "pkg:object": {
+        "@id": "process:phosphorus-cycling"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:de-visscher-2026-bipolar-lake-mats"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:059-sam-lagged-sea-ice-influence",
+      "@type": "pkg:Claim",
+      "schema:text": "The statistical lagged influence of the spring Southern Annular Mode on Antarctic summer sea ice strengthened after approximately 1998 through a stronger PSA-like circulation and Amundsen Sea Low pathway.",
+      "pkg:subject": {
+        "@id": "driver:southern-annular-mode"
+      },
+      "pkg:predicate": "drives",
+      "pkg:object": {
+        "@id": "driver:sea-ice-cover"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:dou-2026-sam-summer-sea-ice"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:060-fjord-sediment-carbohydrate-degradation",
+      "@type": "pkg:Claim",
+      "schema:text": "Svalbard fjord surface sediments contain microbial genes and expressed enzymes capable of degrading complex land-derived carbohydrates, showing that a biologically available fraction persists after burial.",
+      "pkg:subject": {
+        "@id": "habitat:marine-sediment"
+      },
+      "pkg:predicate": "supports",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:abuah-2026-svalbard-carbohydrate-degradation"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:061-active-layer-carbohydrate-potential",
+      "@type": "pkg:Claim",
+      "schema:text": "Bayelva active-layer microbial genomes and transcripts encode broad carbohydrate-degradation pathways that provide a terrestrial functional baseline for comparison with Svalbard fjord sediments.",
+      "pkg:subject": {
+        "@id": "habitat:active-layer-soil"
+      },
+      "pkg:predicate": "encodes_potential_for",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:abuah-2026-svalbard-carbohydrate-degradation"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:062-thaw-selects-early-late-growers",
+      "@type": "pkg:Claim",
+      "schema:text": "H2-18O quantitative stable-isotope probing resolved distinct early and late microbial growers after active-layer soil thaw, with only 22% of labeled sequence variants growing at both 21 and 98 days.",
+      "pkg:subject": {
+        "@id": "driver:permafrost-thaw"
+      },
+      "pkg:predicate": "drives",
+      "pkg:object": {
+        "@id": "process:microbial-growth"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:cramm-2026-high-arctic-thaw-growth"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:063-thaw-microbial-predation",
+      "@type": "pkg:Claim",
+      "schema:text": "Growth after thaw included Myxococcota, Patescibacteria, and Bdellovibrionota affiliated with predatory or epibiotic lifestyles, indicating that cell-cell interactions contribute to post-thaw turnover.",
+      "pkg:subject": {
+        "@id": "process:microbial-predation"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:microbial-growth"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:cramm-2026-high-arctic-thaw-growth"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:064-gough-h5n1-infection",
+      "@type": "pkg:Claim",
+      "schema:text": "Highly pathogenic H5N1 clade 2.3.4.4b genotype B3.2 was confirmed in all three sampled Tristan skua carcasses from Gough Island, and two samples yielded viral whole-genome sequences.",
+      "pkg:subject": {
+        "@id": "taxon:h5n1-clade-2344b"
+      },
+      "pkg:predicate": "infects_or_targets",
+      "pkg:object": {
+        "@id": "taxon:great-skua"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:steinfurth-2026-gough-h5n1"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:065-skua-movement-h5n1-dispersal",
+      "@type": "pkg:Claim",
+      "schema:text": "Phylogenetic source-sink reconstruction and skua tracking support a plausible South Georgia-to-Gough H5N1 dispersal pathway, but do not directly observe movement by an infected bird.",
+      "pkg:subject": {
+        "@id": "process:seabird-migration"
+      },
+      "pkg:predicate": "transports",
+      "pkg:object": {
+        "@id": "taxon:h5n1-clade-2344b"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:steinfurth-2026-gough-h5n1"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:066-jonahs-icefish-reference-genome",
+      "@type": "pkg:Claim",
+      "schema:text": "The Jonah's icefish reference resource contains a 1.27-gigabase assembly with 96.8% of sequence anchored to 24 chromosomes, a scaffold N50 of 51.82 megabases, and 31,777 predicted protein-coding genes.",
+      "pkg:subject": {
+        "@id": "src:cao-2026-jonahs-icefish-genome"
+      },
+      "pkg:predicate": "catalogues",
+      "pkg:object": {
+        "@id": "taxon:jonahs-icefish"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:cao-2026-jonahs-icefish-genome"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:067-mpov-strains-infect-micromonas",
+      "@type": "pkg:Claim",
+      "schema:text": "MpoV-44T.A and MpoV-44T.B are independently replicating lytic dsDNA viruses of Micromonas polaris, but they differ substantially in genome sequence, host range, infectivity, and lysis timing.",
+      "pkg:subject": {
+        "@id": "taxon:mpov-44t-a"
+      },
+      "pkg:predicate": "infects_or_targets",
+      "pkg:object": {
+        "@id": "taxon:micromonas-polaris"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:meyer-2026-arctic-micromonas-viruses"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:068-mpov-a-suppresses-mpov-b",
+      "@type": "pkg:Claim",
+      "schema:text": "When equal particle numbers of both viruses were added to the shared host, MpoV-44T.B genome production reached only 18 plus or minus 8% of its single-infection production, whereas MpoV-44T.A production was not significantly reduced.",
+      "pkg:subject": {
+        "@id": "taxon:mpov-44t-a"
+      },
+      "pkg:predicate": "decreases",
+      "pkg:object": {
+        "@id": "taxon:mpov-44t-b"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:meyer-2026-arctic-micromonas-viruses"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:069-mpov-b-arctic-metagenomes",
+      "@type": "pkg:Claim",
+      "schema:text": "MpoV-44T.B-like reads were consistently more abundant than MpoV-44T.A-like reads in the analyzed Tara Arctic metagenomes, reversing the competitive ordering seen in the nutrient-replete dual-infection experiment.",
+      "pkg:subject": {
+        "@id": "habitat:marine-water-column"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "taxon:mpov-44t-b"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:meyer-2026-arctic-micromonas-viruses"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:070-fur-seal-gut-chitin-potential",
+      "@type": "pkg:Claim",
+      "schema:text": "All four Antarctic fur-seal fecal metagenomes contained chitin-degradation genes, and MAGs assigned complementary hydrolytic steps to different bacterial taxa, consistent with cross-feeding on a krill-rich diet.",
+      "pkg:subject": {
+        "@id": "habitat:fur-seal-gut"
+      },
+      "pkg:predicate": "encodes_potential_for",
+      "pkg:object": {
+        "@id": "process:chitin-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:lai-2026-antarctic-fur-seal-gut"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:071-fur-seal-gut-resistance-potential",
+      "@type": "pkg:Claim",
+      "schema:text": "The four fecal metagenomes contained 16 annotated antimicrobial-resistance gene types, including bacitracin, polymyxin, and multidrug categories, but these sequences do not establish phenotypic resistance or anthropogenic selection.",
+      "pkg:subject": {
+        "@id": "habitat:fur-seal-gut"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "process:antimicrobial-resistance"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:lai-2026-antarctic-fur-seal-gut"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:072-polar-sea-ice-votu-catalogue",
+      "@type": "pkg:Claim",
+      "schema:text": "Bulk metagenomes from nine Arctic, Baltic, and Antarctic sea-ice samples yielded 550 vOTUs, with 528 of 537 classified vOTUs assigned to Caudoviricetes.",
+      "pkg:subject": {
+        "@id": "habitat:sea-ice"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "taxon:caudoviricetes"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:pettersson-2026-bipolar-sea-ice-viruses"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:073-sea-ice-virus-host-predictions",
+      "@type": "pkg:Claim",
+      "schema:text": "Hosts were computationally assigned to 187 sea-ice vOTUs, with Gammaproteobacteria and Bacteroidia the most frequent predicted host classes.",
+      "pkg:subject": {
+        "@id": "taxon:caudoviricetes"
+      },
+      "pkg:predicate": "infects_or_targets",
+      "pkg:object": {
+        "@id": "taxon:gammaproteobacteria"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:pettersson-2026-bipolar-sea-ice-viruses"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:074-antarctic-sea-ice-dmsp-reservoir",
+      "@type": "pkg:Claim",
+      "schema:text": "Austral-winter Southern Ocean sea ice contained 24–115 nanomolar total DMSP, 2–38 times the concentrations measured in contemporaneous seawater samples.",
+      "pkg:subject": {
+        "@id": "habitat:sea-ice"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "nutrient:dmsp"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:buthelezi-2026-antarctic-sea-ice-dmsp"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:075-antarctic-algal-dmsp-potential",
+      "@type": "pkg:Claim",
+      "schema:text": "DSYB- and DSYE-bearing eukaryotic algae were predicted to dominate DMSP biosynthetic potential, while bacterial producers and abundant dmdA, dddD, and dddK genes expanded the inferred producer–consumer network.",
+      "pkg:subject": {
+        "@id": "taxon:ice-algae"
+      },
+      "pkg:predicate": "encodes_potential_for",
+      "pkg:object": {
+        "@id": "process:dmsp-cycling"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:buthelezi-2026-antarctic-sea-ice-dmsp"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:076-greenland-turbulent-silicate-supply",
+      "@type": "pkg:Claim",
+      "schema:text": "The estimated turbulent silicic-acid flux across the ice–ocean interface was similar in magnitude to the silicon demand inferred for the observed ice-algal bloom.",
+      "pkg:subject": {
+        "@id": "process:turbulent-nutrient-supply"
+      },
+      "pkg:predicate": "supplies",
+      "pkg:object": {
+        "@id": "nutrient:silicate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:sogaard-2026-greenland-ice-algal-production"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:077-greenland-bottom-ice-production",
+      "@type": "pkg:Claim",
+      "schema:text": "A Nitzschia-frigida-rich bottom-ice bloom fixed 146 ± 4.8 milligrams carbon per square metre per day and accumulated 42.4 ± 1.6 milligrams chlorophyll a per square metre.",
+      "pkg:subject": {
+        "@id": "habitat:bottom-sea-ice"
+      },
+      "pkg:predicate": "supports",
+      "pkg:object": {
+        "@id": "process:ice-algal-primary-production"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:sogaard-2026-greenland-ice-algal-production"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:078-glacial-microbes-rare-in-fjord",
+      "@type": "pkg:Claim",
+      "schema:text": "Glacial bacterial lineages dominated foreland MAGs but were rare in fjord MAGs, indicating strong filtering between the glacier–foreland system and coastal seawater.",
+      "pkg:subject": {
+        "@id": "driver:environmental-filtering"
+      },
+      "pkg:predicate": "decreases",
+      "pkg:object": {
+        "@id": "process:microbial-dispersal"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:liu-2026-svalbard-glacier-microbial-filtering"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:079-glacier-continuum-functional-partition",
+      "@type": "pkg:Claim",
+      "schema:text": "Genome-resolved pathway profiles separated carbon-fixation potential concentrated in glacial MAGs, a foreland denitrification hotspot, and sulfur-oxidation potential dominant in the fjord.",
+      "pkg:subject": {
+        "@id": "habitat:glacier-foreland"
+      },
+      "pkg:predicate": "encodes_potential_for",
+      "pkg:object": {
+        "@id": "process:denitrification"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:liu-2026-svalbard-glacier-microbial-filtering"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:080-amundsen-sea-ice-selective-iron",
+      "@type": "pkg:Claim",
+      "schema:text": "The Amundsen sea-ice zone showed selective total-iron enrichment relative to offshore waters without comparable enrichment of the other measured metals, a pattern consistent with sea-ice melt supplying iron.",
+      "pkg:subject": {
+        "@id": "habitat:sea-ice"
+      },
+      "pkg:predicate": "supplies",
+      "pkg:object": {
+        "@id": "nutrient:iron"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:ge-2026-amundsen-trace-metals"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:081-amundsen-iron-response-varies",
+      "@type": "pkg:Claim",
+      "schema:text": "Five-day iron additions produced little chlorophyll response in the polynya, a larger offshore response, and a highly variable sea-ice-zone response, showing that iron sensitivity differs across Amundsen hydrographic regimes.",
+      "pkg:subject": {
+        "@id": "driver:trace-metal-availability"
+      },
+      "pkg:predicate": "drives",
+      "pkg:object": {
+        "@id": "process:carbon-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:ge-2026-amundsen-trace-metals"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:082-ross-sea-core-eukaryotes",
+      "@type": "pkg:Claim",
+      "schema:text": "A two-year Ross Sea eDNA survey detected 92 eukaryotic species in both 2024 and 2025, including Antarctic diatoms and dinoflagellates.",
+      "pkg:subject": {
+        "@id": "region:ross-sea"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "realm:eukaryota"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:choi-2026-ross-sea-edna"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:083-ross-water-mass-eukaryotes",
+      "@type": "pkg:Claim",
+      "schema:text": "Thermal stratification and water-mass properties were the leading measured correlates of vertical and horizontal Ross Sea eukaryotic community separation.",
+      "pkg:subject": {
+        "@id": "driver:water-mass"
+      },
+      "pkg:predicate": "drives",
+      "pkg:object": {
+        "@id": "process:phytoplankton-community-shift"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:choi-2026-ross-sea-edna"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:084-dispersant-selects-gammaproteobacteria",
+      "@type": "pkg:Claim",
+      "schema:text": "Dispersed-oil and dispersant-only ice showed early enrichment of Gammaproteobacteria, including Oleispira, Bermanella, and Pseudoalteromonas, relative to clean experimental ice.",
+      "pkg:subject": {
+        "@id": "driver:chemical-dispersant"
+      },
+      "pkg:predicate": "increases",
+      "pkg:object": {
+        "@id": "taxon:oleispira"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:nolvak-2026-arctic-ice-oil-mesocosm"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:085-oil-ice-degradation-potential",
+      "@type": "pkg:Claim",
+      "schema:text": "Oil- and dispersant-exposed experimental sea ice accumulated hydrocarbon-degradation gene potential, but heavy hydrocarbons showed less than 10% depletion after 89 days.",
+      "pkg:subject": {
+        "@id": "habitat:sea-ice"
+      },
+      "pkg:predicate": "encodes_potential_for",
+      "pkg:object": {
+        "@id": "process:hydrocarbon-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:nolvak-2026-arctic-ice-oil-mesocosm"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:086-ridge-algal-biomass-hotspot",
+      "@type": "pkg:Claim",
+      "schema:text": "MOSAiC pressure ridges contained unique communities and summer algal biomass up to eight-fold higher than level ice or surface water.",
+      "pkg:subject": {
+        "@id": "habitat:sea-ice-ridge"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "taxon:ice-algae"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:muller-2026-arctic-sea-ice-ridges"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "high"
+    },
+    {
+      "@id": "claim:087-ridge-chlorophyll-scaling",
+      "@type": "pkg:Claim",
+      "schema:text": "For a 40-square-kilometre MOSAiC area in July, ridges occupying 22% of sea-ice area were estimated to contain 80 ± 20% of area-integrated ice-associated chlorophyll a.",
+      "pkg:subject": {
+        "@id": "habitat:sea-ice-ridge"
+      },
+      "pkg:predicate": "supports",
+      "pkg:object": {
+        "@id": "process:ice-algal-primary-production"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:muller-2026-arctic-sea-ice-ridges"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:088-rotten-ice-distinct-microbiome",
+      "@type": "pkg:Claim",
+      "schema:text": "Highly porous July rotten ice near Utqiaġvik contained prokaryotic communities distinct from earlier-season ice and vertically homogeneous within each floe.",
+      "pkg:subject": {
+        "@id": "habitat:rotten-sea-ice"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "realm:bacteria"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:frantz-2026-rotten-sea-ice"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:089-rotten-ice-retains-particulates",
+      "@type": "pkg:Claim",
+      "schema:text": "Despite drainage and vertical homogenization of dissolved properties, rotten ice retained particulate carbon, nitrogen, and extracellular polymeric material toward its upper horizons.",
+      "pkg:subject": {
+        "@id": "habitat:rotten-sea-ice"
+      },
+      "pkg:predicate": "harbours",
+      "pkg:object": {
+        "@id": "nutrient:organic-carbon"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:frantz-2026-rotten-sea-ice"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:090-melting-ice-exports-microbes",
+      "@type": "pkg:Claim",
+      "schema:text": "During a 49-hour Fram Strait melt experiment, about one-tenth of bacterial and microeukaryotic taxa in original sea ice were directly traceable in meltwater, with larger cells and aggregates contributing strongly.",
+      "pkg:subject": {
+        "@id": "habitat:sea-ice"
+      },
+      "pkg:predicate": "exports",
+      "pkg:object": {
+        "@id": "realm:bacteria"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:cardozo-mino-2026-sea-ice-melt-export"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:091-melting-ice-exports-molecules",
+      "@type": "pkg:Claim",
+      "schema:text": "Ten of 128 molecular formulae unique to original sea ice were subsequently detected in meltwater, providing a chemical fingerprint of ice-to-water connectivity.",
+      "pkg:subject": {
+        "@id": "process:sea-ice-melt-export"
+      },
+      "pkg:predicate": "transports",
+      "pkg:object": {
+        "@id": "nutrient:organic-carbon"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:cardozo-mino-2026-sea-ice-melt-export"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    }
+  ]
+}

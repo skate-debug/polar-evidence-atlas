@@ -1,0 +1,332 @@
+id,type,label,description,year,domains,poles,doi
+pole:arctic,Pole,Arctic,"Ocean-centred northern polar region, here including the Arctic Ocean, its marginal seas, islands, terrestrial catchments, permafrost, and gateways.",,,,
+pole:antarctic,Pole,Antarctic,"Continent-centred southern polar region, including Antarctica, its ice sheet and shelves, surrounding islands, and the Southern Ocean.",,,,
+pole:bipolar,Pole,Bipolar,"A pattern, comparison, or distribution involving both polar regions.",,,,
+region:arctic-ocean,Region,Arctic Ocean,"Small, strongly stratified ocean surrounded by continents and connected to the Pacific and Atlantic through restricted gateways.",,,,
+region:southern-ocean,Region,Southern Ocean,"Circumpolar ocean surrounding Antarctica and linking the Atlantic, Indian, and Pacific basins.",,,,
+region:central-arctic,Region,Central Arctic Ocean,Deep central basins and ridges of the Arctic Ocean.,,,,
+region:fram-strait,Region,Fram Strait,Deep Atlantic–Arctic gateway between Greenland and Svalbard.,,,,
+region:west-spitsbergen-current,WaterMass,West Spitsbergen Current,Northward-flowing branch carrying warm Atlantic-origin water through eastern Fram Strait.,,,,
+region:east-greenland-current,WaterMass,East Greenland Current,Southward flow exporting Arctic-origin water and sea ice along Greenland.,,,,
+region:canada-basin,Region,Canada Basin,Major Amerasia Basin component with strong freshwater stratification.,,,,
+region:eurasia-basin,Region,Eurasia Basin,Arctic deep basin divided into the Nansen and Amundsen basins by the Gakkel Ridge.,,,,
+region:amerasia-basin,Region,Amerasia Basin,Arctic basin including the Canada and Makarov basins and intervening ridges.,,,,
+region:gakkel-ridge,Region,Gakkel Ridge,Ultraslow-spreading mid-ocean ridge crossing the Eurasia Basin.,,,,
+region:lomonosov-ridge,Region,Lomonosov Ridge,Continental ridge separating the Amerasia and Eurasia basins.,,,,
+region:greenland,Region,Greenland,Large Arctic island bearing the Greenland Ice Sheet.,,,,
+region:svalbard,Region,Svalbard,High-Arctic archipelago north of Norway.,,,,
+region:storfjordrenna,Region,Storfjordrenna,Trough south of Svalbard influenced by Arctic and Atlantic water masses.,,,,
+region:lake-a,Region,Lake A,"Meromictic High-Arctic lake on Ellesmere Island containing anoxic, sulfidic relict seawater.",,,,
+region:bonanza-creek,Region,Bonanza Creek LTER,Interior Alaska boreal–permafrost research site.,,,,
+region:qeqertarsuaq,Region,"Qeqertarsuaq, West Greenland",Arctic coastal waters influenced by seasonal glacial melt.,,,,
+region:siberian-shelves,Region,Siberian Arctic shelves,"Broad shallow Kara, Laptev, East Siberian, and Chukchi shelf system with strong river, sea-ice, sediment, and Pacific-water influence.",,,,
+region:arctic-continental-slope,Region,Arctic continental slope,Narrow transition between broad Arctic shelves and deep central basins; an important boundary-current and nutrient-transport corridor.,,,,
+region:antarctica,Region,Antarctica,Ice-covered southern continent divided broadly into East and West Antarctica by the Transantarctic Mountains.,,,,
+region:east-antarctica,Region,East Antarctica,"Predominantly high, old continental-crust sector of Antarctica.",,,,
+region:west-antarctica,Region,West Antarctica,"Lower-elevation, tectonically complex sector containing marine-based ice-sheet basins.",,,,
+region:antarctic-peninsula,Region,Antarctic Peninsula,Maritime Antarctic mountain chain extending toward South America.,,,,
+region:ross-ice-shelf,Region,Ross Ice Shelf,Large floating ice shelf fringing the Ross Sea.,,,,
+region:mercer-subglacial-lake,Region,Mercer Subglacial Lake,Hydrologically active lake beneath the West Antarctic Ice Sheet.,,,,
+region:marguerite-bay,Region,Marguerite Bay,West Antarctic Peninsula shelf embayment containing the Rothera Time-Series site.,,,,
+region:rothera-time-series,Region,Rothera Time-Series,"Long-term coastal ocean site in Ryder Bay/Marguerite Bay at 67.572°S, 68.231°W.",,,,
+region:king-george-island,Region,King George Island,South Shetland Island with research stations and terrestrial contamination gradients.,,,,
+region:deception-island,Region,Deception Island,Active volcanic caldera island with geothermal habitats.,,,,
+region:livingston-island,Region,Livingston Island,South Shetland Island with maritime Antarctic soils and glaciers.,,,,
+region:maxwell-bay,Region,Maxwell Bay,Glacial-melt-influenced coastal bay at King George Island.,,,,
+region:dome-fuji,Region,Dome Fuji,High East Antarctic plateau region surveyed for subglacial geology and oldest ice targets.,,,,
+region:mertz-polynya,Region,Mertz Polynya,East Antarctic coastal polynya and site of dense-water formation and intense seasonal production.,,,,
+region:western-antarctic-peninsula,Region,Western Antarctic Peninsula,Rapidly changing coastal and shelf ecosystem west of the Antarctic Peninsula.,,,,
+region:south-georgia,Region,South Georgia,Subantarctic island and productive shelf ecosystem downstream of the Antarctic Circumpolar Current.,,,,
+habitat:marine-water-column,Habitat,Marine water column,Pelagic seawater from surface to deep ocean.,,,,
+habitat:surface-ocean,Habitat,Surface ocean,Sunlit or near-surface marine waters.,,,,
+habitat:deep-ocean,Habitat,Deep ocean,"Mesopelagic, bathypelagic, and abyssal waters.",,,,
+habitat:ice-shelf-cavity,Habitat,Ice-shelf cavity,Dark marine water and sediment beneath a floating ice shelf.,,,,
+habitat:sea-ice,Habitat,Sea ice,"Solid ice, brine channels, and associated biological interfaces.",,,,
+habitat:melt-pond,Habitat,Melt pond,Seasonal water body on sea ice.,,,,
+habitat:surface-microlayer,Habitat,Sea-surface microlayer,Submillimetre air–water interface.,,,,
+habitat:polar-soil,Habitat,Polar soil,"Cold, often oligotrophic terrestrial mineral or organic soil.",,,,
+habitat:contaminated-soil,Habitat,Hydrocarbon-contaminated soil,Soil affected by petroleum hydrocarbons and associated nutrient imbalance.,,,,
+habitat:permafrost,Habitat,Permafrost,Ground remaining frozen for at least two consecutive years.,,,,
+habitat:peat,Habitat,Peat soil,Organic-rich wetland soil storing substantial carbon.,,,,
+habitat:subglacial-lake,Habitat,Subglacial lake,Liquid-water ecosystem beneath an ice sheet.,,,,
+habitat:glacier-foreland,Habitat,Glacier foreland,Recently deglaciated terrain forming a primary-succession chronosequence.,,,,
+habitat:geothermal-soil,Habitat,Antarctic geothermal habitat,Volcanically warmed soil or sediment within Antarctica.,,,,
+habitat:lake,Habitat,Polar lake,"Fresh, brackish, or meromictic inland water body.",,,,
+habitat:sponge-holobiont,Habitat,Sponge holobiont,"Sponge host plus associated bacteria, archaea, and microbial eukaryotes.",,,,
+habitat:benthos,Habitat,Marine benthos,Seafloor and organisms living on or in it.,,,,
+habitat:coastal-polynya,Habitat,Coastal polynya,Persistent or recurrent open-water area within coastal sea ice.,,,,
+habitat:plastisphere,Habitat,Marine plastisphere,Biofilm community colonizing plastic debris.,,,,
+habitat:ice-cap-surface,Habitat,Ice-cap surface,Supraglacial snow and ice exposed to light.,,,,
+habitat:marine-sediment,Habitat,Marine sediment,Deposited seafloor material and porewater habitat.,,,,
+realm:viruses,Realm,Viruses,"DNA and RNA viruses, including bacteriophages, archaeal viruses, and eukaryotic viruses.",,,,
+realm:bacteria,Realm,Bacteria,Domain Bacteria.,,,,
+realm:archaea,Realm,Archaea,Domain Archaea.,,,,
+realm:eukaryota,Realm,Eukaryota,Microbial and macroscopic eukaryotes.,,,,
+taxon:caudoviricetes,Taxon,Caudoviricetes,Class containing tailed double-stranded DNA bacteriophages.,,,,
+taxon:nucleocytoviricota,Taxon,Nucleocytoviricota,Phylum of large and giant double-stranded DNA viruses infecting eukaryotes.,,,,
+taxon:mirusviricota,Taxon,Mirusviricota,Eukaryote-associated large DNA viruses with evolutionary links to herpesviruses and giant viruses.,,,,
+taxon:crassvirales,Taxon,Crassvirales,Order of tailed bacteriophages.,,,,
+taxon:polinton-like-viruses,Taxon,Polinton-like viruses,Large eukaryotic DNA viruses related to polintons and virophages.,,,,
+taxon:virophages,Taxon,Virophages,Viruses that parasitize the replication systems of giant viruses.,,,,
+taxon:pithoviridae,Taxon,Pithoviridae-like giant viruses,Large DNA viruses found in permafrost and other environments.,,,,
+taxon:marseilleviridae,Taxon,Marseilleviridae,Family of giant viruses infecting eukaryotes.,,,,
+taxon:flavobacteriaceae,Taxon,Flavobacteriaceae,Bacterial family commonly associated with marine organic-matter degradation and blooms.,,,,
+taxon:pelagibacteraceae,Taxon,Pelagibacteraceae,Abundant marine alphaproteobacterial family including SAR11 lineages.,,,,
+taxon:nitrosopumilaceae,Taxon,Nitrosopumilaceae,Ammonia-oxidizing archaeal family.,,,,
+taxon:nitrosopumilus,Taxon,Candidatus Nitrosopumilus,Marine ammonia-oxidizing archaeal genus.,,,,
+taxon:thioglobus,Taxon,Thioglobus,Sulfur-oxidizing bacterial genus.,,,,
+taxon:patescibacteria,Taxon,Patescibacteria,Radiation of bacteria with generally small cells and reduced genomes.,,,,
+taxon:nitrospira,Taxon,Comammox Nitrospira clade B,Bacteria capable of complete ammonia oxidation in a single organism.,,,,
+taxon:tariuqbacteria,Taxon,Candidatus Tariuqbacteria,"Proposed bacterial class from anoxic, sulfidic relict seawater in High-Arctic Lake A.",,,,
+taxon:amylibacter,Taxon,Amylibacter,Marine alphaproteobacterial genus associated with late-summer Arctic microbiomes.,,,,
+taxon:pelagibacter,Taxon,Pelagibacter,Ubiquitous marine SAR11 bacterium with polar genomic adaptations.,,,,
+taxon:diazotrophs,Taxon,Diazotrophs,Organisms capable of biological dinitrogen fixation.,,,,
+taxon:ucyn-a,Taxon,UCYN-A,"Symbiotic unicellular cyanobacterial diazotroph, Candidatus Atelocyanobacterium thalassa.",,,,
+taxon:diatoms,Taxon,Diatoms,Silica-walled photosynthetic stramenopiles important to polar production and carbon export.,,,,
+taxon:haptophytes,Taxon,Haptophytes,Photosynthetic or mixotrophic eukaryotic plankton including Phaeocystis lineages.,,,,
+taxon:cryptophytes,Taxon,Cryptophytes,"Small flagellated algae often favored in fresher, stratified Antarctic coastal waters.",,,,
+taxon:syndiniales,Taxon,Syndiniales,Diverse parasitic dinoflagellates prominent in marine microeukaryotic communities.,,,,
+taxon:cercozoa,Taxon,Cercozoa,Diverse protists including heterotrophic and parasitic lineages.,,,,
+taxon:mast,Taxon,Marine stramenopiles (MAST),Mostly heterotrophic marine stramenopile lineages.,,,,
+taxon:antarctic-benthos,Taxon,Antarctic benthic assemblages,Diverse and often endemic seafloor fauna and associated communities.,,,,
+taxon:snow-algae,Taxon,Antarctic snow and ice algae,Photosynthetic eukaryotes forming visible blooms on snow and ice.,,,,
+taxon:sponge-microbiome,Taxon,Antarctic sponge microbiome,"Host-associated bacterial, archaeal, and eukaryotic consortia.",,,,
+process:viral-lysis,Process,Viral lysis,Virus-mediated rupture and mortality of host cells.,,,,
+process:lysogeny,Process,Lysogeny,Integration or stable maintenance of a viral genome in a host lineage.,,,,
+process:viral-shunt,Process,Viral shunt,Release of cellular material to dissolved and particulate pools through viral infection and lysis.,,,,
+process:cold-adaptation,Process,Cold adaptation,"Genomic, biochemical, or physiological adjustment to low temperature.",,,,
+process:carbon-fixation,Process,Carbon fixation,Biological conversion of inorganic carbon to organic matter.,,,,
+process:carbon-export,Process,Biological carbon export,Transfer of biologically produced carbon from surface waters to ocean interior or sediments.,,,,
+process:biological-carbon-pump,Process,Biological carbon pump,"Biological production, transformation, and downward transport that stores carbon in the ocean.",,,,
+process:nitrogen-fixation,Process,Nitrogen fixation,Conversion of dinitrogen gas to biologically available nitrogen.,,,,
+process:nitrification,Process,Nitrification,Oxidation of ammonia to nitrite and nitrate.,,,,
+process:denitrification,Process,Denitrification,Reduction of nitrate/nitrite toward gaseous nitrogen products.,,,,
+process:sulfur-oxidation,Process,Sulfur oxidation,Oxidation of reduced sulfur compounds for energy or detoxification.,,,,
+process:sulfur-reduction,Process,Sulfur and sulfate reduction,Anaerobic reduction of sulfur species.,,,,
+process:trace-gas-oxidation,Process,Atmospheric trace-gas oxidation,Microbial use of gases such as hydrogen or carbon monoxide at low concentration.,,,,
+process:primary-succession,Process,Primary succession,Community establishment on newly exposed substrate.,,,,
+process:microbial-seasonality,Process,Microbial seasonal succession,Recurring taxonomic or functional community change through an annual cycle.,,,,
+process:atlantification,Process,Atlantification,"Increasing Atlantic-water influence and associated physical, chemical, and biological change in the Arctic.",,,,
+process:overturning-circulation,Process,Overturning circulation,"Large-scale density-driven exchange among surface, intermediate, deep, and abyssal waters.",,,,
+process:dense-water-formation,Process,Dense-water formation,"Production and sinking of cold, saline water, often aided by sea-ice brine rejection.",,,,
+process:upwelling,Process,Upwelling,Vertical movement of deeper water and its dissolved constituents toward the surface.,,,,
+process:riverine-supply,Process,Riverine nutrient and carbon supply,Transport of dissolved and particulate material from land to the Arctic Ocean.,,,,
+process:coastal-erosion-supply,Process,Coastal-erosion supply,"Release of carbon, nutrients, and sediment through erosion of Arctic coasts.",,,,
+process:chemical-weathering,Process,Chemical weathering,Rock and mineral dissolution and alteration that releases solutes.,,,,
+process:phytoplankton-community-shift,Process,Phytoplankton community reorganization,Change in the relative contribution of phytoplankton groups.,,,,
+process:antiviral-defense,Process,Prokaryotic antiviral defense,"CRISPR–Cas and other mechanisms that recognize, restrict, or retain molecular memory of mobile genetic elements.",,,,
+process:subglacial-drainage,Process,Subglacial drainage,"Filling, connection, and drainage of water bodies beneath an ice sheet.",,,,
+process:surface-melt,Process,Snow and ice surface melt,Production of liquid water by surface energy absorption and melting.,,,,
+process:hydrothermal-circulation,Process,Hydrothermal circulation,Seawater circulation through geothermally heated ocean crust and return of heat and reaction products to the ocean.,,,,
+process:seafloor-spreading,Process,Seafloor spreading,Creation and extension of oceanic crust at a divergent plate boundary.,,,,
+process:tectonic-assembly,Process,Crustal and supercontinent assembly,"Accretion, collision, rifting, and reworking that construct continental and ocean-basin architecture.",,,,
+driver:sea-ice-cover,Driver,Sea-ice cover,"Extent, concentration, thickness, duration, and seasonality of sea ice.",,,,
+driver:temperature,Driver,Temperature,"Thermal state of air, ice, soil, sediment, or water.",,,,
+driver:salinity,Driver,Salinity,Dissolved salt concentration and its contribution to density structure.,,,,
+driver:light,Driver,Light availability and spectrum,Amount and spectral quality of photosynthetically available radiation.,,,,
+driver:freshwater,Driver,Freshwater input,"River, precipitation, sea-ice, iceberg, and glacial meltwater input.",,,,
+driver:glacial-retreat,Driver,Glacial retreat,Loss and landward retreat of glacier or ice-sheet margins.,,,,
+driver:atlantic-water,Driver,Atlantic Water inflow,"Advection of relatively warm, saline Atlantic-origin water into the Arctic.",,,,
+driver:hydrocarbon-contamination,Driver,Hydrocarbon contamination,Petroleum-derived environmental disturbance.,,,,
+driver:oxygen,Driver,Oxygen availability,Oxic–anoxic gradient structuring aerobic and anaerobic metabolism.,,,,
+driver:ph,Driver,pH,Acidity/alkalinity condition shaping community composition and mineral chemistry.,,,,
+driver:moisture,Driver,Moisture availability,Liquid-water availability in terrestrial habitats.,,,,
+driver:water-mass,Driver,Water-mass identity,"Integrated hydrographic setting characterized by temperature, salinity, oxygen, and history.",,,,
+driver:permafrost-thaw,Driver,Permafrost thaw,Warming and loss of perennially frozen ground.,,,,
+driver:bathymetry,Driver,Seafloor bathymetry,"Depth and shape of shelves, slopes, basins, ridges, sills, and gateways that steer water and modify mixing.",,,,
+driver:wind,Driver,Wind forcing,"Atmospheric stress and heat exchange that move sea ice, open polynyas, and drive ocean circulation.",,,,
+driver:environmental-filtering,Driver,Environmental filtering,Deterministic selection of organisms by local physical and chemical conditions.,,,,
+nutrient:nitrate,Nutrient,Nitrate,Oxidized dissolved inorganic nitrogen source.,,,,
+nutrient:ammonium,Nutrient,Ammonium,Reduced dissolved inorganic nitrogen source and nitrification substrate.,,,,
+nutrient:phosphate,Nutrient,Phosphate,Major dissolved inorganic phosphorus source.,,,,
+nutrient:silicate,Nutrient,Silicate,Dissolved silicon used by diatoms to build frustules.,,,,
+nutrient:iron,Nutrient,Iron,Trace metal that limits or co-limits much Southern Ocean phytoplankton growth.,,,,
+nutrient:manganese,Nutrient,Manganese,Trace metal that can co-limit Southern Ocean phytoplankton growth and nutrient drawdown.,,,,
+nutrient:organic-carbon,Nutrient,Organic carbon,Dissolved or particulate reduced carbon serving as substrate and carbon-cycle pool.,,,,
+nutrient:dissolved-inorganic-nitrogen,Nutrient,Dissolved inorganic nitrogen,"Combined nitrate, nitrite, and ammonium available for transport and biological use.",,,,
+nutrient:sulfate,Nutrient,Sulfate,Oxidized sulfur anion produced by sulfide weathering and used as an anaerobic electron acceptor.,,,,
+water:atlantic-water,WaterMass,Atlantic Water,"Relatively warm, saline water entering the Arctic through Fram Strait and the Barents Sea.",,,,
+water:pacific-water,WaterMass,Pacific Water,"Water entering the Arctic through Bering Strait, carrying heat and nutrients.",,,,
+water:arctic-halocline,WaterMass,Arctic halocline,Strong salinity stratification that separates fresh surface water from warmer Atlantic-origin water.,,,,
+water:antarctic-circumpolar-current,WaterMass,Antarctic Circumpolar Current,Strong eastward circumpolar current connecting the major ocean basins.,,,,
+water:circumpolar-deep-water,WaterMass,Circumpolar Deep Water,"Relatively warm, nutrient- and carbon-rich Southern Ocean deep water that upwells and can access continental shelves.",,,,
+water:antarctic-bottom-water,WaterMass,Antarctic Bottom Water,Dense abyssal water formed from Antarctic shelf waters and exported to the global ocean.,,,,
+water:antarctic-surface-water,WaterMass,Antarctic Surface Water,Cold upper-ocean water north of the continent and south of the polar front.,,,,
+water:dense-shelf-water,WaterMass,Antarctic Dense Shelf Water,Cold saline shelf water produced partly through sea-ice formation and brine rejection; a precursor to Antarctic Bottom Water.,,,,
+method:shotgun-metagenomics,Method,Shotgun metagenomics,Untargeted sequencing of community DNA.,,,,
+method:viral-metagenomics,Method,Viral metagenomics,Metagenomics enriched for viral particles or sequences.,,,,
+method:metatranscriptomics,Method,Metatranscriptomics,Community RNA sequencing used to assess expressed genes and active populations.,,,,
+method:long-read-metagenomics,Method,Long-read metagenomics,PacBio or nanopore sequencing enabling long genomic assemblies.,,,,
+method:amplicon-sequencing,Method,16S/18S amplicon sequencing,Marker-gene sequencing for community composition.,,,,
+method:single-cell-genomics,Method,Single-cell genomics,Genome amplification and sequencing from individual cells.,,,,
+method:hi-c,Method,Hi-C metagenomics,Chromosome-conformation capture used to link DNA fragments and mobile elements to genomes.,,,,
+method:stable-isotope-probing,Method,Stable-isotope probing,Tracing substrate assimilation using isotopically labeled material.,,,,
+method:flow-cytometry,Method,Flow cytometry,Particle or cell counting and characterization by optical signals.,,,,
+method:network-analysis,Method,Ecological network analysis,Inference of associations or candidate interactions from co-variation and graph structure.,,,,
+method:remote-sensing,Method,Remote sensing,Satellite or airborne observation of surface properties.,,,,
+method:ocean-biogeochemical-model,Method,Ocean biogeochemical modeling,"Numerical simulation coupling circulation, nutrients, ecosystems, and carbon.",,,,
+method:review-synthesis,Method,Review synthesis,"Structured synthesis of published observations, experiments, and models.",,,,
+method:airborne-geophysics,Method,Airborne geophysics,"Magnetic, radar, gravity, or related measurements collected from aircraft.",,,,
+method:seda-dna,Method,Sedimentary ancient DNA metabarcoding,Recovery and marker-gene analysis of preserved DNA from dated sediment.,,,,
+method:pigment-analysis,Method,Diagnostic pigment analysis,HPLC pigment measurements and algorithms used to infer phytoplankton groups.,,,,
+method:sediment-trap,Method,Sediment trap,Collection of sinking particles to estimate vertical flux.,,,,
+method:genome-resolved-analysis,Method,Genome-resolved metagenomic analysis,"Assembly, binning, and interpretation of metagenome-assembled genomes.",,,,
+region:aasiaat,Region,Aasiaat coastal region,Western Greenland coastal and channel system around Aasiaat used for community-engaged bathymetry and relative sea-level assessment.,,,,
+region:bayelva,Region,Bayelva permafrost observatory,"High-Arctic permafrost and active-layer monitoring area near Ny-Alesund, Svalbard.",,,,
+region:gough-island,Region,Gough Island,Remote South Atlantic island used for sub-Antarctic wildlife and disease surveillance.,,,,
+region:prydz-bay,Region,Prydz Bay,East Antarctic embayment and continental-shelf region used for marine biological and physical observations.,,,,
+habitat:active-layer-soil,Habitat,Permafrost active-layer soil,Seasonally thawed soil above perennially frozen ground.,,,,
+habitat:benthic-microbial-mat,Habitat,Benthic microbial mat,"Layered, surface-attached microbial community growing on lake or marine sediment.",,,,
+taxon:polar-bear,Taxon,Polar bear (Ursus maritimus),Arctic marine mammal used in comparative and conservation genomics.,,,,
+taxon:brown-bear,Taxon,Brown bear (Ursus arctos),Holarctic bear lineage compared with polar bears in evolutionary genomics.,,,,
+taxon:great-skua,Taxon,Great skua (Stercorarius skua),Wide-ranging seabird implicated in movement of avian pathogens among remote islands.,,,,
+taxon:h5n1-clade-2344b,Taxon,H5N1 clade 2.3.4.4b,Highly pathogenic avian influenza A virus lineage detected in polar and subpolar wildlife.,,,,
+process:southern-ocean-teleconnection,Process,Southern Ocean-to-tropics teleconnection,Atmospheric and coupled-ocean pathway by which Southern Ocean forcing influences tropical climate.,,,,
+process:transposable-element-insertion,Process,Transposable-element insertion,"Integration of a mobile DNA sequence into a genome, potentially changing local regulation or structure.",,,,
+process:gene-regulation,Process,Gene regulation,"Control of gene expression through promoters, enhancers, untranslated regions, chromatin, and related mechanisms.",,,,
+process:relative-sea-level-change,Process,Relative sea-level change,Change in sea-surface height relative to the moving solid Earth at a particular coast.,,,,
+process:coastal-water-exchange,Process,Coastal water exchange,"Movement and renewal of water, dissolved constituents, and particles through coastal channels and embayments.",,,,
+process:phosphorus-cycling,Process,Phosphorus cycling,"Biological and geochemical uptake, transformation, storage, and release of phosphorus compounds.",,,,
+process:organic-matter-degradation,Process,Organic-matter degradation,Biological breakdown and remineralization of organic substrates.,,,,
+process:microbial-growth,Process,Microbial growth,Production of new microbial biomass and DNA following resource or environmental change.,,,,
+process:microbial-predation,Process,Microbial predation and epibiosis,"Growth supported by attacking, consuming, or attaching to other microbial cells.",,,,
+process:seabird-migration,Process,Seabird movement among islands,"Foraging, migration, or dispersal movements that can connect remote island populations and pathogens.",,,,
+driver:climate-model-mean-state,Driver,Climate-model mean-state bias,Persistent simulated background-climate error that alters modeled feedbacks and teleconnections.,,,,
+driver:southern-annular-mode,Driver,Southern Annular Mode,Leading mode of Southern Hemisphere extratropical atmospheric circulation variability.,,,,
+driver:glacial-isostatic-adjustment,Driver,Glacial isostatic adjustment,Solid-Earth deformation and gravity change following past and ongoing ice-mass redistribution.,,,,
+method:coupled-climate-model,Method,Coupled climate modeling,"Numerical experiments coupling atmosphere, ocean, sea ice, and sometimes ice sheets or land.",,,,
+method:whole-genome-resequencing,Method,Whole-genome resequencing,Genome-wide sequencing of multiple individuals against one or more reference assemblies.,,,,
+method:multibeam-bathymetry,Method,Multibeam bathymetric mapping,Ship-based acoustic mapping of seafloor depth and morphology.,,,,
+method:community-knowledge,Method,Community knowledge co-production,Research design and interpretation that formally integrates knowledge and priorities of local communities.,,,,
+method:multi-omics,Method,Integrated multi-omics,"Joint analysis of genomic, transcriptomic, proteomic, metabolomic, or related molecular layers.",,,,
+method:quantitative-stable-isotope-probing,Method,Quantitative stable-isotope probing,Taxon-resolved estimation of growth or substrate incorporation from density shifts in isotope-labeled nucleic acids.,,,,
+method:climate-reanalysis,Method,Climate reanalysis,Dynamically consistent reconstruction combining observations with a numerical weather or climate model.,,,,
+method:phylogenetics,Method,Phylogenetic analysis,Reconstruction of evolutionary relationships and candidate dispersal histories from sequence data.,,,,
+method:animal-tracking,Method,Animal movement tracking,Telemetry or geolocation used to reconstruct wildlife movements and possible connectivity.,,,,
+method:glacial-isostatic-modeling,Method,Glacial-isostatic-adjustment modeling,Numerical modeling of solid-Earth deformation and gravity change caused by ice-mass history.,,,,
+method:viral-whole-genome-sequencing,Method,Viral whole-genome sequencing,Recovery and comparison of near-complete or complete viral genomes from isolates or clinical and environmental samples.,,,,
+method:long-read-genome-sequencing,Method,Long-read genome sequencing,"PacBio HiFi, nanopore, or comparable long-read sequencing used to assemble an organismal reference genome.",,,,
+habitat:fur-seal-gut,Habitat,Antarctic fur-seal gut,Host-associated intestinal microbial habitat represented by Antarctic fur-seal fecal material.,,,,
+taxon:jonahs-icefish,Taxon,Jonah's icefish (Neopagetopsis ionah),Hemoglobin-free Antarctic notothenioid fish endemic to the Southern Ocean.,,,,
+taxon:antarctic-fur-seal,Taxon,Antarctic fur seal (Arctocephalus gazella),Antarctic and sub-Antarctic pinniped whose diet and gut microbiome connect marine and terrestrial coastal ecosystems.,,,,
+taxon:micromonas-polaris,Taxon,Micromonas polaris,Cold-adapted picophytoplankton species and host for Arctic prasinoviruses.,,,,
+taxon:mpov-44t-a,Taxon,Micromonas polaris virus MpoV-44T.A,Lytic Arctic dsDNA prasinovirus separated from the mixed MpoV-44T culture.,,,,
+taxon:mpov-44t-b,Taxon,Micromonas polaris virus MpoV-44T.B,Lytic Arctic dsDNA prasinovirus co-isolated with MpoV-44T.A and comparatively abundant in Arctic metagenomes.,,,,
+process:chitin-degradation,Process,Chitin degradation,Enzymatic depolymerization and utilization of chitin from crustacean or other biological material.,,,,
+process:antimicrobial-resistance,Process,Antimicrobial resistance potential,Genomic capacity that may confer reduced susceptibility to antimicrobial compounds; gene detection alone does not establish phenotype.,,,,
+driver:nutrient-availability,Driver,Nutrient availability,Concentration and form of growth-limiting or supporting nutrients in an organism's environment.,,,,
+region:weddell-gyre,Region,Weddell Gyre,Cyclonic Southern Ocean gyre and sea-ice domain spanning the Weddell Sea sector.,,,,
+region:ross-sea,Region,Ross Sea,Antarctic marginal sea containing a large marine protected area and strongly stratified shelf water masses.,,,,
+region:amundsen-sea,Region,Amundsen Sea,"West Antarctic marginal sea containing productive polynyas, seasonal sea ice, and strong ice-sheet–ocean connections.",,,,
+region:ny-alesund,Region,Ny-Ålesund,"High-Arctic research settlement and glacier–foreland–fjord study region in western Spitsbergen, Svalbard.",,,,
+region:ofotfjorden,Region,Ofotfjorden,Cold Norwegian fjord whose seawater was used to form experimental Arctic sea ice for oil-response studies.,,,,
+region:utqiagvik,Region,Utqiaġvik,Alaskan Arctic coastal and landfast-sea-ice study region bordering the Chukchi and Beaufort seas.,,,,
+habitat:bottom-sea-ice,Habitat,Bottom sea ice,"Porous basal sea-ice layer at the ice–ocean interface where algae, microbes, organic matter, and nutrients concentrate.",,,,
+habitat:sea-ice-ridge,Habitat,Sea-ice pressure ridge,"Deformed sea ice containing rubble, brine channels, block surfaces, and water-filled or refrozen voids.",,,,
+habitat:rotten-sea-ice,Habitat,Rotten sea ice,"Highly porous, brine-drained sea ice in an advanced stage of summer melt.",,,,
+habitat:glacial-ice,Habitat,Glacial ice,Land-derived glacier ice and its resident or entrained microbial community.,,,,
+habitat:glacier-fed-freshwater,Habitat,Glacier-fed freshwater,"Proglacial lakes and streams carrying water, solutes, particles, and microorganisms from retreating glaciers.",,,,
+habitat:fjord,Habitat,Fjord,"Glacially carved coastal marine basin receiving terrestrial, glacial, and oceanic inputs.",,,,
+taxon:gammaproteobacteria,Taxon,Gammaproteobacteria,"Bacterial class containing many abundant marine, sea-ice, heterotrophic, and hydrocarbon-responsive lineages.",,,,
+taxon:bacteroidia,Taxon,Bacteroidia,Bacterial class containing abundant degraders of algal and other complex organic matter in polar marine systems.,,,,
+taxon:ice-algae,Taxon,Sea-ice algae,"Photosynthetic eukaryotes living within or attached to sea ice, commonly dominated by pennate diatoms.",,,,
+taxon:oleispira,Taxon,Oleispira,Cold-adapted gammaproteobacterial genus containing obligate or specialized hydrocarbon degraders.,,,,
+taxon:bermanella,Taxon,Bermanella,Marine gammaproteobacterial genus reported in cold hydrocarbon-exposed communities.,,,,
+taxon:pseudoalteromonas,Taxon,Pseudoalteromonas,Marine gammaproteobacterial genus with metabolically diverse and particle-associated representatives.,,,,
+process:dmsp-cycling,Process,DMSP cycling,"Biological synthesis, demethylation, cleavage, and recycling of dimethylsulfoniopropionate and related sulfur compounds.",,,,
+process:ice-algal-primary-production,Process,Sea-ice algal primary production,Photosynthetic carbon fixation by algae living in or attached to sea ice.,,,,
+process:turbulent-nutrient-supply,Process,Turbulent nutrient supply,Transport of dissolved nutrients across an interface by turbulence and mixing.,,,,
+process:microbial-dispersal,Process,Microbial dispersal,"Movement of microorganisms among connected habitats, followed by possible establishment or loss through environmental filtering.",,,,
+process:hydrocarbon-degradation,Process,Hydrocarbon degradation,Microbial transformation and consumption of petroleum-derived hydrocarbons.,,,,
+process:sea-ice-melt-export,Process,Sea-ice melt export,"Release of cells, aggregates, particulate matter, and dissolved molecules from melting sea ice into seawater.",,,,
+process:trace-metal-cycling,Process,Trace-metal cycling,"Inputs, biological uptake, scavenging, phase partitioning, and transport of trace metals in marine systems.",,,,
+driver:turbulence,Driver,Turbulence,Small-scale fluid motion that enhances mixing and material exchange across ocean and ice interfaces.,,,,
+driver:sea-ice-structure,Driver,Sea-ice structure,"Ice thickness, porosity, brine connectivity, deformation, and void geometry that create microbial habitats and control exchange.",,,,
+driver:chemical-dispersant,Driver,Chemical dispersant exposure,"Exposure to surfactant formulations used to disperse crude oil, potentially restructuring microbial communities.",,,,
+driver:thermal-stratification,Driver,Thermal stratification,Vertical density structure caused by temperature differences and associated water-mass layering.,,,,
+driver:trace-metal-availability,Driver,Trace-metal availability,Supply and chemical form of micronutrient or contaminant metals that regulate biological uptake and productivity.,,,,
+nutrient:dmsp,Nutrient,Dimethylsulfoniopropionate (DMSP),"Organosulfur osmolyte and microbial substrate that links stress physiology, sulfur recycling, and dimethyl sulfide production.",,,,
+method:edna-metabarcoding,Method,Environmental-DNA metabarcoding,Taxonomic profiling from environmental DNA using amplified genetic marker regions.,,,,
+method:primary-production-assay,Method,Primary-production assay,Tracer or incubation measurement used to estimate photosynthetic carbon fixation.,,,,
+method:trace-metal-analysis,Method,Trace-metal analysis,Measurement of dissolved and particulate metal concentrations and phase partitioning.,,,,
+method:iron-addition-incubation,Method,Iron-addition incubation,Controlled enrichment experiment used to test phytoplankton responses to added iron.,,,,
+method:mesocosm,Method,Mesocosm experiment,Controlled community-level experiment that retains multiple interacting organisms and environmental processes.,,,,
+method:ft-icr-ms,Method,FT-ICR mass spectrometry,Ultrahigh-resolution mass spectrometry used to assign molecular formulae in complex dissolved organic matter.,,,,
+domain:antarctic-prokaryotes,Domain,Antarctic prokaryotes,Curated literature area: Antarctic prokaryotes.,,,,
+domain:antarctic-viruses,Domain,Antarctic viruses,Curated literature area: Antarctic viruses.,,,,
+domain:arctic-prokaryotes,Domain,Arctic prokaryotes,Curated literature area: Arctic prokaryotes.,,,,
+domain:arctic-viruses,Domain,Arctic viruses,Curated literature area: Arctic viruses.,,,,
+domain:polar-earth-system,Domain,Polar Earth system,Curated literature area: Polar Earth system.,,,,
+domain:polar-eukaryotes,Domain,Polar eukaryotes,Curated literature area: Polar eukaryotes.,,,,
+src:piedade-2024-antarctic-viral-seascape,Source,Seasonal dynamics and diversity of Antarctic marine viruses reveal a novel viral seascape,Observational paired-fraction viral metagenomic time series,2024,Antarctic viruses,Antarctic,10.1038/s41467-024-53317-y
+src:lopez-simon-2023-ross-ice-shelf-viruses,Source,Viruses under the Antarctic Ice Shelf are active and potentially involved in global nutrient cycles,Genome- and transcript-informed viral ecology study,2023,Antarctic viruses|Antarctic prokaryotes|Polar Earth system,Antarctic,10.1038/s41467-023-44028-x
+src:van-goethem-2025-antarctic-immune-systems,Source,Novel adaptive immune systems in pristine Antarctic soils,Genome-resolved metagenomic survey of microbial antiviral systems,2025,Antarctic viruses|Antarctic prokaryotes,Antarctic,10.1038/s41598-024-83942-y
+src:pitot-2024-polar-lake-giant-viruses,Source,Distinct and rich assemblages of giant viruses in Arctic and Antarctic lakes,Comparative metagenomic survey and meta-analysis,2024,Antarctic viruses|Arctic viruses|Polar eukaryotes,Bipolar,10.1093/ismeco/ycae048
+src:frere-martiniuc-2025-king-george-virome,Source,"Viral Diversity in Polar Hydrocarbon-Contaminated Soils: A Transect Study from King George Island, Antarctica",Comparative soil viromics along a contamination transect,2025,Antarctic viruses|Antarctic prokaryotes|Polar Earth system,Antarctic,10.1007/s12560-025-09653-3
+src:calayag-2025-arctic-virus-seasonality,Source,"Arctic Ocean virus communities and their seasonality, bipolarity, and prokaryotic associations",Four-year long-read metagenomic time series with global comparison,2025,Arctic viruses|Arctic prokaryotes,Arctic|Bipolar,10.1038/s41467-025-61568-6
+src:rahlff-2024-arctic-surface-microlayer,Source,Surface microlayer-mediated virome dissemination in the Central Arctic,Genome-resolved metagenomics plus prophage induction,2024,Arctic viruses|Arctic prokaryotes,Arctic,10.1186/s40168-024-01902-0
+src:trubl-2021-arctic-peat-viruses,Source,Active virus-host interactions at sub-freezing temperatures in Arctic peat soil,Stable-isotope-probing incubation metagenomics,2021,Arctic viruses|Arctic prokaryotes|Polar Earth system,Arctic,10.1186/s40168-021-01154-2
+src:rigou-2022-permafrost-giant-viruses,Source,Past and present giant viruses diversity explored through permafrost metagenomics,Permafrost metagenomic and phylogenomic survey,2022,Arctic viruses,Arctic,10.1038/s41467-022-33633-x
+src:meng-2023-polar-giant-virus-adaptation,Source,Genomic adaptation of giant viruses in polar oceans,Global comparative viral biogeography and phylogenomics,2023,Antarctic viruses|Arctic viruses|Polar eukaryotes,Bipolar|Global,10.1038/s41467-023-41910-6
+src:queiroz-2026-arctic-giant-virus-isolates,Source,Isolation of a Cohort of Giant Viruses From Above the Arctic Circle in Northern Norway,Culture-based giant-virus isolation and comparative genomics,2026,Arctic viruses|Polar eukaryotes,Arctic,10.1111/1462-2920.70366
+src:kim-2025-mercer-subglacial-microbiome,Source,Genetic isolation and metabolic complexity of an Antarctic subglacial microbiome,Single-cell genome-resolved subglacial microbiome study,2025,Antarctic prokaryotes|Polar Earth system,Antarctic,10.1038/s41467-025-62753-3
+src:ricci-2025-antarctic-glacier-foreland,Source,Metabolically flexible microorganisms rapidly establish glacial foreland ecosystems,Comparative chronosequence metagenomics and biogeochemistry,2025,Antarctic prokaryotes|Polar Earth system,Antarctic|Global,10.1038/s41467-025-66734-4
+src:han-2024-coastal-antarctic-nitrogen,Source,Unveiling unique microbial nitrogen cycling and nitrification driver in coastal Antarctica,Genome-resolved metagenomics with isotope tracing,2024,Antarctic prokaryotes|Polar Earth system,Antarctic,10.1038/s41467-024-47392-4
+src:myeong-2024-antarctic-geothermal-genomes,Source,"Genomic profiling of Antarctic geothermal microbiomes using long-read, Hi-C, and single-cell techniques",Multi-technology genomic data descriptor,2024,Antarctic prokaryotes,Antarctic,10.1038/s41597-024-03875-z
+src:moreno-pino-2024-antarctic-sponges,Source,Unveiling microbial guilds and symbiotic relationships in Antarctic sponge microbiomes,Three-domain amplicon and genome-resolved holobiont study,2024,Antarctic prokaryotes|Polar eukaryotes,Antarctic,10.1038/s41598-024-56480-w
+src:priest-2025-arctic-microbiome-recurrence,Source,Seasonal recurrence and modular assembly of an Arctic pelagic marine microbiome,Multi-year autonomous molecular and environmental time series,2025,Arctic prokaryotes|Polar eukaryotes,Arctic,10.1038/s41467-025-56203-3
+src:boulton-2025-mosaic-mags,Source,Metagenome-assembled-genomes recovered from the Arctic drift expedition MOSAiC,Year-round multi-habitat genomic data descriptor,2025,Arctic prokaryotes|Polar eukaryotes,Arctic,10.1038/s41597-025-04525-8
+src:priest-2023-biological-atlantification,Source,Atlantic water influx and sea-ice cover drive taxonomic and functional shifts in Arctic marine bacterial communities,Multi-scale time-series amplicon and long-read metagenomic study,2023,Arctic prokaryotes|Polar Earth system,Arctic,10.1038/s41396-023-01461-6
+src:vigneron-2023-tariuqbacteria,Source,Discovery of a novel bacterial class with the capacity to drive sulfur cycling and microbiome structure in a paleo-ocean analog,Genome-centric study of a meromictic High-Arctic lake,2023,Arctic prokaryotes|Polar Earth system,Arctic,10.1038/s43705-023-00287-9
+src:royo-llonch-2021-arctic-mag-catalogue,Source,Compendium of 530 metagenome-assembled bacterial and archaeal genomes from the polar Arctic Ocean,Genome-resolved ocean metagenomic catalogue,2021,Arctic prokaryotes,Arctic,10.1038/s41564-021-00979-9
+src:faure-2026-southern-ocean-water-mass-genes,Source,Water mass specific genes dominate the Southern Ocean microbiome,Circumpolar gene-centric metagenomic survey,2026,Antarctic prokaryotes|Antarctic viruses|Polar Earth system,Antarctic|Bipolar,10.1038/s41467-026-69584-w
+src:medeiros-2026-antarctic-soil-mags,Source,Antarctic soil prokaryotic diversity: a dataset of 319 metagenome-assembled genomes from Deception and Livingston Islands,Metagenome-assembled genome data descriptor,2026,Antarctic prokaryotes,Antarctic,10.1128/mra.01346-25
+src:zeng-2026-maxwell-bay-succession,Source,"Temporal succession and assembly of marine bacterial communities in Maxwell Bay, Antarctica during summer",Short-interval summer amplicon succession study,2026,Antarctic prokaryotes,Antarctic,10.3389/fmicb.2026.1748960
+src:schlangen-2026-greenland-nitrogen-fixation,Source,"Nitrogen fixation in Arctic coastal waters (Qeqertarsuaq, West Greenland): influence of glacial melt on diazotrophs, nutrient availability, and seasonal blooms",Seasonal molecular and biogeochemical rate study,2026,Arctic prokaryotes|Polar eukaryotes|Polar Earth system,Arctic,10.5194/bg-23-1-2026
+src:hayward-2025-antarctic-phytoplankton,Source,Antarctic phytoplankton communities restructure under shifting sea-ice regimes,Circumpolar pigment synthesis with machine learning and satellite/model covariates,2025,Polar eukaryotes|Polar Earth system,Antarctic,10.1038/s41558-025-02379-x
+src:adroli-2026-southern-ocean-regime-shift,Source,Southern Ocean regime shift: divergent trends in surface phytoplankton community composition using a diagnostic pigment framework,Circumpolar diagnostic-pigment and satellite time-series analysis,2026,Polar eukaryotes|Polar Earth system,Antarctic,10.1038/s41467-026-75303-2
+src:oldenburg-2024-fram-strait-winter-reset,Source,Beyond blooms: the winter ecosystem reset determines microeukaryotic community dynamics in the Fram Strait,Four-year microeukaryote time series with dynamical network analysis,2024,Polar eukaryotes|Arctic prokaryotes,Arctic,10.1038/s43247-024-01782-0
+src:griffiths-2024-antarctic-benthos,Source,Antarctic benthic ecological change,"Review of observations, experiments, and ecological models",2024,Polar eukaryotes|Polar Earth system,Antarctic,10.1038/s43017-024-00583-5
+src:horstmann-2024-arctic-fjord-picoplankton,Source,Biogeographic gradients of picoplankton diversity indicate increasing dominance of prokaryotes in warmer Arctic fjords,Cross-fjord community biogeography study,2024,Polar eukaryotes|Arctic prokaryotes|Polar Earth system,Arctic,10.1038/s42003-024-05946-8
+src:thomson-2025-antarctic-ice-cap-algae,Source,Surface darkening by abundant and diverse algae on an Antarctic ice cap,"Field mapping, spectroscopy, cell counts, and metabarcoding",2025,Polar eukaryotes|Polar Earth system,Antarctic,10.1038/s41467-025-57725-6
+src:lacerda-2025-antarctic-plastisphere,Source,Oceanic regions shape the composition of the Antarctic plastisphere,Three-domain environmental-DNA plastisphere survey,2025,Polar eukaryotes|Antarctic prokaryotes,Antarctic,10.1038/s43247-025-02445-4
+src:isla-2025-wap-particle-flux,Source,Intense autumnal coastal biogenic particle settling fluxes align with phytoplankton phenology changes off the western Antarctic Peninsula,Coastal sediment-trap particle-flux study,2025,Polar eukaryotes|Polar Earth system,Antarctic,10.1038/s41598-025-92914-9
+src:nethupul-2026-svalbard-eukaryote-sedadna,Source,Marine eukaryote community responses to the climate and oceanographic changes in Storfjordrenna (southern Svalbard) over the past ~13.3 kyr BP: insights from sedimentary ancient DNA analysis,Sedimentary ancient-DNA paleoecological reconstruction,2026,Polar eukaryotes|Polar Earth system,Arctic,10.5194/bg-23-2525-2026
+src:gaina-2025-arctic-bathymetry,Source,"Arctic Ocean bathymetry and its connections to tectonics, oceanography and climate",Geological and geophysical review synthesis,2025,Polar Earth system,Arctic,10.1038/s43017-025-00647-0
+src:rintoul-2025-antarctic-bottom-water,Source,Antarctic Bottom Water in a changing climate,Physical-oceanographic review and observational synthesis,2025,Polar Earth system,Antarctic,10.1038/s43017-025-00750-2
+src:golledge-2025-antarctic-polynyas,Source,Antarctic coastal polynyas in the global climate system,Cryosphere-ocean review synthesis,2025,Polar Earth system,Antarctic,10.1038/s43017-024-00634-x
+src:boyd-2024-southern-ocean-biota-carbon,Source,The role of biota in the Southern Ocean carbon cycle,Biogeochemical and ecological review synthesis,2024,Polar Earth system|Polar eukaryotes|Antarctic prokaryotes,Antarctic,10.1038/s43017-024-00531-3
+src:oziel-2025-arctic-carbon-pump,Source,Climate change and terrigenous inputs decrease the efficiency of the future Arctic Ocean’s biological carbon pump,Regional high-resolution ocean biogeochemical modelling study,2025,Polar Earth system|Arctic prokaryotes|Polar eukaryotes,Arctic,10.1038/s41558-024-02233-6
+src:santos-garcia-2026-arctic-sea-ice-nitrogen,Source,Sea ice loss drives a regime shift in Arctic Ocean nitrogen biogeochemistry,Data-constrained benthic nitrogen-cycle modelling study,2026,Polar Earth system|Arctic prokaryotes,Arctic,10.1038/s43247-026-03569-x
+src:zhou-2024-antarctic-subglacial-hydrology,Source,The Antarctic Subglacial Hydrological Environment and International Drilling Projects: A Review,Subglacial hydrology and exploration review,2024,Polar Earth system|Antarctic prokaryotes,Antarctic,10.3390/w16081111
+src:guy-2024-dome-fuji-tectonics,Source,"Tectonic structures of the Dome Fuji region, East Antarctica, based on new magnetic data",Airborne geophysical mapping and tectonic interpretation,2024,Polar Earth system,Antarctic,10.1038/s41598-024-69471-8
+src:nikishin-2025-amerasia-tectonics,Source,"Tectonic evolution of the Amerasia Basin, Arctic Ocean",Regional tectonic review and reconstruction,2025,Polar Earth system,Arctic,10.1016/j.gr.2025.06.005
+src:hokada-2024-east-antarctica-geochemistry,Source,"Recent advances in mineralogy, petrology, geochemistry, and geochronology in East Antarctica","Mineralogical, petrological, and geochronological review",2024,Polar Earth system,Antarctic,10.2465/jmps.231105
+src:oziel-2022-arctic-slope-nutrients,Source,The Pan‐Arctic Continental Slope as an Intensifying Conveyer Belt for Nutrients in the Central Arctic Ocean (1985–2015),Pan-Arctic physical-biogeochemical modelling analysis,2022,Polar Earth system|Polar eukaryotes,Arctic,10.1029/2021GB007268
+src:terhaar-2021-terrestrial-arctic-npp,Source,Around one third of current Arctic Ocean primary production sustained by rivers and coastal erosion,Land-ocean nutrient and ecosystem modelling study,2021,Polar Earth system|Arctic prokaryotes|Polar eukaryotes,Arctic,10.1038/s41467-020-20470-z
+src:browning-2021-southern-ocean-manganese,Source,Manganese co-limitation of phytoplankton growth and major nutrient drawdown in the Southern Ocean,Shipboard trace-metal nutrient-addition experiment,2021,Polar Earth system|Polar eukaryotes,Antarctic,10.1038/s41467-021-21122-6
+src:lucas-2025-a68a-meltwater,Source,Giant iceberg meltwater increases upper-ocean stratification and vertical mixing,Autonomous ocean-observing and freshwater-budget study,2025,Polar Earth system|Polar eukaryotes,Antarctic,10.1038/s41561-025-01659-7
+src:kemeny-2023-arctic-sulfide-weathering,Source,Arctic Permafrost Thawing Enhances Sulfide Oxidation,Watershed geochemistry and stable-isotope source-partitioning study,2023,Polar Earth system|Arctic prokaryotes,Arctic,10.1029/2022GB007644
+src:nikishin-2026-gakkel-ridge-review,Source,"Geology of the Eurasia Basin and Gakkel Ridge, Arctic Ocean: Review and update",Marine-geology and tectonics review,2026,Polar Earth system,Arctic,10.1016/j.earscirev.2026.105525
+src:mehling-2026-greenland-meltwater-amoc,Source,Limited impact of Greenland meltwater on abruptness and reversibility of future Atlantic overturning changes,Coupled climate-model ensemble and reversibility experiment,2026,Polar Earth system,Arctic,10.1126/sciadv.aed2633
+src:dong-2026-southern-ocean-tropical-bias,Source,Tropical impacts of the Southern Ocean underestimated by mean-state biases,Climate-model hierarchy and mean-state-bias experiment,2026,Polar Earth system,Antarctic,10.1126/sciadv.aed1936
+src:njagi-2026-bear-transposable-elements,Source,"Recent Dominant Transposition Events Affect Gene Regulatory Regions, but Not Coding Sequences, in Polar and Brown Bear Genomes",Comparative population genomics of transposable-element-associated structural variants,2026,Polar eukaryotes,Arctic,10.3390/cimb48060639
+src:tinto-2026-aasiaat-relative-sea-level,Source,"Impacts of future sea level change on Greenland from community knowledge, coastal mapping, and glacial isostatic adjustment models",Community-engaged coastal mapping and relative-sea-level projection,2026,Polar Earth system,Arctic,10.1073/pnas.2528615123
+src:de-visscher-2026-bipolar-lake-mats,Source,"Functional genetic potential of benthic microbial mat communities in Arctic, Antarctic, and sub-Antarctic lakes",Comparative benthic-mat metagenomics,2026,Arctic prokaryotes|Antarctic prokaryotes|Polar Earth system,Bipolar,10.1093/femsec/fiag060
+src:dou-2026-sam-summer-sea-ice,Source,Interdecadal shift in the spring Southern Annular Mode intensifies its lagged influence on Antarctic summer sea ice,Satellite and reanalysis climate diagnostic,2026,Polar Earth system,Antarctic,10.1093/nsr/nwag314
+src:abuah-2026-svalbard-carbohydrate-degradation,Source,Capacity of Arctic fjord sediments to degrade carbohydrates from permafrost active layer,Linked terrestrial-marine multi-omics study,2026,Arctic prokaryotes|Polar Earth system,Arctic,10.1128/spectrum.00456-26
+src:cramm-2026-high-arctic-thaw-growth,Source,Seasonal thawing of high Arctic soils triggers selective microbial growth and predation,Thaw-incubation quantitative stable-isotope-probing experiment,2026,Arctic prokaryotes|Polar Earth system,Arctic,10.1128/msystems.00738-25
+src:steinfurth-2026-gough-h5n1,Source,Investigating high pathogenicity avian influenza virus incursions to remote islands: detection of H5N1 on Gough Island in the South Atlantic Ocean,"Wildlife disease detection, viral genomics, phylogeography, and movement ecology",2026,Antarctic viruses|Polar eukaryotes,Antarctic,10.1080/22221751.2026.2627076
+src:cao-2026-jonahs-icefish-genome,Source,Chromosome-scale genome assembly and annotation of Jonah's icefish Neopagetopsis ionah,Chromosome-scale reference-genome data descriptor,2026,Polar eukaryotes,Antarctic,10.1038/s41597-026-07848-2
+src:meyer-2026-arctic-micromonas-viruses,Source,Infection Dynamics and Coexistence of Two Novel Arctic Phytoplankton Viruses,"Virus isolation, comparative genomics, infection experiment, and environmental recruitment",2026,Arctic viruses|Polar eukaryotes,Arctic,10.3390/v18070726
+src:lai-2026-antarctic-fur-seal-gut,Source,Deep metagenomics uncovers functional adaptations and pathogenic risks in the gut microbiome of Antarctic fur seals (Arctocephalus gazella),"Host-associated amplicon, shotgun, and genome-resolved metagenomics",2026,Antarctic prokaryotes|Antarctic viruses|Polar eukaryotes,Antarctic,10.1186/s40793-026-00919-2
+src:pettersson-2026-bipolar-sea-ice-viruses,Source,Viral genetic diversity and functional potential in polar and subarctic sea ice,Comparative bulk sea-ice metagenomics and viral genome recovery,2026,Arctic viruses|Antarctic viruses|Arctic prokaryotes|Antarctic prokaryotes,Bipolar,10.1093/femsec/fiag077
+src:buthelezi-2026-antarctic-sea-ice-dmsp,Source,Dimethylsulfoniopropionate metabolism shapes microbial ecology and physiological adaptation during the austral winter in Southern Ocean sea ice and seawater,Austral-winter sea-ice and seawater DMSP biogeochemistry with size-fractionated metagenomics,2026,Antarctic prokaryotes|Polar eukaryotes|Polar Earth system,Antarctic,10.1038/s41467-026-73596-x
+src:sogaard-2026-greenland-ice-algal-production,Source,High sea ice algal primary production near marine-terminating glaciers linked to turbulence-driven nutrient fluxes across the ice–ocean interface,"Coupled sea-ice ecology, primary-production, hydrography, and turbulence case study",2026,Polar eukaryotes|Polar Earth system,Arctic,10.1038/s41598-026-53846-0
+src:liu-2026-svalbard-glacier-microbial-filtering,Source,Unique microbes released by retreating glaciers are rarely propagated to coastal ecosystems,Glacier-to-fjord genome-resolved metagenomic transect,2026,Arctic prokaryotes|Polar Earth system,Arctic,10.1038/s43247-026-03399-x
+src:ge-2026-amundsen-trace-metals,Source,Distinct Distribution Patterns of Dissolved and Particulate Trace Metals in Surface Waters of the Amundsen Sea: From Polynya to Open Waters,Phase-resolved trace-metal transect with iron-addition incubations,2026,Polar Earth system,Antarctic,10.1029/2026GL124120
+src:choi-2026-ross-sea-edna,Source,Unveiling Ross Sea eukaryotic diversity through environmental DNA metabarcoding,Two-year multi-depth marine eDNA metabarcoding survey,2026,Polar eukaryotes|Polar Earth system,Antarctic,10.1016/j.marenvres.2026.108259
+src:nolvak-2026-arctic-ice-oil-mesocosm,Source,Microbial succession and hydrocarbon-degrading potential in Arctic sea ice exposed to dispersed crude oil and chemical dispersant,Eighty-nine-day experimental sea-ice mesocosm with metagenomics and hydrocarbon chemistry,2026,Arctic prokaryotes|Polar Earth system,Arctic,10.1093/femsmc/xtag022
+src:muller-2026-arctic-sea-ice-ridges,Source,Arctic sea-ice ridges are biomass hotspots harboring diverse microbial communities,"Seasonal MOSAiC pressure-ridge habitat inventory with molecular, biomass, and physicochemical measurements",2026,Arctic prokaryotes|Polar eukaryotes|Polar Earth system,Arctic,10.1038/s43247-026-03364-8
+src:frantz-2026-rotten-sea-ice,Source,Microbial Ecology of Rotten Sea Ice: Implications for Arctic Carbon Cycling with Global Warming,Comparative seasonal field characterization of rotten and earlier-stage landfast sea ice,2026,Arctic prokaryotes|Polar eukaryotes|Polar Earth system,Arctic,10.3390/microorganisms14020482
+src:cardozo-mino-2026-sea-ice-melt-export,Source,"Microbial and chemical signatures of melting sea-ice: export of bacteria, microeukaryotes, and molecules",Short sea-ice-melt microcosm integrating microbial and dissolved-organic-matter fingerprints,2026,Arctic prokaryotes|Polar eukaryotes|Polar Earth system,Arctic,10.1016/j.dsr2.2026.105607

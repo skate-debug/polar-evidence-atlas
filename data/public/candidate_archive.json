@@ -1,0 +1,1564 @@
+{
+  "updated_at": "2026-08-23T12:22:47.024234+00:00",
+  "policy": "Candidates absent from the latest discovery snapshot are retained here for provenance and review-ledger joins.",
+  "candidates": [
+    {
+      "id": "candidate:variation-in-the-acceptability-of-cereal-grasses-by-rhopalosiphum-padi-l-hemiptera-sternorrhyncha-ap",
+      "status": "candidate",
+      "title": "Variation in the Acceptability of Cereal Grasses by Rhopalosiphum padi (L.) (Hemiptera: Sternorrhyncha: Aphididae) from Different Geographical Areas in Russia",
+      "authors": [],
+      "journal": "Insects",
+      "year": 2026,
+      "publication_date": "2026-06-01",
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC13299546",
+      "url": "",
+      "matched_queries": [
+        "arctic_viruses"
+      ],
+      "poles": [
+        "Arctic"
+      ],
+      "domains": [
+        "Viruses"
+      ],
+      "discovered_at": "2026-08-09T16:29:55.166137+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:55.166137+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1126-sciadv-aed1936",
+      "status": "candidate",
+      "title": "Tropical impacts of the Southern Ocean underestimated by mean-state biases.",
+      "authors": [
+        "Dong Y",
+        "Lu K",
+        "Hwang YT",
+        "Hu RJ",
+        "Ceppi P",
+        "Breul P",
+        "Roach LA",
+        "Deser C"
+      ],
+      "journal": "Science advances",
+      "year": 2026,
+      "publication_date": "2026-06-05",
+      "doi": "10.1126/sciadv.aed1936",
+      "pmid": "42247488",
+      "pmcid": "PMC13240171",
+      "url": "https://doi.org/10.1126/sciadv.aed1936",
+      "matched_queries": [
+        "polar_connections"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Cross-system"
+      ],
+      "discovered_at": "2026-08-09T16:30:13.613060+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:13.613060+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-marenvres-2026-108217",
+      "status": "candidate",
+      "title": "Trophodynamics of dominant crustaceans in a permanently open lagoon system during summer: insights from stable isotopic composition and fatty acid profiles.",
+      "authors": [
+        "Kim D",
+        "Ju J",
+        "Lee DY",
+        "Park HJ"
+      ],
+      "journal": "Marine environmental research",
+      "year": 2026,
+      "publication_date": "2026-06-25",
+      "doi": "10.1016/j.marenvres.2026.108217",
+      "pmid": "42364604",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.marenvres.2026.108217",
+      "matched_queries": [
+        "polar_eukaryotes"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Eukaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:30:05.459072+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:05.459072+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-envres-2026-124722",
+      "status": "candidate",
+      "title": "Tire wear particles induce a functional trade-off in bioretention systems: Coupled effects on nitrogen removal and greenhouse gas emissions.",
+      "authors": [
+        "Zou G",
+        "Zou N",
+        "Tang Y",
+        "Wang Q",
+        "Xiao H",
+        "Chen Q",
+        "Liu Z",
+        "Wang K",
+        "Yang F",
+        "Zhao H",
+        "Qin Y",
+        "Du A",
+        "Chen Y"
+      ],
+      "journal": "Environmental research",
+      "year": 2026,
+      "publication_date": "2026-05-09",
+      "doi": "10.1016/j.envres.2026.124722",
+      "pmid": "42114636",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.envres.2026.124722",
+      "matched_queries": [
+        "antarctic_prokaryotes"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:58.491059+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:58.491059+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-micres-2026-128515",
+      "status": "candidate",
+      "title": "The response of biofilms to nutrient environments and their potential in biogeochemical cycles.",
+      "authors": [
+        "Lin Z",
+        "Pang S",
+        "Li Z",
+        "Xu T",
+        "Zhou YL",
+        "Zhang C",
+        "Qian PY",
+        "Zhang S"
+      ],
+      "journal": "Microbiological research",
+      "year": 2026,
+      "publication_date": "2026-04-07",
+      "doi": "10.1016/j.micres.2026.128515",
+      "pmid": "41966783",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.micres.2026.128515",
+      "matched_queries": [
+        "antarctic_prokaryotes"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:58.491092+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:58.491092+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-3390-md24060220",
+      "status": "candidate",
+      "title": "Seaweed-Derived Extract Targets Porphyr'ageing to Modulate the Visible Signs of Aging in Human Skin.",
+      "authors": [
+        "De Tollenaere M",
+        "Meunier M",
+        "Chapuis E",
+        "Bracq M",
+        "Jarrin C",
+        "Lemagnen P",
+        "Robe P",
+        "Lapierre L",
+        "Tiguemounine J",
+        "Zanchetta C",
+        "Humeau A",
+        "Préchoux A",
+        "Brebion J",
+        "Hennequart F",
+        "Benoit M",
+        "Scandolera A",
+        "Reynaud R"
+      ],
+      "journal": "Marine drugs",
+      "year": 2026,
+      "publication_date": "2026-06-18",
+      "doi": "10.3390/md24060220",
+      "pmid": "42346805",
+      "pmcid": "PMC13301944",
+      "url": "https://doi.org/10.3390/md24060220",
+      "matched_queries": [
+        "arctic_prokaryotes"
+      ],
+      "poles": [
+        "Arctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:30:01.978385+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:01.978385+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1128-msystems-00738-25",
+      "status": "candidate",
+      "title": "Seasonal thawing of high Arctic soils triggers selective microbial growth and predation.",
+      "authors": [
+        "Cramm MA",
+        "Coskun ÖK",
+        "Montemagno F",
+        "Selci M",
+        "Read DS",
+        "Goodall T",
+        "Green B",
+        "Mulay SA",
+        "Sipes K",
+        "Abramov AA",
+        "Heppell CM",
+        "Boike J",
+        "Giovannelli D",
+        "Vishnivetskaya TA",
+        "Hettich RL",
+        "Steen AD",
+        "Lloyd KG",
+        "Orsi WD",
+        "Jungblut AD",
+        "Bradley JA"
+      ],
+      "journal": "mSystems",
+      "year": 2026,
+      "publication_date": "2026-05-07",
+      "doi": "10.1128/msystems.00738-25",
+      "pmid": "42095657",
+      "pmcid": "PMC13288927",
+      "url": "https://doi.org/10.1128/msystems.00738-25",
+      "matched_queries": [
+        "polar_connections"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Cross-system"
+      ],
+      "discovered_at": "2026-08-09T16:30:13.613214+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:13.613214+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-scitotenv-2026-182106",
+      "status": "candidate",
+      "title": "Response of marine benthic viral communities to anthropogenic disturbances.",
+      "authors": [
+        "Filker S",
+        "Katzenmeier S",
+        "Breiner HW",
+        "Brandt MI",
+        "Hestetun JT",
+        "Dahlgren TG",
+        "Kupczok A",
+        "Stoeck T"
+      ],
+      "journal": "The Science of the total environment",
+      "year": 2026,
+      "publication_date": "2026-08-04",
+      "doi": "10.1016/j.scitotenv.2026.182106",
+      "pmid": "42551280",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.scitotenv.2026.182106",
+      "matched_queries": [
+        "antarctic_viruses",
+        "polar_eukaryotes"
+      ],
+      "poles": [
+        "Antarctic",
+        "Bipolar"
+      ],
+      "domains": [
+        "Viruses",
+        "Eukaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:52.504331+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:52.504331+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:recent-dominant-transposition-events-affect-gene-regulatory-regions-but-not-coding-sequences-in-pola",
+      "status": "candidate",
+      "title": "Recent Dominant Transposition Events Affect Gene Regulatory Regions, but Not Coding Sequences, in Polar and Brown Bear Genomes",
+      "authors": [
+        "Njagi C",
+        "Kelley J",
+        "Gulati N",
+        "Sijwali N",
+        "Grigoriev A"
+      ],
+      "journal": "Current issues in molecular biology",
+      "year": 2026,
+      "publication_date": "2026-06-01",
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC13298077",
+      "url": "",
+      "matched_queries": [
+        "arctic_viruses"
+      ],
+      "poles": [
+        "Arctic"
+      ],
+      "domains": [
+        "Viruses"
+      ],
+      "discovered_at": "2026-08-09T16:29:55.166167+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:55.166167+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1073-pnas-2601044123",
+      "status": "candidate",
+      "title": "Rapid microbial production of long-lived dissolved organic carbon in the global ocean.",
+      "authors": [
+        "Cai R",
+        "Lechtenfeld OJ",
+        "Tanentzap AJ",
+        "Sachs JP",
+        "Kao SJ",
+        "Osterholz H",
+        "Yan Z",
+        "Zhao C",
+        "Yi Y",
+        "Li P",
+        "Zhang C",
+        "Jiao N",
+        "Koch BP",
+        "Herndl GJ",
+        "He D"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "year": 2026,
+      "publication_date": "2026-07-27",
+      "doi": "10.1073/pnas.2601044123",
+      "pmid": "42507924",
+      "pmcid": null,
+      "url": "https://doi.org/10.1073/pnas.2601044123",
+      "matched_queries": [
+        "antarctic_prokaryotes"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:58.490959+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:58.490959+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:potential-increase-in-known-and-emerging-biotoxins-in-marine-ecosystem-due-to-climate-change-and-sub",
+      "status": "candidate",
+      "title": "Potential Increase in Known and Emerging Biotoxins in Marine Ecosystem Due to Climate Change and Subsequent Health Issues",
+      "authors": [],
+      "journal": "Foods (Basel, Switzerland)",
+      "year": 2026,
+      "publication_date": "2026-06-01",
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC13298076",
+      "url": "",
+      "matched_queries": [
+        "arctic_prokaryotes"
+      ],
+      "poles": [
+        "Arctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:30:01.978366+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:01.978366+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1111-gcb-71039",
+      "status": "candidate",
+      "title": "Pollination Under Pressure: Grazing and Nutrient Enrichment Reshape Arctic Pollinator Communities and Interaction Networks.",
+      "authors": [
+        "Johanson N",
+        "Andrzejak M",
+        "Venterink HO",
+        "Carvalheiro LG",
+        "Eskelinen A",
+        "Virtanen R"
+      ],
+      "journal": "Global change biology",
+      "year": 2026,
+      "publication_date": "2026-08-01",
+      "doi": "10.1111/gcb.71039",
+      "pmid": "42568337",
+      "pmcid": null,
+      "url": "https://doi.org/10.1111/gcb.71039",
+      "matched_queries": [
+        "arctic_earth_system"
+      ],
+      "poles": [
+        "Arctic"
+      ],
+      "domains": [
+        "Earth system"
+      ],
+      "discovered_at": "2026-08-09T16:30:07.828210+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:07.828210+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-marenvres-2026-108170",
+      "status": "candidate",
+      "title": "Ontogenetic and spatial variation in the feeding habits of Tripneustes gratilla.",
+      "authors": [
+        "Liu Z",
+        "Zhao X",
+        "Guo Y",
+        "Qin C"
+      ],
+      "journal": "Marine environmental research",
+      "year": 2026,
+      "publication_date": "2026-06-05",
+      "doi": "10.1016/j.marenvres.2026.108170",
+      "pmid": "42263421",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.marenvres.2026.108170",
+      "matched_queries": [
+        "polar_eukaryotes"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Eukaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:30:05.459122+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:05.459122+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-dib-2026-112966",
+      "status": "candidate",
+      "title": "Nanopore sequencing dataset of marine rocky shoreline microbial communities from the UK's first marine citizen science week event.",
+      "authors": [
+        "De Corte D",
+        "Hubot N",
+        "Patterson C",
+        "Holt B",
+        "Mills S",
+        "Long S",
+        "McQuillan JS"
+      ],
+      "journal": "Data in brief",
+      "year": 2026,
+      "publication_date": "2026-06-11",
+      "doi": "10.1016/j.dib.2026.112966",
+      "pmid": "42339374",
+      "pmcid": "PMC13285671",
+      "url": "https://doi.org/10.1016/j.dib.2026.112966",
+      "matched_queries": [
+        "polar_eukaryotes"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Eukaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:30:05.459088+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:05.459088+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-envres-2026-124885",
+      "status": "candidate",
+      "title": "Nanoplastics reshape nitrogen cycling in submerged macrophyte systems: A metagenomic perspective.",
+      "authors": [
+        "Pan W",
+        "Zhang L",
+        "Liang L",
+        "Du L",
+        "Guo X"
+      ],
+      "journal": "Environmental research",
+      "year": 2026,
+      "publication_date": "2026-05-28",
+      "doi": "10.1016/j.envres.2026.124885",
+      "pmid": "42214595",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.envres.2026.124885",
+      "matched_queries": [
+        "antarctic_prokaryotes"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:58.491033+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:58.491033+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-jhazmat-2026-142641",
+      "status": "candidate",
+      "title": "Microplastics and co-occurring nitrogen synergistically accelerate blue carbon loss.",
+      "authors": [
+        "Noman MA",
+        "Adyel TM",
+        "Callahan DL",
+        "He D",
+        "Macreadie PI",
+        "Trevathan-Tackett SM"
+      ],
+      "journal": "Journal of hazardous materials",
+      "year": 2026,
+      "publication_date": "2026-06-11",
+      "doi": "10.1016/j.jhazmat.2026.142641",
+      "pmid": "42308849",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.142641",
+      "matched_queries": [
+        "antarctic_prokaryotes"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:58.490981+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:58.490981+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-cbd-2026-101810",
+      "status": "candidate",
+      "title": "Metagenomic insights into sex-specific taxonomic and functional differentiation of epidermal mucus microbiota in the humphead wrasse (Cheilinus undulatus).",
+      "authors": [
+        "Huang J",
+        "Fu Z",
+        "Zhou S",
+        "Hu J",
+        "Yu G",
+        "Qin C",
+        "Ma Z"
+      ],
+      "journal": "Comparative biochemistry and physiology. Part D, Genomics & proteomics",
+      "year": 2026,
+      "publication_date": "2026-03-20",
+      "doi": "10.1016/j.cbd.2026.101810",
+      "pmid": "41887041",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.cbd.2026.101810",
+      "matched_queries": [
+        "antarctic_prokaryotes"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:58.490929+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:58.490929+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-micres-2026-128530",
+      "status": "candidate",
+      "title": "Metagenomic and metatranscriptomic insights into Ruegeria profundi-driven protective responses in coral holobionts against Vibrio coralliilyticus infection.",
+      "authors": [
+        "Xu M",
+        "Cheng K",
+        "Cai Z",
+        "Chen G",
+        "Zhou J"
+      ],
+      "journal": "Microbiological research",
+      "year": 2026,
+      "publication_date": "2026-04-24",
+      "doi": "10.1016/j.micres.2026.128530",
+      "pmid": "42068598",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.micres.2026.128530",
+      "matched_queries": [
+        "antarctic_prokaryotes"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:58.491077+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:58.491077+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1126-sciadv-aed2633",
+      "status": "candidate",
+      "title": "Limited impact of Greenland meltwater on abruptness and reversibility of future Atlantic overturning changes.",
+      "authors": [
+        "Mehling O",
+        "Bellomo K",
+        "Fabiano F",
+        "Devilliers M",
+        "Petrini M",
+        "Corti S",
+        "von Hardenberg J"
+      ],
+      "journal": "Science advances",
+      "year": 2026,
+      "publication_date": "2026-06-19",
+      "doi": "10.1126/sciadv.aed2633",
+      "pmid": "42319949",
+      "pmcid": "PMC13281800",
+      "url": "https://doi.org/10.1126/sciadv.aed2633",
+      "matched_queries": [
+        "polar_connections"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Cross-system"
+      ],
+      "discovered_at": "2026-08-09T16:30:13.612946+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:13.612946+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1080-22221751-2026-2627076",
+      "status": "candidate",
+      "title": "Investigating high pathogenicity avian influenza virus incursions to remote islands: detection of H5N1 on Gough Island in the South Atlantic Ocean.",
+      "authors": [
+        "Steinfurth A",
+        "Lynton-Jenkins JG",
+        "Cleeland J",
+        "Mollett BC",
+        "Coombes HA",
+        "Moores A",
+        "Neal R",
+        "Clifton B",
+        "Falchieri M",
+        "Jones CW",
+        "Risi MM",
+        "Gold S",
+        "James J",
+        "Ryan PG",
+        "González-Solís J",
+        "Banyard AC"
+      ],
+      "journal": "Emerging microbes & infections",
+      "year": 2026,
+      "publication_date": "2026-02-20",
+      "doi": "10.1080/22221751.2026.2627076",
+      "pmid": "41632631",
+      "pmcid": "PMC12927406",
+      "url": "https://doi.org/10.1080/22221751.2026.2627076",
+      "matched_queries": [
+        "antarctic_viruses",
+        "antarctic_earth_system"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Viruses",
+        "Earth system"
+      ],
+      "discovered_at": "2026-08-09T16:29:52.504083+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:52.504083+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1111-jfb-70603",
+      "status": "candidate",
+      "title": "Invasives in the dark: An established population of the arrow bulleye Priacanthus sagittarius on the aphotic continental slope of the eastern Mediterranean.",
+      "authors": [
+        "Stern N",
+        "Nazarova S"
+      ],
+      "journal": "Journal of fish biology",
+      "year": 2026,
+      "publication_date": "2026-08-02",
+      "doi": "10.1111/jfb.70603",
+      "pmid": "42543195",
+      "pmcid": null,
+      "url": "https://doi.org/10.1111/jfb.70603",
+      "matched_queries": [
+        "polar_eukaryotes"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Eukaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:30:05.459038+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:05.459038+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1093-nsr-nwag314",
+      "status": "candidate",
+      "title": "Interdecadal shift in the spring Southern Annular Mode intensifies its lagged influence on Antarctic summer sea ice.",
+      "authors": [
+        "Dou J",
+        "Song X",
+        "Zhang R"
+      ],
+      "journal": "National science review",
+      "year": 2026,
+      "publication_date": "2026-05-27",
+      "doi": "10.1093/nsr/nwag314",
+      "pmid": "42344307",
+      "pmcid": "PMC13289740",
+      "url": "https://doi.org/10.1093/nsr/nwag314",
+      "matched_queries": [
+        "polar_connections"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Cross-system"
+      ],
+      "discovered_at": "2026-08-09T16:30:13.612880+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:13.612880+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1007-s12088-025-01524-6",
+      "status": "candidate",
+      "title": "Insights into Phylum Asgardarchaeota: Analysis of Two Novel MAGs Within Class Njordarchaeia.",
+      "authors": [
+        "Prajapati P",
+        "Giridharan B",
+        "Mootapally C",
+        "Nathani N"
+      ],
+      "journal": "Indian journal of microbiology",
+      "year": 2025,
+      "publication_date": "2025-09-23",
+      "doi": "10.1007/s12088-025-01524-6",
+      "pmid": "42568757",
+      "pmcid": null,
+      "url": "https://doi.org/10.1007/s12088-025-01524-6",
+      "matched_queries": [
+        "antarctic_prokaryotes",
+        "polar_eukaryotes"
+      ],
+      "poles": [
+        "Antarctic",
+        "Bipolar"
+      ],
+      "domains": [
+        "Prokaryotes",
+        "Eukaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:58.490944+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:58.490944+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-3390-v18070726",
+      "status": "candidate",
+      "title": "Infection Dynamics and Coexistence of Two Novel Arctic Phytoplankton Viruses.",
+      "authors": [
+        "Meyer C",
+        "Jackson VLN",
+        "de Haan F",
+        "Bolhuis H",
+        "Allen MJ",
+        "Monier A",
+        "Brussaard CPD"
+      ],
+      "journal": "Viruses",
+      "year": 2026,
+      "publication_date": "2026-06-30",
+      "doi": "10.3390/v18070726",
+      "pmid": "42515578",
+      "pmcid": null,
+      "url": "https://doi.org/10.3390/v18070726",
+      "matched_queries": [
+        "arctic_viruses"
+      ],
+      "poles": [
+        "Arctic"
+      ],
+      "domains": [
+        "Viruses"
+      ],
+      "discovered_at": "2026-08-09T16:29:55.166074+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:55.166074+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1073-pnas-2528615123",
+      "status": "candidate",
+      "title": "Impacts of future sea level change on Greenland from community knowledge, coastal mapping, and glacial isostatic adjustment models.",
+      "authors": [
+        "Tinto KJ",
+        "Austermann J",
+        "Bell RE",
+        "Blockley D",
+        "Brayton CE",
+        "Krawczyk D",
+        "Lewright L",
+        "Lloyd AJ",
+        "Nitsche FO",
+        "Paxman GJG",
+        "Porter DF",
+        "Sørensen A",
+        "Turrin M",
+        "Zinglersen K"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "year": 2026,
+      "publication_date": "2026-06-01",
+      "doi": "10.1073/pnas.2528615123",
+      "pmid": "42224597",
+      "pmcid": "PMC13250546",
+      "url": "https://doi.org/10.1073/pnas.2528615123",
+      "matched_queries": [
+        "polar_connections"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Cross-system"
+      ],
+      "discovered_at": "2026-08-09T16:30:13.613137+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:13.613137+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1161-jaha-126-048812",
+      "status": "candidate",
+      "title": "Impact of Physical Activity on Stroke and Mortality in Individuals With and Without Atrial Fibrillation: The HUNT Study and the Tromsø Study.",
+      "authors": [
+        "Johansen KR",
+        "Nes BM",
+        "Malmo V",
+        "Myrstad M",
+        "Thelle DS",
+        "Heitmann KA",
+        "Mathiesen EB",
+        "Eggen AE",
+        "Wilsgaard T",
+        "Løchen ML",
+        "Morseth B"
+      ],
+      "journal": "Journal of the American Heart Association",
+      "year": 2026,
+      "publication_date": "2026-08-05",
+      "doi": "10.1161/jaha.126.048812",
+      "pmid": "42554413",
+      "pmcid": null,
+      "url": "https://doi.org/10.1161/jaha.126.048812",
+      "matched_queries": [
+        "arctic_earth_system"
+      ],
+      "poles": [
+        "Arctic"
+      ],
+      "domains": [
+        "Earth system"
+      ],
+      "discovered_at": "2026-08-09T16:30:07.828326+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:07.828326+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-jenvman-2026-130640",
+      "status": "candidate",
+      "title": "How clean is clean enough? Short-chain PFAS remain dominant in treated landfill leachate.",
+      "authors": [
+        "Chen F",
+        "Zhang ZZ",
+        "Li H",
+        "Meng SD",
+        "Yeung LWY",
+        "Danilova S",
+        "Li YF",
+        "Fan SQ",
+        "Zhang ZF"
+      ],
+      "journal": "Journal of environmental management",
+      "year": 2026,
+      "publication_date": "2026-08-07",
+      "doi": "10.1016/j.jenvman.2026.130640",
+      "pmid": "42567141",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.jenvman.2026.130640",
+      "matched_queries": [
+        "arctic_earth_system"
+      ],
+      "poles": [
+        "Arctic"
+      ],
+      "domains": [
+        "Earth system"
+      ],
+      "discovered_at": "2026-08-09T16:30:07.828266+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:07.828266+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1128-spectrum-01567-26",
+      "status": "candidate",
+      "title": "Hawaiian geothermal fumaroles contain diverse and novel viruses.",
+      "authors": [
+        "Sen P",
+        "Oliver LL",
+        "Makarova KS",
+        "Wolf YI",
+        "Pavloudi C",
+        "Shlafstein M",
+        "Saw JH"
+      ],
+      "journal": "Microbiology spectrum",
+      "year": 2026,
+      "publication_date": "2026-07-15",
+      "doi": "10.1128/spectrum.01567-26",
+      "pmid": "42454939",
+      "pmcid": null,
+      "url": "https://doi.org/10.1128/spectrum.01567-26",
+      "matched_queries": [
+        "antarctic_viruses",
+        "antarctic_prokaryotes"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Viruses",
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:52.504353+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:52.504353+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1126-sciadv-aef3201",
+      "status": "candidate",
+      "title": "Glacier retreat shapes organic nutrient availability across lake succession.",
+      "authors": [
+        "Saboret G",
+        "Lewis E",
+        "Larsen NK",
+        "Samourdani A",
+        "Schubert CJ",
+        "Brodersen J"
+      ],
+      "journal": "Science advances",
+      "year": 2026,
+      "publication_date": "2026-08-07",
+      "doi": "10.1126/sciadv.aef3201",
+      "pmid": "42566517",
+      "pmcid": null,
+      "url": "https://doi.org/10.1126/sciadv.aef3201",
+      "matched_queries": [
+        "arctic_earth_system"
+      ],
+      "poles": [
+        "Arctic"
+      ],
+      "domains": [
+        "Earth system"
+      ],
+      "discovered_at": "2026-08-09T16:30:07.828290+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:07.828290+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1093-femsec-fiag060",
+      "status": "candidate",
+      "title": "Functional genetic potential of benthic microbial mat communities in Arctic, Antarctic, and sub-Antarctic lakes.",
+      "authors": [
+        "De Visscher J",
+        "Tytgat B",
+        "Hodgson DA",
+        "Wilmotte A",
+        "Willems A",
+        "Verleyen E",
+        "Vyverman W"
+      ],
+      "journal": "FEMS microbiology ecology",
+      "year": 2026,
+      "publication_date": "2026-06-01",
+      "doi": "10.1093/femsec/fiag060",
+      "pmid": "42287197",
+      "pmcid": "PMC13278500",
+      "url": "https://doi.org/10.1093/femsec/fiag060",
+      "matched_queries": [
+        "polar_connections"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Cross-system"
+      ],
+      "discovered_at": "2026-08-09T16:30:13.612967+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:13.612967+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-marenvres-2026-108154",
+      "status": "candidate",
+      "title": "From carbonate chemistry to community responses: Thematic evolution in ocean acidification and microbial research- a bibliometric analysis.",
+      "authors": [
+        "Sun Y",
+        "Liu Y",
+        "Su Q",
+        "Li C",
+        "Zhao S",
+        "Zhou J"
+      ],
+      "journal": "Marine environmental research",
+      "year": 2026,
+      "publication_date": "2026-05-25",
+      "doi": "10.1016/j.marenvres.2026.108154",
+      "pmid": "42214871",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.marenvres.2026.108154",
+      "matched_queries": [
+        "antarctic_prokaryotes"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:58.491013+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:58.491013+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-nmni-2026-101791",
+      "status": "candidate",
+      "title": "Epidemic features and potential impact of vaccine campaigns on the 2025 chikungunya outbreak in southern China: a mathematical modelling study.",
+      "authors": [
+        "Zheng Q",
+        "Ding Y",
+        "Wang X",
+        "Yang Y",
+        "Meng Q",
+        "Al-Tawfiq JA",
+        "Zhong Z",
+        "Wang W",
+        "Pan Q"
+      ],
+      "journal": "New microbes and new infections",
+      "year": 2026,
+      "publication_date": "2026-06-11",
+      "doi": "10.1016/j.nmni.2026.101791",
+      "pmid": "42327491",
+      "pmcid": "PMC13277609",
+      "url": "https://doi.org/10.1016/j.nmni.2026.101791",
+      "matched_queries": [
+        "antarctic_viruses"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Viruses"
+      ],
+      "discovered_at": "2026-08-09T16:29:52.504398+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:52.504398+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-cbpc-2026-110605",
+      "status": "candidate",
+      "title": "Ecological risks of olivine with different particle sizes and dosages on planktonic ecosystems during ocean alkalinization.",
+      "authors": [
+        "Ding ZR",
+        "Wu XM",
+        "Li P",
+        "Qian XY",
+        "Liu C",
+        "Yin MH",
+        "Qu CF",
+        "Cao Z",
+        "Jung J",
+        "Liu L",
+        "Li ZH"
+      ],
+      "journal": "Comparative biochemistry and physiology. Toxicology & pharmacology : CBP",
+      "year": 2026,
+      "publication_date": "2026-06-30",
+      "doi": "10.1016/j.cbpc.2026.110605",
+      "pmid": "42372931",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.cbpc.2026.110605",
+      "matched_queries": [
+        "antarctic_earth_system"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Earth system"
+      ],
+      "discovered_at": "2026-08-09T16:30:10.812586+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:10.812586+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-marenvres-2026-108193",
+      "status": "candidate",
+      "title": "Divergent responses of prokaryotic and eukaryotic microbiomes drive assembly, stability, and functional dynamics in the Bohai sea.",
+      "authors": [
+        "Wu J",
+        "Wang B",
+        "Li Y",
+        "Zhang X",
+        "Peng Y",
+        "Liu Q",
+        "Zhang C",
+        "Lian B",
+        "Cao H",
+        "Li K",
+        "Wang H"
+      ],
+      "journal": "Marine environmental research",
+      "year": 2026,
+      "publication_date": "2026-06-10",
+      "doi": "10.1016/j.marenvres.2026.108193",
+      "pmid": "42287872",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.marenvres.2026.108193",
+      "matched_queries": [
+        "antarctic_prokaryotes"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:29:58.490997+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:58.490997+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-jenvman-2026-130378",
+      "status": "candidate",
+      "title": "Divergent biodiversity responses of multitrophic aquatic communities to hydrological connectivity and land-use intensity gradients.",
+      "authors": [
+        "Wang H",
+        "Liu H",
+        "Wang W",
+        "Yin X"
+      ],
+      "journal": "Journal of environmental management",
+      "year": 2026,
+      "publication_date": "2026-07-07",
+      "doi": "10.1016/j.jenvman.2026.130378",
+      "pmid": "42413432",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.jenvman.2026.130378",
+      "matched_queries": [
+        "polar_eukaryotes"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Eukaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:30:05.459055+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:05.459055+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-marenvres-2026-108190",
+      "status": "candidate",
+      "title": "Deep-sea soft-bottom macroinfaunal communities from SE Pacific: Composition, abundance, distribution, and their relationship with environmental forcing.",
+      "authors": [
+        "Soto EH",
+        "Sanchis C",
+        "Quiroga EJ"
+      ],
+      "journal": "Marine environmental research",
+      "year": 2026,
+      "publication_date": "2026-06-09",
+      "doi": "10.1016/j.marenvres.2026.108190",
+      "pmid": "42284669",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.marenvres.2026.108190",
+      "matched_queries": [
+        "polar_eukaryotes"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Eukaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:30:05.459108+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:05.459108+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1186-s40793-026-00919-2",
+      "status": "candidate",
+      "title": "Deep metagenomics uncovers functional adaptations and pathogenic risks in the gut microbiome of Antarctic fur seals (Arctocephalus gazella).",
+      "authors": [
+        "Lai T",
+        "Liu Y",
+        "Duan Z",
+        "Su S",
+        "Ding H",
+        "Dai Y",
+        "Gao M",
+        "Ji M",
+        "Liao L"
+      ],
+      "journal": "Environmental microbiome",
+      "year": 2026,
+      "publication_date": "2026-06-28",
+      "doi": "10.1186/s40793-026-00919-2",
+      "pmid": "42366391",
+      "pmcid": null,
+      "url": "https://doi.org/10.1186/s40793-026-00919-2",
+      "matched_queries": [
+        "arctic_viruses",
+        "arctic_prokaryotes",
+        "polar_connections"
+      ],
+      "poles": [
+        "Arctic",
+        "Bipolar"
+      ],
+      "domains": [
+        "Viruses",
+        "Prokaryotes",
+        "Cross-system"
+      ],
+      "discovered_at": "2026-08-09T16:29:55.166103+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:55.166103+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1002-mbo3-70331",
+      "status": "candidate",
+      "title": "Clostridioides difficile as a Zoonotic and Foodborne Pathogen: Reviewing the Global Evidence and South African Data.",
+      "authors": [
+        "Gouws M",
+        "Strydom PE",
+        "Rip D"
+      ],
+      "journal": "MicrobiologyOpen",
+      "year": 2026,
+      "publication_date": "2026-06-01",
+      "doi": "10.1002/mbo3.70331",
+      "pmid": "42337986",
+      "pmcid": "PMC13291203",
+      "url": "https://doi.org/10.1002/mbo3.70331",
+      "matched_queries": [
+        "arctic_prokaryotes"
+      ],
+      "poles": [
+        "Arctic"
+      ],
+      "domains": [
+        "Prokaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:30:01.978410+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:01.978410+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1038-s41597-026-07848-2",
+      "status": "candidate",
+      "title": "Chromosome-scale genome assembly and annotation of Jonah's icefish Neopagetopsis ionah.",
+      "authors": [
+        "Cao S",
+        "Li W",
+        "Santovito G",
+        "Gao M",
+        "Fan G",
+        "Jiang S",
+        "Hu R",
+        "Zhai W",
+        "Gao Z",
+        "Xu B",
+        "Xu Q",
+        "Yu Y"
+      ],
+      "journal": "Scientific data",
+      "year": 2026,
+      "publication_date": "2026-07-13",
+      "doi": "10.1038/s41597-026-07848-2",
+      "pmid": "42443221",
+      "pmcid": null,
+      "url": "https://doi.org/10.1038/s41597-026-07848-2",
+      "matched_queries": [
+        "polar_connections"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Cross-system"
+      ],
+      "discovered_at": "2026-08-09T16:30:13.612780+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:13.612780+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1128-spectrum-00456-26",
+      "status": "candidate",
+      "title": "Capacity of Arctic fjord sediments to degrade carbohydrates from permafrost active layer.",
+      "authors": [
+        "Abuah CY",
+        "Sipes K",
+        "Buongiorno J",
+        "Steen AD",
+        "Bradley JA",
+        "Giovannelli D",
+        "Abramov A",
+        "Peters SL",
+        "Giannone RJ",
+        "Hettich RL",
+        "Liang R",
+        "Boike J",
+        "Vishnivetskaya TA",
+        "Lloyd KG"
+      ],
+      "journal": "Microbiology spectrum",
+      "year": 2026,
+      "publication_date": "2026-05-13",
+      "doi": "10.1128/spectrum.00456-26",
+      "pmid": "42126224",
+      "pmcid": "PMC13228077",
+      "url": "https://doi.org/10.1128/spectrum.00456-26",
+      "matched_queries": [
+        "polar_connections"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Cross-system"
+      ],
+      "discovered_at": "2026-08-09T16:30:13.613187+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:13.613187+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1111-1365-2656-70305",
+      "status": "candidate",
+      "title": "Between-species contagion drives HPAI transmission and mass mortality in seabirds.",
+      "authors": [
+        "Matthiopoulos J",
+        "Votier S",
+        "Wanless S",
+        "Cunningham E",
+        "Lane JV",
+        "Jeglinski JWE"
+      ],
+      "journal": "The Journal of animal ecology",
+      "year": 2026,
+      "publication_date": "2026-07-06",
+      "doi": "10.1111/1365-2656.70305",
+      "pmid": "42410933",
+      "pmcid": null,
+      "url": "https://doi.org/10.1111/1365-2656.70305",
+      "matched_queries": [
+        "antarctic_viruses"
+      ],
+      "poles": [
+        "Antarctic"
+      ],
+      "domains": [
+        "Viruses"
+      ],
+      "discovered_at": "2026-08-09T16:29:52.504373+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:29:52.504373+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    },
+    {
+      "id": "candidate:10-1016-j-scitotenv-2026-182123",
+      "status": "candidate",
+      "title": "A regional anomaly in the Arctic Ocean: Future habitat contraction for soft-bodied zooplankton in the Pacific Gateway bottleneck.",
+      "authors": [
+        "Verhaegen G",
+        "Son W",
+        "Kim JH",
+        "Cho KH",
+        "Yang EJ",
+        "Pantiukhin D",
+        "La HS"
+      ],
+      "journal": "The Science of the total environment",
+      "year": 2026,
+      "publication_date": "2026-08-04",
+      "doi": "10.1016/j.scitotenv.2026.182123",
+      "pmid": "42551283",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.scitotenv.2026.182123",
+      "matched_queries": [
+        "polar_eukaryotes"
+      ],
+      "poles": [
+        "Bipolar"
+      ],
+      "domains": [
+        "Eukaryotes"
+      ],
+      "discovered_at": "2026-08-09T16:30:05.458933+00:00",
+      "discovery_source": "Europe PMC",
+      "first_discovered_at": "2026-08-09T16:30:05.458933+00:00",
+      "last_seen_at": "2026-08-09T16:30:13.613350+00:00",
+      "retired_at": "2026-08-23T12:22:47.024234+00:00",
+      "retirement_reason": "Not returned by the current bounded discovery run or now present in curated sources."
+    }
+  ],
+  "public_snapshot_policy": "Discovery metadata and review joins only; publisher-supplied abstracts and full text are omitted."
+}

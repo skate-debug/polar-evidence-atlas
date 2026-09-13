@@ -1,0 +1,18 @@
+# Operating-system and editor files
+.DS_Store
+**/.DS_Store
+*.swp
+*.tmp
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local working caches that can contain publisher-supplied abstracts
+/data/candidates.json
+/data/candidate_archive.json
+/data/candidate_metadata.json
+/data/metadata.json
+
+# Local draft retained outside the public release
+/Arctic Sea-assessment.docx

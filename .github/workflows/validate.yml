@@ -1,0 +1,22 @@
+name: Validate atlas
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate and rebuild public artifacts
+        run: make all
+      - name: Check rights-conscious public snapshots
+        run: make public-check

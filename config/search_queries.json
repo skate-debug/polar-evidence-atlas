@@ -1,0 +1,14 @@
+{
+  "default_since": "2024-01-01",
+  "queries": [
+    {"id": "antarctic_viruses", "pole": "Antarctic", "domain": "Viruses", "query": "(Antarctic OR Southern Ocean) AND (virus OR virome OR viral) AND (metagenom* OR genome* OR ecology)"},
+    {"id": "arctic_viruses", "pole": "Arctic", "domain": "Viruses", "query": "(Arctic OR Fram Strait OR Svalbard OR Greenland) AND (virus OR virome OR viral) AND (metagenom* OR genome* OR ecology)"},
+    {"id": "antarctic_prokaryotes", "pole": "Antarctic", "domain": "Prokaryotes", "query": "(Antarctic OR Southern Ocean) AND (bacteria OR archaea OR prokaryot* OR microbiome) AND (metagenom* OR genome* OR biogeochem*)"},
+    {"id": "arctic_prokaryotes", "pole": "Arctic", "domain": "Prokaryotes", "query": "(Arctic OR Fram Strait OR Svalbard OR Greenland) AND (bacteria OR archaea OR prokaryot* OR microbiome) AND (metagenom* OR genome* OR biogeochem*)"},
+    {"id": "polar_eukaryotes", "pole": "Bipolar", "domain": "Eukaryotes", "query": "(Arctic OR Antarctic OR Southern Ocean) AND (eukaryot* OR phytoplankton OR protist OR fungi OR benthic) AND (community OR diversity OR metabarcod* OR genome*)"},
+    {"id": "arctic_earth_system", "pole": "Arctic", "domain": "Earth system", "query": "Arctic AND (geography OR geology OR geochemistry OR hydrology OR circulation OR nutrient OR carbon OR nitrogen)"},
+    {"id": "antarctic_earth_system", "pole": "Antarctic", "domain": "Earth system", "query": "(Antarctic OR Southern Ocean) AND (geography OR geology OR geochemistry OR hydrology OR circulation OR nutrient OR carbon OR iron)"},
+    {"id": "polar_connections", "pole": "Bipolar", "domain": "Cross-system", "query": "(Arctic AND Antarctic) AND (bipolar OR connectivity OR adaptation OR comparison)"}
+  ]
+}
+

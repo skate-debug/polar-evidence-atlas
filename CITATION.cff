@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this atlas, cite the repository and the primary papers supporting the claims."
+title: "Polar Evidence Atlas"
+type: dataset
+authors:
+  - name: "Polar Evidence Atlas contributors"
+version: 1.0.0
+date-released: 2026-09-13
+repository-code: "https://github.com/skate-debug/polar-evidence-atlas"
+url: "https://skate-debug.github.io/polar-evidence-atlas/"
+license: CC-BY-4.0
+keywords:
+  - Arctic
+  - Antarctic
+  - knowledge graph
+  - microbiome
+  - viruses
+  - prokaryotes
+  - eukaryotes
+  - polar science
+abstract: >-
+  A bilingual, citation-first knowledge graph connecting Arctic and Antarctic
+  biological evidence with geography, geology, geochemistry, nutrients, and
+  ocean circulation.

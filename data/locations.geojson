@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "region:rothera-time-series",
+      "geometry": {"type": "Point", "coordinates": [-68.231, -67.572]},
+      "properties": {"label": "Rothera Time-Series", "coordinate_status": "published sampling coordinate", "source": "10.1038/s41467-024-53317-y"}
+    },
+    {
+      "type": "Feature",
+      "id": "region:fram-strait",
+      "geometry": null,
+      "properties": {"label": "Fram Strait", "coordinate_status": "named regional feature; use source cruise/mooring metadata for exact stations"}
+    },
+    {
+      "type": "Feature",
+      "id": "region:central-arctic",
+      "geometry": null,
+      "properties": {"label": "Central Arctic Ocean", "coordinate_status": "regional scope; MOSAiC and Synoptic Arctic Survey tracks are not reduced to a point"}
+    },
+    {
+      "type": "Feature",
+      "id": "region:ross-ice-shelf",
+      "geometry": null,
+      "properties": {"label": "Ross Ice Shelf", "coordinate_status": "regional feature; borehole/site coordinate should be taken from the source methods"}
+    },
+    {
+      "type": "Feature",
+      "id": "region:mercer-subglacial-lake",
+      "geometry": null,
+      "properties": {"label": "Mercer Subglacial Lake", "coordinate_status": "subglacial regional feature; no representative point asserted"}
+    },
+    {
+      "type": "Feature",
+      "id": "region:king-george-island",
+      "geometry": null,
+      "properties": {"label": "King George Island", "coordinate_status": "island-scale study area; transect coordinates belong in source supplementary metadata"}
+    },
+    {
+      "type": "Feature",
+      "id": "region:dome-fuji",
+      "geometry": null,
+      "properties": {"label": "Dome Fuji survey region", "coordinate_status": "170,000 km² airborne survey footprint; not represented by a point"}
+    },
+    {
+      "type": "Feature",
+      "id": "region:storfjordrenna",
+      "geometry": null,
+      "properties": {"label": "Storfjordrenna", "coordinate_status": "sediment-core site should be taken from the source cruise metadata"}
+    },
+    {
+      "type": "Feature",
+      "id": "region:aasiaat",
+      "geometry": null,
+      "properties": {"label": "Aasiaat coastal region", "coordinate_status": "community-defined coastal and channel study area; multibeam footprints are retained in the source dataset rather than reduced to a point"}
+    },
+    {
+      "type": "Feature",
+      "id": "region:bayelva",
+      "geometry": {"type": "Point", "coordinates": [11.857037, 78.921078]},
+      "properties": {"label": "Bayelva Permafrost Monitoring Observatory", "coordinate_status": "published soil-core site coordinate", "source": "10.1128/msystems.00738-25"}
+    },
+    {
+      "type": "Feature",
+      "id": "region:gough-island",
+      "geometry": {"type": "Point", "coordinates": [-9.933, -40.317]},
+      "properties": {"label": "Gough Island", "coordinate_status": "representative island coordinate; exact carcass locations were near the research station", "source": "10.1080/22221751.2026.2627076"}
+    },
+    {
+      "type": "Feature",
+      "id": "region:prydz-bay",
+      "geometry": {"type": "Point", "coordinates": [72.993294, -66.501289]},
+      "properties": {"label": "Jonah's icefish collection site, Prydz Bay", "coordinate_status": "published specimen coordinate converted from degrees-minutes-seconds", "source": "10.1038/s41597-026-07848-2"}
+    }
+  ]
+}

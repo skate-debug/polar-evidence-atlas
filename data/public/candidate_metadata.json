@@ -1,0 +1,5482 @@
+{
+  "generated_at": "2026-08-10T02:49:33.179263+00:00",
+  "provider": "DOI content negotiation (CSL-JSON)",
+  "public_snapshot_policy": "Bibliographic fields required by the atlas build; abstracts, reference lists, links to content files, and unused provider fields are omitted.",
+  "records": {
+    "10.1016/j.envpol.2026.128242": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                5,
+                1
+              ]
+            ],
+            "date-time": "2026-05-01T00:00:00Z",
+            "timestamp": 1777593600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.1016/j.envpol.2026.128242",
+      "type": "journal-article",
+      "page": "128242",
+      "title": "The high Arctic resistome: stress-response genes, virulence determinants, and microbial populations in human-impacted environments of Spitsbergen",
+      "volume": "402",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7741-4848",
+          "authenticated-orcid": false,
+          "given": "Nicoletta",
+          "family": "Makowska-Zawierucha",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0831-7243",
+          "authenticated-orcid": false,
+          "given": "Artur",
+          "family": "Trzebny",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Joanna",
+          "family": "Mokracka",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "James A.",
+          "family": "Bradley",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Environmental Pollution",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1016/j.envpol.2026.128242"
+    },
+    "10.1016/j.envpol.2026.128745": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                8
+              ]
+            ],
+            "date-time": "2026-07-08T00:00:00Z",
+            "timestamp": 1783468800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.1016/j.envpol.2026.128745",
+      "type": "journal-article",
+      "page": "128745",
+      "title": "Dynamics of mercury contamination within the albatross and petrel community at South Georgia",
+      "volume": "406",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7170-5794",
+          "authenticated-orcid": false,
+          "given": "William F.",
+          "family": "Mills",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3877-9390",
+          "authenticated-orcid": false,
+          "given": "Paco",
+          "family": "Bustamante",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0208-1444",
+          "authenticated-orcid": false,
+          "given": "Richard A.",
+          "family": "Phillips",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Environmental Pollution",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1016/j.envpol.2026.128745"
+    },
+    "10.1016/j.marpolbul.2026.119632": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2026-07-01T00:00:00Z",
+            "timestamp": 1782864000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2026-07-01T00:00:00Z",
+            "timestamp": 1782864000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                24
+              ]
+            ],
+            "date-time": "2026-03-24T00:00:00Z",
+            "timestamp": 1774310400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.1016/j.marpolbul.2026.119632",
+      "type": "journal-article",
+      "page": "119632",
+      "title": "Sub-Arctic bacterioplankton in-situ response to crude oil and identification of the oil-degrading community by DNA-SIP and cultivation",
+      "volume": "228",
+      "author": [
+        {
+          "given": "Tony",
+          "family": "Gutierrez",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Angelina",
+          "family": "Angelova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Stephen",
+          "family": "Summers",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Georgia",
+          "family": "Waldram",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Umer Zeeshan",
+          "family": "Ijaz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Alejandro",
+          "family": "Gallego",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": "Marine Pollution Bulletin",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1016/j.marpolbul.2026.119632"
+    },
+    "10.1016/j.rse.2026.115511": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.1016/j.rse.2026.115511",
+      "type": "journal-article",
+      "page": "115511",
+      "title": "Improved mapping of Arctic fractional land cover and land cover change from multi-resolution optical remote sensing",
+      "volume": "344",
+      "author": [
+        {
+          "given": "Xiaoran",
+          "family": "Zhu",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jonathan A.",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Oliver",
+          "family": "Sonnentag",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Isla H.",
+          "family": "Myers-Smith",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Daryl",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kathleen M.",
+          "family": "Orndahl",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Leon",
+          "family": "Nill",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Antoine",
+          "family": "Caron-Guay",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Etienne",
+          "family": "Laliberté",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mark A.",
+          "family": "Friedl",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Remote Sensing of Environment",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1016/j.rse.2026.115511"
+    },
+    "10.1016/j.scitotenv.2026.182123": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2026-09-01T00:00:00Z",
+            "timestamp": 1788220800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2026-09-01T00:00:00Z",
+            "timestamp": 1788220800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                5
+              ]
+            ],
+            "date-time": "2026-08-05T00:00:00Z",
+            "timestamp": 1785888000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "DOI": "10.1016/j.scitotenv.2026.182123",
+      "type": "journal-article",
+      "page": "182123",
+      "title": "A regional anomaly in the Arctic Ocean: Future habitat contraction for soft-bodied zooplankton in the Pacific Gateway bottleneck",
+      "volume": "1049",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8942-8112",
+          "authenticated-orcid": false,
+          "given": "Gerlien",
+          "family": "Verhaegen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5837-7933",
+          "authenticated-orcid": false,
+          "given": "Wuju",
+          "family": "Son",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3984-6559",
+          "authenticated-orcid": false,
+          "given": "Jee-Hoon",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5527-5851",
+          "authenticated-orcid": false,
+          "given": "Kyoung-Ho",
+          "family": "Cho",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8639-5968",
+          "authenticated-orcid": false,
+          "given": "Eun Jin",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3427-8188",
+          "authenticated-orcid": false,
+          "given": "Dmitrii",
+          "family": "Pantiukhin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1285-580X",
+          "authenticated-orcid": false,
+          "given": "Hyoung Sul",
+          "family": "La",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Science of The Total Environment",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1016/j.scitotenv.2026.182123"
+    },
+    "10.1016/j.syapm.2026.126730": {
+      "publisher": "Elsevier BV",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2026-07-01T00:00:00Z",
+            "timestamp": 1782864000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2026-07-01T00:00:00Z",
+            "timestamp": 1782864000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                5,
+                14
+              ]
+            ],
+            "date-time": "2026-05-14T00:00:00Z",
+            "timestamp": 1778716800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.1016/j.syapm.2026.126730",
+      "type": "journal-article",
+      "page": "126730",
+      "title": "Gelidimonas denitrificans gen. nov., sp. nov., and Gelidimonas diazotrophica sp. nov. psychrophilic bacteria involved in the nitrogen cycle in tundra soils of South Spitsbergen",
+      "volume": "49",
+      "author": [
+        {
+          "given": "Jakub",
+          "family": "Grzesiak",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Julia",
+          "family": "Brzykcy",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peter",
+          "family": "Young",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Elvira",
+          "family": "Krakowska",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Robert",
+          "family": "Stasiuk",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kamil",
+          "family": "Krakowski",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Przemysław",
+          "family": "Decewicz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alina",
+          "family": "Kiedryńska",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Renata",
+          "family": "Matlakowska",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dariusz",
+          "family": "Bartosik",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Systematic and Applied Microbiology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1016/j.syapm.2026.126730"
+    },
+    "10.1021/acs.est.5c10583": {
+      "publisher": "American Chemical Society (ACS)",
+      "issue": "29",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                12
+              ]
+            ],
+            "date-time": "2026-06-12T00:00:00Z",
+            "timestamp": 1781222400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                12
+              ]
+            ],
+            "date-time": "2026-06-12T00:00:00Z",
+            "timestamp": 1781222400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                12
+              ]
+            ],
+            "date-time": "2026-06-12T00:00:00Z",
+            "timestamp": 1781222400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-045"
+        }
+      ],
+      "DOI": "10.1021/acs.est.5c10583",
+      "type": "journal-article",
+      "page": "20398-20408",
+      "title": "<i>In Situ</i>\n                    Mesocosm Experiment Shows\nthe Capability of the Microbial Community of a Canadian High Arctic\nShoreline to Degrade the New Generation of Ship Fuels",
+      "volume": "60",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-1816-1390",
+          "authenticated-orcid": true,
+          "given": "Esteban",
+          "family": "Góngora",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "McGill University , , , ,",
+              "place": [
+                "Sainte-Anne-de-Bellevue, Quebec, Canada, H9X 3V9"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2235-1664",
+          "authenticated-orcid": true,
+          "given": "Ianina",
+          "family": "Altshuler",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "McGill University , , , ,",
+              "place": [
+                "Sainte-Anne-de-Bellevue, Quebec, Canada, H9X 3V9"
+              ]
+            },
+            {
+              "name": "École Polytechnique Fédérale de Lausanne , , ,",
+              "place": [
+                "Sion, Switzerland, 1951"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Madison",
+          "family": "Ellis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "McGill University , , , ,",
+              "place": [
+                "Sainte-Anne-de-Bellevue, Quebec, Canada, H9X 3V9"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mira",
+          "family": "Okshevsky",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "McGill University , , , ,",
+              "place": [
+                "Sainte-Anne-de-Bellevue, Quebec, Canada, H9X 3V9"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Charles W.",
+          "family": "Greer",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "McGill University , , , ,",
+              "place": [
+                "Sainte-Anne-de-Bellevue, Quebec, Canada, H9X 3V9"
+              ]
+            },
+            {
+              "name": "National Research Council Canada , , , ,",
+              "place": [
+                "Montreal, Quebec, Canada, H4P 2R2"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lyle G.",
+          "family": "Whyte",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "McGill University , , , ,",
+              "place": [
+                "Sainte-Anne-de-Bellevue, Quebec, Canada, H9X 3V9"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Environmental Science &amp; Technology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            12
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1021/acs.est.5c10583"
+    },
+    "10.1038/s41597-026-07848-2": {
+      "publisher": "Springer Science and Business Media LLC",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                13
+              ]
+            ],
+            "date-time": "2026-07-13T00:00:00Z",
+            "timestamp": 1783900800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                13
+              ]
+            ],
+            "date-time": "2026-07-13T00:00:00Z",
+            "timestamp": 1783900800000
+          },
+          "content-version": "am",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        }
+      ],
+      "DOI": "10.1038/s41597-026-07848-2",
+      "type": "journal-article",
+      "title": "Chromosome-scale genome assembly and annotation of Jonah’s icefish Neopagetopsis ionah",
+      "author": [
+        {
+          "given": "Shunan",
+          "family": "Cao",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wenhao",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gianfranco",
+          "family": "Santovito",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Minhao",
+          "family": "Gao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gaojing",
+          "family": "Fan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shouwen",
+          "family": "Jiang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ruiqin",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wanying",
+          "family": "Zhai",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhiwei",
+          "family": "Gao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bo",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Qianghua",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yong",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Scientific Data",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            13
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1038/s41597-026-07848-2"
+    },
+    "10.1073/pnas.2528615123": {
+      "publisher": "National Academy of Sciences",
+      "issue": "23",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.1073/pnas.2528615123",
+      "type": "journal-article",
+      "title": "Impacts of future sea level change on Greenland from community knowledge, coastal mapping, and glacial isostatic adjustment models",
+      "volume": "123",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2558-2310",
+          "authenticated-orcid": false,
+          "given": "Kirsty J.",
+          "family": "Tinto",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Marine and Polar Geophysics Division, Lamont-Doherty Earth Observatory, Columbia University",
+              "place": [
+                "Palisades"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jacqueline",
+          "family": "Austermann",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Seismology, Geology and Tectonophysics Division, Lamont-Doherty Earth Observatory, Columbia University",
+              "place": [
+                "Palisades"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Earth and Environmental Sciences, Columbia University",
+              "place": [
+                "New York"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2570-3856",
+          "authenticated-orcid": false,
+          "given": "Robin E.",
+          "family": "Bell",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Marine and Polar Geophysics Division, Lamont-Doherty Earth Observatory, Columbia University",
+              "place": [
+                "Palisades"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Blockley",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/0342y5q78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Environment and Minerals, Greenland Institute of Natural Resources",
+              "place": [
+                "Nuuk, Greenland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Casey E.",
+          "family": "Brayton",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Marine and Polar Geophysics Division, Lamont-Doherty Earth Observatory, Columbia University",
+              "place": [
+                "Palisades"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Earth and Environmental Sciences, Columbia University",
+              "place": [
+                "New York"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Diana",
+          "family": "Krawczyk",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/0342y5q78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Greenland Climate Research Centre, Greenland Institute of Natural Resources",
+              "place": [
+                "Nuuk, Greenland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0000-7623-977X",
+          "authenticated-orcid": false,
+          "given": "Lauren",
+          "family": "Lewright",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Seismology, Geology and Tectonophysics Division, Lamont-Doherty Earth Observatory, Columbia University",
+              "place": [
+                "Palisades"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Earth and Environmental Sciences, Columbia University",
+              "place": [
+                "New York"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2253-1342",
+          "authenticated-orcid": false,
+          "given": "Andrew J.",
+          "family": "Lloyd",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Seismology, Geology and Tectonophysics Division, Lamont-Doherty Earth Observatory, Columbia University",
+              "place": [
+                "Palisades"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4137-547X",
+          "authenticated-orcid": false,
+          "given": "Frank O.",
+          "family": "Nitsche",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Marine and Polar Geophysics Division, Lamont-Doherty Earth Observatory, Columbia University",
+              "place": [
+                "Palisades"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Guy J. G.",
+          "family": "Paxman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01v29qb04",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Geography, Durham University",
+              "place": [
+                "Durham, United Kingdom"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David F.",
+          "family": "Porter",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Marine and Polar Geophysics Division, Lamont-Doherty Earth Observatory, Columbia University",
+              "place": [
+                "Palisades"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Aqqaluk",
+          "family": "Sørensen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/0342y5q78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Environment and Minerals, Greenland Institute of Natural Resources",
+              "place": [
+                "Nuuk, Greenland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8960-0034",
+          "authenticated-orcid": false,
+          "given": "Margie",
+          "family": "Turrin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00hj8s172",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Marine and Polar Geophysics Division, Lamont-Doherty Earth Observatory, Columbia University",
+              "place": [
+                "Palisades"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Karl",
+          "family": "Zinglersen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/0342y5q78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Environment and Minerals, Greenland Institute of Natural Resources",
+              "place": [
+                "Nuuk, Greenland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Proceedings of the National Academy of Sciences",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            1
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1073/pnas.2528615123"
+    },
+    "10.1080/22221751.2026.2627076": {
+      "publisher": "Informa UK Limited",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                2,
+                20
+              ]
+            ],
+            "date-time": "2026-02-20T00:00:00Z",
+            "timestamp": 1771545600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "DOI": "10.1080/22221751.2026.2627076",
+      "type": "journal-article",
+      "title": "Investigating high pathogenicity avian influenza virus incursions to remote islands: detection of H5N1 on Gough Island in the South Atlantic Ocean",
+      "volume": "15",
+      "author": [
+        {
+          "given": "Antje",
+          "family": "Steinfurth",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Royal Society for the Protection of Birds (RSPB)",
+              "place": [
+                "Cambridge, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Joshua G.",
+          "family": "Lynton-Jenkins",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge), Influenza and Avian Virology workgroup",
+              "place": [
+                "Surrey, UK"
+              ]
+            },
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge)",
+              "place": [
+                "Surrey, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jaimie",
+          "family": "Cleeland",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "British Antarctic Survey",
+              "place": [
+                "Cambridge, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Benjamin C.",
+          "family": "Mollett",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge), Influenza and Avian Virology workgroup",
+              "place": [
+                "Surrey, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Holly A.",
+          "family": "Coombes",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge), Influenza and Avian Virology workgroup",
+              "place": [
+                "Surrey, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andrea",
+          "family": "Moores",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge), Influenza and Avian Virology workgroup",
+              "place": [
+                "Surrey, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Robyn",
+          "family": "Neal",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge), Influenza and Avian Virology workgroup",
+              "place": [
+                "Surrey, UK"
+              ]
+            },
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge)",
+              "place": [
+                "Surrey, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ben",
+          "family": "Clifton",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge), Influenza and Avian Virology workgroup",
+              "place": [
+                "Surrey, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marco",
+          "family": "Falchieri",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge), Influenza and Avian Virology workgroup",
+              "place": [
+                "Surrey, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Christopher W.",
+          "family": "Jones",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Royal Society for the Protection of Birds (RSPB)",
+              "place": [
+                "Cambridge, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michelle M.",
+          "family": "Risi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Royal Society for the Protection of Birds (RSPB)",
+              "place": [
+                "Cambridge, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Susannah",
+          "family": "Gold",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Royal Society for the Protection of Birds (RSPB)",
+              "place": [
+                "Cambridge, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Joe",
+          "family": "James",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge), Influenza and Avian Virology workgroup",
+              "place": [
+                "Surrey, UK"
+              ]
+            },
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge)",
+              "place": [
+                "Surrey, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peter G.",
+          "family": "Ryan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Cape Town",
+              "place": [
+                "Rondebosch, South Africa"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jacob",
+          "family": "González- Solís",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Universitat de Barcelona (UB)",
+              "place": [
+                "Barcelona, Spain"
+              ]
+            },
+            {
+              "name": "Universitat de Barcelona (UB)",
+              "place": [
+                "Barcelona, Spain"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ashley C.",
+          "family": "Banyard",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge), Influenza and Avian Virology workgroup",
+              "place": [
+                "Surrey, UK"
+              ]
+            },
+            {
+              "name": "Animal and Plant Health Agency (APHA-Weybridge)",
+              "place": [
+                "Surrey, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Emerging Microbes &amp; Infections",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            20
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1080/22221751.2026.2627076"
+    },
+    "10.1093/femsec/fiag060": {
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                13
+              ]
+            ],
+            "date-time": "2026-06-13T00:00:00Z",
+            "timestamp": 1781308800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.1093/femsec/fiag060",
+      "type": "journal-article",
+      "title": "Functional genetic potential of benthic microbial mat communities in Arctic, Antarctic, and sub-Antarctic lakes",
+      "volume": "102",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-0889-6887",
+          "authenticated-orcid": false,
+          "given": "Jill",
+          "family": "De Visscher",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Laboratory of Protistology and Aquatic Ecology, Ghent University , Krijgslaan 297-S8, 9000 Ghent ,",
+              "place": [
+                "Belgium"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6926-3488",
+          "authenticated-orcid": false,
+          "given": "Bjorn",
+          "family": "Tytgat",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laboratory of Protistology and Aquatic Ecology, Ghent University , Krijgslaan 297-S8, 9000 Ghent ,",
+              "place": [
+                "Belgium"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dominic A",
+          "family": "Hodgson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "British Antarctic Survey, Natural Environment Research Council , High Cross, Madingley Road, Cambridge CB3 0ET ,",
+              "place": [
+                "United Kingdom"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Annick",
+          "family": "Wilmotte",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "InBios-Molecular Diversity and Ecology of Cyanobacteria, University of Liège , Allée du Six Août 11, B6a, Quartier Agora, 4000 Liège ,",
+              "place": [
+                "Belgium"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8421-2881",
+          "authenticated-orcid": false,
+          "given": "Anne",
+          "family": "Willems",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laboratory of Microbiology, Ghent University , K.L. Ledeganckstraat 35, 9000 Ghent ,",
+              "place": [
+                "Belgium"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Elie",
+          "family": "Verleyen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laboratory of Protistology and Aquatic Ecology, Ghent University , Krijgslaan 297-S8, 9000 Ghent ,",
+              "place": [
+                "Belgium"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wim",
+          "family": "Vyverman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laboratory of Protistology and Aquatic Ecology, Ghent University , Krijgslaan 297-S8, 9000 Ghent ,",
+              "place": [
+                "Belgium"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "FEMS Microbiology Ecology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            13
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1093/femsec/fiag060"
+    },
+    "10.1093/femsec/fiag061": {
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                9
+              ]
+            ],
+            "date-time": "2026-06-09T00:00:00Z",
+            "timestamp": 1780963200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 1,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.1093/femsec/fiag061",
+      "type": "journal-article",
+      "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring",
+      "volume": "102",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-3867-3190",
+          "authenticated-orcid": false,
+          "given": "Thomas M",
+          "family": "Pitot",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Département des sciences fondamentales, Université du Québec à Chicoutimi , 555 Boulevard de l’Université, Chicoutimi, QC G7H 2B1 ,",
+              "place": [
+                "Canada"
+              ]
+            },
+            {
+              "name": "Centre d’études nordiques (CEN), Université Laval , 1300 avenue des Sciences-de-la-Vie, Québec, QC G1V0A6 ,",
+              "place": [
+                "Canada"
+              ]
+            },
+            {
+              "name": "Groupe de recherche interuniversitaire en limnologie (GRIL) , C.P. 6128 Succursale Centre-Ville, Montréal, Québec H3C 3J7 ,",
+              "place": [
+                "Canada"
+              ]
+            },
+            {
+              "name": "Takuvik International Research Laboratory, Université Laval , 1045 avenue de la Médecine, Québec, QC G1V0A6 ,",
+              "place": [
+                "Canada"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3899-0180",
+          "authenticated-orcid": false,
+          "given": "Catherine",
+          "family": "Girard",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre d’études nordiques (CEN), Université Laval , 1300 avenue des Sciences-de-la-Vie, Québec, QC G1V0A6 ,",
+              "place": [
+                "Canada"
+              ]
+            },
+            {
+              "name": "Groupe de recherche interuniversitaire en limnologie (GRIL) , C.P. 6128 Succursale Centre-Ville, Montréal, Québec H3C 3J7 ,",
+              "place": [
+                "Canada"
+              ]
+            },
+            {
+              "name": "Takuvik International Research Laboratory, Université Laval , 1045 avenue de la Médecine, Québec, QC G1V0A6 ,",
+              "place": [
+                "Canada"
+              ]
+            },
+            {
+              "name": "Département de microbiologie, de biochimie et de bio-informatique, Université Laval , 1045 avenue de la Médecine, Québec, QC G1V0A6 ,",
+              "place": [
+                "Canada"
+              ]
+            },
+            {
+              "name": "Institut de Biologie Intégrative et des Systèmes (IBIS), Université Laval , 1030 avenue de la Médecine, Québec, QC G1V0A6 ,",
+              "place": [
+                "Canada"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "FEMS Microbiology Ecology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            8
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1093/femsec/fiag061"
+    },
+    "10.1093/femsec/fiag073": {
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                16
+              ]
+            ],
+            "date-time": "2026-07-16T00:00:00Z",
+            "timestamp": 1784160000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "DOI": "10.1093/femsec/fiag073",
+      "type": "journal-article",
+      "title": "Genomic adaptations of novel halotolerant bacteria from extreme North Greenland",
+      "volume": "102",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4841-4136",
+          "authenticated-orcid": false,
+          "given": "Miguel Ángel",
+          "family": "Salinas-García",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Centre for Exolife Sciences (CELS), Niels Bohr Institute, University of Copenhagen , Jagtvej 155A, DK-2200 Copenhagen ,",
+              "place": [
+                "Denmark"
+              ]
+            },
+            {
+              "name": "University of Copenhagen Center for Volatile Interactions (VOLT), Department of Biology, , Universitetsparken 15, DK-2100 Copenhagen ,",
+              "place": [
+                "Denmark"
+              ]
+            },
+            {
+              "name": "University of Copenhagen Section of Microbiology, Department of Biology, , Universitetsparken 15, DK-2100 Copenhagen ,",
+              "place": [
+                "Denmark"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9925-067X",
+          "authenticated-orcid": false,
+          "given": "Anders",
+          "family": "Priemé",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Exolife Sciences (CELS), Niels Bohr Institute, University of Copenhagen , Jagtvej 155A, DK-2200 Copenhagen ,",
+              "place": [
+                "Denmark"
+              ]
+            },
+            {
+              "name": "University of Copenhagen Center for Volatile Interactions (VOLT), Department of Biology, , Universitetsparken 15, DK-2100 Copenhagen ,",
+              "place": [
+                "Denmark"
+              ]
+            },
+            {
+              "name": "University of Copenhagen Section of Microbiology, Department of Biology, , Universitetsparken 15, DK-2100 Copenhagen ,",
+              "place": [
+                "Denmark"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "FEMS Microbiology Ecology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            16
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1093/femsec/fiag073"
+    },
+    "10.1093/femsec/fiag077": {
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                20
+              ]
+            ],
+            "date-time": "2026-07-20T00:00:00Z",
+            "timestamp": 1784505600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 3,
+          "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "DOI": "10.1093/femsec/fiag077",
+      "type": "journal-article",
+      "title": "Viral genetic diversity and functional potential in polar and subarctic sea ice",
+      "volume": "102",
+      "author": [
+        {
+          "given": "Kalle J",
+          "family": "Pettersson",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Faculty of Agriculture and Forestry, University of Helsinki Department of Microbiology, , 00014 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            },
+            {
+              "name": "Natural Resources Institute Finland , 00790 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tatiana",
+          "family": "Demina",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Agriculture and Forestry, University of Helsinki Department of Microbiology, , 00014 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            },
+            {
+              "name": "Helsinki Institute of Sustainability Science (HELSUS), University of Helsinki , 00014 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            },
+            {
+              "name": "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory , Berkeley, CA 94720 ,",
+              "place": [
+                "United States"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Eeva",
+          "family": "Eronen-Rasimus",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Agriculture and Forestry, University of Helsinki Department of Microbiology, , 00014 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            },
+            {
+              "name": "Finnish Environment Institute , 00790 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Simon",
+          "family": "Roux",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "DOE Joint Genome Institute, Lawrence Berkeley National Laboratory , Berkeley, CA 94720 ,",
+              "place": [
+                "United States"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sirja",
+          "family": "Viitamäki",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Agriculture and Forestry, University of Helsinki Department of Microbiology, , 00014 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            },
+            {
+              "name": "Natural Resources Institute Finland , 00790 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Igor S",
+          "family": "Pessi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Agriculture and Forestry, University of Helsinki Department of Microbiology, , 00014 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            },
+            {
+              "name": "Helsinki Institute of Sustainability Science (HELSUS), University of Helsinki , 00014 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            },
+            {
+              "name": "Finnish Environment Institute , 00790 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hanna M",
+          "family": "Oksanen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Biological and Environmental Sciences, University of Helsinki Department of Molecular and Integrative Biosciences, , 00014 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Philipp",
+          "family": "Assmy",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Norwegian Polar Institute, Fram Centre , 9296 Tromsø ,",
+              "place": [
+                "Norway"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hermanni",
+          "family": "Kaartokallio",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Finnish Environment Institute , 00790 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jenni",
+          "family": "Hultman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Agriculture and Forestry, University of Helsinki Department of Microbiology, , 00014 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            },
+            {
+              "name": "Natural Resources Institute Finland , 00790 Helsinki ,",
+              "place": [
+                "Finland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "FEMS Microbiology Ecology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            17
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1093/femsec/fiag077"
+    },
+    "10.1093/jambio/lxag182": {
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                27
+              ]
+            ],
+            "date-time": "2026-07-27T00:00:00Z",
+            "timestamp": 1785110400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+      ],
+      "DOI": "10.1093/jambio/lxag182",
+      "type": "journal-article",
+      "title": "Metagenome-assembled genomes from northern West Siberia: insights into microbial diversity in permafrost and contemporary soils",
+      "volume": "137",
+      "author": [
+        {
+          "given": "Darya V",
+          "family": "Poshvina",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Laboratory of Antimicrobial Resistance, Institute of Environmental and Agricultural Biology (X-BIO), University of Tyumen , Tyumen, 625003 ,",
+              "place": [
+                "Russian Federation"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexander S",
+          "family": "Balkin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laboratory of Biomedical Technologies, Institute for Cellular and Intracellular Symbiosis of the Ural Branch of the Russian Academy of Sciences , Orenburg, 460000 ,",
+              "place": [
+                "Russian Federation"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9970-4881",
+          "authenticated-orcid": false,
+          "given": "Alexey S",
+          "family": "Vasilchenko",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laboratory of Antimicrobial Resistance, Institute of Environmental and Agricultural Biology (X-BIO), University of Tyumen , Tyumen, 625003 ,",
+              "place": [
+                "Russian Federation"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Journal of Applied Microbiology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1093/jambio/lxag182"
+    },
+    "10.1093/nsr/nwag314": {
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "11",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                5,
+                27
+              ]
+            ],
+            "date-time": "2026-05-27T00:00:00Z",
+            "timestamp": 1779840000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.1093/nsr/nwag314",
+      "type": "journal-article",
+      "title": "Interdecadal shift in the spring Southern Annular Mode intensifies its lagged influence on Antarctic summer sea ice",
+      "volume": "13",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8148-3897",
+          "authenticated-orcid": false,
+          "given": "Juan",
+          "family": "Dou",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Key Laboratory of Marine Hazards Forecasting, Ministry of Natural Resources, Hohai University , Nanjing 210098 ,",
+              "place": [
+                "China"
+              ]
+            },
+            {
+              "name": "College of Oceanography, Hohai University , Nanjing 210098 ,",
+              "place": [
+                "China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiangzhou",
+          "family": "Song",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Key Laboratory of Marine Hazards Forecasting, Ministry of Natural Resources, Hohai University , Nanjing 210098 ,",
+              "place": [
+                "China"
+              ]
+            },
+            {
+              "name": "College of Oceanography, Hohai University , Nanjing 210098 ,",
+              "place": [
+                "China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Renhe",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Fudan University Department of Atmospheric and Oceanic Sciences and Institute of Atmospheric Sciences, , Shanghai 200438 ,",
+              "place": [
+                "China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "National Science Review",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            27
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1093/nsr/nwag314"
+    },
+    "10.1111/gcb.71039": {
+      "publisher": "Wiley",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                8
+              ]
+            ],
+            "date-time": "2026-08-08T00:00:00Z",
+            "timestamp": 1786147200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 7,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+      ],
+      "DOI": "10.1111/gcb.71039",
+      "type": "journal-article",
+      "title": "Pollination Under Pressure: Grazing and Nutrient Enrichment Reshape Arctic Pollinator Communities and Interaction Networks",
+      "volume": "32",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0008-5296-4086",
+          "authenticated-orcid": false,
+          "given": "Nicolina",
+          "family": "Johanson",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Ecology and Genetics University of Oulu  Oulu Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Martin",
+          "family": "Andrzejak",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Ecology and Genetics University of Oulu  Oulu Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8963-1153",
+          "authenticated-orcid": false,
+          "given": "Harry Olde",
+          "family": "Venterink",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Group WILD Vrije Universiteit Brussel  Brussel Belgium"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7655-979X",
+          "authenticated-orcid": false,
+          "given": "Luísa G.",
+          "family": "Carvalheiro",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Ecology Department Universidade Federal de Goiás  Goiânia Brazil"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1707-5263",
+          "authenticated-orcid": false,
+          "given": "Anu",
+          "family": "Eskelinen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Ecology and Genetics University of Oulu  Oulu Finland"
+            },
+            {
+              "name": "German Centre for Integrative Biodiversity Research iDiv  Leipzig Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8295-8217",
+          "authenticated-orcid": false,
+          "given": "Risto",
+          "family": "Virtanen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Ecology and Genetics University of Oulu  Oulu Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Global Change Biology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1111/gcb.71039"
+    },
+    "10.1126/sciadv.aed1936": {
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "issue": "23",
+      "DOI": "10.1126/sciadv.aed1936",
+      "type": "journal-article",
+      "title": "Tropical impacts of the Southern Ocean underestimated by mean-state biases",
+      "volume": "12",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6404-3446",
+          "authenticated-orcid": true,
+          "given": "Yue",
+          "family": "Dong",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, CA, USA."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3961-8815",
+          "authenticated-orcid": true,
+          "given": "Kezhou",
+          "family": "Lu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles, Los Angeles, CA, USA."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4084-1408",
+          "authenticated-orcid": true,
+          "given": "Yen-Ting",
+          "family": "Hwang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Atmospheric Sciences, National Taiwan University, Taipei, Taiwan."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0007-8908-4499",
+          "authenticated-orcid": true,
+          "given": "Ruei-Jia",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Atmospheric Sciences, National Taiwan University, Taipei, Taiwan."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3754-3506",
+          "authenticated-orcid": true,
+          "given": "Paulo",
+          "family": "Ceppi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physics, Imperial College London, London, UK."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1418-7307",
+          "authenticated-orcid": true,
+          "given": "Philipp",
+          "family": "Breul",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physics, Imperial College London, London, UK."
+            },
+            {
+              "name": "Department of Geophysics and Meteorology, University of Cologne, Cologne, Germany."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4189-3928",
+          "authenticated-orcid": true,
+          "given": "Lettie A.",
+          "family": "Roach",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, Germany."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5517-9103",
+          "authenticated-orcid": true,
+          "given": "Clara",
+          "family": "Deser",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Climate and Global Dynamics Division, National Center for Atmospheric Research, Boulder, CO, USA."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Science Advances",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            5
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1126/sciadv.aed1936"
+    },
+    "10.1126/sciadv.aed2633": {
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "issue": "25",
+      "DOI": "10.1126/sciadv.aed2633",
+      "type": "journal-article",
+      "title": "Limited impact of Greenland meltwater on abruptness and reversibility of future Atlantic overturning changes",
+      "volume": "12",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4338-218X",
+          "authenticated-orcid": true,
+          "given": "Oliver",
+          "family": "Mehling",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Environment, Land and Infrastructure Engineering, Politecnico di Torino, 10129 Turin, Italy."
+            },
+            {
+              "name": "Institute for Marine and Atmospheric research Utrecht, Department of Physics, Utrecht University, 3584 CC Utrecht, Netherlands."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7954-4390",
+          "authenticated-orcid": true,
+          "given": "Katinka",
+          "family": "Bellomo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Environment, Land and Infrastructure Engineering, Politecnico di Torino, 10129 Turin, Italy."
+            },
+            {
+              "name": "Department of Geosciences, University of Padova, 35131 Padua, Italy."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2135-3978",
+          "authenticated-orcid": true,
+          "given": "Federico",
+          "family": "Fabiano",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Atmospheric Sciences and Climate, Consiglio Nazionale delle Ricerche, 40129 Bologna, Italy."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3929-2747",
+          "authenticated-orcid": true,
+          "given": "Marion",
+          "family": "Devilliers",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Danish Meteorological Institute, 2100 Copenhagen, Denmark."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3324-8152",
+          "authenticated-orcid": true,
+          "given": "Michele",
+          "family": "Petrini",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "NORCE Norwegian Research Centre, Bjerknes Centre for Climate Research, 5007 Bergen, Norway."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4456-6682",
+          "authenticated-orcid": true,
+          "given": "Susanna",
+          "family": "Corti",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Atmospheric Sciences and Climate, Consiglio Nazionale delle Ricerche, 40129 Bologna, Italy."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5312-8070",
+          "authenticated-orcid": true,
+          "given": "Jost",
+          "family": "von Hardenberg",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Environment, Land and Infrastructure Engineering, Politecnico di Torino, 10129 Turin, Italy."
+            },
+            {
+              "name": "Institute of Atmospheric Sciences and Climate, Consiglio Nazionale delle Ricerche, 10133 Turin, Italy."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Science Advances",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            19
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1126/sciadv.aed2633"
+    },
+    "10.1126/sciadv.aef3201": {
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "issue": "32",
+      "DOI": "10.1126/sciadv.aef3201",
+      "type": "journal-article",
+      "title": "Glacier retreat shapes organic nutrient availability across lake succession",
+      "volume": "12",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1431-951X",
+          "authenticated-orcid": true,
+          "given": "Grégoire",
+          "family": "Saboret",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Surface Waters, Eawag: Swiss Federal Institute of Aquatic Science and Technology, 6047 Kastanienbaum, Switzerland."
+            },
+            {
+              "name": "Department of Fish Ecology and Evolution, Eawag: Swiss Federal Institute of Aquatic Science and Technology, 6047 Kastanienbaum, Switzerland."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0004-2226-4733",
+          "authenticated-orcid": true,
+          "given": "Elliot",
+          "family": "Lewis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Fish Ecology and Evolution, Eawag: Swiss Federal Institute of Aquatic Science and Technology, 6047 Kastanienbaum, Switzerland."
+            },
+            {
+              "name": "Department of Aquatic Ecology &amp; Evolution, Institute of Ecology and Evolution, University of Bern, 3012 Bern, Switzerland."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0117-1106",
+          "authenticated-orcid": true,
+          "given": "Nicolaj Krog",
+          "family": "Larsen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for GeoGenetics, Globe Institute, University of Copenhagen, Øster Voldgade 5-7, DK-1350 Copenhagen K, Denmark."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0000-6754-3147",
+          "authenticated-orcid": true,
+          "given": "Antigoni",
+          "family": "Samourdani",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Fish Ecology and Evolution, Eawag: Swiss Federal Institute of Aquatic Science and Technology, 6047 Kastanienbaum, Switzerland."
+            },
+            {
+              "name": "Department of Aquatic Ecology &amp; Evolution, Institute of Ecology and Evolution, University of Bern, 3012 Bern, Switzerland."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1668-5967",
+          "authenticated-orcid": true,
+          "given": "Carsten Johnny",
+          "family": "Schubert",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Surface Waters, Eawag: Swiss Federal Institute of Aquatic Science and Technology, 6047 Kastanienbaum, Switzerland."
+            },
+            {
+              "name": "Institute of Biogeochemistry and Pollutant Dynamics, ETH-Zürich, Universitätstrasse 16, 8092 Zürich, Switzerland."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2060-6379",
+          "authenticated-orcid": true,
+          "given": "Jakob",
+          "family": "Brodersen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Fish Ecology and Evolution, Eawag: Swiss Federal Institute of Aquatic Science and Technology, 6047 Kastanienbaum, Switzerland."
+            },
+            {
+              "name": "Department of Aquatic Ecology &amp; Evolution, Institute of Ecology and Evolution, University of Bern, 3012 Bern, Switzerland."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Science Advances",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            7
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1126/sciadv.aef3201"
+    },
+    "10.1128/msystems.00738-25": {
+      "publisher": "American Society for Microbiology",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                23
+              ]
+            ],
+            "date-time": "2026-06-23T00:00:00Z",
+            "timestamp": 1782172800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                23
+              ]
+            ],
+            "date-time": "2026-06-23T00:00:00Z",
+            "timestamp": 1782172800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.asm.org/non-commercial-tdm-license"
+        }
+      ],
+      "DOI": "10.1128/msystems.00738-25",
+      "type": "journal-article",
+      "title": "Seasonal thawing of high Arctic soils triggers selective microbial growth and predation",
+      "volume": "11",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-3530-5560",
+          "authenticated-orcid": true,
+          "given": "Margaret A.",
+          "family": "Cramm",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/026zzn846",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "School of Geography, Queen Mary University of London",
+              "place": [
+                "London, United Kingdom"
+              ]
+            },
+            {
+              "name": "School of Biological and Behavioural Sciences, Queen Mary University of London",
+              "place": [
+                "London, United Kingdom"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/032wd5c37",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Science, Natural History Museum",
+              "place": [
+                "London, United Kingdom"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-9786-5397",
+          "authenticated-orcid": true,
+          "given": "Ömer K.",
+          "family": "Coskun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/005506478",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Earth and Environmental Sciences, Paleontology & Geobiology, Ludwig-Maximilians-Universität München",
+              "place": [
+                "Munich, Germany"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Francesco",
+          "family": "Montemagno",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/05290cv24",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Biology, University of Naples Federico II",
+              "place": [
+                "Naples, Italy"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Matteo",
+          "family": "Selci",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/05290cv24",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Biology, University of Naples Federico II",
+              "place": [
+                "Naples, Italy"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/05vt9qd57",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Marine and Coastal Sciences, Rutgers University",
+              "place": [
+                "New Brunswick, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Daniel S.",
+          "family": "Read",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00pggkr55",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "UK Centre for Ecology & Hydrology",
+              "place": [
+                "Wallingford, United Kingdom"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tim",
+          "family": "Goodall",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00pggkr55",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "UK Centre for Ecology & Hydrology",
+              "place": [
+                "Wallingford, United Kingdom"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Brianna",
+          "family": "Green",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/020f3ap87",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Earth and Planetary Sciences, University of Tennessee",
+              "place": [
+                "Knoxville, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sayali A.",
+          "family": "Mulay",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/020f3ap87",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Microbiology, University of Tennessee",
+              "place": [
+                "Knoxville, USA"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01qz5mb56",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Biosciences Division, Oak Ridge National Laboratory",
+              "place": [
+                "Oak Ridge, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Katie",
+          "family": "Sipes",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/020f3ap87",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Microbiology, University of Tennessee",
+              "place": [
+                "Knoxville, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andrey A.",
+          "family": "Abramov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/05qrfxd25",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Kovda Institute of Physicochemical and Biological Problems in Soil Science, Russian Academy of Sciences",
+              "place": [
+                "Pushchino, Russia"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Catherine M.",
+          "family": "Heppell",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Chilterns National Landscape",
+              "place": [
+                "Chinnor, United Kingdom"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Julia",
+          "family": "Boike",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Permafrost Research, Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research",
+              "place": [
+                "Potsdam, Germany"
+              ]
+            },
+            {
+              "name": "Geography Department, Humboldt-Universität of Berlin",
+              "place": [
+                "Berlin, Germany"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Donato",
+          "family": "Giovannelli",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/05290cv24",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Biology, University of Naples Federico II",
+              "place": [
+                "Naples, Italy"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/05vt9qd57",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Marine and Coastal Sciences, Rutgers University",
+              "place": [
+                "New Brunswick, USA"
+              ]
+            },
+            {
+              "name": "Institute for Marine Biological Resources and Biotechnologies, Italian National Research Council, CNR-IRBIM",
+              "place": [
+                "Ancona, Italy"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/031dp5151",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Earth-Life Science Institute, ELSI, Tokyo Institute of Technology",
+              "place": [
+                "Tokyo, Japan"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03zbnzt98",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Marine Chemistry and Geochemistry Department, Woods Hole Oceanographic Institution",
+              "place": [
+                "Woods Hole, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0660-023X",
+          "authenticated-orcid": true,
+          "given": "Tatiana A.",
+          "family": "Vishnivetskaya",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/020f3ap87",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Microbiology, University of Tennessee",
+              "place": [
+                "Knoxville, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7708-786X",
+          "authenticated-orcid": true,
+          "given": "Robert L.",
+          "family": "Hettich",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01qz5mb56",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Biosciences Division, Oak Ridge National Laboratory",
+              "place": [
+                "Oak Ridge, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4297-4332",
+          "authenticated-orcid": true,
+          "given": "Andrew D.",
+          "family": "Steen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/020f3ap87",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Earth and Planetary Sciences, University of Tennessee",
+              "place": [
+                "Knoxville, USA"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/020f3ap87",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Microbiology, University of Tennessee",
+              "place": [
+                "Knoxville, USA"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03taz7m60",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Biological Sciences, University of Southern California, Dornsife College of Letters, Arts and Sciences",
+              "place": [
+                "Los Angeles, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0914-6375",
+          "authenticated-orcid": false,
+          "given": "Karen G.",
+          "family": "Lloyd",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/020f3ap87",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Microbiology, University of Tennessee",
+              "place": [
+                "Knoxville, USA"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03taz7m60",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Earth Sciences, University of Southern California, Dornsife College of Letters, Arts and Sciences",
+              "place": [
+                "Los Angeles, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4094-5637",
+          "authenticated-orcid": true,
+          "given": "William D.",
+          "family": "Orsi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/005506478",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Earth and Environmental Sciences, Paleontology & Geobiology, Ludwig-Maximilians-Universität München",
+              "place": [
+                "Munich, Germany"
+              ]
+            },
+            {
+              "name": "GeoBio-Center LMU, Ludwig-Maximilians-Universität München",
+              "place": [
+                "Munich, Germany"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4569-8233",
+          "authenticated-orcid": false,
+          "given": "Anne D.",
+          "family": "Jungblut",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/032wd5c37",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Science, Natural History Museum",
+              "place": [
+                "London, United Kingdom"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3640-208X",
+          "authenticated-orcid": false,
+          "given": "James A.",
+          "family": "Bradley",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Biological and Behavioural Sciences, Queen Mary University of London",
+              "place": [
+                "London, United Kingdom"
+              ]
+            },
+            {
+              "name": "Aix Marseille Univ, Université de Toulon, CNRS, IRD, MIO",
+              "place": [
+                "Marseille, France"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "mSystems",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            23
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1128/msystems.00738-25"
+    },
+    "10.1128/spectrum.00456-26": {
+      "publisher": "American Society for Microbiology",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                2
+              ]
+            ],
+            "date-time": "2026-06-02T00:00:00Z",
+            "timestamp": 1780358400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                2
+              ]
+            ],
+            "date-time": "2026-06-02T00:00:00Z",
+            "timestamp": 1780358400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.asm.org/non-commercial-tdm-license"
+        }
+      ],
+      "DOI": "10.1128/spectrum.00456-26",
+      "type": "journal-article",
+      "title": "Capacity of Arctic fjord sediments to degrade carbohydrates from permafrost active layer",
+      "volume": "14",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0004-3519-069X",
+          "authenticated-orcid": false,
+          "given": "Chukwufumnanya Y.",
+          "family": "Abuah",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03taz7m60",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Earth Sciences, University of Southern California",
+              "place": [
+                "Los Angeles, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Katie",
+          "family": "Sipes",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/020f3ap87",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Microbiology, University of Tennessee",
+              "place": [
+                "Knoxville, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Joy",
+          "family": "Buongiorno",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/020f3ap87",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Microbiology, University of Tennessee",
+              "place": [
+                "Knoxville, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4297-4332",
+          "authenticated-orcid": true,
+          "given": "Andrew D.",
+          "family": "Steen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03taz7m60",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Earth Sciences, University of Southern California",
+              "place": [
+                "Los Angeles, USA"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03taz7m60",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Biological Sciences, University of Southern California",
+              "place": [
+                "Los Angeles, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "James A.",
+          "family": "Bradley",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/02m9kbe37",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "CNRS, IRD, MIO, Université de Toulon, Aix Marseille University",
+              "place": [
+                "Marseille, France"
+              ]
+            },
+            {
+              "name": "School of Biological and Behavioural Sciences, Queen Mary University of London",
+              "place": [
+                "London, United Kingdom"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7182-8233",
+          "authenticated-orcid": true,
+          "given": "Donato",
+          "family": "Giovannelli",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/05290cv24",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "University of Naples “Federico II” Naples",
+              "place": [
+                "Naples, Italy"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andrey",
+          "family": "Abramov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Physicochemical and Biological Problems of Soil Science",
+              "place": [
+                "Pushchino, Russia"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Samantha L.",
+          "family": "Peters",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01qz5mb56",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Biosciences Division, Oak Ridge National Laboratory",
+              "place": [
+                "Oak Ridge, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Richard J.",
+          "family": "Giannone",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01qz5mb56",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Biosciences Division, Oak Ridge National Laboratory",
+              "place": [
+                "Oak Ridge, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7708-786X",
+          "authenticated-orcid": true,
+          "given": "Robert L.",
+          "family": "Hettich",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01qz5mb56",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Biosciences Division, Oak Ridge National Laboratory",
+              "place": [
+                "Oak Ridge, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Renxing",
+          "family": "Liang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/04gcegc37",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "China University of Geosciences",
+              "place": [
+                "Wuhan, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Julia",
+          "family": "Boike",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Permafrost Research Section, Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research",
+              "place": [
+                "Potsdam, Germany"
+              ]
+            },
+            {
+              "name": "Geography Department, Humboldt University Berlin",
+              "place": [
+                "Berlin, Germany"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0660-023X",
+          "authenticated-orcid": true,
+          "given": "Tatiana A.",
+          "family": "Vishnivetskaya",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/020f3ap87",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Microbiology, University of Tennessee",
+              "place": [
+                "Knoxville, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0914-6375",
+          "authenticated-orcid": false,
+          "given": "Karen G.",
+          "family": "Lloyd",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03taz7m60",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Earth Sciences, University of Southern California",
+              "place": [
+                "Los Angeles, USA"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03taz7m60",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Biological Sciences, University of Southern California",
+              "place": [
+                "Los Angeles, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Microbiology Spectrum",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            2
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1128/spectrum.00456-26"
+    },
+    "10.1186/s12915-026-02685-6": {
+      "publisher": "Springer Science and Business Media LLC",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                16
+              ]
+            ],
+            "date-time": "2026-07-16T00:00:00Z",
+            "timestamp": 1784160000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                16
+              ]
+            ],
+            "date-time": "2026-07-16T00:00:00Z",
+            "timestamp": 1784160000000
+          },
+          "content-version": "am",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        }
+      ],
+      "DOI": "10.1186/s12915-026-02685-6",
+      "type": "journal-article",
+      "title": "Diversity and potential ecological roles of viruses in Pleistocene permafrost",
+      "author": [
+        {
+          "given": "Changhua",
+          "family": "He",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yuntong",
+          "family": "Du",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Karen G.",
+          "family": "Lloyd",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tatiana A.",
+          "family": "Vishnivetskaya",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Elizaveta M.",
+          "family": "Rivkina",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hongchen",
+          "family": "Jiang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Renxing",
+          "family": "Liang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "BMC Biology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            16
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1186/s12915-026-02685-6"
+    },
+    "10.1186/s40793-026-00919-2": {
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                28
+              ]
+            ],
+            "date-time": "2026-06-28T00:00:00Z",
+            "timestamp": 1782604800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                29
+              ]
+            ],
+            "date-time": "2026-07-29T00:00:00Z",
+            "timestamp": 1785283200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 31,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        }
+      ],
+      "DOI": "10.1186/s40793-026-00919-2",
+      "type": "journal-article",
+      "title": "Deep metagenomics uncovers functional adaptations and pathogenic risks in the gut microbiome of Antarctic fur seals (Arctocephalus gazella)",
+      "volume": "21",
+      "author": [
+        {
+          "given": "Tingyi",
+          "family": "Lai",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yisi",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zedong",
+          "family": "Duan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shiyuan",
+          "family": "Su",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Haitao",
+          "family": "Ding",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yufei",
+          "family": "Dai",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Minhao",
+          "family": "Gao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mukan",
+          "family": "Ji",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Li",
+          "family": "Liao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Environmental Microbiome",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            28
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1186/s40793-026-00919-2"
+    },
+    "10.3390/cimb48060639": {
+      "publisher": "MDPI AG",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                20
+              ]
+            ],
+            "date-time": "2026-06-20T00:00:00Z",
+            "timestamp": 1781913600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.3390/cimb48060639",
+      "type": "journal-article",
+      "page": "639",
+      "title": "Recent Dominant Transposition Events Affect Gene Regulatory Regions, but Not Coding Sequences, in Polar and Brown Bear Genomes",
+      "volume": "48",
+      "author": [
+        {
+          "given": "Chris M.",
+          "family": "Njagi",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Center for Computational and Integrative Biology, Rutgers University, Camden, NJ 08102, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5396-6210",
+          "authenticated-orcid": false,
+          "given": "James J.",
+          "family": "Kelley",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Computational and Integrative Biology, Rutgers University, Camden, NJ 08102, USA"
+            },
+            {
+              "name": "Department of Biology, Rutgers University, Camden, NJ 08102, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nikita",
+          "family": "Gulati",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology, Rutgers University, Camden, NJ 08102, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Naman S.",
+          "family": "Sijwali",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Computational and Integrative Biology, Rutgers University, Camden, NJ 08102, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3227-532X",
+          "authenticated-orcid": false,
+          "given": "Andrey",
+          "family": "Grigoriev",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Computational and Integrative Biology, Rutgers University, Camden, NJ 08102, USA"
+            },
+            {
+              "name": "Department of Biology, Rutgers University, Camden, NJ 08102, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Current Issues in Molecular Biology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            20
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.3390/cimb48060639"
+    },
+    "10.3390/v18070726": {
+      "publisher": "MDPI AG",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                30
+              ]
+            ],
+            "date-time": "2026-06-30T00:00:00Z",
+            "timestamp": 1782777600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.3390/v18070726",
+      "type": "journal-article",
+      "page": "726",
+      "title": "Infection Dynamics and Coexistence of Two Novel Arctic Phytoplankton Viruses",
+      "volume": "18",
+      "author": [
+        {
+          "given": "Claudia",
+          "family": "Meyer",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Marine Microbiology and Biogeochemistry, NIOZ Royal Netherlands Institute for Sea Research, P.O. Box 59, 1790 AB Den Burg, Texel, The Netherlands"
+            },
+            {
+              "name": "Department of Freshwater and Marine Ecology, Institute for Biodiversity and Ecosystem Dynamics (IBED), University of Amsterdam, P.O. Box 94240, 1090 GE Amsterdam, The Netherlands"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2732-266X",
+          "authenticated-orcid": false,
+          "given": "Victoria L. N.",
+          "family": "Jackson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Living Systems Institute, University of Exeter, Exeter EX4 4QD, UK"
+            },
+            {
+              "name": "Faculty of Health and Life Sciences, University of Exeter, Exeter EX4 4QD, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Floris",
+          "family": "de Haan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Marine Microbiology and Biogeochemistry, NIOZ Royal Netherlands Institute for Sea Research, P.O. Box 59, 1790 AB Den Burg, Texel, The Netherlands"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4772-1898",
+          "authenticated-orcid": false,
+          "given": "Henk",
+          "family": "Bolhuis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Marine Microbiology and Biogeochemistry, NIOZ Royal Netherlands Institute for Sea Research, P.O. Box 59, 1790 AB Den Burg, Texel, The Netherlands"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8504-7171",
+          "authenticated-orcid": false,
+          "given": "Michael J.",
+          "family": "Allen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Health and Life Sciences, University of Exeter, Exeter EX4 4QD, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6018-5153",
+          "authenticated-orcid": false,
+          "given": "Adam",
+          "family": "Monier",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Living Systems Institute, University of Exeter, Exeter EX4 4QD, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6320-9229",
+          "authenticated-orcid": false,
+          "given": "Corina P. D.",
+          "family": "Brussaard",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Marine Microbiology and Biogeochemistry, NIOZ Royal Netherlands Institute for Sea Research, P.O. Box 59, 1790 AB Den Burg, Texel, The Netherlands"
+            },
+            {
+              "name": "Department of Freshwater and Marine Ecology, Institute for Biodiversity and Ecosystem Dynamics (IBED), University of Amsterdam, P.O. Box 94240, 1090 GE Amsterdam, The Netherlands"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Viruses",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            30
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.3390/v18070726"
+    }
+  },
+  "errors": {}
+}

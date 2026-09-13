@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/polar-kg/schema/claim.schema.json",
+  "title": "Atomic evidence claim",
+  "type": "object",
+  "required": [
+    "id", "source_id", "subject", "predicate", "object", "statement",
+    "scope", "evidence_type", "evidence_basis", "locator", "confidence",
+    "confidence_note"
+  ],
+  "properties": {
+    "id": {"type": "string", "pattern": "^claim:"},
+    "source_id": {"type": "string", "pattern": "^src:"},
+    "subject": {"type": "string"},
+    "predicate": {"type": "string", "pattern": "^[a-z][a-z0-9_]*$"},
+    "object": {"type": "string"},
+    "statement": {"type": "string", "minLength": 20},
+    "scope": {"type": "string", "minLength": 5},
+    "evidence_type": {"enum": ["reported", "inferred", "modeled", "synthesized"]},
+    "evidence_basis": {"type": "string", "minLength": 5},
+    "locator": {"type": "string", "minLength": 3},
+    "confidence": {"enum": ["high", "moderate", "low"]},
+    "confidence_note": {"type": "string", "minLength": 8},
+    "qualifiers": {"type": "object"}
+  },
+  "additionalProperties": false
+}
+

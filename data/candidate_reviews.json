@@ -1,0 +1,3107 @@
+{
+  "schema_version": "1.0",
+  "candidate_snapshot_generated_at": "2026-08-09T16:30:13.613350+00:00",
+  "reviewed_at": "2026-08-09",
+  "review_scope": "Complete title-and-abstract screening of the 136-candidate snapshot. Include decisions require full-text verification before graph promotion.",
+  "decision_definitions": {
+    "include": "Directly relevant; proceed to full-text verification and structured extraction.",
+    "background": "Contextual or methodological value; do not create a core polar claim without a specific need.",
+    "exclude": "Outside geographic, biological, or Earth-system scope; do not promote."
+  },
+  "reviews": [
+    {
+      "candidate_id": "candidate:10-1016-j-lanplh-2026-101490",
+      "doi": "10.1016/j.lanplh.2026.101490",
+      "title": "Ecological-collective-flourishing (e-co-flourishing): a framework to guide innovation and research.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope",
+        "future_issue_date"
+      ],
+      "review_note": "Excluded as outside scope; the 2027 issue date was also flagged for online-first verification rather than treated as a current polar source.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-rse-2026-115511",
+      "doi": "10.1016/j.rse.2026.115511",
+      "title": "Improved mapping of Arctic fractional land cover and land cover change from multi-resolution optical remote sensing.",
+      "decision": "include",
+      "relevance_score": 8,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority Arctic Earth-system and terrestrial-eukaryote resource: annual 2016–2023 tundra fractional land-cover maps across three Arctic ecoregions.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-jenvman-2026-130640",
+      "doi": "10.1016/j.jenvman.2026.130640",
+      "title": "How clean is clean enough? Short-chain PFAS remain dominant in treated landfill leachate.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1126-sciadv-aef3201",
+      "doi": "10.1126/sciadv.aef3201",
+      "title": "Glacier retreat shapes organic nutrient availability across lake succession.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority southern Greenland lake-succession study linking glacier retreat to organic nutrient sources and Arctic char physiology.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1161-jaha-126-048812",
+      "doi": "10.1161/jaha.126.048812",
+      "title": "Impact of Physical Activity on Stroke and Mortality in Individuals With and Without Atrial Fibrillation: The HUNT Study and the Tromsø Study.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108326",
+      "doi": "10.1016/j.marenvres.2026.108326",
+      "title": "Taxon-specific metabarcoding provides new insights into marine phytoplankton diversity and ecological interactions: a case study of Kareniaceae in China's coastal seas.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-scitotenv-2026-182106",
+      "doi": "10.1016/j.scitotenv.2026.182106",
+      "title": "Response of marine benthic viral communities to anthropogenic disturbances.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1186-s12864-026-13092-0",
+      "doi": "10.1186/s12864-026-13092-0",
+      "title": "Genomic characteristics and geographical distribution of uncultivated soil prokaryotes.",
+      "decision": "background",
+      "relevance_score": 5,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "contextual_relevance",
+        "not_core_polar_evidence"
+      ],
+      "review_note": "Global soil-genome analysis with an Arctic-specific hidden-diversity result, but no polar-focused sampling design.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-scitotenv-2026-182123",
+      "doi": "10.1016/j.scitotenv.2026.182123",
+      "title": "A regional anomaly in the Arctic Ocean: Future habitat contraction for soft-bodied zooplankton in the Pacific Gateway bottleneck.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority Arctic eukaryote study combining 2024 Pacific Gateway field data with trait-based habitat projections to 2100.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1111-jfb-70603",
+      "doi": "10.1111/jfb.70603",
+      "title": "Invasives in the dark: An established population of the arrow bulleye Priacanthus sagittarius on the aphotic continental slope of the eastern Mediterranean.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-jhazmat-2026-143160",
+      "doi": "10.1016/j.jhazmat.2026.143160",
+      "title": "Typical emerging organic contaminants in china surface seawater: Spatiotemporal distribution, drivers and realistic communities-level effects.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1111-gcb-71039",
+      "doi": "10.1111/gcb.71039",
+      "title": "Pollination Under Pressure: Grazing and Nutrient Enrichment Reshape Arctic Pollinator Communities and Interaction Networks.",
+      "decision": "include",
+      "relevance_score": 9,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Arctic terrestrial eukaryote experiment testing grazing and nutrient effects on pollinator communities and interaction networks.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1093-jambio-lxag182",
+      "doi": "10.1093/jambio/lxag182",
+      "title": "Metagenome-assembled genomes from northern West Siberia: insights into microbial diversity in permafrost and contemporary soils.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority Arctic prokaryote MAG resource from dated West Siberian permafrost and contemporary soils.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1073-pnas-2601044123",
+      "doi": "10.1073/pnas.2601044123",
+      "title": "Rapid microbial production of long-lived dissolved organic carbon in the global ocean.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-fsi-2026-111610",
+      "doi": "10.1016/j.fsi.2026.111610",
+      "title": "Combined berberine and glycyrrhetinic acid treatment confers antiviral and host-protective effects against CAPRV2023 infection in golden pompano (Trachinotus anak).",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1007-s42770-026-02017-4",
+      "doi": "10.1007/s42770-026-02017-4",
+      "title": "Uneven global coverage of halophilic metagenomes limits comparative analyses of microbial adaptation to saline environments.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-ecoenv-2026-120510",
+      "doi": "10.1016/j.ecoenv.2026.120510",
+      "title": "Effects of maize and peanut cultivation on microbial degradation of dibutyl phthalate in agricultural soil.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-25310429-2026-2704429",
+      "doi": "10.1080/25310429.2026.2704429",
+      "title": "Brain iron deposition mediates cognitive impairment in COPD: A possible imaging marker linking systemic inflammation to neurodegeneration.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1186-s12915-026-02685-6",
+      "doi": "10.1186/s12915-026-02685-6",
+      "title": "Diversity and potential ecological roles of viruses in Pleistocene permafrost.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority Arctic virus metagenomics: Pleistocene Siberian permafrost vOTUs, predicted hosts, and candidate auxiliary metabolic genes.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1186-s13104-026-07947-8",
+      "doi": "10.1186/s13104-026-07947-8",
+      "title": "Circulation of arctic canine distemper virus in diarrheic dogs in Iran: molecular detection and phylogenetic characterization.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1128-spectrum-01567-26",
+      "doi": "10.1128/spectrum.01567-26",
+      "title": "Hawaiian geothermal fumaroles contain diverse and novel viruses.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-fsi-2026-111597",
+      "doi": "10.1016/j.fsi.2026.111597",
+      "title": "Establishment of a novel brain cell line from grass carp (Ctenopharyngodon idella) with high transfection efficiency and CRISPR/Cas9-mediated genome editing capacity.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1038-s41597-026-07848-2",
+      "doi": "10.1038/s41597-026-07848-2",
+      "title": "Chromosome-scale genome assembly and annotation of Jonah's icefish Neopagetopsis ionah.",
+      "decision": "include",
+      "relevance_score": 8,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Antarctic eukaryote genomic resource: chromosome-scale assembly for a Southern Ocean endemic icefish.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-envpol-2026-128745",
+      "doi": "10.1016/j.envpol.2026.128745",
+      "title": "Dynamics of mercury contamination within the albatross and petrel community at South Georgia.",
+      "decision": "include",
+      "relevance_score": 9,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Sub-Antarctic eukaryote and geochemistry study using mercury and stable isotopes in eight seabird species at South Georgia.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-jenvman-2026-130378",
+      "doi": "10.1016/j.jenvman.2026.130378",
+      "title": "Divergent biodiversity responses of multitrophic aquatic communities to hydrological connectivity and land-use intensity gradients.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1111-1365-2656-70305",
+      "doi": "10.1111/1365-2656.70305",
+      "title": "Between-species contagion drives HPAI transmission and mass mortality in seabirds.",
+      "decision": "background",
+      "relevance_score": 5,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "contextual_relevance",
+        "not_core_polar_evidence"
+      ],
+      "review_note": "Useful avian-influenza transmission context from Northeast Atlantic gannets, but not a polar study; retain only as background for polar seabird disease.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-bbrc-2026-154244",
+      "doi": "10.1016/j.bbrc.2026.154244",
+      "title": "Bilateral intranigral α-synuclein seeding in A53T transgenic mice drives early Parkinsonism and concurrent gut dysbiosis.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1186-s13071-026-07553-4",
+      "doi": "10.1186/s13071-026-07553-4",
+      "title": "Trouble from the tiger: first detection of dengue virus in Aedes albopictus in Australia during a 2024 dengue outbreak on Masig Island.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1186-s13567-026-01801-2",
+      "doi": "10.1186/s13567-026-01801-2",
+      "title": "Investigating the evolution of the Arctic lineage of canine distemper virus circulating in Italy.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-ijid-2026-108957",
+      "doi": "10.1016/j.ijid.2026.108957",
+      "title": "From emergence to resurgence: evolutionary dynamics of chikungunya virus in Bangladesh, 2008-2025.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1093-femsec-fiag077",
+      "doi": "10.1093/femsec/fiag077",
+      "title": "Viral genetic diversity and functional potential in polar and subarctic sea ice.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority bipolar viral metagenomics across Arctic, Baltic, and Antarctic sea ice, with host and auxiliary-gene predictions.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1021-acs-est-5c10583",
+      "doi": "10.1021/acs.est.5c10583",
+      "title": "In Situ Mesocosm Experiment Shows the Capability of the Microbial Community of a Canadian High Arctic Shoreline to Degrade the New Generation of Ship Fuels.",
+      "decision": "include",
+      "relevance_score": 9,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Canadian High Arctic in situ mesocosm study of native microbial degradation of low-sulfur ship fuels.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1093-femsec-fiag073",
+      "doi": "10.1093/femsec/fiag073",
+      "title": "Genomic adaptations of novel halotolerant bacteria from extreme North Greenland.",
+      "decision": "include",
+      "relevance_score": 9,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High Arctic prokaryote culture and genomics study of novel halotolerant bacteria from northern Greenland.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1093-femsec-fiag072",
+      "doi": "10.1093/femsec/fiag072",
+      "title": "Environmental variation structures northern peatland soil microbiome composition and function in a reindeer herding area exclosure experiment.",
+      "decision": "background",
+      "relevance_score": 6,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "contextual_relevance",
+        "not_core_polar_evidence"
+      ],
+      "review_note": "Northern boreal peatland manipulation relevant to greenhouse-gas microbiology, but the sampled fen is not clearly high-Arctic.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1111-1755-0998-70152",
+      "doi": "10.1111/1755-0998.70152",
+      "title": "A Roadmap for Using Hybridisation Capture-Based Target Enrichment of Ancient Environmental DNA in Palaeoecology.",
+      "decision": "background",
+      "relevance_score": 5,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "contextual_relevance",
+        "not_core_polar_evidence"
+      ],
+      "review_note": "Methodological roadmap for ancient environmental-DNA capture; useful for sedaDNA methods but not a polar evidence source itself.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1111-acel-70603",
+      "doi": "10.1111/acel.70603",
+      "title": "A Primate-Specific lncRNA LINC01021 Contributes to Cellular and Organismal Aging via DAZAP1-Dependent Destabilization of RBMX.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-3390-v18070726",
+      "doi": "10.3390/v18070726",
+      "title": "Infection Dynamics and Coexistence of Two Novel Arctic Phytoplankton Viruses.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority Arctic phytoplankton-virus study with separated isolates, genomes, dual infections, and environmental recruitment.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-cbpc-2026-110605",
+      "doi": "10.1016/j.cbpc.2026.110605",
+      "title": "Ecological risks of olivine with different particle sizes and dosages on planktonic ecosystems during ocean alkalinization.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1186-s40793-026-00919-2",
+      "doi": "10.1186/s40793-026-00919-2",
+      "title": "Deep metagenomics uncovers functional adaptations and pathogenic risks in the gut microbiome of Antarctic fur seals (Arctocephalus gazella).",
+      "decision": "include",
+      "relevance_score": 8,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Relevant host-associated Antarctic microbiome baseline from fur seals at King George Island; retain with a strong four-animal sample-size limitation.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108217",
+      "doi": "10.1016/j.marenvres.2026.108217",
+      "title": "Trophodynamics of dominant crustaceans in a permanently open lagoon system during summer: insights from stable isotopic composition and fatty acid profiles.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-26508-lsa-202503592",
+      "doi": "10.26508/lsa.202503592",
+      "title": "Conserved HSP60 structure with lineage- and context-specific regulation in cnidarians.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1029-2025gh001710",
+      "doi": "10.1029/2025gh001710",
+      "title": "Aurora-Associated Geomagnetic Activity and Health: A Review With Focus on Neurological Implications.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-21645698-2026-2684804",
+      "doi": "10.1080/21645698.2026.2684804",
+      "title": "Market introduction of plant varieties and products with gene-edited traits.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1038-s41598-026-57517-y",
+      "doi": "10.1038/s41598-026-57517-y",
+      "title": "Changes in bacterial community composition and antibiotic resistance profiles of coral-associated microbiota in the vicinity of Chilean salmon farms.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1126-sciadv-aed2633",
+      "doi": "10.1126/sciadv.aed2633",
+      "title": "Limited impact of Greenland meltwater on abruptness and reversibility of future Atlantic overturning changes.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority Earth-system model experiment testing Greenland meltwater effects on future AMOC weakening and reversibility.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-3390-md24060220",
+      "doi": "10.3390/md24060220",
+      "title": "Seaweed-Derived Extract Targets Porphyr'ageing to Modulate the Visible Signs of Aging in Human Skin.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1002-ps-71035",
+      "doi": "10.1002/ps.71035",
+      "title": "PDK1-mediated PI3K/Akt signaling regulates metabolic and developmental programs in a cosmopolitan pest.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-3390-biology15120940",
+      "doi": "10.3390/biology15120940",
+      "title": "Exploratory Metaviromic Analysis of the Sea-Rock Pool Mosquito &lt;i&gt;Aedes mariae&lt;/i&gt; and the Water of Its Breeding Habitat.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-26508-lsa-202603668",
+      "doi": "10.26508/lsa.202603668",
+      "title": "Differential A-to-I editing of SINE B2 RNAs unveils an epitranscriptome response to Aβ neurotoxicity.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-xpro-2026-104633",
+      "doi": "10.1016/j.xpro.2026.104633",
+      "title": "Considerations for the selection and phenotyping of mouse models for the study of Alzheimer's disease.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-13880209-2026-2687990",
+      "doi": "10.1080/13880209.2026.2687990",
+      "title": "Zexie decoction alleviates hyperlipidemia through modulation of the PPAR signaling pathway and lysophospholipid metabolism.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-bios-2026-118933",
+      "doi": "10.1016/j.bios.2026.118933",
+      "title": "Dual-signal MOF nanozyme microneedle patch for on-site monitoring of hydrogen peroxide in postharvest lettuce.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-jip-2026-108679",
+      "doi": "10.1016/j.jip.2026.108679",
+      "title": "First report of mass mortality in post-metamorphosis Magallana gigas associated with OsHV-1 in China: epidemiological and genomic characterization.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-dib-2026-112966",
+      "doi": "10.1016/j.dib.2026.112966",
+      "title": "Nanopore sequencing dataset of marine rocky shoreline microbial communities from the UK's first marine citizen science week event.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-jhazmat-2026-142641",
+      "doi": "10.1016/j.jhazmat.2026.142641",
+      "title": "Microplastics and co-occurring nitrogen synergistically accelerate blue carbon loss.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-nmni-2026-101791",
+      "doi": "10.1016/j.nmni.2026.101791",
+      "title": "Epidemic features and potential impact of vaccine campaigns on the 2025 chikungunya outbreak in southern China: a mathematical modelling study.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1126-sciadv-adz3595",
+      "doi": "10.1126/sciadv.adz3595",
+      "title": "Human-caused sea level rise drives 21st-century worldwide water level extremes.",
+      "decision": "exclude",
+      "relevance_score": 2,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "global_or_methodological",
+        "no_direct_polar_evidence"
+      ],
+      "review_note": "Title and abstract screened: broad global or methodological source without a sufficiently direct polar evidence contribution for this graph.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-watres-2026-126281",
+      "doi": "10.1016/j.watres.2026.126281",
+      "title": "Fate and transport of viruses, bacteria and antimicrobial resistance associated with wet wipes and microplastics through wastewater treatment to coastal waters.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108193",
+      "doi": "10.1016/j.marenvres.2026.108193",
+      "title": "Divergent responses of prokaryotic and eukaryotic microbiomes drive assembly, stability, and functional dynamics in the Bohai sea.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1038-s41586-026-10546-z",
+      "doi": "10.1038/s41586-026-10546-z",
+      "title": "A 5.3-million-year-old deep-sea whale necropolis in the Diamantina Zone.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-ejpb-2026-115146",
+      "doi": "10.1016/j.ejpb.2026.115146",
+      "title": "Interactions between mRNA lipid nanoparticles and immune cells in fresh human whole blood.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108190",
+      "doi": "10.1016/j.marenvres.2026.108190",
+      "title": "Deep-sea soft-bottom macroinfaunal communities from SE Pacific: Composition, abundance, distribution, and their relationship with environmental forcing.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-fsi-2026-111496",
+      "doi": "10.1016/j.fsi.2026.111496",
+      "title": "Host interaction of tumor necrosis factor receptors encoded by Carassius auratus herpesvirus.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1126-sciadv-aed1936",
+      "doi": "10.1126/sciadv.aed1936",
+      "title": "Tropical impacts of the Southern Ocean underestimated by mean-state biases.",
+      "decision": "include",
+      "relevance_score": 9,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Southern Ocean teleconnection study testing how model mean-state bias changes the tropical response to Antarctic meltwater forcing.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-bioelechem-2026-109356",
+      "doi": "10.1016/j.bioelechem.2026.109356",
+      "title": "The microbially induced galvanic corrosion mechanism of AZ63 alloy-P110 steel couples in the presence of sulfate-reducing bacteria.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108170",
+      "doi": "10.1016/j.marenvres.2026.108170",
+      "title": "Ontogenetic and spatial variation in the feeding habits of Tripneustes gratilla.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-biortech-2026-135082",
+      "doi": "10.1016/j.biortech.2026.135082",
+      "title": "Longitudinal transcriptomic insights into microbial aggregation, trophic cooperation, and genomic adaptation during algal-bacterial granular sludge formation.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1186-s40168-026-02417-6",
+      "doi": "10.1186/s40168-026-02417-6",
+      "title": "The Iceman's microbiome: unveiling millennia of microbial diversity and continuity.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1038-s41586-026-10624-2",
+      "doi": "10.1038/s41586-026-10624-2",
+      "title": "Earth's east-west albedo symmetry.",
+      "decision": "exclude",
+      "relevance_score": 2,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "global_or_methodological",
+        "no_direct_polar_evidence"
+      ],
+      "review_note": "Title and abstract screened: broad global or methodological source without a sufficiently direct polar evidence contribution for this graph.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-19490976-2026-2681720",
+      "doi": "10.1080/19490976.2026.2681720",
+      "title": "Sulfide dynamics at the gut-microbiota interface: diet, oxygen and redox interplay.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-fsi-2026-111469",
+      "doi": "10.1016/j.fsi.2026.111469",
+      "title": "Genome-wide association analysis for resistance against iridovirus disease in large yellow croaker (Larimichthys crocea) from a natural outbreak population.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:variation-in-the-acceptability-of-cereal-grasses-by-rhopalosiphum-padi-l-hemiptera-sternorrhyncha-ap",
+      "doi": "",
+      "title": "Variation in the Acceptability of Cereal Grasses by Rhopalosiphum padi (L.) (Hemiptera: Sternorrhyncha: Aphididae) from Different Geographical Areas in Russia",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1002-mrd-70115",
+      "doi": "10.1002/mrd.70115",
+      "title": "Sex Determination in Sponges.",
+      "decision": "exclude",
+      "relevance_score": 2,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "global_or_methodological",
+        "no_direct_polar_evidence"
+      ],
+      "review_note": "Title and abstract screened: broad global or methodological source without a sufficiently direct polar evidence contribution for this graph.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:recent-dominant-transposition-events-affect-gene-regulatory-regions-but-not-coding-sequences-in-pola",
+      "doi": "",
+      "title": "Recent Dominant Transposition Events Affect Gene Regulatory Regions, but Not Coding Sequences, in Polar and Brown Bear Genomes",
+      "decision": "include",
+      "relevance_score": 8,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Relevant polar-bear comparative genomics study of transposable elements and regulatory evolution; DOI and abstract resolved during review.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex",
+      "resolved_doi": "10.3390/cimb48060639",
+      "verification_url": "https://www.mdpi.com/1467-3045/48/6/639"
+    },
+    {
+      "candidate_id": "candidate:potential-increase-in-known-and-emerging-biotoxins-in-marine-ecosystem-due-to-climate-change-and-sub",
+      "doi": "",
+      "title": "Potential Increase in Known and Emerging Biotoxins in Marine Ecosystem Due to Climate Change and Subsequent Health Issues",
+      "decision": "exclude",
+      "relevance_score": 2,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "global_or_methodological",
+        "no_direct_polar_evidence"
+      ],
+      "review_note": "Global food-safety and marine-biotoxin review centered on temperate and tropical systems; Arctic material is incidental and does not justify a polar graph claim.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex",
+      "resolved_doi": "10.3390/foods15122103",
+      "verification_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13298076/"
+    },
+    {
+      "candidate_id": "candidate:10-1080-02813432-2026-2679616",
+      "doi": "10.1080/02813432.2026.2679616",
+      "title": "Motivations and challenges experienced among locums working in Norwegian rural general practice: a reflexive thematic analysis.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1073-pnas-2528615123",
+      "doi": "10.1073/pnas.2528615123",
+      "title": "Impacts of future sea level change on Greenland from community knowledge, coastal mapping, and glacial isostatic adjustment models.",
+      "decision": "include",
+      "relevance_score": 9,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Greenland coastal Earth-system study integrating community knowledge, bathymetry, and glacial-isostatic-adjustment projections.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1093-femsec-fiag061",
+      "doi": "10.1093/femsec/fiag061",
+      "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Current polar giant-virus review covering diversity, endemism, adaptation, and ecological structuring; valuable synthesis with overlap to existing sources.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1093-femsec-fiag060",
+      "doi": "10.1093/femsec/fiag060",
+      "title": "Functional genetic potential of benthic microbial mat communities in Arctic, Antarctic, and sub-Antarctic lakes.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority bipolar metagenomics of 17 Arctic, Antarctic, and sub-Antarctic lake microbial mats.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-biortech-2026-135043",
+      "doi": "10.1016/j.biortech.2026.135043",
+      "title": "Direct interspecies electron transfer-based simplified microbial consortia for high-efficiency conversion of lignocellulose to methane: Construction, metabolic pathway and performance optimization.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1002-mbo3-70331",
+      "doi": "10.1002/mbo3.70331",
+      "title": "Clostridioides difficile as a Zoonotic and Foodborne Pathogen: Reviewing the Global Evidence and South African Data.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-biomaterials-2026-124345",
+      "doi": "10.1016/j.biomaterials.2026.124345",
+      "title": "Stealth red blood cells with broad-spectrum antigenic shielding for transfusion therapy in antibody-mediated hemolytic anemia.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-envres-2026-124885",
+      "doi": "10.1016/j.envres.2026.124885",
+      "title": "Nanoplastics reshape nitrogen cycling in submerged macrophyte systems: A metagenomic perspective.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-21505594-2026-2679253",
+      "doi": "10.1080/21505594.2026.2679253",
+      "title": "Research progress on the role of host factors in Chikungunya virus infection and intervention strategies.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1093-nsr-nwag314",
+      "doi": "10.1093/nsr/nwag314",
+      "title": "Interdecadal shift in the spring Southern Annular Mode intensifies its lagged influence on Antarctic summer sea ice.",
+      "decision": "include",
+      "relevance_score": 9,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Antarctic climate study of the interdecadal Southern Annular Mode shift and lagged regional summer sea-ice response.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-fsi-2026-111460",
+      "doi": "10.1016/j.fsi.2026.111460",
+      "title": "Systematic characterization of the cyclin gene family in the Chinese mitten crab Eriocheir sinensis and functional analysis of representative cyclins in bacteria-induced hemocyte proliferation.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-21505594-2026-2677306",
+      "doi": "10.1080/21505594.2026.2677306",
+      "title": "Epstein-Barr virus reprograms immune escape in nasopharyngeal carcinoma.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22221751-2026-2674363",
+      "doi": "10.1080/22221751.2026.2674363",
+      "title": "Rapid differentiation of VLA1553 and wild-type ECSA chikungunya strains in the context of an IXCHIQ vaccination campaign.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108154",
+      "doi": "10.1016/j.marenvres.2026.108154",
+      "title": "From carbonate chemistry to community responses: Thematic evolution in ocean acidification and microbial research- a bibliometric analysis.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-15592294-2026-2676911",
+      "doi": "10.1080/15592294.2026.2676911",
+      "title": "The epigenetic archaeology of human-dog companionship.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-02813432-2026-2673135",
+      "doi": "10.1080/02813432.2026.2673135",
+      "title": "Responsible digital transformation in rural primary healthcare services: critical factors from a Norwegian case study.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-watres-2026-126179",
+      "doi": "10.1016/j.watres.2026.126179",
+      "title": "Characteristics and potential formation mechanisms of dissolved organic matter at the water-sediment interface and assessment of its release potential in the eastern pacific polymetallic nodule area.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marpolbul-2026-119886",
+      "doi": "10.1016/j.marpolbul.2026.119886",
+      "title": "Nitrogen form regulates phytoplankton community composition and stoichiometry in estuarine and coastal waters.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-02813432-2026-2667994",
+      "doi": "10.1080/02813432.2026.2667994",
+      "title": "&lt;i&gt;'We don't use the word sustainability':&lt;/i&gt; an interview study exploring general practitioner views on sustainability.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-talanta-2026-129918",
+      "doi": "10.1016/j.talanta.2026.129918",
+      "title": "Green analytical chemistry: From principles to modern evaluation tools.",
+      "decision": "exclude",
+      "relevance_score": 2,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "global_or_methodological",
+        "no_direct_polar_evidence"
+      ],
+      "review_note": "Title and abstract screened: broad global or methodological source without a sufficiently direct polar evidence contribution for this graph.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1128-spectrum-03449-25",
+      "doi": "10.1128/spectrum.03449-25",
+      "title": "Intermittent light enhances pigment production in the diatom &lt;i&gt;Phaeodactylum tricornutum&lt;/i&gt;: a combined physiological and transcriptomic approach.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-syapm-2026-126730",
+      "doi": "10.1016/j.syapm.2026.126730",
+      "title": "Gelidimonas denitrificans gen. nov., sp. nov., and Gelidimonas diazotrophica sp. nov. psychrophilic bacteria involved in the nitrogen cycle in tundra soils of South Spitsbergen.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority Spitsbergen isolate-genome study describing novel psychrophilic nitrogen-cycling bacteria.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-phytochem-2026-114952",
+      "doi": "10.1016/j.phytochem.2026.114952",
+      "title": "Antimicrobial specialized metabolites from the marine coral-derived fungus Talaromyces variabilis.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1128-spectrum-00456-26",
+      "doi": "10.1128/spectrum.00456-26",
+      "title": "Capacity of Arctic fjord sediments to degrade carbohydrates from permafrost active layer.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority Svalbard soil-to-fjord multi-omics study of terrestrial carbohydrate degradation and permafrost-carbon fate.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marpolbul-2026-119824",
+      "doi": "10.1016/j.marpolbul.2026.119824",
+      "title": "Macrobenthos trophic responses to mangrove restoration in Yanpu Bay: Insights from trophic niches and food source dynamics.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22423982-2026-2671508",
+      "doi": "10.1080/22423982.2026.2671508",
+      "title": "A participatory research project on health issues at the dog-human interface in seven indigenous communities in Northern Canada: how successful was participation?",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-envres-2026-124722",
+      "doi": "10.1016/j.envres.2026.124722",
+      "title": "Tire wear particles induce a functional trade-off in bioretention systems: Coupled effects on nitrogen removal and greenhouse gas emissions.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marpolbul-2026-119855",
+      "doi": "10.1016/j.marpolbul.2026.119855",
+      "title": "Interactions between oil, dispersants and exopolymeric substances. A review.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1128-msystems-00738-25",
+      "doi": "10.1128/msystems.00738-25",
+      "title": "Seasonal thawing of high Arctic soils triggers selective microbial growth and predation.",
+      "decision": "include",
+      "relevance_score": 10,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High-priority Svalbard stable-isotope-probing experiment resolving active, dormant, predatory, and methane-oxidizing soil populations after thaw.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-jgeb-2026-100702",
+      "doi": "10.1016/j.jgeb.2026.100702",
+      "title": "Recovery and analysis of ancient DNA: challenges, methods, and applications in forensic and archaeological science.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-02813432-2026-2660327",
+      "doi": "10.1080/02813432.2026.2660327",
+      "title": "In uncharted territory: managing the COVID-19 pandemic in Swedish regions and municipalities from a primary health care perspective.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-envpol-2026-128242",
+      "doi": "10.1016/j.envpol.2026.128242",
+      "title": "The high Arctic resistome: stress-response genes, virulence determinants, and microbial populations in human-impacted environments of Spitsbergen.",
+      "decision": "include",
+      "relevance_score": 9,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "High Arctic anthropogenic-impact metagenomics across sewage, fjord water, and glacial ice, focused on resistance and virulence genes.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marpolbul-2026-119795",
+      "doi": "10.1016/j.marpolbul.2026.119795",
+      "title": "Modular structure of plankton diversity along environmental gradients revealed by environmental DNA in Lake Shihwa, South Korea.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-cbpc-2026-110556",
+      "doi": "10.1016/j.cbpc.2026.110556",
+      "title": "2-Hydroxyfluorene triggers a vicious cycle of oxidative stress and gut dysbiosis, leading to intestinal injury in the polychaete Perinereis aibuhitensis.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-micres-2026-128530",
+      "doi": "10.1016/j.micres.2026.128530",
+      "title": "Metagenomic and metatranscriptomic insights into Ruegeria profundi-driven protective responses in coral holobionts against Vibrio coralliilyticus infection.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22221751-2026-2651466",
+      "doi": "10.1080/22221751.2026.2651466",
+      "title": "Maternal Chikungunya virus infection and pregnancy outcomes: a global systematic review and meta-analysis of vertical transmission dynamics and associated morbidity.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-micres-2026-128515",
+      "doi": "10.1016/j.micres.2026.128515",
+      "title": "The response of biofilms to nutrient environments and their potential in biogeochemical cycles.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22221751-2026-2651463",
+      "doi": "10.1080/22221751.2026.2651463",
+      "title": "HTLV-1 genetic diversity of 52 complete sequences from 14 African countries reveals novel variants and a lack of typical P12/P8 and P30 accessory proteins in HTLV-1b, d, and f genotypes.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-15476286-2026-2649365",
+      "doi": "10.1080/15476286.2026.2649365",
+      "title": "Reading the SINEs - functionality in noncoding RNA 'cheap genes'.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marpolbul-2026-119632",
+      "doi": "10.1016/j.marpolbul.2026.119632",
+      "title": "Sub-Arctic bacterioplankton in-situ response to crude oil and identification of the oil-degrading community by DNA-SIP and cultivation.",
+      "decision": "include",
+      "relevance_score": 8,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Sub-Arctic in situ oil-exposure study with community profiling, DNA-SIP, and cultivation in the Faroe–Shetland Channel.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-mmr-2026-100007",
+      "doi": "10.1016/j.mmr.2026.100007",
+      "title": "Frostbite: diagnosis, treatment, prognosis, and future directions.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-14756366-2026-2645483",
+      "doi": "10.1080/14756366.2026.2645483",
+      "title": "Discovery of ferulic acid carbamate derivatives as dual-targeting agents of BuChE and Nrf2 for Alzheimer's disease.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-cbd-2026-101810",
+      "doi": "10.1016/j.cbd.2026.101810",
+      "title": "Metagenomic insights into sex-specific taxonomic and functional differentiation of epidermal mucus microbiota in the humphead wrasse (Cheilinus undulatus).",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-07853890-2026-2637282",
+      "doi": "10.1080/07853890.2026.2637282",
+      "title": "Navigating the potential of algal peptides: health effects, market applications, and scientific challenges.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-21505594-2026-2636341",
+      "doi": "10.1080/21505594.2026.2636341",
+      "title": "A hepcidin homolog from &lt;i&gt;Lateolabrax japonicus&lt;/i&gt; inhibits the infection of Anguillid herpesvirus 1 by interacting with the viral envelope protein ORF51.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22221751-2026-2627076",
+      "doi": "10.1080/22221751.2026.2627076",
+      "title": "Investigating high pathogenicity avian influenza virus incursions to remote islands: detection of H5N1 on Gough Island in the South Atlantic Ocean.",
+      "decision": "include",
+      "relevance_score": 8,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "domain_relevant",
+        "full_text_verification_required"
+      ],
+      "review_note": "Relevant polar-wildlife pathogen study: H5N1 detection on Gough Island with genomic and tracking evidence linking the incursion to South Georgia waters.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22423982-2026-2634479",
+      "doi": "10.1080/22423982.2026.2634479",
+      "title": "Naapinneq: strengthening Inuit maternal and child health through gathering Inuit from Kalaallit Nunaat and Nunavut.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22423982-2026-2632393",
+      "doi": "10.1080/22423982.2026.2632393",
+      "title": "Video, mail, and medical assistance request telemedicine consultations at Steno Diabetes Center Greenland.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22423982-2026-2631820",
+      "doi": "10.1080/22423982.2026.2631820",
+      "title": "Translating and testing feasibility and reliability of the Clinical Frailty Scale for assessing older adults in Greenland.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-13510002-2026-2626151",
+      "doi": "10.1080/13510002.2026.2626151",
+      "title": "XFM and HERFD-XAS studies of selenium in tissues and whole blood from mice supplemented with potentially therapeutic selenocompounds.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22423982-2026-2630454",
+      "doi": "10.1080/22423982.2026.2630454",
+      "title": "Inunngorfik - connection to land, inuit culture and giving birth in Kalaallit Nunaat: pregnant women's and their families' perspectives on the centralization of delivery services.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-02656736-2026-2624448",
+      "doi": "10.1080/02656736.2026.2624448",
+      "title": "Modified tumor uptake and biodistribution of nanoparticles coated with small extracellular vesicle membranes derived from distinct tumor cell lines.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1111-bioe-70083",
+      "doi": "10.1111/bioe.70083",
+      "title": "Out There No One Has a Right to Die.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22423982-2026-2619359",
+      "doi": "10.1080/22423982.2026.2619359",
+      "title": "Lack of guidelines for cold exposure among vulnerable outdoor workers.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22221751-2025-2611479",
+      "doi": "10.1080/22221751.2025.2611479",
+      "title": "Modulating Chikungunya and Mayaro virus-induced disease severity in mice using low concentrations of anti-IFNAR1 antibodies.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22221751-2025-2603714",
+      "doi": "10.1080/22221751.2025.2603714",
+      "title": "Global resurgence of Chikungunya virus: outbreak drivers and emerging solutions.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-19490976-2025-2607076",
+      "doi": "10.1080/19490976.2025.2607076",
+      "title": "The role of gut microbiome in aging-associated diseases: where do we stand now and how technology will transform the future.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22221751-2025-2601370",
+      "doi": "10.1080/22221751.2025.2601370",
+      "title": "Emergence, climate-driven expansion, and diversification of a European &lt;i&gt;Vibrio vulnificus&lt;/i&gt; lineage (L4) with multi-host pathogenic potential.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-22221751-2025-2602308",
+      "doi": "10.1080/22221751.2025.2602308",
+      "title": "An ECSA-lineage chikungunya outbreak in Foshan, China: age-stratified clinical and virological profiles.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, biomedical, human-health, or non-polar pathogen record; the query match does not supply polar environmental evidence.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1007-s12088-025-01524-6",
+      "doi": "10.1007/s12088-025-01524-6",
+      "title": "Insights into Phylum Asgardarchaeota: Analysis of Two Novel MAGs Within Class Njordarchaeia.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1111-nph-70472",
+      "doi": "10.1111/nph.70472",
+      "title": "Whole genome sequencing of historical specimens from the world's largest fungal collection yields high-quality assemblies.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but the sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-09",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1111-jeu-70115",
+      "doi": "10.1111/jeu.70115",
+      "title": "Widespread Association of Ciliates Colonizing Gills of Shrimps Inhabiting Vents and Seeps Across the Pacific Ocean.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1093-jhered-esag065",
+      "doi": "10.1093/jhered/esag065",
+      "title": "The curious case of a Chilean copepod (Tigriopus aff. angulatus) genome assembly.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-fsi-2026-111665",
+      "doi": "10.1016/j.fsi.2026.111665",
+      "title": "Characteristics and functions of a cell adhesion molecule PvCadN in Penaeus vannamei during WSSV infection.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, human-health, aquaculture-health, or toxicology record without a polar environmental knowledge-graph contribution.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1002-mlf2-70098",
+      "doi": "10.1002/mlf2.70098",
+      "title": "Wastewater treatment plant as a stable contributor affecting coastal ocean water viral communities.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-syapm-2026-126755",
+      "doi": "10.1016/j.syapm.2026.126755",
+      "title": "Rhodococcus dendrobeaniae sp. nov., an actinomycete isolated from an Arctic marine invertebrate exhibiting cytotoxic activity, and an emended description of Rhodococcus sovatensis.",
+      "decision": "defer",
+      "relevance_score": 8,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "arctic_prokaryote",
+        "full_text_verification_pending"
+      ],
+      "review_note": "Arctic Barents Sea isolate with genome-resolved taxonomy and biosynthetic potential; retain for full-text extraction before claim-level promotion.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1038-s41564-026-02435-y",
+      "doi": "10.1038/s41564-026-02435-y",
+      "title": "Genomic catalogue of giant viruses reveals expanded diversity and functional potential.",
+      "decision": "background",
+      "relevance_score": 6,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "global_reference_catalogue",
+        "virus_methods_context"
+      ],
+      "review_note": "Large global giant-virus genome catalogue is not polar-specific but is a valuable reference framework for polar Nucleocytoviricota classification and gene calling.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1146-annurev-marine-050625-093011",
+      "doi": "10.1146/annurev-marine-050625-093011",
+      "title": "Decoding the Deep: The Ecology, Biogeography, and Evolution of Deep-Sea Viruses.",
+      "decision": "background",
+      "relevance_score": 5,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "global_review",
+        "deep_sea_virus_context"
+      ],
+      "review_note": "Authoritative deep-sea virus synthesis is useful context for polar deep-ocean virology but does not itself provide a polar sampling claim.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108352",
+      "doi": "10.1016/j.marenvres.2026.108352",
+      "title": "Isotopic tracing and source apportionment of organic matter in mangrove sediments of a subtropical semi-enclosed bay.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108342",
+      "doi": "10.1016/j.marenvres.2026.108342",
+      "title": "Mechanistic insights into diatom iron uptake: In vitro siderophore characterization and in silico modelling and docking of ISIPs in iron-limiting conditions.",
+      "decision": "defer",
+      "relevance_score": 8,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "southern_ocean_biogeochemistry",
+        "full_text_verification_pending"
+      ],
+      "review_note": "Southern Ocean diatom–bacterium iron-acquisition study with experimental siderophore chemistry and modeled ISIP binding; full-text causal boundaries require extraction.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1128-jvi-00520-26",
+      "doi": "10.1128/jvi.00520-26",
+      "title": "Evidence for the acquisition of a proteorhodopsin-like rhodopsin by a chrysophyte-infecting giant virus.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-margen-2026-101268",
+      "doi": "10.1016/j.margen.2026.101268",
+      "title": "Complete genome sequence of a novel Winogradskyella species isolated from deep-sea sponge reveals a β-propeller phytase.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-joclim-2026-100721",
+      "doi": "10.1016/j.joclim.2026.100721",
+      "title": "Validation of the climate change worry for adolescents and climate concern impacts on daily life scales.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "outside_knowledge_graph_scope",
+        "query_false_positive"
+      ],
+      "review_note": "Title and abstract screened: this record is unrelated to the defined polar biological, geographic, geological, or geochemical knowledge-graph domains.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1111-nan-70083",
+      "doi": "10.1111/nan.70083",
+      "title": "Unravelling the Significance of Cystatin C and Bunina Bodies in Amyotrophic Lateral Sclerosis Pathogenesis.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, human-health, aquaculture-health, or toxicology record without a polar environmental knowledge-graph contribution.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1007-s13280-026-02395-x",
+      "doi": "10.1007/s13280-026-02395-x",
+      "title": "Conflicts hinder research into animal movements.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108324",
+      "doi": "10.1016/j.marenvres.2026.108324",
+      "title": "Size-dependent responses of zooplankton communities to environmental gradients in the eastern Indian Ocean.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-hal-2026-103174",
+      "doi": "10.1016/j.hal.2026.103174",
+      "title": "A new potentially toxic species of Gambierdiscus (Gonyaulacales, Dinophyceae) from the Western Pacific Ocean.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108309",
+      "doi": "10.1016/j.marenvres.2026.108309",
+      "title": "Changes in microbial community structure and carbon cycling due to anthropogenic sediment resuspension.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-envres-2026-125337",
+      "doi": "10.1016/j.envres.2026.125337",
+      "title": "Intensive mariculture promotes molecular reorganization of dissolved organic matter in coastal waters.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108305",
+      "doi": "10.1016/j.marenvres.2026.108305",
+      "title": "Plankton community divergence under weak physicochemical gradients across a port-estuary-aquaculture coastal mosaic.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108308",
+      "doi": "10.1016/j.marenvres.2026.108308",
+      "title": "Late-summer hotspot of particulate organic matter and essential omega-3 fatty acids at the sea-ice bottom in the Central Arctic Ocean.",
+      "decision": "defer",
+      "relevance_score": 9,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "arctic_sea_ice_ecology",
+        "full_text_verification_pending"
+      ],
+      "review_note": "Direct Central Arctic bottom-ice versus under-ice POM and omega-3 comparison; highly relevant, but only the DOI abstract has been verified.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-jhazmat-2026-143086",
+      "doi": "10.1016/j.jhazmat.2026.143086",
+      "title": "Photochemical evolution of atmospheric brown carbon in Arctic Svalbard.",
+      "decision": "defer",
+      "relevance_score": 6,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "arctic_atmospheric_geochemistry",
+        "secondary_domain"
+      ],
+      "review_note": "Year-round Svalbard brown-carbon photochemistry is relevant to the polar Earth-system layer but peripheral to the microbiome core; hold for detailed atmospheric curation.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108295",
+      "doi": "10.1016/j.marenvres.2026.108295",
+      "title": "Epibenthic food web structure across the Northeast Greenland seascape.",
+      "decision": "defer",
+      "relevance_score": 7,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "arctic_eukaryotes",
+        "full_text_verification_pending"
+      ],
+      "review_note": "Northeast Greenland epibenthic stable-isotope food-web baseline is relevant to Arctic eukaryotes and carbon sources; await full-text extraction.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-envres-2026-125277",
+      "doi": "10.1016/j.envres.2026.125277",
+      "title": "Nanoconfined humic acid-supported nZVI enhances imidacloprid remediation without compromising soil microbiome or exacerbating ARG health risks.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-jhazmat-2026-143048",
+      "doi": "10.1016/j.jhazmat.2026.143048",
+      "title": "Structure and assembly mechanisms of different microbial taxa in plastisphere in coastal wetlands: An in-situ culture experiment.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-hal-2026-103179",
+      "doi": "10.1016/j.hal.2026.103179",
+      "title": "Contrasting growth phase-dependent microbiota dynamics between dinoflagellates and diatoms.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108279",
+      "doi": "10.1016/j.marenvres.2026.108279",
+      "title": "Functional redundancy and structural flexibility as contrasting plankton strategies under macrotidal pulses.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marpolbul-2026-120114",
+      "doi": "10.1016/j.marpolbul.2026.120114",
+      "title": "Regional contrasts in phytoplankton communities and organic carbon pools: Hydrographic forcing and zooplankton grazing in the Cosmonaut and Cooperation Seas.",
+      "decision": "defer",
+      "relevance_score": 8,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "antarctic_eukaryotes",
+        "southern_ocean_carbon",
+        "full_text_verification_pending"
+      ],
+      "review_note": "Fifty-five-station Cosmonaut and Cooperation Seas phytoplankton, hydrography, grazing, POC and DOC study; retain for full-text structured curation.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108282",
+      "doi": "10.1016/j.marenvres.2026.108282",
+      "title": "Pronounced seasonality and eutrophication-driven dominance of Gephyrocapsa oceanica in Bohai Bay: A baseline assessment of living coccolithophores under anthropogenic pressure.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108271",
+      "doi": "10.1016/j.marenvres.2026.108271",
+      "title": "Polymer type drives successional structural and functional organization of plastisphere microbial networks.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108262",
+      "doi": "10.1016/j.marenvres.2026.108262",
+      "title": "Changes in fish assemblages across mesophotic reef habitats.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108267",
+      "doi": "10.1016/j.marenvres.2026.108267",
+      "title": "Shelf-slope variability and permafrost influence shape refractory porewater dissolved organic matter across the East Siberian-Chukchi Arctic margin.",
+      "decision": "defer",
+      "relevance_score": 8,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "arctic_geochemistry",
+        "full_text_verification_pending"
+      ],
+      "review_note": "East Siberian–Chukchi porewater DOM study directly informs permafrost influence, benthic–pelagic exchange, and refractory carbon; await full-text extraction.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-ympev-2026-108688",
+      "doi": "10.1016/j.ympev.2026.108688",
+      "title": "Contrasting plastid and mitochondrial genome evolution in the Solieriaceae (Rhodophyta) reveals lineage-specific plastid gene loss in Kappaphycus.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108259",
+      "doi": "10.1016/j.marenvres.2026.108259",
+      "title": "Unveiling Ross Sea eukaryotic diversity through environmental DNA metabarcoding.",
+      "decision": "include",
+      "relevance_score": 9,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "antarctic_eukaryotes",
+        "publisher_full_text_checked"
+      ],
+      "review_note": "Two-year multi-depth Ross Sea eDNA survey directly expands Antarctic eukaryote and water-mass coverage; verified for structured curation.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108256",
+      "doi": "10.1016/j.marenvres.2026.108256",
+      "title": "Spatial distribution of prokaryotes in a harmful dinoflagellate bloom near the Huangqi Peninsula, Fujian, China.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108254",
+      "doi": "10.1016/j.marenvres.2026.108254",
+      "title": "Hydrostatic pressure drives metabolic strategies for anaerobic hydrocarbon degradation in cold seep sediments: from autonomy to syntrophic cooperation revealed by metagenomics.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-margen-2026-101264",
+      "doi": "10.1016/j.margen.2026.101264",
+      "title": "Genomic analysis of an Arctic marine Tenacibaculum sp. SM2510 reveals its genetic potential for glutathione utilization.",
+      "decision": "defer",
+      "relevance_score": 7,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "arctic_prokaryote",
+        "isolate_genome",
+        "full_text_verification_pending"
+      ],
+      "review_note": "Kongsfjorden Tenacibaculum isolate genome predicts glutathione uptake, antioxidant defense, and nutrient use; claims need full-text verification.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-watres-2026-126411",
+      "doi": "10.1016/j.watres.2026.126411",
+      "title": "Microplastics from catchment to offshore: Salinity gradients and seasonal discharge control estuarine trapping efficiency and tidal reimport.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1111-mec-70446",
+      "doi": "10.1111/mec.70446",
+      "title": "Ontogenetic Sequence of Differential Gene Expression in Predator-Induced Daphnia pulex.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1002-ece3-73925",
+      "doi": "10.1002/ece3.73925",
+      "title": "Trends in Aquatic Environmental DNA Research in Alaska.",
+      "decision": "background",
+      "relevance_score": 6,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "regional_review",
+        "method_context",
+        "alaska_scope"
+      ],
+      "review_note": "Review and practitioner survey of Alaska aquatic eDNA research is useful method and implementation context rather than a new primary ecological dataset.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1080-21645515-2026-2684159",
+      "doi": "10.1080/21645515.2026.2684159",
+      "title": "How vaccine research took me on an international journey.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, human-health, aquaculture-health, or toxicology record without a polar environmental knowledge-graph contribution.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-biortech-2026-135277",
+      "doi": "10.1016/j.biortech.2026.135277",
+      "title": "Decoupling the etching-collapse competition in biochar activation: A domain-robust machine learning framework for porosity engineering.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "outside_knowledge_graph_scope",
+        "query_false_positive"
+      ],
+      "review_note": "Title and abstract screened: this record is unrelated to the defined polar biological, geographic, geological, or geochemical knowledge-graph domains.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1038-s41598-026-59682-6",
+      "doi": "10.1038/s41598-026-59682-6",
+      "title": "Two novel strains isolated from a brackish lake constitute Aeoliella fuhlenseeensis sp. nov. and Bythopirellula superficialaquae sp. nov. in the family Lacipirellulaceae.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1038-s41467-026-74955-4",
+      "doi": "10.1038/s41467-026-74955-4",
+      "title": "The chemistry of habitable oceans in the Solar system.",
+      "decision": "background",
+      "relevance_score": 3,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "global_review",
+        "geochemistry_context"
+      ],
+      "review_note": "Planetary-ocean chemistry synthesis may provide broad habitability context but lies outside the operational Arctic–Antarctic environmental graph.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-bioactmat-2026-06-033",
+      "doi": "10.1016/j.bioactmat.2026.06.033",
+      "title": "Intelligent responsive alloy scaffold temporally regulates the immune-osteogenic axis for the treatment of infectious bone defects.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, human-health, aquaculture-health, or toxicology record without a polar environmental knowledge-graph contribution.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-envres-2026-125132",
+      "doi": "10.1016/j.envres.2026.125132",
+      "title": "Geochemical and microbial functional responses of surface soil to simulated low-concentration CO&lt;sub&gt;2&lt;/sub&gt; leakage from geological storage.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-toxrep-2026-102302",
+      "doi": "10.1016/j.toxrep.2026.102302",
+      "title": "Per- and polyfluoroalkyl substances in commercially important marine species of fish and shellfish from Alaska and implications for human exposure.",
+      "decision": "defer",
+      "relevance_score": 4,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "alaska_scope",
+        "polar_contaminant_context",
+        "peripheral_to_core_domains"
+      ],
+      "review_note": "Alaska seafood PFAS survey has regional eukaryote and contaminant context but is peripheral to microbial and cryosphere processes; defer pending scope expansion.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marenvres-2026-108223",
+      "doi": "10.1016/j.marenvres.2026.108223",
+      "title": "Recovery without resilience? Contrasting benthic recovery trajectories six years after a mass coral bleaching event.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-foodres-2026-119841",
+      "doi": "10.1016/j.foodres.2026.119841",
+      "title": "Strain development, bioprocess optimization, and food-structure design for sustainable mycoprotein production from edible filamentous fungi.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "outside_knowledge_graph_scope",
+        "query_false_positive"
+      ],
+      "review_note": "Title and abstract screened: this record is unrelated to the defined polar biological, geographic, geological, or geochemical knowledge-graph domains.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-margen-2026-101262",
+      "doi": "10.1016/j.margen.2026.101262",
+      "title": "Complete genome sequence of a novel Pseudomonas sp. GW-45 isolated from Antarctic Ardley cove showing DMSP degradation capability.",
+      "decision": "defer",
+      "relevance_score": 8,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "antarctic_prokaryote",
+        "dmsp_cycling",
+        "full_text_verification_pending"
+      ],
+      "review_note": "Ardley Cove Pseudomonas isolate grows on DMSP and carries sulfur- and nitrogen-cycle genes; DOI abstract verified, full text still required.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-3390-toxics14060528",
+      "doi": "10.3390/toxics14060528",
+      "title": "Human Exposure Pathways to Per- and Polyfluoroalkyl Substances (PFASs)-A Comprehensive Review of Sources, Physicochemical Properties, and Human Health Risk Assessment.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, human-health, aquaculture-health, or toxicology record without a polar environmental knowledge-graph contribution.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-3390-microorganisms14061359",
+      "doi": "10.3390/microorganisms14061359",
+      "title": "Spatiotemporal Dynamics and Assembly Mechanisms of Bacterial Communities in Tropical-Subtropical Coastal Waters of the Leizhou Peninsula, China.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1038-s41467-026-73733-6",
+      "doi": "10.1038/s41467-026-73733-6",
+      "title": "Protracted ocean circulation slowdown drove exceptional ice-sheet melting during ice age termination IV.",
+      "decision": "background",
+      "relevance_score": 4,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "paleoceanography_context",
+        "indirect_polar_relevance"
+      ],
+      "review_note": "Termination-IV circulation and ice-sheet feedback study offers paleoceanographic context but does not directly characterize the modern Arctic or Antarctic system.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-3390-microorganisms14061353",
+      "doi": "10.3390/microorganisms14061353",
+      "title": "Biochemical Characterization of LsGajA: A Key Nuclease for Gabija Defense in Lactic Acid Bacteria.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "outside_knowledge_graph_scope",
+        "query_false_positive"
+      ],
+      "review_note": "Title and abstract screened: this record is unrelated to the defined polar biological, geographic, geological, or geochemical knowledge-graph domains.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-3390-toxics14060522",
+      "doi": "10.3390/toxics14060522",
+      "title": "Microplastic Contamination in Amphibians and Reptiles: An Ecotoxicological Synthesis of Exposure, Mechanisms, and Risk Implications.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, human-health, aquaculture-health, or toxicology record without a polar environmental knowledge-graph contribution.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marpolbul-2026-119998",
+      "doi": "10.1016/j.marpolbul.2026.119998",
+      "title": "Bioaccumulation of trace elements by Leach's storm-petrels (Hydrobates leucorhous) in the North and South Atlantic Ocean during the non-breeding period.",
+      "decision": "defer",
+      "relevance_score": 4,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "atlantic_seabird_ecology",
+        "possible_subpolar_context",
+        "peripheral_to_core_domains"
+      ],
+      "review_note": "Storm-petrel trace-element and isotope study may inform mobile eukaryote exposure across Atlantic wintering regions, but explicit polar linkage is limited in the abstract.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-hal-2026-103161",
+      "doi": "10.1016/j.hal.2026.103161",
+      "title": "Long-term retention of paralytic shellfish toxins in a Pacific Arctic bivalve population.",
+      "decision": "defer",
+      "relevance_score": 7,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "polar_scope_confirmed",
+        "pacific_arctic_eukaryote",
+        "food_web_risk",
+        "full_text_verification_pending"
+      ],
+      "review_note": "Three-year southern Chukchi bivalve toxin-retention study is relevant to Arctic eukaryotes and food-web function; await full-text extraction.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-ijpx-2026-100583",
+      "doi": "10.1016/j.ijpx.2026.100583",
+      "title": "Focused ultrasound-mediated blood-brain barrier opening enhances delivery of Rg3 ginseng nanoparticles in a Parkinson's disease mouse model.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, human-health, aquaculture-health, or toxicology record without a polar environmental knowledge-graph contribution.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1021-acsaom-6c00053",
+      "doi": "10.1021/acsaom.6c00053",
+      "title": "Windows into Planetary Science: A Review of Advances in Raman Spectroscopy, Laser-Induced Breakdown Spectroscopy, and Photoluminescence Spectroscopy for Remote Sensing Applications.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "outside_knowledge_graph_scope",
+        "query_false_positive"
+      ],
+      "review_note": "Title and abstract screened: this record is unrelated to the defined polar biological, geographic, geological, or geochemical knowledge-graph domains.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marpolbul-2026-119983",
+      "doi": "10.1016/j.marpolbul.2026.119983",
+      "title": "Seasonal nutrient imbalance and phytoplankton biomass response in a highly stressed marginal sea: The northern Persian Gulf.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marpolbul-2026-119955",
+      "doi": "10.1016/j.marpolbul.2026.119955",
+      "title": "From macro to meso: Latitudinal distribution of plastic fragments from the Arctic to the tropics and influence of the environmental conditions.",
+      "decision": "background",
+      "relevance_score": 5,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "latitudinal_comparison",
+        "arctic_contaminant_context"
+      ],
+      "review_note": "Arctic-to-tropical beach-plastic comparison supplies environmental-contaminant context but does not characterize polar microbiomes or biological processes.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-3390-insects17060593",
+      "doi": "10.3390/insects17060593",
+      "title": "Variation in the Acceptability of Cereal Grasses by &lt;i&gt;Rhopalosiphum padi&lt;/i&gt; (L.) (Hemiptera: Sternorrhyncha: Aphididae) from Different Geographical Areas in Russia.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-isci-2026-116186",
+      "doi": "10.1016/j.isci.2026.116186",
+      "title": "The genetic landscape of northeastern Iberian communities from the early to late Iron Age.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "outside_knowledge_graph_scope",
+        "query_false_positive"
+      ],
+      "review_note": "Title and abstract screened: this record is unrelated to the defined polar biological, geographic, geological, or geochemical knowledge-graph domains.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-bidere-2026-100092",
+      "doi": "10.1016/j.bidere.2026.100092",
+      "title": "Archaea-driven bioremediation of polyolefins and polyesters in extreme environments.",
+      "decision": "background",
+      "relevance_score": 5,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "global_review",
+        "archaea_methods_context"
+      ],
+      "review_note": "Review of archaeal plastic-degradation evidence in extreme environments is methodologically relevant but lacks a directly polar primary dataset.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-marpolbul-2026-119922",
+      "doi": "10.1016/j.marpolbul.2026.119922",
+      "title": "Gonyautoxins induce cytotoxicity in human intestinal Caco-2 cells: Oxidative stress, apoptosis, and transcriptional responses.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, human-health, aquaculture-health, or toxicology record without a polar environmental knowledge-graph contribution.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-ijregi-2026-100922",
+      "doi": "10.1016/j.ijregi.2026.100922",
+      "title": "From bites to ripple effects: Unraveling the health, economic, and social effects of arboviral epidemics in Mainland France.",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, human-health, aquaculture-health, or toxicology record without a polar environmental knowledge-graph contribution.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-aninu-2025-09-020",
+      "doi": "10.1016/j.aninu.2025.09.020",
+      "title": "Bile acid supplementation in a high-fat diet improved growth performance, lipid deposition, ferroptosis, and intestinal health in Pacific white shrimp (&lt;i&gt;Litopenaeus vannamei&lt;/i&gt;).",
+      "decision": "exclude",
+      "relevance_score": 0,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "clinical_or_human_health",
+        "outside_environmental_polar_scope"
+      ],
+      "review_note": "Title and abstract screened: clinical, human-health, aquaculture-health, or toxicology record without a polar environmental knowledge-graph contribution.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    },
+    {
+      "candidate_id": "candidate:10-1016-j-engmic-2025-100259",
+      "doi": "10.1016/j.engmic.2025.100259",
+      "title": "Pathway reprogramming and catalytic network engineering for the production of bioactive aspertetranones from deep-sea &lt;i&gt;Aspergillus versicolor&lt;/i&gt; ADS-F20.",
+      "decision": "exclude",
+      "relevance_score": 1,
+      "review_stage": "title_abstract_screen",
+      "reason_codes": [
+        "nonpolar_environment",
+        "outside_geographic_scope"
+      ],
+      "review_note": "Title and abstract screened: environmental or organismal study, but its sampling and inference domain is outside the Arctic, Antarctic, Southern Ocean, or directly relevant subpolar systems.",
+      "reviewed_at": "2026-08-23",
+      "reviewer": "Codex"
+    }
+  ]
+}
