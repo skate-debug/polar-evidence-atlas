@@ -4,6 +4,7 @@ import argparse
 import json
 import re
 from pathlib import Path
+from urllib.parse import urlparse
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -25,7 +26,8 @@ def main():
         review_counts[item["status"]] = review_counts.get(item["status"], 0) + 1
     microbial_count = sum(item["priority"] == "microbial" for item in inventory["candidates"])
     with sync_playwright() as playwright:
-        browser = playwright.chromium.launch(executable_path=args.chrome, headless=True, args=["--no-proxy-server"])
+        local = urlparse(args.url).hostname in {"localhost", "127.0.0.1", "::1"}
+        browser = playwright.chromium.launch(executable_path=args.chrome, headless=True, args=["--no-proxy-server"] if local else [])
         page = browser.new_page(viewport={"width": 1600, "height": 1050})
         errors = []
         page.on("pageerror", lambda error: errors.append(str(error)))
