@@ -15,7 +15,7 @@ from citation_utils import bibliographic_date_parts
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 OUTPUT = DATA / "cold_seep_metadata.json"
-GENERA = "Abyssisolibacter Acharax Aequorivita Alternaria Alvinocaris Arcobacter Archivesica Aspergillus Bacillus Bathyacmaea Bathymodiolus Calyptogena Curvularia Cyphocaris Dechloromonas Enigmaticolus Fontisubflavum Gigantidas Hwangdonia Iocasia Lindaspio Lysinibacillus Macellicephaloides Marinobacter Methanochimaera Methanofollis Methyloprofundus Munidopsis Mytilus Natsushima Neorhizobium Nitrincola Ophioplinthaca Ophiophthalmus Paraescarpia Paralepetopsis Penicillium Phymorhynchus Psychrosphaera Pyropelta Reniuristis Salegentibacter Shinkaia Stenotrophomonas Streptomyces Sulfurimonas Sulfurovum Talaromyces Thermochiton Toxicocladosporium Trichoderma Westerdykella".split()
+GENERA = "Abyssisolibacter Acharax Aequorivita Alternaria Alvinocaris Arcobacter Archivesica Aspergillus Bacillus Bathyacmaea Bathymodiolus Calyptogena Curvularia Cyphocaris Cycloclasticus Dechloromonas Desulfosarcina Enigmaticolus Fontisubflavum Gigantidas Hwangdonia Iocasia Lindaspio Lysinibacillus Macellicephaloides Marinobacter Methanochimaera Methanofollis Methylobacter Methyloprofundus Munidopsis Mytilus Natsushima Neorhizobium Nitrincola Oligobrachia Ophioplinthaca Ophiophthalmus Paraescarpia Paralepetopsis Penicillium Phymorhynchus Psychrosphaera Pyropelta Reniuristis Salegentibacter Sericosura Shinkaia Stenotrophomonas Streptomyces Sulfurimonas Sulfurovum Talaromyces Thermochiton Toxicocladosporium Trichoderma Westerdykella".split()
 
 
 def load(name, fallback):
@@ -67,6 +67,7 @@ def sentence_case(title):
     protected += re.findall(r"\b(?:fumitremorgin|divergolide|shovelmycin)\s+[A-Z](?:[–-][A-Z])?", title, re.I)
     protected += italic_terms
     protected += GENERA
+    protected += ["Gulf of Cadiz", "Gulf of Cádiz", "Gulf of California", "Costa Rica", "Scotian Basin", "Scotian Slope", "Svalbard", "Spitsbergen", "Laptev", "Barents", "Chukchi", "Mediterranean", "Caspian", "Black Sea", "North Sea", "Point Dume", "Monterey Bay", "Guaymas Basin", "Ginsburg", "Hikurangi Margin", "New Zealand", "Krishna-Godavari", "Cauvery-Mannar", "Okinawa", "Northeast Pacific", "Eastern North Pacific", "Atlantic", "Pacific Ocean", "Pacific", "Indian Ocean", "Arctic", "Antarctic", "Southern Ocean", "Congo", "NanoSIMS", "FISH", "eDNA", "nifH", "mcrA", "nifHDK", "ANME-SRB", "SEEP-SRB", "SparCC", "PICRUSt2", "Hola", "LoVe", "Lofoten", "Vesterålen", "Norway", "Methanoliparia", "Argoarchaeum", "Syntrophoarchaeum", "Idas", "Methanoperedens"]
     tokens = {}
     for index, term in enumerate(sorted(protected, key=len, reverse=True)):
         pattern = re.compile(r"(?<![A-Za-z])" + re.escape(term) + r"(?![A-Za-z])", 0 if len(term) == 1 else re.I)
@@ -82,6 +83,8 @@ def sentence_case(title):
         title = re.sub(re.escape(token), term, title, flags=re.I)
     for term in sorted(set(italic_terms), key=len, reverse=True):
         title = re.sub(r"(?<![A-Za-z*])" + re.escape(term) + r"(?![A-Za-z*])", lambda match: "*" + match[0] + "*", title)
+    title = re.sub(r"\s+([,;:])", r"\1", title)
+    title = re.sub(r"\bCARD\s*[-‐–]\s*FISH\b", "CARD-FISH", title)
     return title
 
 

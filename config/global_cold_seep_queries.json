@@ -1,0 +1,14 @@
+{
+  "collection": "global-cold-seeps",
+  "window_years": 10,
+  "queries": [
+    {"id": "seep_microbiology", "query": "(TITLE_ABS:\"cold seep\" OR TITLE_ABS:\"cold seeps\" OR TITLE_ABS:\"methane seep\" OR TITLE_ABS:\"methane seeps\") AND (TITLE_ABS:microbial OR TITLE_ABS:microbiome OR TITLE_ABS:metagenom* OR TITLE_ABS:archaea OR TITLE_ABS:bacteria OR TITLE_ABS:virus OR TITLE_ABS:fungi OR TITLE_ABS:protist)"},
+    {"id": "gulf_mexico", "query": "TITLE_ABS:\"Gulf of Mexico\" AND (TITLE_ABS:seep OR TITLE_ABS:seeps)"},
+    {"id": "northeast_pacific", "query": "(TITLE_ABS:Cascadia OR TITLE_ABS:\"Hydrate Ridge\" OR TITLE_ABS:\"Santa Monica\" OR TITLE_ABS:\"Costa Rica\" OR TITLE_ABS:Guaymas) AND (TITLE_ABS:seep OR TITLE_ABS:seeps OR TITLE_ABS:methanotroph*)"},
+    {"id": "arctic_margins", "query": "(TITLE_ABS:Arctic OR TITLE_ABS:Svalbard OR TITLE_ABS:Barents OR TITLE_ABS:Laptev OR TITLE_ABS:Haakon OR TITLE_ABS:Storfjordrenna OR TITLE_ABS:Vestnesa) AND (TITLE_ABS:seep OR TITLE_ABS:seeps)"},
+    {"id": "mediterranean_black_caspian", "query": "(TITLE_ABS:Mediterranean OR TITLE_ABS:\"Black Sea\" OR TITLE_ABS:Caspian OR TITLE_ABS:Marmara) AND (TITLE_ABS:seep OR TITLE_ABS:seeps OR TITLE_ABS:\"mud volcano\")"},
+    {"id": "southwest_pacific", "query": "(TITLE_ABS:Hikurangi OR TITLE_ABS:\"New Zealand\" OR TITLE_ABS:Makran OR TITLE_ABS:\"Krishna-Godavari\" OR TITLE_ABS:\"Cauvery-Mannar\" OR TITLE_ABS:Japan OR TITLE_ABS:Sagami OR TITLE_ABS:Nankai) AND (TITLE_ABS:seep OR TITLE_ABS:seeps)"},
+    {"id": "atlantic_polar", "query": "(TITLE_ABS:Scotian OR TITLE_ABS:\"Gulf of Cadiz\" OR TITLE_ABS:\"Congo fan\" OR TITLE_ABS:Antarctic OR TITLE_ABS:Weddell) AND (TITLE_ABS:seep OR TITLE_ABS:seeps)"}
+  ],
+  "crossref_queries": ["Gulf Mexico cold seep microbiome", "Cascadia Hydrate Ridge seep microbial", "Hikurangi cold seep bacteria", "Mediterranean cold seep microbial", "Arctic cold seep methane bacteria", "Krishna Godavari Cauvery Mannar cold seep microbial", "Scotian Basin cold seep microbial", "Japan Trench Sagami cold seep microbiome"]
+}

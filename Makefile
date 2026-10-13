@@ -1,6 +1,6 @@
-.PHONY: all build validate metadata candidate-metadata update update-cold-seeps cold-seep-inventory cold-seep-references cold-seep-review-report update-dry-run review-report translations translation-check public-snapshot public-check refresh serve clean
+.PHONY: all build validate metadata candidate-metadata update update-cold-seeps update-global-cold-seeps global-cold-seep-report cold-seep-inventory cold-seep-references cold-seep-review-report update-dry-run review-report translations translation-check public-snapshot public-check refresh serve clean
 
-all: validate build review-report cold-seep-inventory cold-seep-references cold-seep-review-report
+all: validate build review-report cold-seep-inventory cold-seep-references cold-seep-review-report global-cold-seep-report
 
 validate:
 	python3 scripts/validate.py
@@ -28,6 +28,12 @@ cold-seep-references:
 
 cold-seep-review-report:
 	python3 scripts/report_cold_seep_reviews.py
+
+global-cold-seep-report:
+	python3 scripts/report_global_cold_seep_reviews.py
+
+update-global-cold-seeps:
+	python3 scripts/update_global_cold_seep_candidates.py
 
 update-dry-run:
 	python3 scripts/update_candidates.py --since 2024-01-01 --dry-run

@@ -53,6 +53,9 @@ PUBLIC_NAMES = {
     "candidate_metadata.json",
     "cold_seep_candidates.json",
     "cold_seep_metadata.json",
+    "global_cold_seep_candidates.json",
+    "global_cold_seep_metadata.json",
+    "global_cold_seep_archive.json",
 }
 
 
@@ -103,6 +106,9 @@ def build_snapshots() -> dict[str, dict]:
         "candidate_metadata.json": slim_metadata,
         "cold_seep_candidates.json": candidate_snapshot,
         "cold_seep_metadata.json": slim_metadata,
+        "global_cold_seep_candidates.json": candidate_snapshot,
+        "global_cold_seep_metadata.json": slim_metadata,
+        "global_cold_seep_archive.json": candidate_snapshot,
     }
     for name, transform in sources.items():
         path = DATA / name

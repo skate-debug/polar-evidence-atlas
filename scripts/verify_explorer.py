@@ -25,6 +25,14 @@ def main():
     for item in json.loads((ROOT / "data/cold_seep_reviews.json").read_text(encoding="utf-8"))["reviews"]:
         review_counts[item["status"]] = review_counts.get(item["status"], 0) + 1
     microbial_count = sum(item["priority"] == "microbial" for item in inventory["candidates"])
+    global_path = ROOT / "data/global_cold_seep_candidates.json"
+    if not global_path.exists():
+        global_path = ROOT / "data/public/global_cold_seep_candidates.json"
+    global_inventory = json.loads(global_path.read_text())
+    global_reviews = json.loads((ROOT / "data/global_cold_seep_reviews.json").read_text())["reviews"]
+    global_count = sum(item["status"] == "curated" for item in global_reviews)
+    active_global_dois = {item['doi'] for item in global_inventory['candidates']}
+    global_active_count = sum(item["status"] == "curated" and item['doi'] in active_global_dois for item in global_reviews)
     with sync_playwright() as playwright:
         local = urlparse(args.url).hostname in {"localhost", "127.0.0.1", "::1"}
         browser = playwright.chromium.launch(executable_path=args.chrome, headless=True, args=["--no-proxy-server"] if local else [])
@@ -60,6 +68,25 @@ def main():
         assert page.locator("#libraryRows tr").count() == review_counts["linked_notice"]
         page.select_option("#libraryReview", "")
         page.click("#resetFilters")
+        page.select_option("#collectionFilter", "global-cold-seeps")
+        assert page.locator("#sourceList .source-card").count() == global_count
+        assert page.input_value("#libraryCollection") == "global-cold-seeps"
+        assert page.locator("#libraryRows tr").count() == len(global_inventory["candidates"])
+        page.select_option("#libraryReview", "curated")
+        assert page.locator("#libraryRows [data-library-source]").count() == global_active_count
+        assert "global-cold-seep-curated-apa7.md" in page.locator("#libraryRefs").get_attribute("href")
+        page.select_option("#libraryReview", "version_check")
+        assert page.locator("#libraryRows [data-library-source]").count() == 0
+        page.select_option("#libraryReview", "awaiting_source_review")
+        assert page.locator("#libraryRows [data-library-source]").count() == 0
+        page.select_option("#libraryReview", "")
+        page.select_option("#siteFilter", "gulf-mexico")
+        assert 0 < page.locator("#sourceList .source-card").count() < global_count
+        page.locator("#sourceList .source-card").first.click()
+        assert "讨论部分的引用用途" in page.locator("#detailBody").inner_text()
+        page.select_option("#libraryCollection", "scs-cold-seeps")
+        assert page.locator("#libraryRows tr").count() == len(inventory["candidates"])
+        page.click("#resetFilters")
         assert page.locator("#sourceList .source-card").count() == len(sources)
         page.click("#openCommand")
         page.fill("#commandInput", "aed8728")
@@ -81,8 +108,12 @@ def main():
         assert page.locator("#sourceList .source-card").count() == seep_count
         assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth + 1")
         page.screenshot(path=str(shots / "mobile.png"), full_page=False)
+        page.goto(args.url + "?collection=global-cold-seeps&lang=en", wait_until="networkidle")
+        assert page.locator("#sourceList .source-card").count() == global_count
+        assert page.input_value("#libraryCollection") == "global-cold-seeps"
+        assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth + 1")
         assert not errors, errors
-        print(json.dumps({"desktop_and_mobile": "passed", "bilingual": "passed", "collection_compartment_filters": "passed", "library_search": "passed", "command_search": "passed", "javascript_errors": errors}, ensure_ascii=False))
+        print(json.dumps({"desktop_and_mobile": "passed", "bilingual": "passed", "collection_compartment_filters": "passed", "international_collection_and_shared_dois": "passed", "library_search": "passed", "command_search": "passed", "javascript_errors": errors}, ensure_ascii=False))
         browser.close()
 
 

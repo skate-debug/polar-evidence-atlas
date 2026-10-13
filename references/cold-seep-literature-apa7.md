@@ -62,7 +62,7 @@ Di, P., Li, N., Chen, L., Feng, J., & Chen, D. (2023). Elevated nutrients and su
 
 Di, P., Li, N., Feng, D., Peckmann, J., Wang, S., & Chen, D. (2025). Quantifying the flux of dissolved inorganic carbon in surface sediments of the Haima cold seep area, northern South China Sea. *Journal of Asian Earth Sciences, 279*, Article 106454. https://doi.org/10.1016/j.jseaes.2024.106454
 
-Diao, C., Wang, M., Zhong, Z., Li, Y., Xian, W., & Zhang, H. (2023). Biodiversity exploration of Formosa ridge cold seep in the South China Sea using an edna metabarcoding approach. *Marine Environmental Research, 190*, Article 106109. https://doi.org/10.1016/j.marenvres.2023.106109
+Diao, C., Wang, M., Zhong, Z., Li, Y., Xian, W., & Zhang, H. (2023). Biodiversity exploration of Formosa ridge cold seep in the South China Sea using an eDNA metabarcoding approach. *Marine Environmental Research, 190*, Article 106109. https://doi.org/10.1016/j.marenvres.2023.106109
 
 Ding, L., Zhao, M., Yu, M., Li, L., & Huang, C.-Y. (2017). Biomarker assessments of sources and environmental implications of organic matter in sediments from potential cold seep areas of the northeastern South China Sea. *Acta Oceanologica Sinica, 36*(10), 8–19. https://doi.org/10.1007/s13131-017-1068-1
 
@@ -190,7 +190,7 @@ Li, C., Cheng, J., Liu, R., Huang, X., Zhou, L., Zhang, G., Zhu, T., Li, D., & C
 
 Li, C.-P., Shi, Z.-Z., Fang, S.-T., Song, Y.-P., & Ji, N.-Y. (2023). Lipids and terpenoids from the deep-sea fungus *Trichoderma lixii* R22 and their antagonism against two wheat pathogens. *Molecules, 28*(17), Article 6220. https://doi.org/10.3390/molecules28176220
 
-Li, H., Lei, Y., Jin, H., Yang, Z., Shi, J., & Yu, F. (2026). Foraminiferal edna reveals ecological dynamics of a deep-sea cold seep ecosystem: Evidence from the “Haima” seep, South China Sea. *Journal of Sea Research, 212*, Article 102725. https://doi.org/10.1016/j.seares.2026.102725
+Li, H., Lei, Y., Jin, H., Yang, Z., Shi, J., & Yu, F. (2026). Foraminiferal eDNA reveals ecological dynamics of a deep-sea cold seep ecosystem: Evidence from the “Haima” seep, South China Sea. *Journal of Sea Research, 212*, Article 102725. https://doi.org/10.1016/j.seares.2026.102725
 
 Li, H., Wei, B., Kang, D., Liu, J., Qu, C., Xie, Y., Zhong, C., & Zhang, Y. (2026). *Well-log-based identification and quantitative evaluation for marine gas hydrate-free gas co-existence zones*. [Preprint]. Preprint server. https://doi.org/10.20944/preprints202609.0451.v1
 

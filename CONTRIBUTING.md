@@ -10,6 +10,15 @@ change.
 
 南海冷泉专题优先收录最近十年的微生物研究。请明确水深、距海底高度、沉积物深度与宿主组织，并分别记录采样介质、主题和站位。目录中的自动标签仅用于发现文献，不能替代原文核查。
 
+The international comparison collection uses the same ten-year window and
+prioritizes source-specific comparisons relevant to SCS microbial ecology.
+Record the discussion purpose and distinguish direct habitat comparisons from
+mechanistic or contextual systems. Reuse an existing source ID when the DOI is
+already curated; a second collection must not create a duplicate paper or claim.
+
+国际比较专题同样优先最近十年的微生物研究，应记录具体讨论用途，并区分直接生境
+比较、机制先例及背景体系。已建档 DOI 须复用已有来源 ID，避免第二专题重复计数。
+
 ## Evidence requirements / 证据要求
 
 1. Provide a DOI or another persistent identifier.
@@ -56,6 +65,15 @@ actually read; do not imply the entire paper or supplements were checked.
 Retain notice links and unresolved preprint versions in the review ledger.
 The generated review CSV and Markdown queue include the next action for each
 unpromoted record.
+
+For international packets, edit `config/global_cold_seep_reviewed.json` and run
+`scripts/curate_global_cold_seep_reviews.py`, then the standard checks above.
+Set `existing_source_id` for shared sources. Use `--refresh` to deliberately
+update generated international profiles while retaining unrelated evidence.
+Export the profiles and APA references with `make global-cold-seep-report`.
+Supply `--review-date YYYY-MM-DD` for newly inspected packets; existing dates
+are preserved unless the packet explicitly updates `reviewed_at` after a new
+evidence check.
 
 南海冷泉证据包须同时填写准确的中英文提取内容，注明实际核查材料与证据位置。
 仅阅读摘要时应明确标注；核查相关全文段落不代表已检查全部图表或补充材料。

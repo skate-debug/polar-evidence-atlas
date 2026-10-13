@@ -4,7 +4,7 @@ title: "Earth & Ocean Evidence Atlas"
 type: dataset
 authors:
   - name: "Earth & Ocean Evidence Atlas contributors"
-version: 2.1.0
+version: 2.2.0
 date-released: 2026-10-13
 repository-code: "https://github.com/skate-debug/polar-evidence-atlas"
 url: "https://skate-debug.github.io/polar-evidence-atlas/"

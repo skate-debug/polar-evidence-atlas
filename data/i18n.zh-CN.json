@@ -7149,6 +7149,1221 @@
       ],
       "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
       "_source_hash": "978ac3e7e6ebcd6e"
+    },
+    "src:gcs-gom-fluid-composition": {
+      "title": "墨西哥湾油气冷泉与甲烷冷泉的比较宏基因组",
+      "study_type": "冷泉与背景比较宏基因组",
+      "study_profile": {
+        "spatial_scope": "墨西哥湾密西西比峡谷三站，水深 1,055–1,129 m。",
+        "temporal_scope": "2015 年 10 月采样，2017 年发表。",
+        "sample_design": "每站重复推芯，微生物样品取海底以下 3–4 与 10–12 cm，结合标记基因、鸟枪法测序与烃化学。",
+        "measured_or_derived": [
+          "标记基因、烃组成及途径丰度"
+        ]
+      },
+      "key_findings": [
+        "甲烷占优沉积物具有丰富 ANME-1 与甲烷氧化潜力；含油沉积物则偏向不同类群及复杂烃降解基因。"
+      ],
+      "limitations": [
+        "群落与基因差异支持底物相关功能潜力，不能证明 ANME 独立氧化或确定现场过程速率。"
+      ],
+      "cite_for": [
+        "比较底物组成及冷泉与背景差异，再讨论南海群落差异是否与地域有关。",
+        "甲烷占优沉积物具有丰富 ANME-1 与甲烷氧化潜力；含油沉积物则偏向不同类群及复杂烃降解基因。"
+      ],
+      "do_not_overcite": [
+        "群落与基因差异支持底物相关功能潜力，不能证明 ANME 独立氧化或确定现场过程速率。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "afb1225c24daecce"
+    },
+    "src:gcs-continental-carbonate-aom": {
+      "title": "跨地质背景碳酸盐宿主群落的甲烷氧化",
+      "study_type": "多站碳酸盐培养研究",
+      "study_profile": {
+        "spatial_scope": "墨西哥湾、美国大西洋陆缘、瓜伊马斯盆地与南加州的七个冷泉站位。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "结合标记甲烷微宇宙、矿物学与生物测量比较岩石宿主群落；样品在实验前经过保存与预培养。",
+        "measured_or_derived": [
+          "甲烷氧化、群落组成与矿物特征"
+        ]
+      },
+      "key_findings": [
+        "所有采样站的碳酸盐均在培养中支持甲烷氧化，Point Dume 烟囱状材料的潜在活性尤其高。"
+      ],
+      "limitations": [
+        "实验潜在速率、甲烷浓度归一化及预培养条件限制其直接转化为原位区域甲烷收支。"
+      ],
+      "cite_for": [
+        "讨论碳酸盐相关甲烷汇时，与南海仅沉积物测量分别比较。",
+        "所有采样站的碳酸盐均在培养中支持甲烷氧化，Point Dume 烟囱状材料的潜在活性尤其高。"
+      ],
+      "do_not_overcite": [
+        "实验潜在速率、甲烷浓度归一化及预培养条件限制其直接转化为原位区域甲烷收支。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "969b3a299f881144"
+    },
+    "src:gcs-carbonate-electron-acceptors": {
+      "title": "大西洋与太平洋冷泉碳酸盐中的候选甲烷氧化电子受体",
+      "study_type": "碳酸盐微生物组与基因组调查",
+      "study_profile": {
+        "spatial_scope": "大西洋与太平洋七处冷泉内的 21 个碳酸盐采样位置。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "联合 16S rRNA、mcrA 标记调查与宏基因组重建。",
+        "measured_or_derived": [
+          "mcrA、分类组成与代谢基因"
+        ]
+      },
+      "key_findings": [
+        "碳酸盐群落包含多样甲烷氧化古菌及替代硫、氮相关代谢的基因组潜力。"
+      ],
+      "limitations": [
+        "基因组候选途径及较低伙伴丰度不能证明伙伴独立性或实测特定电子受体耦合 AOM。"
+      ],
+      "cite_for": [
+        "评价南海碳酸盐或沉积物中替代电子受体时，提供基因组层面的比较。",
+        "碳酸盐群落包含多样甲烷氧化古菌及替代硫、氮相关代谢的基因组潜力。"
+      ],
+      "do_not_overcite": [
+        "基因组候选途径及较低伙伴丰度不能证明伙伴独立性或实测特定电子受体耦合 AOM。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "1b20ad6f78963ccd"
+    },
+    "src:gcs-cadiz-anme-acetogenesis": {
+      "title": "加的斯湾来源 ANME-2a 富集体系的乙酸生成证据",
+      "study_type": "高压同位素与酶实验",
+      "study_profile": {
+        "spatial_scope": "来自加的斯湾 Captain Aryutinov 泥火山、水深 1,200 m 的 ANME-2a 富集体系。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "长期流通培养，独立控制甲烷分压与培养压力，结合同位素标记、基因组与酶实验。",
+        "measured_or_derived": [
+          "标记乙酸、硫化物与酶活性"
+        ]
+      },
+      "key_findings": [
+        "富集体系检测到甲烷来源乙酸，并获得 ANME-2a 产乙酸的基因组与酶学证据。"
+      ],
+      "limitations": [
+        "经八年选择的群落及受控高甲烷供应不能确定天然南海沉积物的乙酸输出速率或途径普遍性。"
+      ],
+      "cite_for": [
+        "作为甲烷来源有机碳支持异养微生物的机制先例，引用时保留培养条件。",
+        "富集体系检测到甲烷来源乙酸，并获得 ANME-2a 产乙酸的基因组与酶学证据。"
+      ],
+      "do_not_overcite": [
+        "经八年选择的群落及受控高甲烷供应不能确定天然南海沉积物的乙酸输出速率或途径普遍性。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "a75c4393401378af"
+    },
+    "src:gcs-arctic-foraminifera-microhabitats": {
+      "title": "北极冷泉微生境中的有孔虫 eDNA 与特有谱系",
+      "study_type": "沉积物 eDNA 微生境比较",
+      "study_profile": {
+        "spatial_scope": "西斯瓦尔巴、Vestnesa、Svyatogor 与 Håkon Mosby 的冷泉微生境及参照沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "比较微生物席、管虫生境与冷泉内外参照区的有孔虫沉积物 DNA，并以较长标记定位候选谱系。",
+        "measured_or_derived": [
+          "有孔虫 ASV 与微生境出现情况"
+        ]
+      },
+      "key_findings": [
+        "新检测的单室有孔虫谱系局限于所采微生物席；另有多个有孔虫类群同时出现在冷泉与参照生境。"
+      ],
+      "limitations": [
+        "所见局限性支持已采样微生境特异性，不能证明全球特有性、形态特征或未经测量的微生物共生。"
+      ],
+      "cite_for": [
+        "比较南海样品中原生生物的微生境特异性，并区分靶向 eDNA 标记与全群落宏基因组。",
+        "新检测的单室有孔虫谱系局限于所采微生物席；另有多个有孔虫类群同时出现在冷泉与参照生境。"
+      ],
+      "do_not_overcite": [
+        "所见局限性支持已采样微生境特异性，不能证明全球特有性、形态特征或未经测量的微生物共生。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "4489d38f7b224487"
+    },
+    "src:gcs-laptev-sediment-rate-profiles": {
+      "title": "拉普捷夫海冷泉沉积物的甲烷过程与群落深度剖面",
+      "study_type": "放射性示踪沉积物剖面研究",
+      "study_profile": {
+        "spatial_scope": "拉普捷夫海陆架两处冷泉站与一处参照站，取六至七个层位至沉积物深度 20–30 cm。",
+        "temporal_scope": "2018 年 10 月采样。",
+        "sample_design": "将群落分析、地球化学与接近现场温度的 24 小时 14C／35S 培养配对。",
+        "measured_or_derived": [
+          "甲烷氧化、产甲烷、硫酸盐还原与类群"
+        ]
+      },
+      "key_findings": [
+        "所采沉积物中甲烷氧化高于氢营养型产甲烷作用；较深冷泉层位出现 ANME 与硫酸盐还原类群。"
+      ],
+      "limitations": [
+        "短期培养提供样品特定速率估计，标记共现本身不能确定各反应的活跃伙伴。"
+      ],
+      "cite_for": [
+        "跨深度、温度及冷泉与参照设计，比较实测沉积物甲烷转化。",
+        "所采沉积物中甲烷氧化高于氢营养型产甲烷作用；较深冷泉层位出现 ANME 与硫酸盐还原类群。"
+      ],
+      "do_not_overcite": [
+        "短期培养提供样品特定速率估计，标记共现本身不能确定各反应的活跃伙伴。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "be8917b90e29c919"
+    },
+    "src:gcs-mediterranean-caspian-hydrocarbons": {
+      "title": "地中海与里海冷泉沉积物的烃降解基因比较",
+      "study_type": "双海盆标记与宏基因组比较",
+      "study_profile": {
+        "spatial_scope": "东地中海北亚历山大泥火山及南里海沉积物。",
+        "temporal_scope": "地中海样品采于 2012 年 10 月，里海样品采于 2013 年，论文发表于 2025 年。",
+        "sample_design": "跨不同氧与盐度条件，结合 16S rRNA、深度分层宏基因组及途径注释。",
+        "measured_or_derived": [
+          "有氧／厌氧烃代谢基因及深度相关类群"
+        ]
+      },
+      "key_findings": [
+        "烃降解基因组成随海盆与深度变化；地中海表层偏向有氧潜力，里海沉积物偏向厌氧潜力。"
+      ],
+      "limitations": [
+        "基因组成不能量化降解速率；不同样品历史与海盆条件限制将差异归因于地域。"
+      ],
+      "cite_for": [
+        "在已记录的氧化还原条件下比较烃代谢潜力，保留不同冷泉沉积物的环境差异。",
+        "烃降解基因组成随海盆与深度变化；地中海表层偏向有氧潜力，里海沉积物偏向厌氧潜力。"
+      ],
+      "do_not_overcite": [
+        "基因组成不能量化降解速率；不同样品历史与海盆条件限制将差异归因于地域。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "a47116db0b28d55c"
+    },
+    "src:gcs-scotian-seep-architecture": {
+      "title": "斯科舍陆坡冷泉的微生物与地球化学空间结构",
+      "study_type": "孔隙水与脂质标志物样带",
+      "study_profile": {
+        "spatial_scope": "斯科舍陆坡 2A-1 冷泉，水深约 2,500 m，沿 600 m 样带取六根岩芯。",
+        "temporal_scope": "2021 年 ROV 采样，2026 年发表。",
+        "sample_design": "在冷泉及邻近沉积物中分析孔隙水、碳同位素与古菌脂质类别，最大海底以下深度 40 cm。",
+        "measured_or_derived": [
+          "孔隙水剖面、同位素组成与脂质代用指标"
+        ]
+      },
+      "key_findings": [
+        "孔隙水与脂质代用指标识别出侧向和垂向代谢分区，包括被硫酸盐还原信号包围的 ANME 相关区域。"
+      ],
+      "limitations": [
+        "脂质代用指标给出推断的群落与代谢结构，并非谱系特定活性或宏基因组基因丰度的直接测量。"
+      ],
+      "cite_for": [
+        "提供近期大西洋比较，用于讨论空间异质性及孔隙水支持的微生物分区。",
+        "孔隙水与脂质代用指标识别出侧向和垂向代谢分区，包括被硫酸盐还原信号包围的 ANME 相关区域。"
+      ],
+      "do_not_overcite": [
+        "脂质代用指标给出推断的群落与代谢结构，并非谱系特定活性或宏基因组基因丰度的直接测量。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "f473e4b76b5d80b6"
+    },
+    "src:gcs-svalbard-terrestrial-ice-interface": {
+      "title": "斯瓦尔巴陆地甲烷渗漏冰水界面的化能自养微生物",
+      "study_type": "陆地渗漏 DNA／RNA 界面研究",
+      "study_profile": {
+        "spatial_scope": "斯瓦尔巴 Lagoon Pingo 地下水池及上覆冬季冰。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "比较冰及富甲烷、贫氧水中的细菌和古菌 16S rRNA 基因／转录本。",
+        "measured_or_derived": [
+          "DNA／RNA 类群与冰水梯度"
+        ]
+      },
+      "key_findings": [
+        "接触水体的冰生态位以硫氧化化能自养类群为主；ANME 与硫酸盐还原菌信号支持所提出的甲烷—硫耦合循环。"
+      ],
+      "limitations": [
+        "这是陆地地下水／冰系统，标记信号未实测所提出的耦合甲烷汇。"
+      ],
+      "cite_for": [
+        "作为明确标注的陆地界面及硫—甲烷耦合背景比较，保留其与深海样品的环境差异。",
+        "接触水体的冰生态位以硫氧化化能自养类群为主；ANME 与硫酸盐还原菌信号支持所提出的甲烷—硫耦合循环。"
+      ],
+      "do_not_overcite": [
+        "这是陆地地下水／冰系统，标记信号未实测所提出的耦合甲烷汇。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "32b05851055702be"
+    },
+    "src:gcs-svalbard-methylobacter-isolate": {
+      "title": "北极陆地甲烷渗漏中嗜冷 Methylobacter 的分离与表型",
+      "study_type": "甲烷氧化菌分离与基因组研究",
+      "study_profile": {
+        "spatial_scope": "斯匹次卑尔根中部陆地 Lagoon Pingo 甲烷渗漏沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "结合群落扩增子、甲烷供给富集、分离株生理及基因组比较。",
+        "measured_or_derived": [
+          "最适生长条件、分类与基因组相似性"
+        ]
+      },
+      "key_findings": [
+        "分离嗜冷甲烷氧化菌 Methylobacter svalbardensis LS7-T4A，其最适生长温度为 13 °C、最适 pH 为 8.0。"
+      ],
+      "limitations": [
+        "分离株生长证明培养表型，不能量化其现场甲烷去除或海水适应。"
+      ],
+      "cite_for": [
+        "为耐冷有氧甲烷氧化提供培养实证比较，并注明陆地来源。",
+        "分离嗜冷甲烷氧化菌 Methylobacter svalbardensis LS7-T4A，其最适生长温度为 13 °C、最适 pH 为 8.0。"
+      ],
+      "do_not_overcite": [
+        "分离株生长证明培养表型，不能量化其现场甲烷去除或海水适应。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "15829f1342b85332"
+    },
+    "src:gcs-costa-rica-co-consortia": {
+      "title": "哥斯达黎加来源 ANME–SRB 联合体的 CO 氧化与维持代谢",
+      "study_type": "同位素与单细胞联合体实验",
+      "study_profile": {
+        "spatial_scope": "哥斯达黎加外海 Jaco Scar 冷泉沉积物，采样水深 1,811 m。",
+        "temporal_scope": "2017 年 5 月样品，2026 年发表。",
+        "sample_design": "采用 CO 厌氧微宇宙、同位素示踪、宏转录组及 FISH–NanoSIMS 测量。",
+        "measured_or_derived": [
+          "CO 周转、硫酸盐消耗与单细胞同位素掺入"
+        ]
+      },
+      "key_findings": [
+        "ANME–SRB 联合体在无甲烷时氧化 CO；硫酸盐可用性改变电子汇，单细胞结果偏向细胞维持而非活跃生长。"
+      ],
+      "limitations": [
+        "CO 添加微宇宙证明代谢灵活性，未确定该途径在南海冷泉的现场普遍性或通量贡献。"
+      ],
+      "cite_for": [
+        "为底物供应改变时 ANME 的持续存在提供近期实验先例，并区分生长与维持。",
+        "ANME–SRB 联合体在无甲烷时氧化 CO；硫酸盐可用性改变电子汇，单细胞结果偏向细胞维持而非活跃生长。"
+      ],
+      "do_not_overcite": [
+        "CO 添加微宇宙证明代谢灵活性，未确定该途径在南海冷泉的现场普遍性或通量贡献。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "4ecc88fd06f86492"
+    },
+    "src:gcs-cadiz-deep-biofilm": {
+      "title": "Ginsburg 泥火山深部生物膜的简化甲烷氧化群落",
+      "study_type": "海底下生物膜多指标研究",
+      "study_profile": {
+        "spatial_scope": "加的斯湾 Ginsburg 泥火山，水深 1,126 m、海底以下约 9.5–9.7 m 的裂隙生物膜。",
+        "temporal_scope": "2018 年钻探样品，2026 年发表。",
+        "sample_design": "利用宏基因组、脂质标志物、同位素与孔隙水化学比较生物膜及邻近沉积物。",
+        "measured_or_derived": [
+          "生物膜类群、脂质同位素与孔隙水硫酸盐"
+        ]
+      },
+      "key_findings": [
+        "深埋 SMTZ 生物膜由 ANME-1b 占优，伴随较少 Seep-SRB1c 伙伴及少数推定异养微生物。"
+      ],
+      "limitations": [
+        "该裂隙特定、持续供应硫酸盐的生态位不能代表普遍深层沉积物群落或实测甲烷去除速率。"
+      ],
+      "cite_for": [
+        "比较 ANME 深度生态位时，考虑裂隙及来自下方的硫酸盐供应。",
+        "深埋 SMTZ 生物膜由 ANME-1b 占优，伴随较少 Seep-SRB1c 伙伴及少数推定异养微生物。"
+      ],
+      "do_not_overcite": [
+        "该裂隙特定、持续供应硫酸盐的生态位不能代表普遍深层沉积物群落或实测甲烷去除速率。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "38c95d8214740649"
+    },
+    "src:gcs-kg-mussel-methanotrophy": {
+      "title": "克里希纳–戈达瓦里冷泉贻贝鳃的甲烷氧化菌群",
+      "study_type": "鳃扩增子与甲烷消耗研究",
+      "study_profile": {
+        "spatial_scope": "孟加拉湾克里希纳–戈达瓦里盆地、水深 1,754.5 m 的 Gigantidas niobengalensis。",
+        "temporal_scope": "2018 年 3 月采样，2026 年发表。",
+        "sample_design": "鳃 16S 扩增子与 PICRUSt 功能预测，结合可培养计数及七天组织匀浆甲烷培养。",
+        "measured_or_derived": [
+          "鳃类群、预测途径与瓶内甲烷消耗"
+        ]
+      },
+      "key_findings": [
+        "鳃群落富集甲烷氧化相关类群，在所报道供氧处理的添加底物组织培养中观察到甲烷消耗。"
+      ],
+      "limitations": [
+        "尽管使用宏基因组术语，方法实际为扩增子与功能预测；组织瓶培养消耗不能定位体内共生菌通量。"
+      ],
+      "cite_for": [
+        "将印度洋贻贝鳃菌群与南海比较时，对齐标记推断功能与组织培养条件。",
+        "鳃群落富集甲烷氧化相关类群，在所报道供氧处理的添加底物组织培养中观察到甲烷消耗。"
+      ],
+      "do_not_overcite": [
+        "尽管使用宏基因组术语，方法实际为扩增子与功能预测；组织瓶培养消耗不能定位体内共生菌通量。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "36f6646068b23012"
+    },
+    "src:gcs-pacific-sea-spider-nutrition": {
+      "title": "东太平洋冷泉海蜘蛛的甲烷来源营养与体表共生菌",
+      "study_type": "动物同位素标记与体表共生菌研究",
+      "study_profile": {
+        "spatial_scope": "加州至阿拉斯加之间东太平洋甲烷冷泉的 Sericosura 海蜘蛛。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "结合宏基因组、16S、显微观察及活体动物甲烷／甲醇同位素标记。",
+        "measured_or_derived": [
+          "动物同位素掺入与体表共生菌组成"
+        ]
+      },
+      "key_findings": [
+        "甲烷与甲醇来源碳进入海蜘蛛组织，其体表同时存在丰富甲烷／甲醇氧化细菌。"
+      ],
+      "limitations": [
+        "同位素掺入支持营养联系；微生物培育与垂直传播仍是所提出的解释。"
+      ],
+      "cite_for": [
+        "将宿主相关比较拓展至南海贻贝之外，并保留同位素支持的营养结论。",
+        "甲烷与甲醇来源碳进入海蜘蛛组织，其体表同时存在丰富甲烷／甲醇氧化细菌。"
+      ],
+      "do_not_overcite": [
+        "同位素掺入支持营养联系；微生物培育与垂直传播仍是所提出的解释。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "3e89b3e0244da503"
+    },
+    "src:gcs-global-genome-reference-catalog": {
+      "title": "全球冷泉 165 份宏基因组的基因与 MAG 目录",
+      "study_type": "全球宏基因组资源汇编",
+      "study_profile": {
+        "spatial_scope": "包括太平洋、墨西哥湾、大西洋、北极、地中海与南海站位的 16 个冷泉区域，沉积物深度至海底以下 68.55 m。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "将 165 份公开或先前生成的沉积物宏基因组统一整理为非冗余基因及物种级代表 MAG。",
+        "measured_or_derived": [
+          "基因家族、代表 MAG 与功能注释"
+        ]
+      },
+      "key_findings": [
+        "目录包含约 1.47 亿基因与 3,164 个代表 MAG，涵盖大量未注释基因空间及未培养物种多样性。"
+      ],
+      "limitations": [
+        "汇编总数属于该数据集并包含南海；原始采样不均与 MAG 质量限制生态普遍性。"
+      ],
+      "cite_for": [
+        "用作基因组新颖性与广泛系统发育背景资源，引用时保留其与新南海数据集的计数边界。",
+        "目录包含约 1.47 亿基因与 3,164 个代表 MAG，涵盖大量未注释基因空间及未培养物种多样性。"
+      ],
+      "do_not_overcite": [
+        "汇编总数属于该数据集并包含南海；原始采样不均与 MAG 质量限制生态普遍性。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "0772dcca78e49082"
+    },
+    "src:gcs-global-nitrogen-loss-evidence": {
+      "title": "冷泉氮损失的区域培养证据与全球基因组比较",
+      "study_type": "区域同位素实验与全球基因组比较",
+      "study_profile": {
+        "spatial_scope": "南海冷泉与参照沉积物速率实验，配对全球 16 个冷泉区域的 165 份宏基因组。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "联合 15N 添加泥浆培养、地球化学与反硝化／厌氧氨氧化基因目录和 MAG 分析。",
+        "measured_or_derived": [
+          "潜在氮损失速率与基因／基因组分布"
+        ]
+      },
+      "key_findings": [
+        "南海培养记录氮损失潜力，全球目录则拓展氮损失基因的推定分类分布。"
+      ],
+      "limitations": [
+        "实验速率来自南海沉积物；全球基因组出现情况及外推通量是不同证据，未实测全部海区。"
+      ],
+      "cite_for": [
+        "讨论全球氮循环能力时，保留实测速率的真实地域来源。",
+        "南海培养记录氮损失潜力，全球目录则拓展氮损失基因的推定分类分布。"
+      ],
+      "do_not_overcite": [
+        "实验速率来自南海沉积物；全球基因组出现情况及外推通量是不同证据，未实测全部海区。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "49db431dd262fbeb"
+    },
+    "src:gcs-global-anme-depth-niches": {
+      "title": "全球冷泉 ANME 深度生态位的比较基因组证据",
+      "study_type": "深度分布与 ANME 基因组比较",
+      "study_profile": {
+        "spatial_scope": "跨 14 个冷泉系统的已发表 ANME 剖面及来自含南海在内多个海区的 50 个 MAG。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "比较报道的深度分布及谱系特定电子传递、甲烷代谢和胁迫响应基因。",
+        "measured_or_derived": [
+          "深度出现情况与支系特定代谢基因"
+        ]
+      },
+      "key_findings": [
+        "ANME-1 与 ANME-2 具有不同的深度相关分布与基因组组成，符合不同生态策略。"
+      ],
+      "limitations": [
+        "基因组差异未通过实验确定所采谱系更强的电子传递、产甲烷或胁迫耐受。"
+      ],
+      "cite_for": [
+        "将南海 ANME 分层与广泛深度模式比较，并保留基因到表型的不确定性。",
+        "ANME-1 与 ANME-2 具有不同的深度相关分布与基因组组成，符合不同生态策略。"
+      ],
+      "do_not_overcite": [
+        "基因组差异未通过实验确定所采谱系更强的电子传递、产甲烷或胁迫耐受。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "e43ad835dd81998d"
+    },
+    "src:gcs-costa-rica-partner-diazotrophy": {
+      "title": "哥斯达黎加 ANME–SRB 伙伴关系与联合体特定固氮",
+      "study_type": "单细胞实验验证的网络推断",
+      "study_profile": {
+        "spatial_scope": "2017 年 ROC HITS 航次的哥斯达黎加甲烷冷泉沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "以 310 个扩增子文库推断伙伴，再用分选联合体、FISH、转录信号及 15N2 NanoSIMS 验证。",
+        "measured_or_derived": [
+          "伙伴关联、nifH 转录及单细胞 15N"
+        ]
+      },
+      "key_findings": [
+        "ANME-2b 与 SEEP-SRB1g 关联，不同联合体内古菌及细菌伙伴的氮同位素掺入存在差异。"
+      ],
+      "limitations": [
+        "验证的伙伴关系具有联合体特异性；其他数据集中的网络相关本身不能确定直接互作。"
+      ],
+      "cite_for": [
+        "为南海互营与固氮提供实验比较，并作为验证共现网络的实例。",
+        "ANME-2b 与 SEEP-SRB1g 关联，不同联合体内古菌及细菌伙伴的氮同位素掺入存在差异。"
+      ],
+      "do_not_overcite": [
+        "验证的伙伴关系具有联合体特异性；其他数据集中的网络相关本身不能确定直接互作。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "d259af5500638d45"
+    },
+    "src:gcs-pacific-seep-ecotones": {
+      "title": "东北太平洋冷泉至非冷泉群落的生态过渡带",
+      "study_type": "冷泉至背景扩增子样带",
+      "study_profile": {
+        "spatial_scope": "华盛顿外海 Grays 与 Quinault 峡谷，以及俄勒冈外海参照站。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "沿冷泉与非冷泉对比分析沉积物 16S rRNA，并推导 PICRUSt2 功能预测。",
+        "measured_or_derived": [
+          "分类多样性、距离与预测功能"
+        ]
+      },
+      "key_findings": [
+        "群落组成随远离冷泉而改变，并存在多样的过渡带；非冷泉群落也随水深变化。"
+      ],
+      "limitations": [
+        "功能为标记推导预测；冷泉距离、形态与水深应分别考虑。"
+      ],
+      "cite_for": [
+        "支持南海研究的空间梯度比较，以及近冷泉与远处参照的选择。",
+        "群落组成随远离冷泉而改变，并存在多样的过渡带；非冷泉群落也随水深变化。"
+      ],
+      "do_not_overcite": [
+        "功能为标记推导预测；冷泉距离、形态与水深应分别考虑。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "ea83bdcab2f6b93c"
+    },
+    "src:gcs-global-fungal-biogeography": {
+      "title": "全球冷泉真菌的宏基因组地理分布比较",
+      "study_type": "真菌宏基因组荟萃分析",
+      "study_profile": {
+        "spatial_scope": "12 个冷泉站的 105 份沉积物宏基因组；其中 66 份南海样品，另有较小的太平洋、墨西哥湾、大西洋与北极子集。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "重分析公开宏基因组中的真菌多样性、地理组成及统计组装模式。",
+        "measured_or_derived": [
+          "真菌分类归属与组装统计"
+        ]
+      },
+      "key_findings": [
+        "真菌组成与推定组装随区域和冷泉类型改变，大量序列缺乏详细分类归属。"
+      ],
+      "limitations": [
+        "区域覆盖不均、处理差异及环境元数据缺失限制地域解释与功能活性论断。"
+      ],
+      "cite_for": [
+        "用于真菌比较覆盖及元数据局限，并区分全球模式与南海占较大比例的采样设计。",
+        "真菌组成与推定组装随区域和冷泉类型改变，大量序列缺乏详细分类归属。"
+      ],
+      "do_not_overcite": [
+        "区域覆盖不均、处理差异及环境元数据缺失限制地域解释与功能活性论断。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "1032c91e7b2eff2f"
+    },
+    "src:gcs-cross-basin-microbial-prediction": {
+      "title": "跨海盆微生物油气预测模型的迁移限制",
+      "study_type": "跨海盆机器学习验证",
+      "study_profile": {
+        "spatial_scope": "东墨西哥湾与西北大西洋斯科舍陆坡的表层沉积物文库。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "基于 377 个细菌 16S 文库训练油气状态模型，并比较海盆内与相互跨海盆预测。",
+        "measured_or_derived": [
+          "油气状态、特征重要性与跨海盆预测"
+        ]
+      },
+      "key_findings": [
+        "分类预测指标因海盆而异；相互跨海盆预测较海盆内不稳定，整合筛选特征改善迁移。"
+      ],
+      "limitations": [
+        "预测类群不能证明烃代谢，准确率须在南海采样及处理条件下重新验证。"
+      ],
+      "cite_for": [
+        "说明南海微生物指标或分类器在推广前需要其他区域验证。",
+        "分类预测指标因海盆而异；相互跨海盆预测较海盆内不稳定，整合筛选特征改善迁移。"
+      ],
+      "do_not_overcite": [
+        "预测类群不能证明烃代谢，准确率须在南海采样及处理条件下重新验证。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "32709c525a4735c6"
+    },
+    "src:gcs-okinawa-c-n-s-potential": {
+      "title": "冲绳海槽沉积物中甲烷、氮与硫循环的基因潜力",
+      "study_type": "深度分层宏基因组途径",
+      "study_profile": {
+        "spatial_scope": "冲绳海槽冷泉沉积物剖面。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "比较深度相关途径基因、相关性与重建基因组。",
+        "measured_or_derived": [
+          "深度分层 mcr、nif 与硫途径基因"
+        ]
+      },
+      "key_findings": [
+        "氮／硫基因多在近表层较高，mcr、nif 及硫歧化基因在 SMTZ 富集。"
+      ],
+      "limitations": [
+        "基因相关与基因组注释提示可能耦合，未测定耦合反应速率或证明伙伴间交换。"
+      ],
+      "cite_for": [
+        "为南海甲烷、氮与硫循环深度剖面提供西北太平洋基因组比较。",
+        "氮／硫基因多在近表层较高，mcr、nif 及硫歧化基因在 SMTZ 富集。"
+      ],
+      "do_not_overcite": [
+        "基因相关与基因组注释提示可能耦合，未测定耦合反应速率或证明伙伴间交换。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "b0caaad1c257894e"
+    },
+    "src:gcs-okinawa-anme-iron-gradients": {
+      "title": "冲绳冷泉 ANME 的垂向分布与铁梯度关联",
+      "study_type": "标记丰度与地球化学剖面",
+      "study_profile": {
+        "spatial_scope": "冲绳海槽中部活跃冷泉沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "分析 16S／mcrA 多样性与丰度，并结合孔隙水铁及沉积物化学。",
+        "measured_or_derived": [
+          "mcrA 丰度、ANME 支系与溶解铁"
+        ]
+      },
+      "key_findings": [
+        "ANME 支系垂向分层，ANME-1a／mcrA 模式与溶解铁相关。"
+      ],
+      "limitations": [
+        "铁相关性未通过实验确定铁依赖甲烷氧化或其通量贡献。"
+      ],
+      "cite_for": [
+        "比较铁相关 ANME 模式，并区分候选 Fe-AOM 与直接速率证据。",
+        "ANME 支系垂向分层，ANME-1a／mcrA 模式与溶解铁相关。"
+      ],
+      "do_not_overcite": [
+        "铁相关性未通过实验确定铁依赖甲烷氧化或其通量贡献。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "544e4e80017c7637"
+    },
+    "src:gcs-black-sea-sulfur-decoupling": {
+      "title": "黑海浅水冷泉硫酸盐还原与甲烷氧化的脱耦",
+      "study_type": "沉积物放射性示踪与群落研究",
+      "study_profile": {
+        "spatial_scope": "黑海 Kalamit 湾浅水气体渗漏。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "将 16S 剖面与甲烷氧化、硫酸盐还原的 14C／35S 实验配对。",
+        "measured_or_derived": [
+          "硫酸盐还原与甲烷氧化速率"
+        ]
+      },
+      "key_findings": [
+        "硫酸盐还原速率远高于厌氧甲烷氧化，提示所采沉积物硫化物生成还有其他来源。"
+      ],
+      "limitations": [
+        "浅海沿岸速率研究不能直接代表深海，最大速率也并非配对途径化学计量。"
+      ],
+      "cite_for": [
+        "支持讨论甲烷耦合硫酸盐还原之外的硫循环。",
+        "硫酸盐还原速率远高于厌氧甲烷氧化，提示所采沉积物硫化物生成还有其他来源。"
+      ],
+      "do_not_overcite": [
+        "浅海沿岸速率研究不能直接代表深海，最大速率也并非配对途径化学计量。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "530031b588756765"
+    },
+    "src:gcs-mediterranean-alkane-srb-rates": {
+      "title": "地中海与瓜伊马斯烷烃降解 SRB 的单细胞速率估计",
+      "study_type": "稳定同位素单细胞实验与模型",
+      "study_profile": {
+        "spatial_scope": "Amon 泥火山沉积物与瓜伊马斯热液沉积物用于培养，另有多个冷泉调查。",
+        "temporal_scope": "培养沉积物采于 2009 年，论文发表于 2025 年。",
+        "sample_design": "联合 CARD-FISH、标记丁烷／十二烷培养、NanoSIMS 与碳流模型；底物添加高于现场水平。",
+        "measured_or_derived": [
+          "烷烃同位素掺入、目标细胞丰度与模型碳流"
+        ]
+      },
+      "key_findings": [
+        "不同 Desulfosarcinaceae 支系同化烷烃来源碳，推定单细胞活性不同，支持非甲烷烃耦合硫酸盐还原。"
+      ],
+      "limitations": [
+        "保存、高底物剂量及模型假设限制向现场速率外推；瓜伊马斯材料属于热液环境。"
+      ],
+      "cite_for": [
+        "为高碳烷烃硫循环提供实验证据，并区分培养与模型活性和直接原位通量。",
+        "不同 Desulfosarcinaceae 支系同化烷烃来源碳，推定单细胞活性不同，支持非甲烷烃耦合硫酸盐还原。"
+      ],
+      "do_not_overcite": [
+        "保存、高底物剂量及模型假设限制向现场速率外推；瓜伊马斯材料属于热液环境。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "3e42852a8ba24ea1"
+    },
+    "src:gcs-arctic-methane-states": {
+      "title": "北极水合物丘不同甲烷输运状态下的微生物响应",
+      "study_type": "海底状态群落与输运比较",
+      "study_profile": {
+        "spatial_scope": "斯瓦尔巴外海 Storfjordrenna 水合物丘。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "跨稳定、通量增加及活跃渗漏沉积物，比较甲烷／孔隙水剖面与微生物群落。",
+        "measured_or_derived": [
+          "甲烷梯度、ANME／SRB 丰度与模型响应"
+        ]
+      },
+      "key_findings": [
+        "不同甲烷状态的 ANME／SRB 丰度及群落多样性不同，模型响应大体随甲烷进入较浅沉积物而变化。"
+      ],
+      "limitations": [
+        "响应及倍增时间估计依赖输运假设，不能确定普遍演替时间尺度。"
+      ],
+      "cite_for": [
+        "比较南海渗漏阶段效应时，采用甲烷输运状态并保留地域与动力差异。",
+        "不同甲烷状态的 ANME／SRB 丰度及群落多样性不同，模型响应大体随甲烷进入较浅沉积物而变化。"
+      ],
+      "do_not_overcite": [
+        "响应及倍增时间估计依赖输运假设，不能确定普遍演替时间尺度。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "24258d1bd7070bc7"
+    },
+    "src:gcs-scotian-hydrocarbon-depth": {
+      "title": "斯科舍盆地冷泉热成因烃代谢的深度分层",
+      "study_type": "地球化学宏基因组深度剖面",
+      "study_profile": {
+        "spatial_scope": "斯科舍盆地新表征冷泉，从近表层至硫酸盐贫化沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "跨沉积物深度联合地球物理、化学、宏基因组与代谢物分析。",
+        "measured_or_derived": [
+          "深度分层类群、烃与代谢组成"
+        ]
+      },
+      "key_findings": [
+        "烃相关种群及代谢组成随深度改变，包括硫酸盐贫化层位。"
+      ],
+      "limitations": [
+        "深度共分布与代谢预测本身不能确定替代电子受体或其现场速率。"
+      ],
+      "cite_for": [
+        "为富硫酸盐界面下方烃代谢提供大西洋比较。",
+        "烃相关种群及代谢组成随深度改变，包括硫酸盐贫化层位。"
+      ],
+      "do_not_overcite": [
+        "深度共分布与代谢预测本身不能确定替代电子受体或其现场速率。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "d4935194262fde28"
+    },
+    "src:gcs-gom-petroleum-genomes": {
+      "title": "东墨西哥湾石油冷泉的未培养微生物代谢潜力",
+      "study_type": "石油冷泉基因组与热力学研究",
+      "study_profile": {
+        "spatial_scope": "水深约 3 km 的东墨西哥湾三处石油冷泉。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "恢复 82 个 MAG，联合基因组注释、沉积物化学、代谢物与热力学模型。",
+        "measured_or_derived": [
+          "MAG 途径、烃化学与代谢物"
+        ]
+      },
+      "key_findings": [
+        "多样未培养谱系编码厌氧烃、乙酸与氢代谢，符合石油供给群落网络。"
+      ],
+      "limitations": [
+        "推定乙酸／氢交换及热力学可行性并非伙伴传递的直接测量。"
+      ],
+      "cite_for": [
+        "比较南海宏基因组中的有机底物范围及推定代谢物交换。",
+        "多样未培养谱系编码厌氧烃、乙酸与氢代谢，符合石油供给群落网络。"
+      ],
+      "do_not_overcite": [
+        "推定乙酸／氢交换及热力学可行性并非伙伴传递的直接测量。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "8eaa4ea20ff97116"
+    },
+    "src:gcs-gom-seep-background-nitrogen": {
+      "title": "墨西哥湾冷泉与参照沉积物的氮代谢基因差异",
+      "study_type": "匹配深度冷泉与参照宏基因组",
+      "study_profile": {
+        "spatial_scope": "墨西哥湾五处冷泉与两处参照站，沉积物深度 10–15 cm。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "跨冷泉与参照沉积物比较基因分类剖面及 49 个重建基因组。",
+        "measured_or_derived": [
+          "ANME／SRB 剖面、nif 基因与厌氧氨氧化基因"
+        ]
+      },
+      "key_findings": [
+        "冷泉沉积物偏向 ANME／SRB 及固氮基因，参照沉积物具有较强厌氧氨氧化相关基因组信号。"
+      ],
+      "limitations": [
+        "基因富集未测定固氮或厌氧氨氧化速率，也不能确定差异仅由渗漏造成。"
+      ],
+      "cite_for": [
+        "为区分冷泉相关与背景氮代谢提供匹配深度的比较。",
+        "冷泉沉积物偏向 ANME／SRB 及固氮基因，参照沉积物具有较强厌氧氨氧化相关基因组信号。"
+      ],
+      "do_not_overcite": [
+        "基因富集未测定固氮或厌氧氨氧化速率，也不能确定差异仅由渗漏造成。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "3407a732ab2b983d"
+    },
+    "src:gcs-gom-aom-transcripts": {
+      "title": "墨西哥湾不同流体组成冷泉的 AOM 转录差异",
+      "study_type": "宏基因组与宏转录组比较",
+      "study_profile": {
+        "spatial_scope": "墨西哥湾两处分别以生物成因甲烷及混合热成因烃占优的冷泉区域。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "在配对 DNA／RNA 数据中比较分类组成及甲烷／硫途径表达。",
+        "measured_or_derived": [
+          "ANME 组成与甲烷／硫转录本"
+        ]
+      },
+      "key_findings": [
+        "ANME-1 与 ANME-2 在不同冷泉流体中占优，尽管两者均表达甲烷代谢，硫相关转录模式不同。"
+      ],
+      "limitations": [
+        "转录本支持表达潜力；所提出的多硫化物耦合及细菌独立性需要直接生理验证。"
+      ],
+      "cite_for": [
+        "比较 DNA 与 RNA 证据，讨论不同南海 ANME 支系可能具有不同硫伙伴。",
+        "ANME-1 与 ANME-2 在不同冷泉流体中占优，尽管两者均表达甲烷代谢，硫相关转录模式不同。"
+      ],
+      "do_not_overcite": [
+        "转录本支持表达潜力；所提出的多硫化物耦合及细菌独立性需要直接生理验证。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "35cb107ed1dd57b8"
+    },
+    "src:gcs-gom-alkane-symbionts": {
+      "title": "墨西哥湾贻贝与海绵 Cycloclasticus 共生菌的短链烷烃利用",
+      "study_type": "宿主相关基因组与转录研究",
+      "study_profile": {
+        "spatial_scope": "南墨西哥湾 Campeche Knolls 富沥青石油冷泉的贻贝与海绵。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "分析共生菌基因组、转录本与当地短链烃。",
+        "measured_or_derived": [
+          "共生菌分解基因、转录本与短链烷烃"
+        ]
+      },
+      "key_findings": [
+        "共生 Cycloclasticus 缺乏预期 PAH 降解组成，转而显示短链烷烃代谢潜力与表达。"
+      ],
+      "limitations": [
+        "属名不能确定普遍底物偏好，该宿主／石油冷泉背景也不同于仅甲烷生境。"
+      ],
+      "cite_for": [
+        "用于讨论熟悉类群内部的功能变化及甲烷氧化之外的烃供能动物共生。",
+        "共生 Cycloclasticus 缺乏预期 PAH 降解组成，转而显示短链烷烃代谢潜力与表达。"
+      ],
+      "do_not_overcite": [
+        "属名不能确定普遍底物偏好，该宿主／石油冷泉背景也不同于仅甲烷生境。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "b1bc56e027100f54"
+    },
+    "src:gcs-gom-methanoliparia": {
+      "title": "墨西哥湾石油冷泉 Methanoliparia 的候选产甲烷烷烃代谢",
+      "study_type": "古菌显微观察与基因组重建",
+      "study_profile": {
+        "spatial_scope": "墨西哥湾富油冷泉沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "结合油滴细胞成像、MAG 重建及甲基辅酶 M 还原酶系统发育。",
+        "measured_or_derived": [
+          "油相关细胞、MCR 同源物与烷烃途径"
+        ]
+      },
+      "key_findings": [
+        "油滴相关 Methanoliparia 细胞编码典型及分化 MCR，以及符合产甲烷长链烷烃代谢的途径。"
+      ],
+      "limitations": [
+        "细胞形态与基因组潜力本身不能证明现场条件下完整、无需伙伴的烷烃歧化。"
+      ],
+      "cite_for": [
+        "比较产甲烷与非甲烷烃途径，再解释 mcrA 类序列的具体功能。",
+        "油滴相关 Methanoliparia 细胞编码典型及分化 MCR，以及符合产甲烷长链烷烃代谢的途径。"
+      ],
+      "do_not_overcite": [
+        "细胞形态与基因组潜力本身不能证明现场条件下完整、无需伙伴的烷烃歧化。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "d33ee31a97748da6"
+    },
+    "src:gcs-antarctic-seep-succession": {
+      "title": "南极新生浅水冷泉的微生物演替与甲烷逸出",
+      "study_type": "冷泉早期演替观测",
+      "study_profile": {
+        "spatial_scope": "罗斯海水深 10 m 的甲烷／硫化物冷泉，微生物席于 2011 年出现。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "比较微生物席出现后一及五年的 16S 群落，结合沉积物化学与甲烷通量。",
+        "measured_or_derived": [
+          "ANME 出现情况、沉积物化学与甲烷逸出"
+        ]
+      },
+      "key_findings": [
+        "首年样品未检测到 ANME，五年后检测到较低相对丰度，甲烷仍从沉积物逸出。"
+      ],
+      "limitations": [
+        "南极浅水站两次时间窗口不能确定普遍生物过滤器发育轨迹，也不能证明检测限以下无 ANME。"
+      ],
+      "cite_for": [
+        "将南海新生冷泉演替与独立极地实例比较，并保留水深及采样间隔。",
+        "首年样品未检测到 ANME，五年后检测到较低相对丰度，甲烷仍从沉积物逸出。"
+      ],
+      "do_not_overcite": [
+        "南极浅水站两次时间窗口不能确定普遍生物过滤器发育轨迹，也不能证明检测限以下无 ANME。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "05a55812dd2f83df"
+    },
+    "src:gcs-cadiz-bacteria-protist-communities": {
+      "title": "加的斯湾不同活动泥火山的细菌与微真核生物",
+      "study_type": "配对 16S／18S 渗漏状态比较",
+      "study_profile": {
+        "spatial_scope": "伊比利亚西南陆缘加的斯湾不同活动泥火山及一处非渗漏参照站。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "用 16S／18S rRNA 标记及相关分析表征沉积物细菌与微真核生物。",
+        "measured_or_derived": [
+          "16S／18S 多样性与跨域相关"
+        ]
+      },
+      "key_findings": [
+        "较活跃站位的细菌及真核组成不同，Methylococcales 与叶足变形虫富集且分布相关。"
+      ],
+      "limitations": [
+        "跨域相关不能证明摄食、共生或渗漏活动的因果效应。"
+      ],
+      "cite_for": [
+        "比较原核与微真核群落的联动模式，并保留关联层面的证据等级。",
+        "较活跃站位的细菌及真核组成不同，Methylococcales 与叶足变形虫富集且分布相关。"
+      ],
+      "do_not_overcite": [
+        "跨域相关不能证明摄食、共生或渗漏活动的因果效应。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "82a1e730ef897f99"
+    },
+    "src:gcs-congo-fan-interface-context": {
+      "title": "刚果深海扇氧化还原界面的甲烷氧化菌背景比较",
+      "study_type": "富有机质深海扇甲烷氧化菌调查",
+      "study_profile": {
+        "spatial_scope": "刚果–安哥拉深海扇，水深约 5,000 m，包括类似冷泉的生境。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "在河流连通与不连通扇体的沉积物氧化–缺氧界面采用 FISH 与 pmoA 序列比较。",
+        "measured_or_derived": [
+          "pmoA 多样性与甲烷氧化菌细胞出现情况"
+        ]
+      },
+      "key_findings": [
+        "富有机质活跃扇体生境存在多样有氧甲烷氧化菌；不连通老扇体未检出细胞或 pmoA。"
+      ],
+      "limitations": [
+        "这是类似冷泉的沉积环境比较，标记检测未测定甲烷去除或证明扩散路径。"
+      ],
+      "cite_for": [
+        "为有机物供应及界面甲烷氧化菌多样性提供背景，并保留其与典型活跃冷泉的区别。",
+        "富有机质活跃扇体生境存在多样有氧甲烷氧化菌；不连通老扇体未检出细胞或 pmoA。"
+      ],
+      "do_not_overcite": [
+        "这是类似冷泉的沉积环境比较，标记检测未测定甲烷去除或证明扩散路径。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "137b92fb728844fb"
+    },
+    "src:gcs-arctic-tubeworm-symbionts": {
+      "title": "北极 Oligobrachia 管虫共生菌的硫氧化证据",
+      "study_type": "宿主组织标记与显微研究",
+      "study_profile": {
+        "spatial_scope": "来自北极与北大西洋四个冷泉站的两种 Oligobrachia。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "将组织 16S V3–V4 测序与共生菌所在营养体的透射电镜观察配对。",
+        "measured_or_derived": [
+          "组织细菌谱系与营养体显微观察"
+        ]
+      },
+      "key_findings": [
+        "含共生菌组织由硫氧化细菌序列占优，对大量甲烷氧化共生菌的支持有限。"
+      ],
+      "limitations": [
+        "低组织碳同位素值本身不能确定甲烷氧化共生；稀有序列可能来自非内共生微生物。"
+      ],
+      "cite_for": [
+        "比较宿主共生菌身份时，将分子及组织证据与稳定同位素共同考虑。",
+        "含共生菌组织由硫氧化细菌序列占优，对大量甲烷氧化共生菌的支持有限。"
+      ],
+      "do_not_overcite": [
+        "低组织碳同位素值本身不能确定甲烷氧化共生；稀有序列可能来自非内共生微生物。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "7f959eb288b174d5"
+    },
+    "src:gcs-costa-rica-host-specificity": {
+      "title": "哥斯达黎加共存贻贝与管虫的不同共生菌特异性",
+      "study_type": "共存宿主共生菌比较",
+      "study_profile": {
+        "spatial_scope": "哥斯达黎加三处甲烷冷泉，含三种贻贝及三种前庭管虫。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "以细菌内转录间隔区扩增子解析硫氧化共生菌多样性。",
+        "measured_or_derived": [
+          "共生菌标记变体及宿主／站位出现情况"
+        ]
+      },
+      "key_findings": [
+        "共存贻贝种携带不同优势共生菌，而不同管虫种跨站共享优势共生菌。"
+      ],
+      "limitations": [
+        "宿主相关特异性模式未通过实验确定摄取或识别机制。"
+      ],
+      "cite_for": [
+        "比较南海宿主特异性时，保留不同化能合成动物选择共生菌方式的差异。",
+        "共存贻贝种携带不同优势共生菌，而不同管虫种跨站共享优势共生菌。"
+      ],
+      "do_not_overcite": [
+        "宿主相关特异性模式未通过实验确定摄取或识别机制。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "70337d7e628fb9c0"
+    },
+    "src:gcs-mediterranean-mussel-handoffs": {
+      "title": "地中海 Idas 贻贝多共生菌的候选代谢交接",
+      "study_type": "基因组中心共生菌多组学",
+      "study_profile": {
+        "spatial_scope": "地中海／大西洋冷泉及沉木宿主背景下 Idas modiolaeformis 的共生菌。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "联合 MAG、基因组中心宏转录组及宏蛋白组识别已表达共生菌功能。",
+        "measured_or_derived": [
+          "共生菌 MAG、转录本与蛋白质"
+        ]
+      },
+      "key_findings": [
+        "次级共生菌编码并表达互补的甲基营养、大分子及营养相关功能，支持所提出的代谢交接。"
+      ],
+      "limitations": [
+        "共同表达提示互补作用，未直接测定代谢物传递或宿主适合度收益。"
+      ],
+      "cite_for": [
+        "利用多层表达证据比较南海宿主相关代谢互补，并保留基因注释与表达的区别。",
+        "次级共生菌编码并表达互补的甲基营养、大分子及营养相关功能，支持所提出的代谢交接。"
+      ],
+      "do_not_overcite": [
+        "共同表达提示互补作用，未直接测定代谢物传递或宿主适合度收益。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "7c20c581147eec39"
+    },
+    "src:gcs-north-sea-tides-seasonality": {
+      "title": "北海冷泉潮汐、季节与水体甲烷过滤效率",
+      "study_type": "高频季节水体调查",
+      "study_profile": {
+        "spatial_scope": "北海 Doggerbank 冷泉，夏季与秋季采样。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "以两小时间隔测量全水柱甲烷储量与甲烷氧化活性。",
+        "measured_or_derived": [
+          "甲烷储量、氧化活性与潮汐状态"
+        ]
+      },
+      "key_findings": [
+        "甲烷储量与氧化随潮汐变化；秋季混合伴随较弱甲烷氧化活性及较高海气排放。"
+      ],
+      "limitations": [
+        "单个陆架冷泉及两个季节不能确定普遍潮汐效应或直接量化深水南海海气耦合。"
+      ],
+      "cite_for": [
+        "评价潮汐、季节与水柱混合对南海微生物甲烷过滤器的采样影响时使用。",
+        "甲烷储量与氧化随潮汐变化；秋季混合伴随较弱甲烷氧化活性及较高海气排放。"
+      ],
+      "do_not_overcite": [
+        "单个陆架冷泉及两个季节不能确定普遍潮汐效应或直接量化深水南海海气耦合。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "b01b2b1d7c2e8b3d"
+    },
+    "src:gcs-svalbard-water-sediment-connectivity": {
+      "title": "斯瓦尔巴两处冷泉水体与沉积物甲烷氧化菌的连接",
+      "study_type": "水体／沉积物甲烷活性比较",
+      "study_profile": {
+        "spatial_scope": "斯瓦尔巴以北 Norskebanken 与 Hinlopen 海槽，水深约 200 与 500 m。",
+        "temporal_scope": "2020 年 11 月采样。",
+        "sample_design": "采用 CTD／ROV 水与沉积物采样、16S、洋流观测及 4 °C 下 2–3 天离体 3H 甲烷培养。",
+        "measured_or_derived": [
+          "水／沉积物群落、洋流与甲烷氧化"
+        ]
+      },
+      "key_findings": [
+        "底层水甲烷及氧化高于表层水，微生物相似性支持沉积物与水体生境、不同冷泉之间可能交换。"
+      ],
+      "limitations": [
+        "群落相似性未直接追踪细胞经气泡或洋流迁移；培养速率保留其实验条件。"
+      ],
+      "cite_for": [
+        "结合生境采样及活性证据，比较南海沉积物–水体连接与洋流介导扩散。",
+        "底层水甲烷及氧化高于表层水，微生物相似性支持沉积物与水体生境、不同冷泉之间可能交换。"
+      ],
+      "do_not_overcite": [
+        "群落相似性未直接追踪细胞经气泡或洋流迁移；培养速率保留其实验条件。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "15d0d6b15121f599"
+    },
+    "src:gcs-hikurangi-plume-dilution": {
+      "title": "希库朗伊冷泉溶解甲烷羽流的输运与稀释",
+      "study_type": "甲烷观测与水动力模拟",
+      "study_profile": {
+        "spatial_scope": "希库朗伊陆缘东南部三处冷泉，模型另外推至其他区域冷泉。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "将离散水样、拖曳甲烷传感器及洋流与 Gerris、ROMS 羽流模拟结合。",
+        "measured_or_derived": [
+          "溶解甲烷、碳同位素与模拟羽流输运"
+        ]
+      },
+      "key_findings": [
+        "模型底层水羽流可远距离侧向扩散，同位素及速率证据表明混合主导当地溶解甲烷模式。"
+      ],
+      "limitations": [
+        "羽流及区域排放估计依赖源与输运假设；浓度降低本身不等于微生物消耗。"
+      ],
+      "cite_for": [
+        "用于区分南海水体梯度中的稀释、平流与生物甲烷去除。",
+        "模型底层水羽流可远距离侧向扩散，同位素及速率证据表明混合主导当地溶解甲烷模式。"
+      ],
+      "do_not_overcite": [
+        "羽流及区域排放估计依赖源与输运假设；浓度降低本身不等于微生物消耗。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "eda3742797ba78a8"
+    },
+    "src:gcs-norway-water-carbon-dom": {
+      "title": "挪威冷泉与冷水珊瑚邻近水体的碳与 DOM",
+      "study_type": "水体碳与微生物组调查",
+      "study_profile": {
+        "spatial_scope": "挪威北部陆架 Hola 海槽，冷泉与冷水珊瑚共存。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "表征水体碳同位素、营养盐、溶解有机质及微生物多样性。",
+        "measured_or_derived": [
+          "DIC、DOM 组成、营养盐与微生物组"
+        ]
+      },
+      "key_findings": [
+        "近冷泉水体具有较高溶解无机碳及改变的 DOM／同位素模式，并结合水动力和颗粒控制解释。"
+      ],
+      "limitations": [
+        "DOM 与微生物关联未直接测定微生物碳向珊瑚传递或确定升温响应。"
+      ],
+      "cite_for": [
+        "比较南海冷泉水的营养盐及有机碳背景，并保留群落关联与食物传递的证据差异。",
+        "近冷泉水体具有较高溶解无机碳及改变的 DOM／同位素模式，并结合水动力和颗粒控制解释。"
+      ],
+      "do_not_overcite": [
+        "DOM 与微生物关联未直接测定微生物碳向珊瑚传递或确定升温响应。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "cb6033dbd74926dc"
+    },
+    "src:gcs-arctic-water-seasonal-retention": {
+      "title": "斯瓦尔巴陆架季节水团变化与甲烷氧化",
+      "study_type": "多年季节水体调查",
+      "study_profile": {
+        "spatial_scope": "斯瓦尔巴西侧浅陆架，跨三年开展四次调查。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "跨春夏条件比较垂向甲烷氧化、pmoA 群落、温度与盐度。",
+        "measured_or_derived": [
+          "甲烷氧化、pmoA 类群与水团"
+        ]
+      },
+      "key_findings": [
+        "洼地滞留水中的甲烷氧化活性夏季较高、春季混合时较低，尽管标记定义群落较一致。"
+      ],
+      "limitations": [
+        "季节及地貌关联未分离单一因果驱动，也不能代表全部北极与南海水体。"
+      ],
+      "cite_for": [
+        "将活性变化与水体停留和季节比较，并联合群落组成解释。",
+        "洼地滞留水中的甲烷氧化活性夏季较高、春季混合时较低，尽管标记定义群落较一致。"
+      ],
+      "do_not_overcite": [
+        "季节及地貌关联未分离单一因果驱动，也不能代表全部北极与南海水体。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "4030d1bb87577352"
+    },
+    "src:gcs-global-seep-viral-reservoir": {
+      "title": "全球七区域冷泉沉积物的病毒多样性库",
+      "study_type": "全球沉积物病毒宏基因组比较",
+      "study_profile": {
+        "spatial_scope": "跨北极、太平洋、大西洋、墨西哥湾及地中海七区域的 28 份沉积物宏基因组，该汇编未含南海样品。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "恢复病毒序列、基因共享分组、预测宿主与候选辅助代谢基因。",
+        "measured_or_derived": [
+          "病毒基因组、推定宿主与候选 AMG"
+        ]
+      },
+      "key_findings": [
+        "冷泉沉积物病毒显示大量序列新颖性及站位特定模式，并具有预测微生物宿主联系与潜在代谢贡献。"
+      ],
+      "limitations": [
+        "宿主预测、生活史比率及 AMG 注释未证明感染、裂解或宿主代谢通量改变。"
+      ],
+      "cite_for": [
+        "为病毒多样性及宿主／AMG 比较提供独立的非南海基线。",
+        "冷泉沉积物病毒显示大量序列新颖性及站位特定模式，并具有预测微生物宿主联系与潜在代谢贡献。"
+      ],
+      "do_not_overcite": [
+        "宿主预测、生活史比率及 AMG 注释未证明感染、裂解或宿主代谢通量改变。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "d561809b08f7a3cf"
+    },
+    "src:gcs-monterey-scarce-anme": {
+      "title": "蒙特雷湾冷泉 ANME 稀少与甲烷过滤证据",
+      "study_type": "DNA／RNA 与甲烷富集样带",
+      "study_profile": {
+        "spatial_scope": "蒙特雷湾 Clam Field 与 Extrovert Cliff，水深约 895–990 m。",
+        "temporal_scope": "2019 年 4 月采样，2025 年发表。",
+        "sample_design": "沿冷泉至背景样带取重复岩芯，结合 16S／mcrA DNA／RNA 及长达六个月的甲烷培养。",
+        "measured_or_derived": [
+          "ANME／mcrA DNA 与 RNA、硫酸盐还原响应及孔隙水甲烷"
+        ]
+      },
+      "key_findings": [
+        "ANME 信号异常稀少；Clam Field 的低转录、未出现甲烷依赖硫酸盐还原响应及孔隙水剖面支持较弱甲烷氧化。"
+      ],
+      "limitations": [
+        "ANME 稀少的原因仍未确定；高碳烃及竞争属于假说，并非已检验原因。"
+      ],
+      "cite_for": [
+        "为所有成熟冷泉均由 ANME 占优或具有高效甲烷过滤的普遍化表述提供反例。",
+        "ANME 信号异常稀少；Clam Field 的低转录、未出现甲烷依赖硫酸盐还原响应及孔隙水剖面支持较弱甲烷氧化。"
+      ],
+      "do_not_overcite": [
+        "ANME 稀少的原因仍未确定；高碳烃及竞争属于假说，并非已检验原因。"
+      ],
+      "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
+      "_source_hash": "84adf7c1860c5ec8"
     }
   },
   "claims": {
@@ -9159,6 +10374,366 @@
       "locator": "出版方摘要：结构与生物活性结果。",
       "confidence_note": "与对照比较的细胞系效力不代表临床优越性，也不能确定产物的天然生态功能。",
       "_source_hash": "5f47a4943ecca258"
+    },
+    "claim:gcs-gom-fluid-composition": {
+      "statement": "甲烷占优沉积物具有丰富 ANME-1 与甲烷氧化潜力；含油沉积物则偏向不同类群及复杂烃降解基因。",
+      "scope": "墨西哥湾密西西比峡谷三站，水深 1,055–1,129 m。",
+      "evidence_basis": "每站重复推芯，微生物样品取海底以下 3–4 与 10–12 cm，结合标记基因、鸟枪法测序与烃化学。",
+      "locator": "方法：样品说明；讨论：油气冷泉与甲烷冷泉比较。",
+      "confidence_note": "群落与基因差异支持底物相关功能潜力，不能证明 ANME 独立氧化或确定现场过程速率。",
+      "_source_hash": "c67f44aad3e5d15d"
+    },
+    "claim:gcs-continental-carbonate-aom": {
+      "statement": "所有采样站的碳酸盐均在培养中支持甲烷氧化，Point Dume 烟囱状材料的潜在活性尤其高。",
+      "scope": "墨西哥湾、美国大西洋陆缘、瓜伊马斯盆地与南加州的七个冷泉站位。",
+      "evidence_basis": "结合标记甲烷微宇宙、矿物学与生物测量比较岩石宿主群落；样品在实验前经过保存与预培养。",
+      "locator": "结果：AOM 速率；方法：样品回收与处理。",
+      "confidence_note": "实验潜在速率、甲烷浓度归一化及预培养条件限制其直接转化为原位区域甲烷收支。",
+      "_source_hash": "975b14646164483f"
+    },
+    "claim:gcs-carbonate-electron-acceptors": {
+      "statement": "碳酸盐群落包含多样甲烷氧化古菌及替代硫、氮相关代谢的基因组潜力。",
+      "scope": "大西洋与太平洋七处冷泉内的 21 个碳酸盐采样位置。",
+      "evidence_basis": "联合 16S rRNA、mcrA 标记调查与宏基因组重建。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "基因组候选途径及较低伙伴丰度不能证明伙伴独立性或实测特定电子受体耦合 AOM。",
+      "_source_hash": "da24835c97e28874"
+    },
+    "claim:gcs-cadiz-anme-acetogenesis": {
+      "statement": "富集体系检测到甲烷来源乙酸，并获得 ANME-2a 产乙酸的基因组与酶学证据。",
+      "scope": "来自加的斯湾 Captain Aryutinov 泥火山、水深 1,200 m 的 ANME-2a 富集体系。",
+      "evidence_basis": "长期流通培养，独立控制甲烷分压与培养压力，结合同位素标记、基因组与酶实验。",
+      "locator": "结果：仅由 AOM 供能的微生物群落；方法：连续高压培养与活性分析。",
+      "confidence_note": "经八年选择的群落及受控高甲烷供应不能确定天然南海沉积物的乙酸输出速率或途径普遍性。",
+      "_source_hash": "55931725cd7e8d35"
+    },
+    "claim:gcs-arctic-foraminifera-microhabitats": {
+      "statement": "新检测的单室有孔虫谱系局限于所采微生物席；另有多个有孔虫类群同时出现在冷泉与参照生境。",
+      "scope": "西斯瓦尔巴、Vestnesa、Svyatogor 与 Håkon Mosby 的冷泉微生境及参照沉积物。",
+      "evidence_basis": "比较微生物席、管虫生境与冷泉内外参照区的有孔虫沉积物 DNA，并以较长标记定位候选谱系。",
+      "locator": "方法：研究区与采样；结果／讨论：新谱系 CSM1 与微生物席的专属关联。",
+      "confidence_note": "所见局限性支持已采样微生境特异性，不能证明全球特有性、形态特征或未经测量的微生物共生。",
+      "_source_hash": "a99e1e2a0068dad9"
+    },
+    "claim:gcs-laptev-sediment-rate-profiles": {
+      "statement": "所采沉积物中甲烷氧化高于氢营养型产甲烷作用；较深冷泉层位出现 ANME 与硫酸盐还原类群。",
+      "scope": "拉普捷夫海陆架两处冷泉站与一处参照站，取六至七个层位至沉积物深度 20–30 cm。",
+      "evidence_basis": "将群落分析、地球化学与接近现场温度的 24 小时 14C／35S 培养配对。",
+      "locator": "方法 2.1 现场研究与采样；结果 3.6 微生物过程速率。",
+      "confidence_note": "短期培养提供样品特定速率估计，标记共现本身不能确定各反应的活跃伙伴。",
+      "_source_hash": "fd9e4505f89cf031"
+    },
+    "claim:gcs-mediterranean-caspian-hydrocarbons": {
+      "statement": "烃降解基因组成随海盆与深度变化；地中海表层偏向有氧潜力，里海沉积物偏向厌氧潜力。",
+      "scope": "东地中海北亚历山大泥火山及南里海沉积物。",
+      "evidence_basis": "跨不同氧与盐度条件，结合 16S rRNA、深度分层宏基因组及途径注释。",
+      "locator": "方法 2.1 样品采集与 DNA 提取；讨论。",
+      "confidence_note": "基因组成不能量化降解速率；不同样品历史与海盆条件限制将差异归因于地域。",
+      "_source_hash": "f96167319cec355e"
+    },
+    "claim:gcs-scotian-seep-architecture": {
+      "statement": "孔隙水与脂质代用指标识别出侧向和垂向代谢分区，包括被硫酸盐还原信号包围的 ANME 相关区域。",
+      "scope": "斯科舍陆坡 2A-1 冷泉，水深约 2,500 m，沿 600 m 样带取六根岩芯。",
+      "evidence_basis": "在冷泉及邻近沉积物中分析孔隙水、碳同位素与古菌脂质类别，最大海底以下深度 40 cm。",
+      "locator": "方法：采样与脂质代用指标；摘要；更正说明指出轻微修改未改变科学内容。",
+      "confidence_note": "脂质代用指标给出推断的群落与代谢结构，并非谱系特定活性或宏基因组基因丰度的直接测量。",
+      "_source_hash": "3bbce73d2ba840b3"
+    },
+    "claim:gcs-svalbard-terrestrial-ice-interface": {
+      "statement": "接触水体的冰生态位以硫氧化化能自养类群为主；ANME 与硫酸盐还原菌信号支持所提出的甲烷—硫耦合循环。",
+      "scope": "斯瓦尔巴 Lagoon Pingo 地下水池及上覆冬季冰。",
+      "evidence_basis": "比较冰及富甲烷、贫氧水中的细菌和古菌 16S rRNA 基因／转录本。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "这是陆地地下水／冰系统，标记信号未实测所提出的耦合甲烷汇。",
+      "_source_hash": "fa48735088639569"
+    },
+    "claim:gcs-svalbard-methylobacter-isolate": {
+      "statement": "分离嗜冷甲烷氧化菌 Methylobacter svalbardensis LS7-T4A，其最适生长温度为 13 °C、最适 pH 为 8.0。",
+      "scope": "斯匹次卑尔根中部陆地 Lagoon Pingo 甲烷渗漏沉积物。",
+      "evidence_basis": "结合群落扩增子、甲烷供给富集、分离株生理及基因组比较。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "分离株生长证明培养表型，不能量化其现场甲烷去除或海水适应。",
+      "_source_hash": "67b5f6dd2c0571d5"
+    },
+    "claim:gcs-costa-rica-co-consortia": {
+      "statement": "ANME–SRB 联合体在无甲烷时氧化 CO；硫酸盐可用性改变电子汇，单细胞结果偏向细胞维持而非活跃生长。",
+      "scope": "哥斯达黎加外海 Jaco Scar 冷泉沉积物，采样水深 1,811 m。",
+      "evidence_basis": "采用 CO 厌氧微宇宙、同位素示踪、宏转录组及 FISH–NanoSIMS 测量。",
+      "locator": "摘要；方法：沉积物采集处理与培养基组成。",
+      "confidence_note": "CO 添加微宇宙证明代谢灵活性，未确定该途径在南海冷泉的现场普遍性或通量贡献。",
+      "_source_hash": "503a2be0d5843084"
+    },
+    "claim:gcs-cadiz-deep-biofilm": {
+      "statement": "深埋 SMTZ 生物膜由 ANME-1b 占优，伴随较少 Seep-SRB1c 伙伴及少数推定异养微生物。",
+      "scope": "加的斯湾 Ginsburg 泥火山，水深 1,126 m、海底以下约 9.5–9.7 m 的裂隙生物膜。",
+      "evidence_basis": "利用宏基因组、脂质标志物、同位素与孔隙水化学比较生物膜及邻近沉积物。",
+      "locator": "摘要；方法：研究区、样品采集与地球化学。",
+      "confidence_note": "该裂隙特定、持续供应硫酸盐的生态位不能代表普遍深层沉积物群落或实测甲烷去除速率。",
+      "_source_hash": "d2db55cc0cf8945d"
+    },
+    "claim:gcs-kg-mussel-methanotrophy": {
+      "statement": "鳃群落富集甲烷氧化相关类群，在所报道供氧处理的添加底物组织培养中观察到甲烷消耗。",
+      "scope": "孟加拉湾克里希纳–戈达瓦里盆地、水深 1,754.5 m 的 Gigantidas niobengalensis。",
+      "evidence_basis": "鳃 16S 扩增子与 PICRUSt 功能预测，结合可培养计数及七天组织匀浆甲烷培养。",
+      "locator": "方法：采样；甲烷氧化活性；测序与分类分析；功能注释。",
+      "confidence_note": "尽管使用宏基因组术语，方法实际为扩增子与功能预测；组织瓶培养消耗不能定位体内共生菌通量。",
+      "_source_hash": "cda39456c4ae8a50"
+    },
+    "claim:gcs-pacific-sea-spider-nutrition": {
+      "statement": "甲烷与甲醇来源碳进入海蜘蛛组织，其体表同时存在丰富甲烷／甲醇氧化细菌。",
+      "scope": "加州至阿拉斯加之间东太平洋甲烷冷泉的 Sericosura 海蜘蛛。",
+      "evidence_basis": "结合宏基因组、16S、显微观察及活体动物甲烷／甲醇同位素标记。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "同位素掺入支持营养联系；微生物培育与垂直传播仍是所提出的解释。",
+      "_source_hash": "93fc07ef349a9f10"
+    },
+    "claim:gcs-global-genome-reference-catalog": {
+      "statement": "目录包含约 1.47 亿基因与 3,164 个代表 MAG，涵盖大量未注释基因空间及未培养物种多样性。",
+      "scope": "包括太平洋、墨西哥湾、大西洋、北极、地中海与南海站位的 16 个冷泉区域，沉积物深度至海底以下 68.55 m。",
+      "evidence_basis": "将 165 份公开或先前生成的沉积物宏基因组统一整理为非冗余基因及物种级代表 MAG。",
+      "locator": "方法：宏基因组汇集；使用说明；摘要。",
+      "confidence_note": "汇编总数属于该数据集并包含南海；原始采样不均与 MAG 质量限制生态普遍性。",
+      "_source_hash": "ccc5e9d7ce6aee1a"
+    },
+    "claim:gcs-global-nitrogen-loss-evidence": {
+      "statement": "南海培养记录氮损失潜力，全球目录则拓展氮损失基因的推定分类分布。",
+      "scope": "南海冷泉与参照沉积物速率实验，配对全球 16 个冷泉区域的 165 份宏基因组。",
+      "evidence_basis": "联合 15N 添加泥浆培养、地球化学与反硝化／厌氧氨氧化基因目录和 MAG 分析。",
+      "locator": "方法：采样与地球化学测量；氮损失速率测定；宏基因组处理。",
+      "confidence_note": "实验速率来自南海沉积物；全球基因组出现情况及外推通量是不同证据，未实测全部海区。",
+      "_source_hash": "9dc01bf4e16d338a"
+    },
+    "claim:gcs-global-anme-depth-niches": {
+      "statement": "ANME-1 与 ANME-2 具有不同的深度相关分布与基因组组成，符合不同生态策略。",
+      "scope": "跨 14 个冷泉系统的已发表 ANME 剖面及来自含南海在内多个海区的 50 个 MAG。",
+      "evidence_basis": "比较报道的深度分布及谱系特定电子传递、甲烷代谢和胁迫响应基因。",
+      "locator": "方法：数据收集；摘要与结论。",
+      "confidence_note": "基因组差异未通过实验确定所采谱系更强的电子传递、产甲烷或胁迫耐受。",
+      "_source_hash": "d04464a2ccd3408c"
+    },
+    "claim:gcs-costa-rica-partner-diazotrophy": {
+      "statement": "ANME-2b 与 SEEP-SRB1g 关联，不同联合体内古菌及细菌伙伴的氮同位素掺入存在差异。",
+      "scope": "2017 年 ROC HITS 航次的哥斯达黎加甲烷冷泉沉积物。",
+      "evidence_basis": "以 310 个扩增子文库推断伙伴，再用分选联合体、FISH、转录信号及 15N2 NanoSIMS 验证。",
+      "locator": "摘要；方法：样品来源与处理。",
+      "confidence_note": "验证的伙伴关系具有联合体特异性；其他数据集中的网络相关本身不能确定直接互作。",
+      "_source_hash": "886628785adeb45d"
+    },
+    "claim:gcs-pacific-seep-ecotones": {
+      "statement": "群落组成随远离冷泉而改变，并存在多样的过渡带；非冷泉群落也随水深变化。",
+      "scope": "华盛顿外海 Grays 与 Quinault 峡谷，以及俄勒冈外海参照站。",
+      "evidence_basis": "沿冷泉与非冷泉对比分析沉积物 16S rRNA，并推导 PICRUSt2 功能预测。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "功能为标记推导预测；冷泉距离、形态与水深应分别考虑。",
+      "_source_hash": "e18348b0996d5dd3"
+    },
+    "claim:gcs-global-fungal-biogeography": {
+      "statement": "真菌组成与推定组装随区域和冷泉类型改变，大量序列缺乏详细分类归属。",
+      "scope": "12 个冷泉站的 105 份沉积物宏基因组；其中 66 份南海样品，另有较小的太平洋、墨西哥湾、大西洋与北极子集。",
+      "evidence_basis": "重分析公开宏基因组中的真菌多样性、地理组成及统计组装模式。",
+      "locator": "方法 2.1 数据收集；讨论 4.3 研究局限；摘要。",
+      "confidence_note": "区域覆盖不均、处理差异及环境元数据缺失限制地域解释与功能活性论断。",
+      "_source_hash": "2932cdf236a8b7d4"
+    },
+    "claim:gcs-cross-basin-microbial-prediction": {
+      "statement": "分类预测指标因海盆而异；相互跨海盆预测较海盆内不稳定，整合筛选特征改善迁移。",
+      "scope": "东墨西哥湾与西北大西洋斯科舍陆坡的表层沉积物文库。",
+      "evidence_basis": "基于 377 个细菌 16S 文库训练油气状态模型，并比较海盆内与相互跨海盆预测。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "预测类群不能证明烃代谢，准确率须在南海采样及处理条件下重新验证。",
+      "_source_hash": "71ac0934b6fdc8d0"
+    },
+    "claim:gcs-okinawa-c-n-s-potential": {
+      "statement": "氮／硫基因多在近表层较高，mcr、nif 及硫歧化基因在 SMTZ 富集。",
+      "scope": "冲绳海槽冷泉沉积物剖面。",
+      "evidence_basis": "比较深度相关途径基因、相关性与重建基因组。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "基因相关与基因组注释提示可能耦合，未测定耦合反应速率或证明伙伴间交换。",
+      "_source_hash": "343839d6ae00aedc"
+    },
+    "claim:gcs-okinawa-anme-iron-gradients": {
+      "statement": "ANME 支系垂向分层，ANME-1a／mcrA 模式与溶解铁相关。",
+      "scope": "冲绳海槽中部活跃冷泉沉积物。",
+      "evidence_basis": "分析 16S／mcrA 多样性与丰度，并结合孔隙水铁及沉积物化学。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "铁相关性未通过实验确定铁依赖甲烷氧化或其通量贡献。",
+      "_source_hash": "fee524887edc8a23"
+    },
+    "claim:gcs-black-sea-sulfur-decoupling": {
+      "statement": "硫酸盐还原速率远高于厌氧甲烷氧化，提示所采沉积物硫化物生成还有其他来源。",
+      "scope": "黑海 Kalamit 湾浅水气体渗漏。",
+      "evidence_basis": "将 16S 剖面与甲烷氧化、硫酸盐还原的 14C／35S 实验配对。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "浅海沿岸速率研究不能直接代表深海，最大速率也并非配对途径化学计量。",
+      "_source_hash": "dde57ed83da6659d"
+    },
+    "claim:gcs-mediterranean-alkane-srb-rates": {
+      "statement": "不同 Desulfosarcinaceae 支系同化烷烃来源碳，推定单细胞活性不同，支持非甲烷烃耦合硫酸盐还原。",
+      "scope": "Amon 泥火山沉积物与瓜伊马斯热液沉积物用于培养，另有多个冷泉调查。",
+      "evidence_basis": "联合 CARD-FISH、标记丁烷／十二烷培养、NanoSIMS 与碳流模型；底物添加高于现场水平。",
+      "locator": "摘要；方法：样品采集与实验设置。",
+      "confidence_note": "保存、高底物剂量及模型假设限制向现场速率外推；瓜伊马斯材料属于热液环境。",
+      "_source_hash": "989f81e7369a19e5"
+    },
+    "claim:gcs-arctic-methane-states": {
+      "statement": "不同甲烷状态的 ANME／SRB 丰度及群落多样性不同，模型响应大体随甲烷进入较浅沉积物而变化。",
+      "scope": "斯瓦尔巴外海 Storfjordrenna 水合物丘。",
+      "evidence_basis": "跨稳定、通量增加及活跃渗漏沉积物，比较甲烷／孔隙水剖面与微生物群落。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "响应及倍增时间估计依赖输运假设，不能确定普遍演替时间尺度。",
+      "_source_hash": "ac46d780d9d3cd48"
+    },
+    "claim:gcs-scotian-hydrocarbon-depth": {
+      "statement": "烃相关种群及代谢组成随深度改变，包括硫酸盐贫化层位。",
+      "scope": "斯科舍盆地新表征冷泉，从近表层至硫酸盐贫化沉积物。",
+      "evidence_basis": "跨沉积物深度联合地球物理、化学、宏基因组与代谢物分析。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "深度共分布与代谢预测本身不能确定替代电子受体或其现场速率。",
+      "_source_hash": "e839c71dff6d7889"
+    },
+    "claim:gcs-gom-petroleum-genomes": {
+      "statement": "多样未培养谱系编码厌氧烃、乙酸与氢代谢，符合石油供给群落网络。",
+      "scope": "水深约 3 km 的东墨西哥湾三处石油冷泉。",
+      "evidence_basis": "恢复 82 个 MAG，联合基因组注释、沉积物化学、代谢物与热力学模型。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "推定乙酸／氢交换及热力学可行性并非伙伴传递的直接测量。",
+      "_source_hash": "888cd582016e1042"
+    },
+    "claim:gcs-gom-seep-background-nitrogen": {
+      "statement": "冷泉沉积物偏向 ANME／SRB 及固氮基因，参照沉积物具有较强厌氧氨氧化相关基因组信号。",
+      "scope": "墨西哥湾五处冷泉与两处参照站，沉积物深度 10–15 cm。",
+      "evidence_basis": "跨冷泉与参照沉积物比较基因分类剖面及 49 个重建基因组。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "基因富集未测定固氮或厌氧氨氧化速率，也不能确定差异仅由渗漏造成。",
+      "_source_hash": "0c9882bfd3dbe4cb"
+    },
+    "claim:gcs-gom-aom-transcripts": {
+      "statement": "ANME-1 与 ANME-2 在不同冷泉流体中占优，尽管两者均表达甲烷代谢，硫相关转录模式不同。",
+      "scope": "墨西哥湾两处分别以生物成因甲烷及混合热成因烃占优的冷泉区域。",
+      "evidence_basis": "在配对 DNA／RNA 数据中比较分类组成及甲烷／硫途径表达。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "转录本支持表达潜力；所提出的多硫化物耦合及细菌独立性需要直接生理验证。",
+      "_source_hash": "ea304788721fe302"
+    },
+    "claim:gcs-gom-alkane-symbionts": {
+      "statement": "共生 Cycloclasticus 缺乏预期 PAH 降解组成，转而显示短链烷烃代谢潜力与表达。",
+      "scope": "南墨西哥湾 Campeche Knolls 富沥青石油冷泉的贻贝与海绵。",
+      "evidence_basis": "分析共生菌基因组、转录本与当地短链烃。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "属名不能确定普遍底物偏好，该宿主／石油冷泉背景也不同于仅甲烷生境。",
+      "_source_hash": "6d12c8d2835ee7bf"
+    },
+    "claim:gcs-gom-methanoliparia": {
+      "statement": "油滴相关 Methanoliparia 细胞编码典型及分化 MCR，以及符合产甲烷长链烷烃代谢的途径。",
+      "scope": "墨西哥湾富油冷泉沉积物。",
+      "evidence_basis": "结合油滴细胞成像、MAG 重建及甲基辅酶 M 还原酶系统发育。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "细胞形态与基因组潜力本身不能证明现场条件下完整、无需伙伴的烷烃歧化。",
+      "_source_hash": "c96fb3421f75d6ef"
+    },
+    "claim:gcs-antarctic-seep-succession": {
+      "statement": "首年样品未检测到 ANME，五年后检测到较低相对丰度，甲烷仍从沉积物逸出。",
+      "scope": "罗斯海水深 10 m 的甲烷／硫化物冷泉，微生物席于 2011 年出现。",
+      "evidence_basis": "比较微生物席出现后一及五年的 16S 群落，结合沉积物化学与甲烷通量。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "南极浅水站两次时间窗口不能确定普遍生物过滤器发育轨迹，也不能证明检测限以下无 ANME。",
+      "_source_hash": "5eb17318169824a2"
+    },
+    "claim:gcs-cadiz-bacteria-protist-communities": {
+      "statement": "较活跃站位的细菌及真核组成不同，Methylococcales 与叶足变形虫富集且分布相关。",
+      "scope": "伊比利亚西南陆缘加的斯湾不同活动泥火山及一处非渗漏参照站。",
+      "evidence_basis": "用 16S／18S rRNA 标记及相关分析表征沉积物细菌与微真核生物。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "跨域相关不能证明摄食、共生或渗漏活动的因果效应。",
+      "_source_hash": "c7145b94d91151d5"
+    },
+    "claim:gcs-congo-fan-interface-context": {
+      "statement": "富有机质活跃扇体生境存在多样有氧甲烷氧化菌；不连通老扇体未检出细胞或 pmoA。",
+      "scope": "刚果–安哥拉深海扇，水深约 5,000 m，包括类似冷泉的生境。",
+      "evidence_basis": "在河流连通与不连通扇体的沉积物氧化–缺氧界面采用 FISH 与 pmoA 序列比较。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "这是类似冷泉的沉积环境比较，标记检测未测定甲烷去除或证明扩散路径。",
+      "_source_hash": "06d0c9ea6130f280"
+    },
+    "claim:gcs-arctic-tubeworm-symbionts": {
+      "statement": "含共生菌组织由硫氧化细菌序列占优，对大量甲烷氧化共生菌的支持有限。",
+      "scope": "来自北极与北大西洋四个冷泉站的两种 Oligobrachia。",
+      "evidence_basis": "将组织 16S V3–V4 测序与共生菌所在营养体的透射电镜观察配对。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "低组织碳同位素值本身不能确定甲烷氧化共生；稀有序列可能来自非内共生微生物。",
+      "_source_hash": "8d986665291408fd"
+    },
+    "claim:gcs-costa-rica-host-specificity": {
+      "statement": "共存贻贝种携带不同优势共生菌，而不同管虫种跨站共享优势共生菌。",
+      "scope": "哥斯达黎加三处甲烷冷泉，含三种贻贝及三种前庭管虫。",
+      "evidence_basis": "以细菌内转录间隔区扩增子解析硫氧化共生菌多样性。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "宿主相关特异性模式未通过实验确定摄取或识别机制。",
+      "_source_hash": "96cc7c7dd0a1d019"
+    },
+    "claim:gcs-mediterranean-mussel-handoffs": {
+      "statement": "次级共生菌编码并表达互补的甲基营养、大分子及营养相关功能，支持所提出的代谢交接。",
+      "scope": "地中海／大西洋冷泉及沉木宿主背景下 Idas modiolaeformis 的共生菌。",
+      "evidence_basis": "联合 MAG、基因组中心宏转录组及宏蛋白组识别已表达共生菌功能。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "共同表达提示互补作用，未直接测定代谢物传递或宿主适合度收益。",
+      "_source_hash": "6cd080638a76d3b2"
+    },
+    "claim:gcs-north-sea-tides-seasonality": {
+      "statement": "甲烷储量与氧化随潮汐变化；秋季混合伴随较弱甲烷氧化活性及较高海气排放。",
+      "scope": "北海 Doggerbank 冷泉，夏季与秋季采样。",
+      "evidence_basis": "以两小时间隔测量全水柱甲烷储量与甲烷氧化活性。",
+      "locator": "DOI／Crossref 记录中出版方提交的摘要。",
+      "confidence_note": "单个陆架冷泉及两个季节不能确定普遍潮汐效应或直接量化深水南海海气耦合。",
+      "_source_hash": "a0e38a63dcc039c0"
+    },
+    "claim:gcs-svalbard-water-sediment-connectivity": {
+      "statement": "底层水甲烷及氧化高于表层水，微生物相似性支持沉积物与水体生境、不同冷泉之间可能交换。",
+      "scope": "斯瓦尔巴以北 Norskebanken 与 Hinlopen 海槽，水深约 200 与 500 m。",
+      "evidence_basis": "采用 CTD／ROV 水与沉积物采样、16S、洋流观测及 4 °C 下 2–3 天离体 3H 甲烷培养。",
+      "locator": "摘要；方法 2.1–2.4：站位采样、沉积物、甲烷及氧化速率测量。",
+      "confidence_note": "群落相似性未直接追踪细胞经气泡或洋流迁移；培养速率保留其实验条件。",
+      "_source_hash": "113fcd7420fc6043"
+    },
+    "claim:gcs-hikurangi-plume-dilution": {
+      "statement": "模型底层水羽流可远距离侧向扩散，同位素及速率证据表明混合主导当地溶解甲烷模式。",
+      "scope": "希库朗伊陆缘东南部三处冷泉，模型另外推至其他区域冷泉。",
+      "evidence_basis": "将离散水样、拖曳甲烷传感器及洋流与 Gerris、ROMS 羽流模拟结合。",
+      "locator": "DOI 出版信息中提交的摘要：观测与 Gerris／ROMS 结果。",
+      "confidence_note": "羽流及区域排放估计依赖源与输运假设；浓度降低本身不等于微生物消耗。",
+      "_source_hash": "8c41dcf50b492a36"
+    },
+    "claim:gcs-norway-water-carbon-dom": {
+      "statement": "近冷泉水体具有较高溶解无机碳及改变的 DOM／同位素模式，并结合水动力和颗粒控制解释。",
+      "scope": "挪威北部陆架 Hola 海槽，冷泉与冷水珊瑚共存。",
+      "evidence_basis": "表征水体碳同位素、营养盐、溶解有机质及微生物多样性。",
+      "locator": "出版方摘要与数据可用性说明。",
+      "confidence_note": "DOM 与微生物关联未直接测定微生物碳向珊瑚传递或确定升温响应。",
+      "_source_hash": "21c44334435d7d0c"
+    },
+    "claim:gcs-arctic-water-seasonal-retention": {
+      "statement": "洼地滞留水中的甲烷氧化活性夏季较高、春季混合时较低，尽管标记定义群落较一致。",
+      "scope": "斯瓦尔巴西侧浅陆架，跨三年开展四次调查。",
+      "evidence_basis": "跨春夏条件比较垂向甲烷氧化、pmoA 群落、温度与盐度。",
+      "locator": "DOI 出版信息中提交的出版方摘要。",
+      "confidence_note": "季节及地貌关联未分离单一因果驱动，也不能代表全部北极与南海水体。",
+      "_source_hash": "35794fe35ca7b0cf"
+    },
+    "claim:gcs-global-seep-viral-reservoir": {
+      "statement": "冷泉沉积物病毒显示大量序列新颖性及站位特定模式，并具有预测微生物宿主联系与潜在代谢贡献。",
+      "scope": "跨北极、太平洋、大西洋、墨西哥湾及地中海七区域的 28 份沉积物宏基因组，该汇编未含南海样品。",
+      "evidence_basis": "恢复病毒序列、基因共享分组、预测宿主与候选辅助代谢基因。",
+      "locator": "摘要；方法：深海冷泉宏基因组数据汇集。",
+      "confidence_note": "宿主预测、生活史比率及 AMG 注释未证明感染、裂解或宿主代谢通量改变。",
+      "_source_hash": "04556f859c7ca1c8"
+    },
+    "claim:gcs-monterey-scarce-anme": {
+      "statement": "ANME 信号异常稀少；Clam Field 的低转录、未出现甲烷依赖硫酸盐还原响应及孔隙水剖面支持较弱甲烷氧化。",
+      "scope": "蒙特雷湾 Clam Field 与 Extrovert Cliff，水深约 895–990 m。",
+      "evidence_basis": "沿冷泉至背景样带取重复岩芯，结合 16S／mcrA DNA／RNA 及长达六个月的甲烷培养。",
+      "locator": "摘要；方法 2.2–2.5：采样、培养、孔隙水及核酸。",
+      "confidence_note": "ANME 稀少的原因仍未确定；高碳烃及竞争属于假说，并非已检验原因。",
+      "_source_hash": "ec69e37ee06897a8"
     }
   },
   "concepts": {
@@ -10686,6 +12261,116 @@
       "label": "冷泉相关沉木与有机基质",
       "description": "冷泉环境采集的沉木等有机物，与宿主组织及沉积物区分。",
       "_source_hash": "a0886feaf8fdb366"
+    },
+    "region:gulf-mexico-seeps": {
+      "label": "墨西哥湾",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "76b2c9dde5d3dae5"
+    },
+    "region:northeast-pacific-seeps": {
+      "label": "东北太平洋陆缘",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "c5bad937661beb9c"
+    },
+    "region:costa-rica-seeps": {
+      "label": "哥斯达黎加陆缘",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "c09411cec0744c53"
+    },
+    "region:mediterranean-seeps": {
+      "label": "地中海",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "072f5eb83a3513c6"
+    },
+    "region:black-sea-seeps": {
+      "label": "黑海与马尔马拉海",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "de8c8d307a52c54d"
+    },
+    "region:caspian-seeps": {
+      "label": "里海",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "1830067e917b6d62"
+    },
+    "region:arctic-nordic-seeps": {
+      "label": "北极与北欧冷泉",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "95cf7c3679f1207f"
+    },
+    "region:north-sea-seeps": {
+      "label": "北海",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "4ab7bde9d710eedb"
+    },
+    "region:hikurangi-seeps": {
+      "label": "新西兰希库朗伊陆缘",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "7a59643563e07d76"
+    },
+    "region:indian-ocean-seeps": {
+      "label": "印度洋冷泉陆缘",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "6f67b8760a8fe790"
+    },
+    "region:japan-pacific-seeps": {
+      "label": "日本与西北太平洋陆缘",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "6904f5af05721910"
+    },
+    "region:atlantic-seeps": {
+      "label": "大西洋陆缘",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "b150bc52e6860b66"
+    },
+    "region:antarctic-seeps": {
+      "label": "南极冷泉",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "20c2f50ce0c9de29"
+    },
+    "region:global-seeps": {
+      "label": "多海区比较",
+      "description": "具名比较区域；具体站位及样品范围以各文献为准。",
+      "_source_hash": "71dc119712bd38cc"
+    },
+    "habitat:terrestrial-methane-seep": {
+      "label": "陆地甲烷渗漏水与冰",
+      "description": "陆地甲烷渗漏地下水或冰，作为海洋冷泉的背景比较。",
+      "_source_hash": "6c65397d3f964fef"
+    },
+    "method:machine-learning": {
+      "label": "机器学习预测与验证",
+      "description": "机器学习预测与验证，实验与分析适用范围以对应原文为准。",
+      "_source_hash": "9233c814bbf0538b"
+    },
+    "method:fluorescence-in-situ-hybridization": {
+      "label": "荧光原位杂交（FISH）",
+      "description": "荧光原位杂交（FISH），实验与分析适用范围以对应原文为准。",
+      "_source_hash": "3a2bf9c4fc785d13"
+    },
+    "method:nanosims": {
+      "label": "纳米二次离子质谱（NanoSIMS）",
+      "description": "纳米二次离子质谱（NanoSIMS），实验与分析适用范围以对应原文为准。",
+      "_source_hash": "369b01c0e1a0c17a"
+    },
+    "method:lipid-biomarker-analysis": {
+      "label": "脂质生物标志物分析",
+      "description": "脂质生物标志物分析，实验与分析适用范围以对应原文为准。",
+      "_source_hash": "0fc4d6acfb5d5e00"
+    },
+    "method:hydrodynamic-modeling": {
+      "label": "水动力输运模拟",
+      "description": "水动力输运模拟，实验与分析适用范围以对应原文为准。",
+      "_source_hash": "f58be4b354ac3caf"
+    },
+    "method:metabolomics": {
+      "label": "代谢组学",
+      "description": "代谢组学，实验与分析适用范围以对应原文为准。",
+      "_source_hash": "4dd9b6c554f9794e"
+    },
+    "method:metaproteomics": {
+      "label": "宏蛋白组学",
+      "description": "宏蛋白组学，实验与分析适用范围以对应原文为准。",
+      "_source_hash": "74dbab25507cf55f"
     }
   },
   "schema_version": "1.0",
@@ -10821,8 +12506,10 @@
       "all_topics": "All topics",
       "all_sites": "All sites",
       "cold_seep_guide": "Cold-seep guide",
-      "library_title": "South China Sea cold-seep literature",
+      "library_title": "Cold-seep literature",
       "library_window": "Publication window",
+      "discussion_use": "Use in the discussion",
+      "discussion_guide": "Discussion comparisons ↗",
       "library_note": "Discover studies by sampled compartment, topic, and site. Inventory tags are provisional title/abstract classifications. Open a curated evidence profile for findings checked against the source. Published titles retain their original language for citation.",
       "library_search": "Title, DOI, author, or topic…",
       "priority": "Focus",
@@ -10981,8 +12668,10 @@
       "all_topics": "全部主题",
       "all_sites": "全部站位",
       "cold_seep_guide": "冷泉文献指南",
-      "library_title": "南海冷泉文献目录",
+      "library_title": "冷泉文献目录",
       "library_window": "发表时间范围",
+      "discussion_use": "讨论部分的引用用途",
+      "discussion_guide": "讨论比较指南 ↗",
       "library_note": "按采样介质、主题和站位查找文献。目录标签来自标题与摘要的初步分类；已核查的研究发现可在精选证据档案中查看。正式发表的标题保留原始语言，便于准确引用。",
       "library_search": "输入标题、DOI、作者或主题…",
       "priority": "研究重点",
@@ -11095,6 +12784,6 @@
       "Concept": "概念"
     }
   },
-  "generated_at": "2026-10-13T08:33:27.965399+00:00",
+  "generated_at": "2026-10-13T14:24:26.274558+00:00",
   "translation_note": "Terminology-normalized Simplified-Chinese reading translation; English evidence records remain canonical."
 }

@@ -642,9 +642,10 @@
       </section>
 
       <section class="panel library-panel" aria-labelledby="libraryTitle">
-        <div class="panel-header"><div><h2 id="libraryTitle" data-i18n="library_title">South China Sea cold-seep literature</h2><p><span data-i18n="library_window">Publication window</span> · <span id="libraryWindow"></span></p></div><a class="link-button" href="cold-seep-literature.csv" download data-i18n="download_inventory">Download inventory ↓</a></div>
+        <div class="panel-header"><div><h2 id="libraryTitle" data-i18n="library_title">Cold-seep literature</h2><p><span data-i18n="library_window">Publication window</span> · <span id="libraryWindow"></span></p></div><a id="libraryDownload" class="link-button" href="cold-seep-literature.csv" download data-i18n="download_inventory">Download inventory ↓</a></div>
         <p class="library-intro" data-i18n="library_note">Discover studies by sampled compartment, topic, and site. Inventory tags are provisional title/abstract classifications. Open a curated evidence profile for findings that have been checked against the source.</p>
         <div class="library-controls">
+          <label><span data-i18n="collection">Collection</span><select id="libraryCollection"></select></label>
           <label><span data-i18n="search_label">Search literature</span><input type="search" id="librarySearch" data-i18n-placeholder="library_search" placeholder="Title, DOI, author, or topic…"></label>
           <label><span data-i18n="compartment">Compartment</span><select id="libraryCompartment"></select></label>
           <label><span data-i18n="topic">Topic</span><select id="libraryTopic"></select></label>
@@ -653,7 +654,7 @@
           <label><span data-i18n="source_review">Source review</span><select id="libraryReview"></select></label>
         </div>
         <div class="library-table-wrap"><table class="library-table"><thead><tr><th data-i18n="published">Published</th><th data-i18n="paper">Paper</th><th data-i18n="compartment">Compartment</th><th data-i18n="topic">Topic</th><th data-i18n="source_review">Source review</th></tr></thead><tbody id="libraryRows"></tbody></table></div>
-        <div class="library-footer"><span id="libraryCount" role="status" aria-live="polite"></span><a href="cold-seep-review-summary.md" data-i18n="review_ledger">Review ledger ↗</a><a href="cold-seep-evidence-profiles.md" data-i18n="profile_export">Evidence profiles ↗</a><a href="../references/cold-seep-curated-apa7.md" data-i18n="apa_references">APA 7 references ↗</a></div>
+        <div class="library-footer"><span id="libraryCount" role="status" aria-live="polite"></span><a id="libraryReviewExport" href="cold-seep-review-summary.md" data-i18n="review_ledger">Review ledger ↗</a><a id="libraryProfiles" href="cold-seep-evidence-profiles.md" data-i18n="profile_export">Evidence profiles ↗</a><a id="libraryRefs" href="../references/cold-seep-curated-apa7.md" data-i18n="apa_references">APA 7 references ↗</a><a href="../article/cold-seep-discussion-comparisons.md" data-i18n="discussion_guide">Discussion comparisons ↗</a></div>
       </section>
 
       <footer class="footer">

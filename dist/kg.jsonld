@@ -2000,6 +2000,138 @@
       "schema:description": "Wood or other organic material sampled in a seep setting, distinct from host tissue or sediment."
     },
     {
+      "@id": "region:gulf-mexico-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Gulf of Mexico",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:northeast-pacific-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Northeast Pacific margins",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:costa-rica-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Costa Rica margin",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:mediterranean-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Mediterranean Sea",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:black-sea-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Black Sea and Marmara",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:caspian-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Caspian Sea",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:arctic-nordic-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Arctic and Nordic seep sites",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:north-sea-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "North Sea",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:hikurangi-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Hikurangi margin, New Zealand",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:indian-ocean-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Indian Ocean seep margins",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:japan-pacific-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Japan and northwest Pacific margins",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:atlantic-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Atlantic margins",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:antarctic-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Antarctic seep sites",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "region:global-seeps",
+      "@type": "pkg:Region",
+      "rdfs:label": "Multiple ocean regions",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
+      "@id": "habitat:terrestrial-methane-seep",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Terrestrial methane seep water and ice",
+      "schema:description": "Groundwater or ice at a terrestrial methane seep; a contextual comparison to marine cold seeps."
+    },
+    {
+      "@id": "method:machine-learning",
+      "@type": "pkg:Method",
+      "rdfs:label": "Machine-learning prediction and validation",
+      "schema:description": "Statistical learning models with study-specific training and external validation."
+    },
+    {
+      "@id": "method:fluorescence-in-situ-hybridization",
+      "@type": "pkg:Method",
+      "rdfs:label": "Fluorescence in situ hybridization (FISH)",
+      "schema:description": "Probe-based visualization of identified cells or transcripts, including CARD- and HCR-FISH variants."
+    },
+    {
+      "@id": "method:nanosims",
+      "@type": "pkg:Method",
+      "rdfs:label": "Nanoscale secondary ion mass spectrometry (NanoSIMS)",
+      "schema:description": "Cell- or material-specific isotope measurements; incubation and labeling conditions remain source-specific."
+    },
+    {
+      "@id": "method:lipid-biomarker-analysis",
+      "@type": "pkg:Method",
+      "rdfs:label": "Lipid biomarker analysis",
+      "schema:description": "Lipid composition and isotope proxies for community or metabolic interpretation."
+    },
+    {
+      "@id": "method:hydrodynamic-modeling",
+      "@type": "pkg:Method",
+      "rdfs:label": "Hydrodynamic transport modeling",
+      "schema:description": "Physical transport and mixing simulations constrained by study-specific observations."
+    },
+    {
+      "@id": "method:metabolomics",
+      "@type": "pkg:Method",
+      "rdfs:label": "Metabolomics",
+      "schema:description": "Chemical profiling of community metabolites; detection does not by itself assign production to a specific organism."
+    },
+    {
+      "@id": "method:metaproteomics",
+      "@type": "pkg:Method",
+      "rdfs:label": "Metaproteomics",
+      "schema:description": "Community protein identification linked to genome or pathway annotations; expression and process rates remain distinct."
+    },
+    {
       "@id": "domain:antarctic-prokaryotes",
       "@type": "pkg:Domain",
       "rdfs:label": "Antarctic prokaryotes",
@@ -3932,6 +4064,366 @@
       "schema:datePublished": 2023,
       "schema:identifier": "10.1016/j.dsr.2023.104004",
       "schema:sameAs": "https://doi.org/10.1016/j.dsr.2023.104004"
+    },
+    {
+      "@id": "src:gcs-gom-fluid-composition",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Comparative metagenomics of hydrocarbon and methane seeps of the Gulf of Mexico",
+      "schema:datePublished": 2017,
+      "schema:identifier": "10.1038/s41598-017-16375-5",
+      "schema:sameAs": "https://doi.org/10.1038/s41598-017-16375-5"
+    },
+    {
+      "@id": "src:gcs-continental-carbonate-aom",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Carbonate-hosted microbial communities are prolific and pervasive methane oxidizers at geologically diverse marine methane seep sites",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1073/pnas.2006857118",
+      "schema:sameAs": "https://doi.org/10.1073/pnas.2006857118"
+    },
+    {
+      "@id": "src:gcs-carbonate-electron-acceptors",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Expanding the repertoire of electron acceptors for the anaerobic oxidation of methane in carbonates in the Atlantic and Pacific Ocean",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1038/s41396-021-00918-w",
+      "schema:sameAs": "https://doi.org/10.1038/s41396-021-00918-w"
+    },
+    {
+      "@id": "src:gcs-cadiz-anme-acetogenesis",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Genomic and enzymatic evidence of acetogenesis by anaerobic methanotrophic archaea",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.1038/s41467-020-17860-8",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-020-17860-8"
+    },
+    {
+      "@id": "src:gcs-arctic-foraminifera-microhabitats",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Sediment eDNA metabarcoding reveals the endemism in benthic foraminifera from Arctic methane cold seepages",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1093/ismeco/ycaf058",
+      "schema:sameAs": "https://doi.org/10.1093/ismeco/ycaf058"
+    },
+    {
+      "@id": "src:gcs-laptev-sediment-rate-profiles",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Biogeochemical Activity of Methane-Related Microbial Communities in Bottom Sediments of Cold Seeps of the Laptev Sea",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.3390/microorganisms11020250",
+      "schema:sameAs": "https://doi.org/10.3390/microorganisms11020250"
+    },
+    {
+      "@id": "src:gcs-mediterranean-caspian-hydrocarbons",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Diversity and Distribution of Hydrocarbon-Degrading Genes in the Cold Seeps from the Mediterranean and Caspian Seas",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.3390/microorganisms13020222",
+      "schema:sameAs": "https://doi.org/10.3390/microorganisms13020222"
+    },
+    {
+      "@id": "src:gcs-scotian-seep-architecture",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Microbial and geochemical architecture of an active Scotian Slope cold seep",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3389/fmicb.2026.1709097",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2026.1709097"
+    },
+    {
+      "@id": "src:gcs-svalbard-terrestrial-ice-interface",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Chemolithoautotrophic bacteria flourish at dark water–ice interfaces of an emerged Arctic cold seep",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1093/ismejo/wrae170",
+      "schema:sameAs": "https://doi.org/10.1093/ismejo/wrae170"
+    },
+    {
+      "@id": "src:gcs-svalbard-methylobacter-isolate",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Targeting methanotrophs and isolation of a novel psychrophilic Methylobacter species from a terrestrial Arctic alkaline methane seep in Lagoon Pingo, Central Spitsbergen (78° N)",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1007/s10482-024-01953-1",
+      "schema:sameAs": "https://doi.org/10.1007/s10482-024-01953-1"
+    },
+    {
+      "@id": "src:gcs-costa-rica-co-consortia",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Carbon monoxide oxidation expands the known metabolic capacity in anaerobic methanotrophic consortia",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1038/s41467-026-71433-9",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-026-71433-9"
+    },
+    {
+      "@id": "src:gcs-cadiz-deep-biofilm",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Anaerobic oxidation of methane supports a minimal microbial community in a subsurface biofilm at Ginsburg mud volcano",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1093/ismeco/ycag072",
+      "schema:sameAs": "https://doi.org/10.1093/ismeco/ycag072"
+    },
+    {
+      "@id": "src:gcs-kg-mussel-methanotrophy",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Methanotrophy dominated symbiosis in novel species Gigantidas niobengalensis from the cold seeps of Krishna–Godavari basin",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1093/femsmc/xtag014",
+      "schema:sameAs": "https://doi.org/10.1093/femsmc/xtag014"
+    },
+    {
+      "@id": "src:gcs-pacific-sea-spider-nutrition",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Methane-powered sea spiders: Diverse, epibiotic methanotrophs serve as a source of nutrition for deep-sea methane seep Sericosura",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1073/pnas.2501422122",
+      "schema:sameAs": "https://doi.org/10.1073/pnas.2501422122"
+    },
+    {
+      "@id": "src:gcs-global-genome-reference-catalog",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "A comprehensive genomic catalog from global cold seeps",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1038/s41597-023-02521-4",
+      "schema:sameAs": "https://doi.org/10.1038/s41597-023-02521-4"
+    },
+    {
+      "@id": "src:gcs-global-nitrogen-loss-evidence",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Cold seeps are potential hotspots of deep-sea nitrogen loss driven by microorganisms across 21 phyla",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41467-025-56774-1",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-025-56774-1"
+    },
+    {
+      "@id": "src:gcs-global-anme-depth-niches",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Genomic Insights into Niche Partitioning across Sediment Depth among Anaerobic Methane-Oxidizing Archaea in Global Methane Seeps",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1128/msystems.01179-22",
+      "schema:sameAs": "https://doi.org/10.1128/msystems.01179-22"
+    },
+    {
+      "@id": "src:gcs-costa-rica-partner-diazotrophy",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Experimentally-validated correlation analysis reveals new anaerobic methane oxidation partnerships with consortium-level heterogeneity in diazotrophy",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1038/s41396-020-00757-1",
+      "schema:sameAs": "https://doi.org/10.1038/s41396-020-00757-1"
+    },
+    {
+      "@id": "src:gcs-pacific-seep-ecotones",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Variations and gradients between methane seep and off-seep microbial communities in a submarine canyon system in the Northeast Pacific",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.7717/peerj.15119",
+      "schema:sameAs": "https://doi.org/10.7717/peerj.15119"
+    },
+    {
+      "@id": "src:gcs-global-fungal-biogeography",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Global Distribution Patterns of Dark Matter Fungi in Cold Seep: A Metagenomic Meta-Analysis",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.3390/jof11120878",
+      "schema:sameAs": "https://doi.org/10.3390/jof11120878"
+    },
+    {
+      "@id": "src:gcs-cross-basin-microbial-prediction",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Predicting hydrocarbon presence in marine cold seep sediments using machine learning models trained with benthic bacterial 16S rRNA taxonomy",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1128/spectrum.03033-24",
+      "schema:sameAs": "https://doi.org/10.1128/spectrum.03033-24"
+    },
+    {
+      "@id": "src:gcs-okinawa-c-n-s-potential",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Potential coupling of microbial methane, nitrogen, and sulphur cycling in the Okinawa Trough cold seep sediments",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1128/spectrum.03490-23",
+      "schema:sameAs": "https://doi.org/10.1128/spectrum.03490-23"
+    },
+    {
+      "@id": "src:gcs-okinawa-anme-iron-gradients",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Diversity of Anaerobic Methane Oxidizers in the Cold Seep Sediments of the Okinawa Trough",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.3389/fmicb.2022.819187",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2022.819187"
+    },
+    {
+      "@id": "src:gcs-black-sea-sulfur-decoupling",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Decoupling between sulfate reduction and the anaerobic oxidation of methane in the shallow methane seep of the Black sea",
+      "schema:datePublished": 2018,
+      "schema:identifier": "10.1093/femsle/fny235",
+      "schema:sameAs": "https://doi.org/10.1093/femsle/fny235"
+    },
+    {
+      "@id": "src:gcs-mediterranean-alkane-srb-rates",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "In Situ Metabolic Rates of Alkane‐Degrading Sulphate‐Reducing Bacteria in Hydrocarbon Seep Sediments Revealed by Combining CARD ‐ FISH , NanoSIMS , and Mathematical Modelling",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1111/1462-2920.70151",
+      "schema:sameAs": "https://doi.org/10.1111/1462-2920.70151"
+    },
+    {
+      "@id": "src:gcs-arctic-methane-states",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Distinct methane-dependent biogeochemical states in Arctic seafloor gas hydrate mounds",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1038/s41467-021-26549-5",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-021-26549-5"
+    },
+    {
+      "@id": "src:gcs-scotian-hydrocarbon-depth",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Thermogenic hydrocarbon biodegradation by diverse depth-stratified microbial populations at a Scotian Basin cold seep",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.1038/s41467-020-19648-2",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-020-19648-2"
+    },
+    {
+      "@id": "src:gcs-gom-petroleum-genomes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Metabolic potential of uncultured bacteria and archaea associated with petroleum seepage in deep-sea sediments",
+      "schema:datePublished": 2019,
+      "schema:identifier": "10.1038/s41467-019-09747-0",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-019-09747-0"
+    },
+    {
+      "@id": "src:gcs-gom-seep-background-nitrogen",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Metagenomic views of microbial dynamics influenced by hydrocarbon seepage in sediments of the Gulf of Mexico",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.1038/s41598-020-62840-z",
+      "schema:sameAs": "https://doi.org/10.1038/s41598-020-62840-z"
+    },
+    {
+      "@id": "src:gcs-gom-aom-transcripts",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Contrasting Pathways for Anaerobic Methane Oxidation in Gulf of Mexico Cold Seep Sediments",
+      "schema:datePublished": 2019,
+      "schema:identifier": "10.1128/msystems.00091-18",
+      "schema:sameAs": "https://doi.org/10.1128/msystems.00091-18"
+    },
+    {
+      "@id": "src:gcs-gom-alkane-symbionts",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Short-chain alkanes fuel mussel and sponge Cycloclasticus symbionts from deep-sea gas and oil seeps",
+      "schema:datePublished": 2017,
+      "schema:identifier": "10.1038/nmicrobiol.2017.93",
+      "schema:sameAs": "https://doi.org/10.1038/nmicrobiol.2017.93"
+    },
+    {
+      "@id": "src:gcs-gom-methanoliparia",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Anaerobic Degradation of Non-Methane Alkanes by “ Candidatus Methanoliparia” in Hydrocarbon Seeps of the Gulf of Mexico",
+      "schema:datePublished": 2019,
+      "schema:identifier": "10.1128/mbio.01814-19",
+      "schema:sameAs": "https://doi.org/10.1128/mbio.01814-19"
+    },
+    {
+      "@id": "src:gcs-antarctic-seep-succession",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Riddles in the cold: Antarctic endemism and microbial succession impact methane cycling in the Southern Ocean",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.1098/rspb.2020.1134",
+      "schema:sameAs": "https://doi.org/10.1098/rspb.2020.1134"
+    },
+    {
+      "@id": "src:gcs-cadiz-bacteria-protist-communities",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Integrated analysis of bacterial and microeukaryotic communities from differentially active mud volcanoes in the Gulf of Cadiz",
+      "schema:datePublished": 2016,
+      "schema:identifier": "10.1038/srep35272",
+      "schema:sameAs": "https://doi.org/10.1038/srep35272"
+    },
+    {
+      "@id": "src:gcs-congo-fan-interface-context",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Relative Abundance and Diversity of Bacterial Methanotrophs at the Oxic–Anoxic Interface of the Congo Deep-Sea Fan",
+      "schema:datePublished": 2017,
+      "schema:identifier": "10.3389/fmicb.2017.00715",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2017.00715"
+    },
+    {
+      "@id": "src:gcs-arctic-tubeworm-symbionts",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Bacterial symbiont diversity in Arctic seep Oligobrachia siboglinids",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1186/s42523-023-00251-x",
+      "schema:sameAs": "https://doi.org/10.1186/s42523-023-00251-x"
+    },
+    {
+      "@id": "src:gcs-costa-rica-host-specificity",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Contrasting influences on bacterial symbiont specificity by co‐occurring deep‐sea mussels and tubeworms",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1111/1758-2229.12909",
+      "schema:sameAs": "https://doi.org/10.1111/1758-2229.12909"
+    },
+    {
+      "@id": "src:gcs-mediterranean-mussel-handoffs",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Metabolic handoffs between multiple symbionts may benefit the deep-sea bathymodioline mussels",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1038/s43705-023-00254-4",
+      "schema:sameAs": "https://doi.org/10.1038/s43705-023-00254-4"
+    },
+    {
+      "@id": "src:gcs-north-sea-tides-seasonality",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Tidal and seasonal influence on cold seep activity and methanotroph efficiency in the North Sea",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1038/s43247-024-01483-8",
+      "schema:sameAs": "https://doi.org/10.1038/s43247-024-01483-8"
+    },
+    {
+      "@id": "src:gcs-svalbard-water-sediment-connectivity",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Methanotroph activity and connectivity between two seep systems north off Svalbard",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.3389/feart.2024.1287226",
+      "schema:sameAs": "https://doi.org/10.3389/feart.2024.1287226"
+    },
+    {
+      "@id": "src:gcs-hikurangi-plume-dilution",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Dispersion and fate of methane emissions from cold seeps on Hikurangi Margin, New Zealand",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.3389/feart.2024.1354388",
+      "schema:sameAs": "https://doi.org/10.3389/feart.2024.1354388"
+    },
+    {
+      "@id": "src:gcs-norway-water-carbon-dom",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Cold Seeps and Coral Reefs in Northern Norway: Carbon Cycling in Marine Ecosystems With Coexisting Features",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1029/2024jg008475",
+      "schema:sameAs": "https://doi.org/10.1029/2024jg008475"
+    },
+    {
+      "@id": "src:gcs-arctic-water-seasonal-retention",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Seasonal shifts of microbial methane oxidation in Arctic shelf waters above gas seeps",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1002/lno.11731",
+      "schema:sameAs": "https://doi.org/10.1002/lno.11731"
+    },
+    {
+      "@id": "src:gcs-global-seep-viral-reservoir",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Deep sea sediments associated with cold seeps are a subsurface reservoir of viral diversity",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1038/s41396-021-00932-y",
+      "schema:sameAs": "https://doi.org/10.1038/s41396-021-00932-y"
+    },
+    {
+      "@id": "src:gcs-monterey-scarce-anme",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Unexpected scarcity of ANME archaea in hydrocarbon seeps within Monterey Bay",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.5194/bg-22-385-2025",
+      "schema:sameAs": "https://doi.org/10.5194/bg-22-385-2025"
     },
     {
       "@id": "claim:001-rothera-viral-novelty",
@@ -8196,6 +8688,771 @@
       },
       "prov:wasDerivedFrom": {
         "@id": "src:scs-aspergillus-emestrin-products"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-gom-fluid-composition",
+      "@type": "pkg:Claim",
+      "schema:text": "Methane-dominated sediments had abundant ANME-1 and methane-oxidation potential, whereas oil-containing sediments favored different lineages and complex-hydrocarbon degradation genes.",
+      "pkg:subject": {
+        "@id": "src:gcs-gom-fluid-composition"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-gom-fluid-composition"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-continental-carbonate-aom",
+      "@type": "pkg:Claim",
+      "schema:text": "Carbonates from every sampled site supported methane oxidation in incubations, and Point Dume chimney material showed especially high potential activity.",
+      "pkg:subject": {
+        "@id": "src:gcs-continental-carbonate-aom"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-continental-carbonate-aom"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-carbonate-electron-acceptors",
+      "@type": "pkg:Claim",
+      "schema:text": "Carbonate communities contained diverse methane-oxidizing archaeal groups and genomic potential for alternative sulfur- and nitrogen-linked metabolism.",
+      "pkg:subject": {
+        "@id": "src:gcs-carbonate-electron-acceptors"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-carbonate-electron-acceptors"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-cadiz-anme-acetogenesis",
+      "@type": "pkg:Claim",
+      "schema:text": "Methane-derived acetate was detected in the enrichment, with ANME-2a genomic and enzyme evidence for acetogenesis.",
+      "pkg:subject": {
+        "@id": "src:gcs-cadiz-anme-acetogenesis"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-cadiz-anme-acetogenesis"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-arctic-foraminifera-microhabitats",
+      "@type": "pkg:Claim",
+      "schema:text": "A newly detected monothalamid lineage was restricted to sampled microbial mats, while several other foraminifera occurred in both seep and reference habitats.",
+      "pkg:subject": {
+        "@id": "src:gcs-arctic-foraminifera-microhabitats"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-arctic-foraminifera-microhabitats"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-laptev-sediment-rate-profiles",
+      "@type": "pkg:Claim",
+      "schema:text": "Methane oxidation exceeded hydrogenotrophic methanogenesis in sampled sediments; ANME and sulfate-reducing lineages occurred in deeper seep horizons.",
+      "pkg:subject": {
+        "@id": "src:gcs-laptev-sediment-rate-profiles"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-laptev-sediment-rate-profiles"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-mediterranean-caspian-hydrocarbons",
+      "@type": "pkg:Claim",
+      "schema:text": "Hydrocarbon-degrading gene inventories differed between basins and with depth, with stronger aerobic potential near the Mediterranean surface and anaerobic potential in Caspian sediments.",
+      "pkg:subject": {
+        "@id": "src:gcs-mediterranean-caspian-hydrocarbons"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-mediterranean-caspian-hydrocarbons"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-scotian-seep-architecture",
+      "@type": "pkg:Claim",
+      "schema:text": "Porewater and lipid proxies resolved lateral and vertical metabolic zonation, including an ANME-associated region surrounded by sulfate-reduction signals.",
+      "pkg:subject": {
+        "@id": "src:gcs-scotian-seep-architecture"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-scotian-seep-architecture"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-svalbard-terrestrial-ice-interface",
+      "@type": "pkg:Claim",
+      "schema:text": "Sulfur-oxidizing chemolithoautotrophs dominated the water-contacting ice niche, while ANME and sulfate-reducer signals supported a proposed linked methane–sulfur cycle.",
+      "pkg:subject": {
+        "@id": "src:gcs-svalbard-terrestrial-ice-interface"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:terrestrial-methane-seep"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-svalbard-terrestrial-ice-interface"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-svalbard-methylobacter-isolate",
+      "@type": "pkg:Claim",
+      "schema:text": "A psychrophilic methane oxidizer, Methylobacter svalbardensis LS7-T4A, was isolated, with optimum growth at 13 °C and pH 8.0.",
+      "pkg:subject": {
+        "@id": "src:gcs-svalbard-methylobacter-isolate"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-svalbard-methylobacter-isolate"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-costa-rica-co-consortia",
+      "@type": "pkg:Claim",
+      "schema:text": "ANME–SRB consortia oxidized CO without methane; sulfate availability altered the electron sink, and single-cell results favored maintenance over active growth.",
+      "pkg:subject": {
+        "@id": "src:gcs-costa-rica-co-consortia"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-costa-rica-co-consortia"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-cadiz-deep-biofilm",
+      "@type": "pkg:Claim",
+      "schema:text": "A deeply buried SMTZ biofilm was dominated by ANME-1b with a less abundant Seep-SRB1c partner and few inferred heterotrophs.",
+      "pkg:subject": {
+        "@id": "src:gcs-cadiz-deep-biofilm"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-cadiz-deep-biofilm"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-kg-mussel-methanotrophy",
+      "@type": "pkg:Claim",
+      "schema:text": "Gill communities were methanotroph-rich, and methane consumption was observed in amended tissue incubations under the reported oxygen treatments.",
+      "pkg:subject": {
+        "@id": "src:gcs-kg-mussel-methanotrophy"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-kg-mussel-methanotrophy"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-pacific-sea-spider-nutrition",
+      "@type": "pkg:Claim",
+      "schema:text": "Methane- and methanol-derived carbon entered sea-spider tissues, alongside abundant methane/methanol-oxidizing surface bacteria.",
+      "pkg:subject": {
+        "@id": "src:gcs-pacific-sea-spider-nutrition"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-pacific-sea-spider-nutrition"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-global-genome-reference-catalog",
+      "@type": "pkg:Claim",
+      "schema:text": "The catalog contains about 147 million genes and 3,164 representative MAGs, including substantial unannotated gene space and uncultured species diversity.",
+      "pkg:subject": {
+        "@id": "src:gcs-global-genome-reference-catalog"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:genome-resolved-analysis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-global-genome-reference-catalog"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-global-nitrogen-loss-evidence",
+      "@type": "pkg:Claim",
+      "schema:text": "SCS incubations documented nitrogen-loss potential, while the global catalog extended the inferred taxonomic distribution of nitrogen-loss genes.",
+      "pkg:subject": {
+        "@id": "src:gcs-global-nitrogen-loss-evidence"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:denitrification"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-global-nitrogen-loss-evidence"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-global-anme-depth-niches",
+      "@type": "pkg:Claim",
+      "schema:text": "ANME-1 and ANME-2 had distinct depth-associated distributions and genomic inventories consistent with different ecological strategies.",
+      "pkg:subject": {
+        "@id": "src:gcs-global-anme-depth-niches"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "taxon:anme"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-global-anme-depth-niches"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-costa-rica-partner-diazotrophy",
+      "@type": "pkg:Claim",
+      "schema:text": "ANME-2b associated with SEEP-SRB1g, and nitrogen isotope incorporation differed between archaeal and bacterial partners among individual consortia.",
+      "pkg:subject": {
+        "@id": "src:gcs-costa-rica-partner-diazotrophy"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:nitrogen-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-costa-rica-partner-diazotrophy"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-pacific-seep-ecotones",
+      "@type": "pkg:Claim",
+      "schema:text": "Community composition shifted away from seeps, with a diverse transition zone, while non-seep communities also varied with water depth.",
+      "pkg:subject": {
+        "@id": "src:gcs-pacific-seep-ecotones"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:community-assembly"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-pacific-seep-ecotones"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-global-fungal-biogeography",
+      "@type": "pkg:Claim",
+      "schema:text": "Fungal inventories and inferred assembly varied by region and seep type, with many sequences lacking detailed taxonomic assignment.",
+      "pkg:subject": {
+        "@id": "src:gcs-global-fungal-biogeography"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-global-fungal-biogeography"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-cross-basin-microbial-prediction",
+      "@type": "pkg:Claim",
+      "schema:text": "Taxonomic predictors differed between basins; reciprocal prediction was less consistent than within-basin prediction, while combined selected features improved transfer.",
+      "pkg:subject": {
+        "@id": "src:gcs-cross-basin-microbial-prediction"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:community-assembly"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-cross-basin-microbial-prediction"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-okinawa-c-n-s-potential",
+      "@type": "pkg:Claim",
+      "schema:text": "Nitrogen/sulfur genes often peaked near the surface, while mcr, nif and sulfur-disproportionation genes were enriched in the SMTZ.",
+      "pkg:subject": {
+        "@id": "src:gcs-okinawa-c-n-s-potential"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-okinawa-c-n-s-potential"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-okinawa-anme-iron-gradients",
+      "@type": "pkg:Claim",
+      "schema:text": "ANME clades were vertically stratified and ANME-1a/mcrA patterns correlated with dissolved iron.",
+      "pkg:subject": {
+        "@id": "src:gcs-okinawa-anme-iron-gradients"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:metal-dependent-aom"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-okinawa-anme-iron-gradients"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-black-sea-sulfur-decoupling",
+      "@type": "pkg:Claim",
+      "schema:text": "Sulfate reduction rates greatly exceeded anaerobic methane oxidation, indicating additional contributors to sulfide production in the sampled sediments.",
+      "pkg:subject": {
+        "@id": "src:gcs-black-sea-sulfur-decoupling"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-black-sea-sulfur-decoupling"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-mediterranean-alkane-srb-rates",
+      "@type": "pkg:Claim",
+      "schema:text": "Distinct Desulfosarcinaceae clades assimilated alkane-derived carbon and differed in inferred cell-specific activity, supporting non-methane hydrocarbon-linked sulfate reduction.",
+      "pkg:subject": {
+        "@id": "src:gcs-mediterranean-alkane-srb-rates"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-mediterranean-alkane-srb-rates"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-arctic-methane-states",
+      "@type": "pkg:Claim",
+      "schema:text": "Methane states differed in ANME/SRB abundance and community diversity; modeled responses broadly tracked methane penetration into shallower sediment.",
+      "pkg:subject": {
+        "@id": "src:gcs-arctic-methane-states"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:community-assembly"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-arctic-methane-states"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-scotian-hydrocarbon-depth",
+      "@type": "pkg:Claim",
+      "schema:text": "Hydrocarbon-associated populations and metabolic inventories changed with depth, including in sulfate-depleted horizons.",
+      "pkg:subject": {
+        "@id": "src:gcs-scotian-hydrocarbon-depth"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-scotian-hydrocarbon-depth"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-gom-petroleum-genomes",
+      "@type": "pkg:Claim",
+      "schema:text": "Diverse uncultured lineages encoded anaerobic hydrocarbon, acetate and hydrogen metabolism consistent with petroleum-fed community networks.",
+      "pkg:subject": {
+        "@id": "src:gcs-gom-petroleum-genomes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-gom-petroleum-genomes"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-gom-seep-background-nitrogen",
+      "@type": "pkg:Claim",
+      "schema:text": "Seep sediments favored ANME/SRB and nitrogen-fixation genes, while reference sediments showed stronger anammox-associated genomic signals.",
+      "pkg:subject": {
+        "@id": "src:gcs-gom-seep-background-nitrogen"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:nitrogen-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-gom-seep-background-nitrogen"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-gom-aom-transcripts",
+      "@type": "pkg:Claim",
+      "schema:text": "ANME-1 and ANME-2 dominated different seep fluids, with different sulfur-related transcript patterns despite methane metabolism expression in both.",
+      "pkg:subject": {
+        "@id": "src:gcs-gom-aom-transcripts"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-gom-aom-transcripts"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-gom-alkane-symbionts",
+      "@type": "pkg:Claim",
+      "schema:text": "Symbiotic Cycloclasticus lacked the expected PAH-degradation repertoire and instead showed short-chain-alkane metabolic potential and expression.",
+      "pkg:subject": {
+        "@id": "src:gcs-gom-alkane-symbionts"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-gom-alkane-symbionts"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-gom-methanoliparia",
+      "@type": "pkg:Claim",
+      "schema:text": "Methanoliparia cells associated with oil droplets encoded canonical and divergent MCRs and pathways consistent with methanogenic long-chain-alkane metabolism.",
+      "pkg:subject": {
+        "@id": "src:gcs-gom-methanoliparia"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:methanogenesis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-gom-methanoliparia"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-antarctic-seep-succession",
+      "@type": "pkg:Claim",
+      "schema:text": "ANME were undetected in the first-year samples and detected at low relative abundance five years later, while methane still escaped from sediment.",
+      "pkg:subject": {
+        "@id": "src:gcs-antarctic-seep-succession"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:methane-biofilter"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-antarctic-seep-succession"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-cadiz-bacteria-protist-communities",
+      "@type": "pkg:Claim",
+      "schema:text": "More active sites differed in bacterial and eukaryotic composition, with enriched Methylococcales and lobose amoebae and correlated distributions.",
+      "pkg:subject": {
+        "@id": "src:gcs-cadiz-bacteria-protist-communities"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:community-assembly"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-cadiz-bacteria-protist-communities"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-congo-fan-interface-context",
+      "@type": "pkg:Claim",
+      "schema:text": "Diverse aerobic methanotrophs occurred in organic-rich active fan habitats; cells or pmoA were not detected in the disconnected older lobe.",
+      "pkg:subject": {
+        "@id": "src:gcs-congo-fan-interface-context"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-congo-fan-interface-context"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-arctic-tubeworm-symbionts",
+      "@type": "pkg:Claim",
+      "schema:text": "Sulfur-oxidizing bacterial sequences dominated the symbiont-bearing tissue, providing little support for a substantial methanotrophic symbiont population.",
+      "pkg:subject": {
+        "@id": "src:gcs-arctic-tubeworm-symbionts"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-arctic-tubeworm-symbionts"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-costa-rica-host-specificity",
+      "@type": "pkg:Claim",
+      "schema:text": "Co-occurring mussel species carried distinct dominant symbionts, while tubeworm species shared a dominant symbiont across sites.",
+      "pkg:subject": {
+        "@id": "src:gcs-costa-rica-host-specificity"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-costa-rica-host-specificity"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-mediterranean-mussel-handoffs",
+      "@type": "pkg:Claim",
+      "schema:text": "Secondary symbionts encoded and expressed complementary methylotrophic, macromolecule and nutrient-related functions, supporting proposed metabolic handoffs.",
+      "pkg:subject": {
+        "@id": "src:gcs-mediterranean-mussel-handoffs"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-mediterranean-mussel-handoffs"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-north-sea-tides-seasonality",
+      "@type": "pkg:Claim",
+      "schema:text": "Methane inventories and oxidation varied with tide; autumn mixing coincided with weaker methanotrophic activity and higher sea–air emissions.",
+      "pkg:subject": {
+        "@id": "src:gcs-north-sea-tides-seasonality"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-north-sea-tides-seasonality"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-svalbard-water-sediment-connectivity",
+      "@type": "pkg:Claim",
+      "schema:text": "Bottom-water methane and oxidation were higher than surface-water values, and microbial similarities supported possible exchange among sediment and water habitats and between seeps.",
+      "pkg:subject": {
+        "@id": "src:gcs-svalbard-water-sediment-connectivity"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-svalbard-water-sediment-connectivity"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-hikurangi-plume-dilution",
+      "@type": "pkg:Claim",
+      "schema:text": "Modeled bottom-water plumes dispersed laterally over long distances, with isotope and rate evidence indicating mixing dominated local dissolved-methane patterns.",
+      "pkg:subject": {
+        "@id": "src:gcs-hikurangi-plume-dilution"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-hikurangi-plume-dilution"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-norway-water-carbon-dom",
+      "@type": "pkg:Claim",
+      "schema:text": "Near-seep waters had higher dissolved inorganic carbon and modified DOM/isotope patterns, interpreted alongside hydrophysical and particle controls.",
+      "pkg:subject": {
+        "@id": "src:gcs-norway-water-carbon-dom"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-norway-water-carbon-dom"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-arctic-water-seasonal-retention",
+      "@type": "pkg:Claim",
+      "schema:text": "Methanotrophic activity was higher in summer water retained in depressions and lower during spring mixing, despite a relatively uniform marker-defined community.",
+      "pkg:subject": {
+        "@id": "src:gcs-arctic-water-seasonal-retention"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-arctic-water-seasonal-retention"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-global-seep-viral-reservoir",
+      "@type": "pkg:Claim",
+      "schema:text": "Seep sediment viruses showed substantial sequence novelty and site-specific patterns, with predicted microbial host links and potential metabolic contributions.",
+      "pkg:subject": {
+        "@id": "src:gcs-global-seep-viral-reservoir"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:viral-defense"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-global-seep-viral-reservoir"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-monterey-scarce-anme",
+      "@type": "pkg:Claim",
+      "schema:text": "ANME signals were unusually scarce; at Clam Field, low transcription, absent methane-dependent sulfate-reduction response and porewater profiles supported weak methanotrophy.",
+      "pkg:subject": {
+        "@id": "src:gcs-monterey-scarce-anme"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:methane-biofilter"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-monterey-scarce-anme"
       },
       "pkg:evidenceType": "reported",
       "pkg:confidence": "moderate"

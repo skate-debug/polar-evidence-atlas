@@ -108,7 +108,7 @@ def main() -> int:
         for region in source.get("regions", []):
             if region not in concept_ids:
                 errors.append(f"{sid}: unknown region {region}")
-        if source.get("collection") == "scs-cold-seeps":
+        if source.get("collection") in {"scs-cold-seeps", "global-cold-seeps"}:
             for field in ("compartments", "topics", "sites"):
                 allowed = {item["id"] for item in taxonomy[field]}
                 if not source.get(field) or not set(source[field]) <= allowed:
@@ -271,6 +271,37 @@ def main() -> int:
                 errors.append(f"SCS review conflicts with a curated profile: {doi}")
             if review.get("related_doi") and review["related_doi"] not in inventory_by_doi:
                 errors.append(f"SCS linked notice refers to unknown active DOI: {doi}")
+
+    global_path = DATA / "global_cold_seep_reviews.json"
+    if global_path.exists():
+        global_inventory = load("global_cold_seep_candidates.json")
+        global_archive = load("global_cold_seep_archive.json")
+        global_reviews = json.loads(global_path.read_text())["reviews"]
+        global_by_doi = {item["doi"]: item for item in global_archive["candidates"] + global_inventory["candidates"]}
+        if {item['doi'] for item in global_archive['candidates']} & {item['doi'] for item in global_inventory['candidates']}:
+            errors.append("International active/archive DOI sets overlap")
+        global_meta = load("global_cold_seep_metadata.json")["records"]
+        if duplicate_values([item["doi"] for item in global_reviews]) or duplicate_values([item["doi"] for item in global_inventory["candidates"]]):
+            errors.append("International seep inventory/reviews contain duplicate DOIs")
+        from update_global_cold_seep_candidates import in_window
+        for item in global_inventory["candidates"]:
+            if not in_window(item["publication_date"], global_inventory["since"], global_inventory["until"]):
+                errors.append(f"International DOI outside publication window: {item['doi']}")
+        for item in global_reviews:
+            doi = item["doi"]
+            if doi not in global_by_doi or item.get("candidate_id") != global_by_doi[doi]["id"]:
+                errors.append(f"International review join missing: {doi}")
+            if item.get("metadata_status") == "verified" and doi not in global_meta:
+                errors.append(f"International DOI metadata missing: {doi}")
+            if not item.get("reason") or not item.get("reason_zh"):
+                errors.append(f"International review lacks bilingual reason: {doi}")
+            if item["status"] == "curated":
+                matched = next((source for source in sources if source["doi"] == doi), {})
+                if item.get("source_id") != matched.get("id"):
+                    errors.append(f"International review does not reuse matching source: {doi}")
+                for field in ("compartments", "topics", "sites"):
+                    if not set(item.get(field, [])) <= {entry['id'] for entry in taxonomy[field]}:
+                        errors.append(f"International review {doi} has invalid {field}")
 
     candidates = candidates_payload.get("candidates", [])
     archived_candidates = candidate_archive.get("candidates", [])

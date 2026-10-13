@@ -1882,5 +1882,137 @@
     "type": "Habitat",
     "label": "Seep-associated wood and organic substrates",
     "description": "Wood or other organic material sampled in a seep setting, distinct from host tissue or sediment."
+  },
+  {
+    "id": "region:gulf-mexico-seeps",
+    "type": "Region",
+    "label": "Gulf of Mexico",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:northeast-pacific-seeps",
+    "type": "Region",
+    "label": "Northeast Pacific margins",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:costa-rica-seeps",
+    "type": "Region",
+    "label": "Costa Rica margin",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:mediterranean-seeps",
+    "type": "Region",
+    "label": "Mediterranean Sea",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:black-sea-seeps",
+    "type": "Region",
+    "label": "Black Sea and Marmara",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:caspian-seeps",
+    "type": "Region",
+    "label": "Caspian Sea",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:arctic-nordic-seeps",
+    "type": "Region",
+    "label": "Arctic and Nordic seep sites",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:north-sea-seeps",
+    "type": "Region",
+    "label": "North Sea",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:hikurangi-seeps",
+    "type": "Region",
+    "label": "Hikurangi margin, New Zealand",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:indian-ocean-seeps",
+    "type": "Region",
+    "label": "Indian Ocean seep margins",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:japan-pacific-seeps",
+    "type": "Region",
+    "label": "Japan and northwest Pacific margins",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:atlantic-seeps",
+    "type": "Region",
+    "label": "Atlantic margins",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:antarctic-seeps",
+    "type": "Region",
+    "label": "Antarctic seep sites",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "region:global-seeps",
+    "type": "Region",
+    "label": "Multiple ocean regions",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
+  },
+  {
+    "id": "habitat:terrestrial-methane-seep",
+    "type": "Habitat",
+    "label": "Terrestrial methane seep water and ice",
+    "description": "Groundwater or ice at a terrestrial methane seep; a contextual comparison to marine cold seeps."
+  },
+  {
+    "id": "method:machine-learning",
+    "type": "Method",
+    "label": "Machine-learning prediction and validation",
+    "description": "Statistical learning models with study-specific training and external validation."
+  },
+  {
+    "id": "method:fluorescence-in-situ-hybridization",
+    "type": "Method",
+    "label": "Fluorescence in situ hybridization (FISH)",
+    "description": "Probe-based visualization of identified cells or transcripts, including CARD- and HCR-FISH variants."
+  },
+  {
+    "id": "method:nanosims",
+    "type": "Method",
+    "label": "Nanoscale secondary ion mass spectrometry (NanoSIMS)",
+    "description": "Cell- or material-specific isotope measurements; incubation and labeling conditions remain source-specific."
+  },
+  {
+    "id": "method:lipid-biomarker-analysis",
+    "type": "Method",
+    "label": "Lipid biomarker analysis",
+    "description": "Lipid composition and isotope proxies for community or metabolic interpretation."
+  },
+  {
+    "id": "method:hydrodynamic-modeling",
+    "type": "Method",
+    "label": "Hydrodynamic transport modeling",
+    "description": "Physical transport and mixing simulations constrained by study-specific observations."
+  },
+  {
+    "id": "method:metabolomics",
+    "type": "Method",
+    "label": "Metabolomics",
+    "description": "Chemical profiling of community metabolites; detection does not by itself assign production to a specific organism."
+  },
+  {
+    "id": "method:metaproteomics",
+    "type": "Method",
+    "label": "Metaproteomics",
+    "description": "Community protein identification linked to genome or pathway annotations; expression and process rates remain distinct."
   }
 ]

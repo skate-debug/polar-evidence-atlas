@@ -146,6 +146,8 @@ def main() -> int:
     taxonomy = load(ROOT / "config" / "collections.json", {})
     seep_inventory = load(public_fallback("cold_seep_candidates.json"), {"candidates": []})
     seep_reviews = {item["doi"]: item for item in load(DATA / "cold_seep_reviews.json", {"reviews": []})["reviews"]}
+    global_inventory = load(public_fallback("global_cold_seep_candidates.json"), {"candidates": []})
+    global_reviews = {item["doi"]: item for item in load(DATA / "global_cold_seep_reviews.json", {"reviews": []})["reviews"]}
     current_candidate_ids = {candidate.get("id") for candidate in candidates_payload.get("candidates", [])}
     current_reviews = [
         review for review in candidate_reviews.get("reviews", [])
@@ -174,11 +176,21 @@ def main() -> int:
             raise SystemExit("Unknown article citation key(s): " + ", ".join(unknown))
 
     enriched_sources = []
+    concept_by_id = {concept["id"]: concept for concept in concepts}
     bib_records = []
     for source in sources:
         item = dict(source)
         item["collection"] = source.get("collection", "polar")
+        item["collections"] = [item["collection"]]
+        comparison = global_reviews.get(source["doi"], {})
+        if comparison.get("status") == "curated":
+            if "global-cold-seeps" not in item["collections"]:
+                item["collections"].append("global-cold-seeps")
+            item["collection_tags"] = {"global-cold-seeps": {key: comparison.get(key, []) for key in ("compartments", "topics", "sites")}}
+            item["comparison"] = {key: comparison.get(key, "") for key in ("reason", "reason_zh", "comparison_role")}
         item["geographic_scopes"] = source["poles"] or (["South China Sea"] if item["collection"] == "scs-cold-seeps" else ["Global"])
+        if item["collection"] == "global-cold-seeps":
+            item["geographic_scopes"] = [concept_by_id[region]["label"] for region in source["regions"] if region != "region:global-seeps"] or ["Global"]
         if item["collection"] == "scs-cold-seeps" and "comparative" in source.get("sites", []):
             item["geographic_scopes"].append("Global")
         record = metadata_records.get(source["doi"].lower(), {})
@@ -260,6 +272,11 @@ def main() -> int:
     year_counts = Counter(str(source["year"]) for source in sources)
     evidence_counts = Counter(claim["evidence_type"] for claim in claims)
     generated_at = datetime.now(timezone.utc).isoformat()
+    def library(inventory, reviews):
+        return {"since": inventory.get("since", ""), "until": inventory.get("until", ""), "generated_at": inventory.get("generated_at", ""),
+            "review_counts": dict(Counter(reviews.get(item["doi"], {}).get("status", "awaiting_source_review") for item in inventory.get("candidates", []))),
+            "papers": [{**{key: item.get(key, "") for key in ("id", "title", "authors", "journal", "year", "publication_date", "doi", "pmcid", "url", "compartments", "topics", "sites", "priority", "classification_basis", "publication_stage")},
+                "review": reviews.get(item["doi"], {"status": "awaiting_source_review"})} for item in inventory.get("candidates", [])]}
     payload = {
         "generated_at": generated_at,
         "sources": enriched_sources,
@@ -271,6 +288,7 @@ def main() -> int:
         "edges": edges,
         "i18n": translations,
         "taxonomy": taxonomy,
+        "cold_seep_libraries": {"scs-cold-seeps": library(seep_inventory, seep_reviews), "global-cold-seeps": library(global_inventory, global_reviews)},
         "cold_seep_library": {
             "since": seep_inventory.get("since", ""),
             "until": seep_inventory.get("until", ""),
@@ -295,6 +313,7 @@ def main() -> int:
             "since": candidates_payload.get("since", ""),
         },
         "stats": {
+            "discovery_records": len({item.get("doi") or item.get("id") for inventory in (candidates_payload, seep_inventory, global_inventory) for item in inventory.get("candidates", [])}),
             "sources": len(sources),
             "claims": len(claims),
             "concepts": len(concepts),

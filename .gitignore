@@ -15,6 +15,9 @@ __pycache__/
 /data/metadata.json
 /data/cold_seep_candidates.json
 /data/cold_seep_metadata.json
+/data/global_cold_seep_candidates.json
+/data/global_cold_seep_metadata.json
+/data/global_cold_seep_archive.json
 /.research-cache/
 
 # Local draft retained outside the public release

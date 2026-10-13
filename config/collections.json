@@ -1,7 +1,8 @@
 {
   "collections": [
     {"id": "polar", "label": "Polar systems", "zh": "极地系统", "description": "Arctic and Antarctic biology and Earth systems"},
-    {"id": "scs-cold-seeps", "label": "South China Sea cold seeps", "zh": "南海冷泉", "description": "Water, sediments, interfaces, and microbial symbioses; rolling ten-year publication window"}
+    {"id": "scs-cold-seeps", "label": "South China Sea cold seeps", "zh": "南海冷泉", "description": "Water, sediments, interfaces, and microbial symbioses; rolling ten-year publication window"},
+    {"id": "global-cold-seeps", "label": "Cold seeps across regions", "zh": "全球冷泉比较", "description": "International seep studies and explicit comparisons for manuscript discussion; rolling ten-year window"}
   ],
   "compartments": [
     {"id": "water-column", "label": "Water column", "zh": "水体"},
@@ -11,7 +12,8 @@
     {"id": "symbiosis", "label": "Host-associated microbes", "zh": "宿主相关微生物"},
     {"id": "carbonate", "label": "Carbonates and microbial mats", "zh": "碳酸盐与微生物席"},
     {"id": "unspecified", "label": "Sampling medium not reported", "zh": "采样介质未说明"},
-    {"id": "organic-substrate", "label": "Wood and organic substrates", "zh": "沉木与有机基质"}
+    {"id": "organic-substrate", "label": "Wood and organic substrates", "zh": "沉木与有机基质"},
+    {"id": "terrestrial-seep", "label": "Terrestrial seep water and ice", "zh": "陆地渗漏水与冰"}
   ],
   "topics": [
     {"id": "community", "label": "Community diversity and assembly", "zh": "群落多样性与组装"},
@@ -40,6 +42,21 @@
     {"id": "lingshui", "label": "Lingshui", "zh": "陵水冷泉"},
     {"id": "newborn", "label": "Newborn seep", "zh": "新生冷泉"},
     {"id": "regional", "label": "Other or regional SCS sites", "zh": "其他或南海区域站位"},
-    {"id": "comparative", "label": "Cross-region comparison", "zh": "跨区域比较"}
+    {"id": "comparative", "label": "Cross-region comparison", "zh": "跨区域比较"},
+    {"id": "gulf-mexico", "label": "Gulf of Mexico", "zh": "墨西哥湾", "concept_id": "region:gulf-mexico-seeps"},
+    {"id": "northeast-pacific", "label": "Northeast Pacific margins", "zh": "东北太平洋陆缘", "concept_id": "region:northeast-pacific-seeps"},
+    {"id": "costa-rica", "label": "Costa Rica margin", "zh": "哥斯达黎加陆缘", "concept_id": "region:costa-rica-seeps"},
+    {"id": "mediterranean", "label": "Mediterranean Sea", "zh": "地中海", "concept_id": "region:mediterranean-seeps"},
+    {"id": "black-sea", "label": "Black Sea and Marmara", "zh": "黑海与马尔马拉海", "concept_id": "region:black-sea-seeps"},
+    {"id": "caspian", "label": "Caspian Sea", "zh": "里海", "concept_id": "region:caspian-seeps"},
+    {"id": "arctic-seeps", "label": "Arctic and Nordic seep sites", "zh": "北极与北欧冷泉", "concept_id": "region:arctic-nordic-seeps"},
+    {"id": "north-sea", "label": "North Sea", "zh": "北海", "concept_id": "region:north-sea-seeps"},
+    {"id": "hikurangi", "label": "Hikurangi margin, New Zealand", "zh": "新西兰希库朗伊陆缘", "concept_id": "region:hikurangi-seeps"},
+    {"id": "indian-ocean-seeps", "label": "Indian Ocean seep margins", "zh": "印度洋冷泉陆缘", "concept_id": "region:indian-ocean-seeps"},
+    {"id": "japan-seeps", "label": "Japan and northwest Pacific margins", "zh": "日本与西北太平洋陆缘", "concept_id": "region:japan-pacific-seeps"},
+    {"id": "atlantic-seeps", "label": "Atlantic margins", "zh": "大西洋陆缘", "concept_id": "region:atlantic-seeps"},
+    {"id": "antarctic-seeps", "label": "Antarctic seep sites", "zh": "南极冷泉", "concept_id": "region:antarctic-seeps"},
+    {"id": "global-comparison", "label": "Multiple ocean regions", "zh": "多海区比较", "concept_id": "region:global-seeps"},
+    {"id": "global-unspecified", "label": "International site to be checked", "zh": "国际站位待核查", "concept_id": "region:global-seeps"}
   ]
 }

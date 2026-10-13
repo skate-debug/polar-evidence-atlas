@@ -1,0 +1,6 @@
+{
+  "generated_at": "2026-10-13T14:41:24.099083+00:00",
+  "policy": "Records aging out of the rolling window retain source and review joins; no scientific claim is removed by discovery",
+  "candidates": [],
+  "public_snapshot_policy": "Discovery metadata and review joins only; publisher-supplied abstracts and full text are omitted."
+}

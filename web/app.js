@@ -9,6 +9,7 @@
   const byId = new Map([...data.concepts, ...data.nodes].map(item => [item.id, item]));
   const sourceById = new Map(data.sources.map(item => [item.id, item]));
   const sourceScopes = source => source.geographic_scopes || source.poles || [];
+  const sourceTags = (source, field) => source.collection_tags?.[els.collectionFilter.value]?.[field] || source[field] || [];
   const taxonomyLabel = (group, id) => {
     const entry = (data.taxonomy?.[group] || []).find(item => item.id === id);
     return entry ? (isChinese() ? entry.zh : entry.label) : id;
@@ -35,7 +36,7 @@
     "detailBody", "freshness", "toast", "brandHome", "metaDescription", "activeFilterBar",
     "activeFilterChips", "clearAllFilters", "openCommand", "commandScrim", "commandDialog",
     "commandInput", "commandResults", "commandPreview",
-    "librarySearch", "libraryCompartment", "libraryTopic", "librarySite", "libraryPriority", "libraryReview", "libraryCount", "libraryRows", "libraryWindow",
+    "libraryCollection", "librarySearch", "libraryCompartment", "libraryTopic", "librarySite", "libraryPriority", "libraryReview", "libraryCount", "libraryRows", "libraryWindow", "libraryTitle", "libraryDownload", "libraryReviewExport", "libraryProfiles", "libraryRefs",
   ];
   const els = Object.fromEntries(ids.map(id => [id, document.getElementById(id)]));
   const themeButtons = [...document.querySelectorAll("[data-theme-choice]")];
@@ -59,6 +60,10 @@
   }
 
   function mappedLabel(group, value) {
+    if (isChinese() && group === "poles") {
+      const region = data.concepts.find(item => item.type === "Region" && item.label === value);
+      if (region) return i18n.concepts?.[region.id]?.label || value;
+    }
     if (!isChinese()) {
       if (["evidence", "confidence"].includes(group)) return String(value).replace(/^./, char => char.toUpperCase());
       if (group === "predicates") return String(value).replaceAll("_", " ");
@@ -209,6 +214,7 @@
       replaceOptions(control, [[t(allKey), ""], ...(data.taxonomy?.[group] || []).map(item => [taxonomyLabel(group, item.id), item.id])]);
     }
     replaceOptions(els.libraryPriority, [[t("all_priorities"), ""], [t("microbial_priority"), "microbial"], [t("context_priority"), "context"]]);
+    replaceOptions(els.libraryCollection, ["scs-cold-seeps", "global-cold-seeps"].map(id => [taxonomyLabel("collections", id), id]));
     replaceOptions(els.libraryReview, [[t("all_review_statuses"), ""], ...["curated", "awaiting_source_review", "awaiting_source_text", "screened_context", "excluded", "linked_notice", "version_check"].map(status => [t("review_" + status), status])]);
     replaceOptions(els.domainFilter, [
       [t("all_areas"), ""],
@@ -238,10 +244,10 @@
       if (query && !sourceText(source).includes(query)) return false;
       if (domain && !source.domains.includes(domain)) return false;
       if (pole && !sourceScopes(source).includes(pole)) return false;
-      if (els.collectionFilter.value && source.collection !== els.collectionFilter.value) return false;
-      if (els.compartmentFilter.value && !(source.compartments || []).includes(els.compartmentFilter.value)) return false;
-      if (els.topicFilter.value && !(source.topics || []).includes(els.topicFilter.value)) return false;
-      if (els.siteFilter.value && !(source.sites || []).includes(els.siteFilter.value)) return false;
+      if (els.collectionFilter.value && !(source.collections || [source.collection]).includes(els.collectionFilter.value)) return false;
+      if (els.compartmentFilter.value && !sourceTags(source, "compartments").includes(els.compartmentFilter.value)) return false;
+      if (els.topicFilter.value && !sourceTags(source, "topics").includes(els.topicFilter.value)) return false;
+      if (els.siteFilter.value && !sourceTags(source, "sites").includes(els.siteFilter.value)) return false;
       if (year && String(source.year) !== year) return false;
       if (evidence && !(claimsBySource.get(source.id) || []).some(claim => claim.evidence_type === evidence)) return false;
       if (state.conceptFocus && !sourceConcepts(source).includes(state.conceptFocus)) return false;
@@ -256,7 +262,7 @@
     els.statRecent.textContent = sources.filter(source => source.year >= 2024).length;
     const seepCount = data.cold_seep_library?.papers?.length || 0;
     const polarCount = data.candidate_summary.count || 0;
-    els.statCandidates.textContent = els.collectionFilter.value === "scs-cold-seeps" ? seepCount : els.collectionFilter.value === "polar" ? polarCount : seepCount + polarCount;
+    els.statCandidates.textContent = data.cold_seep_libraries?.[els.collectionFilter.value]?.papers.length ?? (els.collectionFilter.value === "polar" ? polarCount : data.stats.discovery_records ?? seepCount + polarCount);
   }
 
   function domainClass(domain) {
@@ -578,7 +584,8 @@
     els.detailBody.innerHTML = `<h2 class="detail-title">${escapeHTML(view.title)}</h2>${originalTitle}
       <p class="citation" lang="en">${escapeHTML(citationText(source))}</p>${translationNote}
       <div class="tags">${source.domains.map(domain => `<span class="tag ${domainClass(domain)}">${escapeHTML(mappedLabel("domains", domain))}</span>`).join("")}${source.poles.map(pole => `<span class="tag">${escapeHTML(mappedLabel("poles", pole))}</span>`).join("")}</div>
-      ${source.collection === "scs-cold-seeps" ? `<dl class="definition-list"><dt>${escapeHTML(t("compartment"))}</dt><dd>${source.compartments.map(id => escapeHTML(taxonomyLabel("compartments", id))).join(" · ")}</dd><dt>${escapeHTML(t("topic"))}</dt><dd>${source.topics.map(id => escapeHTML(taxonomyLabel("topics", id))).join(" · ")}</dd><dt>${escapeHTML(t("site"))}</dt><dd>${source.sites.map(id => escapeHTML(taxonomyLabel("sites", id))).join(" · ")}</dd></dl>` : ""}
+      ${source.collection?.includes("cold-seeps") ? `<dl class="definition-list"><dt>${escapeHTML(t("compartment"))}</dt><dd>${sourceTags(source, "compartments").map(id => escapeHTML(taxonomyLabel("compartments", id))).join(" · ")}</dd><dt>${escapeHTML(t("topic"))}</dt><dd>${sourceTags(source, "topics").map(id => escapeHTML(taxonomyLabel("topics", id))).join(" · ")}</dd><dt>${escapeHTML(t("site"))}</dt><dd>${sourceTags(source, "sites").map(id => escapeHTML(taxonomyLabel("sites", id))).join(" · ")}</dd></dl>` : ""}
+      ${source.comparison ? `<h3>${escapeHTML(t("discussion_use"))}</h3><p>${escapeHTML(isChinese() ? source.comparison.reason_zh : source.comparison.reason)}</p>` : ""}
       <div class="detail-actions"><a class="link-button" href="https://doi.org/${encodeURIComponent(source.doi)}" target="_blank" rel="noopener">${escapeHTML(t("open_doi"))}</a><button class="button" id="copyKey" type="button">${escapeHTML(t("copy_key"))}</button><button class="button" id="copyBib" type="button">${escapeHTML(t("copy_bibtex"))}</button></div>
       <h3>${escapeHTML(t("study_design"))}</h3><dl class="definition-list">
         <dt>${escapeHTML(t("type"))}</dt><dd>${escapeHTML(view.studyType)}</dd>
@@ -669,7 +676,14 @@
   }
 
   function renderLibrary() {
-    const library = data.cold_seep_library || {papers: []};
+    const collection = els.libraryCollection.value || "scs-cold-seeps";
+    const library = data.cold_seep_libraries?.[collection] || data.cold_seep_library || {papers: []};
+    const prefix = collection === "global-cold-seeps" ? "global-cold-seep" : "cold-seep";
+    els.libraryTitle.textContent = taxonomyLabel("collections", collection);
+    els.libraryDownload.href = `${prefix}-literature.csv`;
+    els.libraryReviewExport.href = `${prefix}-review-summary.md`;
+    els.libraryProfiles.href = `${prefix}-evidence-profiles.md`;
+    els.libraryRefs.href = `../references/${prefix}-curated-apa7.md`;
     const query = els.librarySearch.value.trim().toLowerCase();
     const papers = library.papers.filter(paper => {
       if (els.libraryCompartment.value && !paper.compartments.includes(els.libraryCompartment.value)) return false;
@@ -683,8 +697,8 @@
     els.libraryWindow.textContent = `${library.since} → ${library.until}`;
     els.libraryCount.textContent = t("library_count", {count: papers.length, total: library.papers.length});
     els.libraryRows.innerHTML = papers.length ? papers.map(paper => {
-      const curated = data.sources.find(source => source.doi.toLowerCase() === paper.doi.toLowerCase());
       const review = paper.review || {status: "awaiting_source_review"};
+      const curated = review.status === "curated" ? data.sources.find(source => source.doi.toLowerCase() === paper.doi.toLowerCase()) : null;
       const reason = isChinese() ? review.reason_zh || "" : review.reason || "";
       const access = curated ? `<div class="library-meta">${escapeHTML(t((review.access_level || curated.curation.access_level || "").includes("full_text") ? "access_full_text_extracts" : "access_abstract"))}</div>` : "";
       const reviewContent = curated ? `<button class="button" data-library-source="${escapeHTML(curated.id)}">${escapeHTML(t("view_evidence"))}</button>${access}` : `<span class="library-pending">${escapeHTML(t("review_" + review.status))}</span>${reason ? `<div class="library-meta">${escapeHTML(reason)}</div>` : ""}`;
@@ -799,10 +813,11 @@
   [els.searchInput, els.domainFilter, els.poleFilter, els.collectionFilter, els.compartmentFilter, els.topicFilter, els.siteFilter, els.yearFilter, els.evidenceFilter].forEach(control => {
     control.addEventListener(control === els.searchInput ? "input" : "change", () => {
       state.selectedSource = null;
+      if (control === els.collectionFilter && ["scs-cold-seeps", "global-cold-seeps"].includes(control.value)) els.libraryCollection.value = control.value;
       render();
     });
   });
-  [els.librarySearch, els.libraryCompartment, els.libraryTopic, els.librarySite, els.libraryPriority, els.libraryReview].forEach(control => {
+  [els.libraryCollection, els.librarySearch, els.libraryCompartment, els.libraryTopic, els.librarySite, els.libraryPriority, els.libraryReview].forEach(control => {
     control.addEventListener(control === els.librarySearch ? "input" : "change", renderLibrary);
   });
   els.resetFilters.addEventListener("click", reset);
@@ -841,6 +856,7 @@
   const startupSource = startupParameters.get("source");
   const startupCollection = startupParameters.get("collection");
   if ((data.taxonomy?.collections || []).some(item => item.id === startupCollection)) els.collectionFilter.value = startupCollection;
+  if (["scs-cold-seeps", "global-cold-seeps"].includes(startupCollection)) els.libraryCollection.value = startupCollection;
   if (startupSource && sourceById.has(startupSource)) state.selectedSource = startupSource;
   render();
   if (startupParameters.get("command") === "1") {
