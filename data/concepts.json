@@ -1846,5 +1846,41 @@
     "type": "Method",
     "label": "In situ transplant experiment",
     "description": "Transplantation within the seabed environment to compare ecological responses."
+  },
+  {
+    "id": "method:isolate-genome-sequencing",
+    "type": "Method",
+    "label": "Isolate genome sequencing",
+    "description": "Genome sequencing of a cultured microbial isolate."
+  },
+  {
+    "id": "method:host-transcriptomics",
+    "type": "Method",
+    "label": "Host transcriptomics",
+    "description": "RNA profiling of the animal host; distinct from environmental metatranscriptomics."
+  },
+  {
+    "id": "method:natural-product-analysis",
+    "type": "Method",
+    "label": "Natural-product structural analysis",
+    "description": "Isolation and chemical characterization of microbial metabolites."
+  },
+  {
+    "id": "method:biochemical-assay",
+    "type": "Method",
+    "label": "Biochemical and bioactivity assays",
+    "description": "Defined-substrate, enzyme, or cell-assay measurements; scope follows the cited experiment."
+  },
+  {
+    "id": "process:methanogenesis",
+    "type": "Process",
+    "label": "Methanogenesis",
+    "description": "Microbial methane production; substrate pathways and experimental support remain source-specific."
+  },
+  {
+    "id": "habitat:seep-organic-substrate",
+    "type": "Habitat",
+    "label": "Seep-associated wood and organic substrates",
+    "description": "Wood or other organic material sampled in a seep setting, distinct from host tissue or sediment."
   }
 ]

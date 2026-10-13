@@ -42,3 +42,21 @@ SCS records use `collection=scs-cold-seeps`, an empty `poles` array, and explici
 region concept IDs. Choose `compartments`, `topics`, and `sites` from
 `config/collections.json`. Keep first-online discovery dates separate from
 version-of-record citation years, and identify preprints or corrected versions.
+
+For the SCS queue, use `config/cold_seep_reviewed.json` for explicitly inspected
+bilingual evidence packets and `config/cold_seep_review_decisions.json` for
+unpromoted decisions. Run `scripts/curate_cold_seep_reviews.py` to materialize
+them, then `scripts/update_cold_seep_candidates.py --reclassify`. Use the former
+script's `--refresh` only to intentionally revise existing packet-derived
+profiles. Retrieval scripts require a local source cache; public builds use the
+abstract-free snapshots and do not perform editorial review.
+
+Record abstract-only access honestly. For full-text excerpts, name the sections
+actually read; do not imply the entire paper or supplements were checked.
+Retain notice links and unresolved preprint versions in the review ledger.
+The generated review CSV and Markdown queue include the next action for each
+unpromoted record.
+
+南海冷泉证据包须同时填写准确的中英文提取内容，注明实际核查材料与证据位置。
+仅阅读摘要时应明确标注；核查相关全文段落不代表已检查全部图表或补充材料。
+未建档记录须保留处理原因和下一步工作，勘误及待核查的预印本版本也应可追溯。

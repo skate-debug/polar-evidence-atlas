@@ -9,7 +9,9 @@
     {"id": "sediment", "label": "Sediments and porewater", "zh": "沉积物与孔隙水"},
     {"id": "interface", "label": "Sediment–water interface", "zh": "沉积物–水界面"},
     {"id": "symbiosis", "label": "Host-associated microbes", "zh": "宿主相关微生物"},
-    {"id": "carbonate", "label": "Carbonates and microbial mats", "zh": "碳酸盐与微生物席"}
+    {"id": "carbonate", "label": "Carbonates and microbial mats", "zh": "碳酸盐与微生物席"},
+    {"id": "unspecified", "label": "Sampling medium not reported", "zh": "采样介质未说明"},
+    {"id": "organic-substrate", "label": "Wood and organic substrates", "zh": "沉木与有机基质"}
   ],
   "topics": [
     {"id": "community", "label": "Community diversity and assembly", "zh": "群落多样性与组装"},

@@ -245,6 +245,32 @@ def main() -> int:
     curated_seep_dois = {source["doi"] for source in sources if source.get("collection") == "scs-cold-seeps"}
     if not curated_seep_dois <= {item.get("doi") for item in seep_records}:
         errors.append("SCS inventory does not contain every curated SCS DOI")
+    seep_review_path = DATA / "cold_seep_reviews.json"
+    if seep_review_path.exists():
+        seep_reviews = json.loads(seep_review_path.read_text(encoding="utf-8"))["reviews"]
+        if duplicate_values([item["doi"] for item in seep_reviews]):
+            errors.append("SCS review ledger contains duplicate DOIs")
+        inventory_by_doi = {item["doi"]: item for item in seep_records}
+        sources_by_doi = {item["doi"]: item for item in sources}
+        allowed_seep_statuses = {"curated", "screened_context", "awaiting_source_text", "excluded", "linked_notice", "version_check"}
+        for review in seep_reviews:
+            doi = review["doi"]
+            if doi not in inventory_by_doi:
+                errors.append(f"SCS review DOI missing from active inventory: {doi}")
+                continue
+            if review.get("candidate_id") != inventory_by_doi[doi]["id"]:
+                errors.append(f"SCS review candidate join differs: {doi}")
+            if review.get("status") not in allowed_seep_statuses:
+                errors.append(f"SCS review status invalid: {doi}")
+            if not review.get("reason") or not review.get("reason_zh") or not review.get("access_level"):
+                errors.append(f"SCS review lacks bilingual rationale/access level: {doi}")
+            if review["status"] == "curated":
+                if doi not in sources_by_doi or review.get("source_id") != sources_by_doi[doi]["id"]:
+                    errors.append(f"SCS curated review lacks matching source: {doi}")
+            elif doi in curated_seep_dois:
+                errors.append(f"SCS review conflicts with a curated profile: {doi}")
+            if review.get("related_doi") and review["related_doi"] not in inventory_by_doi:
+                errors.append(f"SCS linked notice refers to unknown active DOI: {doi}")
 
     candidates = candidates_payload.get("candidates", [])
     archived_candidates = candidate_archive.get("candidates", [])
@@ -355,6 +381,8 @@ def main() -> int:
     )
     review_counts = Counter(review.get("decision") for review in reviews if review.get("candidate_id") in candidate_ids)
     print("Candidate review: " + ", ".join(f"{key}={value}" for key, value in sorted(review_counts.items())))
+    if seep_review_path.exists():
+        print("SCS source review: " + ", ".join(f"{key}={value}" for key, value in sorted(Counter(item["status"] for item in seep_reviews).items())))
     verification_counts = Counter(record.get("verification_stage") for record in verification_records)
     print("Candidate verification: " + ", ".join(f"{key}={value}" for key, value in sorted(verification_counts.items())))
     print("Domains: " + ", ".join(f"{key}={value}" for key, value in sorted(domains.items())))

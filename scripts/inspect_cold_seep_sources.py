@@ -16,6 +16,7 @@ API = "https://www.ebi.ac.uk/europepmc/webservices/rest"
 
 def fetch(doi, metadata_only=False):
     path = CACHE / (re.sub(r"[^a-z0-9]+", "-", doi.lower()) + ".json")
+    previous = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
     if metadata_only:
         payload = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {"doi": doi, "record": {}, "sections": []}
         request = urllib.request.Request(f"https://doi.org/{doi}", headers={"Accept": "application/vnd.citationstyles.csl+json", "User-Agent": "EarthOceanEvidenceAtlas/2.0"})
@@ -39,7 +40,7 @@ def fetch(doi, metadata_only=False):
                     sections.append({"section": title, "paragraphs": paragraphs})
         except Exception as exc:
             record["full_text_error"] = str(exc)
-    payload = {"doi": doi, "record": record, "sections": sections}
+    payload = {**previous, "doi": doi, "record": record or previous.get("record", {}), "sections": sections or previous.get("sections", [])}
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return doi, record.get("title", ""), len(sections)
 
@@ -49,10 +50,19 @@ def main():
     parser.add_argument("doi", nargs="*")
     parser.add_argument("--list", dest="list_path")
     parser.add_argument("--metadata", action="store_true")
+    parser.add_argument("--pending", action="store_true", help="fetch source material for every uncurated inventory DOI")
+    parser.add_argument("--skip-cached", action="store_true")
     args = parser.parse_args()
     dois = args.doi
     if args.list_path:
         dois += json.loads(Path(args.list_path).read_text(encoding="utf-8"))
+    if args.pending:
+        curated = {item["doi"] for item in json.loads((ROOT / "data/sources.json").read_text(encoding="utf-8"))}
+        inventory = json.loads((ROOT / "data/cold_seep_candidates.json").read_text(encoding="utf-8"))
+        dois += [item["doi"] for item in inventory["candidates"] if item.get("doi") and item["doi"] not in curated]
+    dois = list(dict.fromkeys(dois))
+    if args.skip_cached:
+        dois = [doi for doi in dois if not (CACHE / (re.sub(r"[^a-z0-9]+", "-", doi.lower()) + ".json")).exists()]
     CACHE.mkdir(exist_ok=True)
     with ThreadPoolExecutor(max_workers=5) as pool:
         futures = {pool.submit(fetch, doi, args.metadata): doi for doi in dois}

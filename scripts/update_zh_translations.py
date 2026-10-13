@@ -294,6 +294,11 @@ UI_EN.update({
     "published": "First publication", "paper": "Paper", "source_review": "Source review", "review_pending": "Source review pending", "view_evidence": "View evidence",
     "library_count": "{count} of {total} inventory records", "library_empty": "No inventory records match these filters.",
     "download_inventory": "Download inventory ↓", "apa_references": "APA 7 references ↗", "preprint": "Preprint",
+    "all_review_statuses": "All review stages", "review_curated": "Curated evidence", "review_awaiting_source_review": "Awaiting source review",
+    "review_awaiting_source_text": "Source text needed", "review_screened_context": "Screened: context", "review_excluded": "Excluded after screening", "review_linked_notice": "Linked correction notice",
+    "access_full_text_extracts": "Full-text excerpts checked", "access_abstract": "Abstract-scoped evidence",
+    "review_version_check": "Check publication version",
+    "review_ledger": "Review ledger ↗", "profile_export": "Evidence profiles ↗",
 })
 UI_ZH.update({
     "site_title": "地球与海洋证据图谱", "brand_name": "地球与海洋证据图谱",
@@ -314,6 +319,11 @@ UI_ZH.update({
     "published": "首次发表", "paper": "论文", "source_review": "原文核查", "review_pending": "待核查原文", "view_evidence": "查看证据档案",
     "library_count": "符合条件：{count} 条，共 {total} 条", "library_empty": "没有符合筛选条件的目录记录。",
     "download_inventory": "下载文献目录 ↓", "apa_references": "APA 7 参考文献 ↗", "preprint": "预印本",
+    "all_review_statuses": "全部核查阶段", "review_curated": "已建立证据档案", "review_awaiting_source_review": "待核查原文",
+    "review_awaiting_source_text": "需获取支持性原文", "review_screened_context": "已初筛：背景文献", "review_excluded": "初筛后排除", "review_linked_notice": "已关联勘误",
+    "access_full_text_extracts": "已核查相关全文段落", "access_abstract": "证据范围限于摘要",
+    "review_version_check": "需核查发表版本",
+    "review_ledger": "核查记录 ↗", "profile_export": "证据档案导出 ↗",
 })
 
 LABELS_ZH = {
@@ -327,6 +337,8 @@ LABELS_ZH = {
         "Cold-seep prokaryotes": "冷泉原核生物",
         "Cold-seep viruses": "冷泉病毒",
         "Cold-seep microeukaryotes": "冷泉微型真核生物",
+        "Cold-seep eukaryotes": "冷泉真核生物",
+        "Cold-seep microbial resources": "冷泉微生物资源",
         "Cold-seep symbioses": "冷泉共生系统",
         "Cold-seep biogeochemistry": "冷泉生物地球化学",
     },

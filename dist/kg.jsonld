@@ -1964,6 +1964,42 @@
       "schema:description": "Transplantation within the seabed environment to compare ecological responses."
     },
     {
+      "@id": "method:isolate-genome-sequencing",
+      "@type": "pkg:Method",
+      "rdfs:label": "Isolate genome sequencing",
+      "schema:description": "Genome sequencing of a cultured microbial isolate."
+    },
+    {
+      "@id": "method:host-transcriptomics",
+      "@type": "pkg:Method",
+      "rdfs:label": "Host transcriptomics",
+      "schema:description": "RNA profiling of the animal host; distinct from environmental metatranscriptomics."
+    },
+    {
+      "@id": "method:natural-product-analysis",
+      "@type": "pkg:Method",
+      "rdfs:label": "Natural-product structural analysis",
+      "schema:description": "Isolation and chemical characterization of microbial metabolites."
+    },
+    {
+      "@id": "method:biochemical-assay",
+      "@type": "pkg:Method",
+      "rdfs:label": "Biochemical and bioactivity assays",
+      "schema:description": "Defined-substrate, enzyme, or cell-assay measurements; scope follows the cited experiment."
+    },
+    {
+      "@id": "process:methanogenesis",
+      "@type": "pkg:Process",
+      "rdfs:label": "Methanogenesis",
+      "schema:description": "Microbial methane production; substrate pathways and experimental support remain source-specific."
+    },
+    {
+      "@id": "habitat:seep-organic-substrate",
+      "@type": "pkg:Habitat",
+      "rdfs:label": "Seep-associated wood and organic substrates",
+      "schema:description": "Wood or other organic material sampled in a seep setting, distinct from host tissue or sediment."
+    },
+    {
       "@id": "domain:antarctic-prokaryotes",
       "@type": "pkg:Domain",
       "rdfs:label": "Antarctic prokaryotes",
@@ -1992,6 +2028,18 @@
       "@type": "pkg:Domain",
       "rdfs:label": "Cold-seep biogeochemistry",
       "schema:description": "Curated literature area: Cold-seep biogeochemistry."
+    },
+    {
+      "@id": "domain:cold-seep-eukaryotes",
+      "@type": "pkg:Domain",
+      "rdfs:label": "Cold-seep eukaryotes",
+      "schema:description": "Curated literature area: Cold-seep eukaryotes."
+    },
+    {
+      "@id": "domain:cold-seep-microbial-resources",
+      "@type": "pkg:Domain",
+      "rdfs:label": "Cold-seep microbial resources",
+      "schema:description": "Curated literature area: Cold-seep microbial resources."
     },
     {
       "@id": "domain:cold-seep-microeukaryotes",
@@ -2876,6 +2924,1014 @@
       "schema:datePublished": 2023,
       "schema:identifier": "10.3389/fmars.2023.1243952",
       "schema:sameAs": "https://doi.org/10.3389/fmars.2023.1243952"
+    },
+    {
+      "@id": "src:scs-haima-chondroitinase-a",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Discovery and characterization of Chondroitinase A with specificity for 4-O-sulfated N-acetylgalactosamine in Chondroitin sulfate/Dermatan sulfate",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.jbc.2026.113594",
+      "schema:sameAs": "https://doi.org/10.1016/j.jbc.2026.113594"
+    },
+    {
+      "@id": "src:scs-cross-latitude-carbon-fixation",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Biogeographic patterns and metabolic potential of chemoautotrophic communities in cold seep sediments across subarctic to tropical regions",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.marenvres.2026.108410",
+      "schema:sameAs": "https://doi.org/10.1016/j.marenvres.2026.108410"
+    },
+    {
+      "@id": "src:scs-mussel-recovery-hours",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Rapid Post-Recovery Changes in the Gill Holobiont of the Deep-Sea Mussel Gigantidas haimaensis During Short-Term Ex Situ Maintenance",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3390/biology15151305",
+      "schema:sameAs": "https://doi.org/10.3390/biology15151305"
+    },
+    {
+      "@id": "src:scs-pressure-hydrocarbon-consortia",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Hydrostatic pressure drives metabolic strategies for anaerobic hydrocarbon degradation in cold seep sediments: from autonomy to syntrophic cooperation revealed by metagenomics",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.marenvres.2026.108254",
+      "schema:sameAs": "https://doi.org/10.1016/j.marenvres.2026.108254"
+    },
+    {
+      "@id": "src:scs-sitef-host-symbiont-connectivity",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Distance‐Limited Larval Replenishment in the Deep‐Sea Mussel Gigantidas platifrons Challenges Connectivity‐Based Conservation Planning",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1111/mec.70476",
+      "schema:sameAs": "https://doi.org/10.1111/mec.70476"
+    },
+    {
+      "@id": "src:scs-haima-stenotrophomonas-wo2",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Draft genome sequence of hydrocarbon-utilizing Stenotrophomonas sp. strain WO2 isolated from Haima cold seep sediments in the South China Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1128/mra.00179-26",
+      "schema:sameAs": "https://doi.org/10.1128/mra.00179-26"
+    },
+    {
+      "@id": "src:scs-aom-dna-sip-partnerships",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Syntrophic interactions driving anaerobic methane oxidation in deep-sea cold seeps revealed by DNA-SIP",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.isci.2026.116441",
+      "schema:sameAs": "https://doi.org/10.1016/j.isci.2026.116441"
+    },
+    {
+      "@id": "src:scs-aspergillus-anthraquinones",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "New Cytotoxic Anthraquinone Derivatives from a Deep-Sea-Derived Aspergillus sp. SCSIO 41331",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3390/md24060214",
+      "schema:sameAs": "https://doi.org/10.3390/md24060214"
+    },
+    {
+      "@id": "src:scs-salegentibacter-two-species",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Salegentibacter profundi sp. nov. and Salegentibacter haimaensis sp. nov., isolated from deep-sea cold seep sediments of the South China Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1099/ijsem.0.007188",
+      "schema:sameAs": "https://doi.org/10.1099/ijsem.0.007188"
+    },
+    {
+      "@id": "src:scs-haima-plastic-enrichments",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Enrichment of potential polyvinyl chloride and polycarbonate microplastic-degrading bacteria and their distribution characteristics in deep-sea cold seep",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.marpolbul.2026.119819",
+      "schema:sameAs": "https://doi.org/10.1016/j.marpolbul.2026.119819"
+    },
+    {
+      "@id": "src:scs-haima-halogen-redox-profile",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Deciphering the environmental fate of halogenated organic compounds in cold seep sediments: Insights from non-targeted analysis and metagenomics across vertical redox gradients",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.jhazmat.2026.141804",
+      "schema:sameAs": "https://doi.org/10.1016/j.jhazmat.2026.141804"
+    },
+    {
+      "@id": "src:scs-haima-alkane-methanogens",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Vertical stratification and metabolic versatility of methanogens in Haima cold seep sediments: Alkane-fueled acetoclastic methanogenesis revealed by metagenomics and experimental verification",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.marenvres.2026.107972",
+      "schema:sameAs": "https://doi.org/10.1016/j.marenvres.2026.107972"
+    },
+    {
+      "@id": "src:scs-haima-horizontal-assembly",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Heterogeneity of the horizontal environment drives community assemblages and species coexistence of prokaryotic communities in cold seep sediments",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.3389/fmicb.2025.1687453",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2025.1687453"
+    },
+    {
+      "@id": "src:scs-haima-amino-compounds",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Microbial processing of organic matter in cold seep sediments revealed by amino compound distributions and degradation indices",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.marpolbul.2025.118763",
+      "schema:sameAs": "https://doi.org/10.1016/j.marpolbul.2025.118763"
+    },
+    {
+      "@id": "src:scs-haima-lignin-metabolism",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Lignin Unlocks Stealth Carbon Sinks in Cold Seeps via Microbial Enzymatic Gatekeeping",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.34133/research.0848",
+      "schema:sameAs": "https://doi.org/10.34133/research.0848"
+    },
+    {
+      "@id": "src:scs-lysinibacillus-wb86-genome",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Complete genome sequence of Lysinibacillus sp. WB86, a potential antimicrobial lanthipeptides producer",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.margen.2025.101204",
+      "schema:sameAs": "https://doi.org/10.1016/j.margen.2025.101204"
+    },
+    {
+      "@id": "src:scs-scs-biosynthetic-survey",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Exploring the Biosynthetic Potential of Microorganisms from the South China Sea Cold Seep Using Culture-Dependent and Culture-Independent Approaches",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.3390/md23080313",
+      "schema:sameAs": "https://doi.org/10.3390/md23080313"
+    },
+    {
+      "@id": "src:scs-haima-depth-assembly",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Seepage area of the cold seep exhibits strong homogeneous selection on prokaryotic community assembly and supports high depth variability of both archaeal and bacterial communities",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1128/spectrum.02722-24",
+      "schema:sameAs": "https://doi.org/10.1128/spectrum.02722-24"
+    },
+    {
+      "@id": "src:scs-arcobacter-gill-isolate",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Arcobacter iocasae sp. nov., a bacterium isolated from the gill homogenate of the mussel Gigantidas platifrons in a cold seep",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1099/ijsem.0.006818",
+      "schema:sameAs": "https://doi.org/10.1099/ijsem.0.006818"
+    },
+    {
+      "@id": "src:scs-haima-viral-stages",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Unveiling the dynamic viral landscape across developmental stages of cold seep ecosystems: Implications for global marine biogeochemistry",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.jhazmat.2025.138594",
+      "schema:sameAs": "https://doi.org/10.1016/j.jhazmat.2025.138594"
+    },
+    {
+      "@id": "src:scs-bacillus-haimaensis-resource",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Bacillus haimaensis sp. nov.: a novel cold seep-adapted bacterium with unique biosynthetic potential",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1128/aem.02456-24",
+      "schema:sameAs": "https://doi.org/10.1128/aem.02456-24"
+    },
+    {
+      "@id": "src:scs-carbonate-black-carbon",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Black Carbon Formation at Cold Seeps and Its Potential Contribution to the Marine Black Carbon Budget",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1021/acs.est.4c12940",
+      "schema:sameAs": "https://doi.org/10.1021/acs.est.4c12940"
+    },
+    {
+      "@id": "src:scs-shallow-mussel-seep-transplant",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Shallow-water mussels (Mytilus galloprovincialis) adapt to deep-sea environment through transcriptomic and metagenomic insights",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s42003-024-07382-0",
+      "schema:sameAs": "https://doi.org/10.1038/s42003-024-07382-0"
+    },
+    {
+      "@id": "src:scs-haima-microplastic-community-response",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Effects of Different Types of Microplastics on Cold Seep Microbial Diversity and Function",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1021/acs.est.4c08102",
+      "schema:sameAs": "https://doi.org/10.1021/acs.est.4c08102"
+    },
+    {
+      "@id": "src:scs-sitef-carbonate-spatial-microbiomes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Microbial communities and metabolic functions vary with spatial heterogeneity in cold-seep carbonates",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1093/ismeco/ycaf232",
+      "schema:sameAs": "https://doi.org/10.1093/ismeco/ycaf232"
+    },
+    {
+      "@id": "src:scs-haima-six-host-gills",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Specificity of benthic invertebrate gill-associated microbiome contributes to host fitness to localized heterogeneous environment in the cold seep",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.scitotenv.2024.177861",
+      "schema:sameAs": "https://doi.org/10.1016/j.scitotenv.2024.177861"
+    },
+    {
+      "@id": "src:scs-yungan-tubeworm-microbes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Microbial Communities in and Around the Siboglinid Tubeworms from the South Yungan East Ridge Cold Seep Offshore Southwestern Taiwan at the Northern South China Sea",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.3390/microorganisms12122452",
+      "schema:sameAs": "https://doi.org/10.3390/microorganisms12122452"
+    },
+    {
+      "@id": "src:scs-haima-plastic-aging",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Methane seepage leads to a specific microplastic aging process in the simulated cold seep environment",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.jhazmat.2024.136572",
+      "schema:sameAs": "https://doi.org/10.1016/j.jhazmat.2024.136572"
+    },
+    {
+      "@id": "src:scs-pacbio-shortread-sediment-comparison",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Improved resolution of microbial diversity in deep-sea surface sediments using PacBio long-read 16S rRNA gene sequencing",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1128/msphere.00770-24",
+      "schema:sameAs": "https://doi.org/10.1128/msphere.00770-24"
+    },
+    {
+      "@id": "src:scs-haima-dom-water-enrichment",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Insights into prokaryotic communities and their potential functions in biogeochemical cycles in cold seep",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1128/msphere.00549-24",
+      "schema:sameAs": "https://doi.org/10.1128/msphere.00549-24"
+    },
+    {
+      "@id": "src:scs-effluviviacota-seep-genomes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Genomic characterization of the bacterial phylum Candidatus Effluviviacota, a cosmopolitan member of the global seep microbiome",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1128/mbio.00992-24",
+      "schema:sameAs": "https://doi.org/10.1128/mbio.00992-24"
+    },
+    {
+      "@id": "src:scs-hwangdonia-lutea",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Hwangdonia lutea sp. nov., isolated from the Haima cold seep, South China Sea",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1099/ijsem.0.006428",
+      "schema:sameAs": "https://doi.org/10.1099/ijsem.0.006428"
+    },
+    {
+      "@id": "src:scs-fontisubflavum-water-isolate",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Fontisubflavum oceani gen. nov., sp. nov., isolated from the deep-sea cold seep water of South China Sea",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1099/ijsem.0.006256",
+      "schema:sameAs": "https://doi.org/10.1099/ijsem.0.006256"
+    },
+    {
+      "@id": "src:scs-remirge-functional-phylogeny",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Phylogenetic diversity of functional genes in deep-sea cold seeps: a novel perspective on metagenomics",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1186/s40168-023-01723-7",
+      "schema:sameAs": "https://doi.org/10.1186/s40168-023-01723-7"
+    },
+    {
+      "@id": "src:scs-haima-minerals-microbes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Microbial communities and mineral assemblages in sediments from various habitats at the Haima Cold Seep, South China Sea",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.3389/fmars.2023.1254450",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2023.1254450"
+    },
+    {
+      "@id": "src:scs-archaeal-lipidome-seeps",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Lipidomic diversity and proxy implications of archaea from cold seep sediments of the South China Sea",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.3389/fmicb.2023.1241958",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2023.1241958"
+    },
+    {
+      "@id": "src:scs-abyssisolibacter-m8s5",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The Phylogeny, Metabolic Potentials, and Environmental Adaptation of an Anaerobe, Abyssisolibacter sp. M8S5, Isolated from Cold Seep Sediments of the South China Sea",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.3390/microorganisms11092156",
+      "schema:sameAs": "https://doi.org/10.3390/microorganisms11092156"
+    },
+    {
+      "@id": "src:scs-haima-faunal-cs-cycling",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Environmental heterogeneity shapes the C and S cycling-associated microbial community in Haima's cold seeps",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.3389/fmicb.2023.1199853",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2023.1199853"
+    },
+    {
+      "@id": "src:scs-haima-microeukaryotic-diversity",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "High Microeukaryotic Diversity in the Cold-Seep Sediment",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1007/s00248-023-02212-y",
+      "schema:sameAs": "https://doi.org/10.1007/s00248-023-02212-y"
+    },
+    {
+      "@id": "src:scs-haima-sulfur-dom",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Molecular evidence for the production of labile, sulfur-bearing dissolved organic matter in the seep sediments of the South China Sea",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1016/j.watres.2023.119732",
+      "schema:sameAs": "https://doi.org/10.1016/j.watres.2023.119732"
+    },
+    {
+      "@id": "src:scs-scs-aom-biogeography",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Biogeographic distributions of microbial communities associated with anaerobic methane oxidation in the surface sediments of deep-sea cold seeps in the South China Sea",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.3389/fmicb.2022.1060206",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2022.1060206"
+    },
+    {
+      "@id": "src:scs-extinct-haima-metabolism",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Riddles of Lost City: Chemotrophic Prokaryotes Drives Carbon, Sulfur, and Nitrogen Cycling at an Extinct Cold Seep, South China Sea",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1128/spectrum.03338-22",
+      "schema:sameAs": "https://doi.org/10.1128/spectrum.03338-22"
+    },
+    {
+      "@id": "src:scs-qiongdongnan-thermogenic-hydrates",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Microbial communities associated with thermogenic gas hydrate-bearing marine sediments in Qiongdongnan Basin, South China Sea",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.3389/fmicb.2022.1032851",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2022.1032851"
+    },
+    {
+      "@id": "src:scs-haima-oil-degrading-isolates",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Degradation potential of alkanes by diverse oil-degrading bacteria from deep-sea sediments of Haima cold seep areas, South China Sea",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.3389/fmicb.2022.920067",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2022.920067"
+    },
+    {
+      "@id": "src:scs-srb-zero-valent-sulfur",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "A deep‐sea sulfate‐reducing bacterium generates zero‐valent sulfur via metabolizing thiosulfate",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.1002/mlf2.12038",
+      "schema:sameAs": "https://doi.org/10.1002/mlf2.12038"
+    },
+    {
+      "@id": "src:scs-sitef-horizontal-vertical-sediment",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Horizontal and vertical heterogeneity of sediment microbial community in Site F cold seep, the South China Sea",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.3389/fmars.2022.957762",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2022.957762"
+    },
+    {
+      "@id": "src:scs-haiyang4-tetraether-lipids",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Intact Polar and Core Tetraether Lipids in Sediments from the Haiyang 4 Cold‐seep of the Northern South China Sea and their Implications",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.1111/1755-6724.14928",
+      "schema:sameAs": "https://doi.org/10.1111/1755-6724.14928"
+    },
+    {
+      "@id": "src:scs-bivalve-lipid-nutrition",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Lipid Biomarker Patterns Reflect Nutritional Strategies of Seep-Dwelling Bivalves From the South China Sea",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.3389/fmars.2022.831286",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2022.831286"
+    },
+    {
+      "@id": "src:scs-scs-six-carbon-fixation-pathways",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Insights into carbon-fixation pathways through metagonomics in the sediments of deep-sea cold seeps",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.1016/j.marpolbul.2022.113458",
+      "schema:sameAs": "https://doi.org/10.1016/j.marpolbul.2022.113458"
+    },
+    {
+      "@id": "src:scs-scs-microeukaryote-biogeography",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Microbial Eukaryotes Associated With Sediments in Deep-Sea Cold Seeps",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.3389/fmicb.2021.782004",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2021.782004"
+    },
+    {
+      "@id": "src:scs-formosa-betaine-methanogenesis",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Bacteria and Archaea Synergistically Convert Glycine Betaine to Biogenic Methane in the Formosa Cold Seep of the South China Sea",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1128/msystems.00703-21",
+      "schema:sameAs": "https://doi.org/10.1128/msystems.00703-21"
+    },
+    {
+      "@id": "src:scs-mussel-sulfide-detoxification",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Adaption to hydrogen sulfide-rich environments: Strategies for active detoxification in deep-sea symbiotic mussels, Gigantidas platifrons",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.1016/j.scitotenv.2021.150054",
+      "schema:sameAs": "https://doi.org/10.1016/j.scitotenv.2021.150054"
+    },
+    {
+      "@id": "src:scs-acpsf1-archaeal-marker",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The Archaeal Transcription Termination Factor aCPSF1 is a Robust Phylogenetic Marker for Archaeal Taxonomy",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1128/spectrum.01539-21",
+      "schema:sameAs": "https://doi.org/10.1128/spectrum.01539-21"
+    },
+    {
+      "@id": "src:scs-haima-methane-derived-doc",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Production of Labile Protein-Like Dissolved Organic Carbon Associated With Anaerobic Methane Oxidization in the Haima Cold Seeps, South China Sea",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.3389/fmars.2021.797084",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2021.797084"
+    },
+    {
+      "@id": "src:scs-iocasia-carbohydrate-fermentation",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Iocasia fonsfrigidae NS-1 gen. nov., sp. nov., a Novel Deep-Sea Bacterium Possessing Diverse Carbohydrate Metabolic Pathways",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.3389/fmicb.2021.725159",
+      "schema:sameAs": "https://doi.org/10.3389/fmicb.2021.725159"
+    },
+    {
+      "@id": "src:scs-psychrosphaera-ytuae",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Psychrosphaera ytuae sp. nov., isolated from the deep-sea cold seep sediment of South China Sea",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1099/ijsem.0.004983",
+      "schema:sameAs": "https://doi.org/10.1099/ijsem.0.004983"
+    },
+    {
+      "@id": "src:scs-bacillus-fonticola",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Bacillus fonticola sp. nov., isolated from deep sea cold seep sediment",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1007/s00203-021-02401-8",
+      "schema:sameAs": "https://doi.org/10.1007/s00203-021-02401-8"
+    },
+    {
+      "@id": "src:scs-shenhu-aom-without-anme",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Depth profiles of geochemical features, geochemical activities and biodiversity of microbial communities in marine sediments from the Shenhu area, the northern South China Sea",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1016/j.scitotenv.2021.146233",
+      "schema:sameAs": "https://doi.org/10.1016/j.scitotenv.2021.146233"
+    },
+    {
+      "@id": "src:scs-artificial-seep-biocoenosis",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Artificial construction of the biocoenosis of deep‐sea ecosystem via seeping methane",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1111/1462-2920.15347",
+      "schema:sameAs": "https://doi.org/10.1111/1462-2920.15347"
+    },
+    {
+      "@id": "src:scs-haima-bivalve-gill-markers",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The Diversity, Composition, and Putative Functions of Gill-Associated Bacteria of Bathymodiolin Mussel and Vesicomyid Clam from Haima Cold Seep, South China Sea",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.3390/microorganisms8111699",
+      "schema:sameAs": "https://doi.org/10.3390/microorganisms8111699"
+    },
+    {
+      "@id": "src:scs-methanofollis-fontis-isolate",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Methanofollis fontis sp. nov., a methanogen isolated from marine sediment near a cold seep at Four-Way Closure Ridge offshore southwestern Taiwan",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.1099/ijsem.0.004440",
+      "schema:sameAs": "https://doi.org/10.1099/ijsem.0.004440"
+    },
+    {
+      "@id": "src:scs-scs-n-damo-potential",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Anaerobic methane oxidation coupled to denitrification is an important potential methane sink in deep-sea cold seeps",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.1016/j.scitotenv.2020.142459",
+      "schema:sameAs": "https://doi.org/10.1016/j.scitotenv.2020.142459"
+    },
+    {
+      "@id": "src:scs-nitrincola-iocasae",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Nitrincola iocasae sp. nov., a bacterium isolated from sediment collected at a cold seep field in the South China Sea",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.1099/ijsem.0.004352",
+      "schema:sameAs": "https://doi.org/10.1099/ijsem.0.004352"
+    },
+    {
+      "@id": "src:scs-carbonate-phosphorus-speciation",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Phosphorus Species in Deep-Sea Carbonate Deposits: Implications for Phosphorus Cycling in Cold Seep Environments",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.3390/min10070645",
+      "schema:sameAs": "https://doi.org/10.3390/min10070645"
+    },
+    {
+      "@id": "src:scs-erythrobacter-thiosulfate-pathway",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "A novel bacterial thiosulfate oxidation pathway provides a new clue about the formation of zero-valent sulfur in deep sea",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.1038/s41396-020-0684-5",
+      "schema:sameAs": "https://doi.org/10.1038/s41396-020-0684-5"
+    },
+    {
+      "@id": "src:scs-formosa-sulfurovum-interface",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "High-Throughput Sequencing Reveals a Potentially Novel Sulfurovum Species Dominating the Microbial Communities of the Seawater–Sediment Interface of a Deep-Sea Cold Seep in South China Sea",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.3390/microorganisms8050687",
+      "schema:sameAs": "https://doi.org/10.3390/microorganisms8050687"
+    },
+    {
+      "@id": "src:scs-jiaolong-vertical-prokaryotes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The vertical distribution of prokaryotes in the surface sediment of Jiaolong cold seep at the northern South China Sea",
+      "schema:datePublished": 2018,
+      "schema:identifier": "10.1007/s00792-018-1012-0",
+      "schema:sameAs": "https://doi.org/10.1007/s00792-018-1012-0"
+    },
+    {
+      "@id": "src:scs-mussel-methane-maintenance",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Molecular identification of methane monooxygenase and quantitative analysis of methanotrophic endosymbionts under laboratory maintenance inBathymodiolus platifronsfrom the South China Sea",
+      "schema:datePublished": 2017,
+      "schema:identifier": "10.7717/peerj.3565",
+      "schema:sameAs": "https://doi.org/10.7717/peerj.3565"
+    },
+    {
+      "@id": "src:scs-global-seep-diazotroph-genomes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Phylogenetically and catabolically diverse diazotrophs reside in deep-sea cold seep sediments",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.1038/s41467-022-32503-w",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-022-32503-w"
+    },
+    {
+      "@id": "src:scs-scs-dna-rna-viral-carbon",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Deep-sea viral diversity and their role in host metabolism of complex organic matter",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41467-025-65207-y",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-025-65207-y"
+    },
+    {
+      "@id": "src:scs-sitef-mussel-phage-expression",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Insights into phage-bacteria interaction in cold seep Gigantidas platifrons through metagenomics and transcriptome analyses",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1038/s41598-024-61272-3",
+      "schema:sameAs": "https://doi.org/10.1038/s41598-024-61272-3"
+    },
+    {
+      "@id": "src:scs-twilight-particle-size-microbiomes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Community differences and potential function along the particle size spectrum of microbes in the twilight zone",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1186/s40168-025-02116-8",
+      "schema:sameAs": "https://doi.org/10.1186/s40168-025-02116-8"
+    },
+    {
+      "@id": "src:scs-jiulong-uncultivated-lineages",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "New Microbial Lineages Capable of Carbon Fixation and Nutrient Cycling in Deep-Sea Sediments of the Northern South China Sea",
+      "schema:datePublished": 2019,
+      "schema:identifier": "10.1128/aem.00523-19",
+      "schema:sameAs": "https://doi.org/10.1128/aem.00523-19"
+    },
+    {
+      "@id": "src:scs-carbonate-fossil-microbial-genomes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Deep-Sea Carbonates Are a Reservoir of Fossil Microbes Previously Inhabiting Cold Seeps",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.3389/fmars.2021.698945",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2021.698945"
+    },
+    {
+      "@id": "src:scs-haima-organotrophic-chitin",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Exploring the role of organotrophic microbes in geochemical cycling of cold seep sediments",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.59717/j.xinn-geo.2024.100123",
+      "schema:sameAs": "https://doi.org/10.59717/j.xinn-geo.2024.100123"
+    },
+    {
+      "@id": "src:scs-haima-arsenic-methane",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Methane‐Driven Arsenic Biogeochemical Cycling in Deep‐Sea Cold Seeps: Implications for Oceanic Arsenic Geochemistry",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1029/2025gl115957",
+      "schema:sameAs": "https://doi.org/10.1029/2025gl115957"
+    },
+    {
+      "@id": "src:scs-haima-deep-core-community",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Sediment depth impacts microbial community structure in methane seepage regions",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s43247-025-02794-0",
+      "schema:sameAs": "https://doi.org/10.1038/s43247-025-02794-0"
+    },
+    {
+      "@id": "src:scs-curvularia-genome-led-metabolites",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Genome analysis-led discovery of antimicrobial and herbicidal cytochalasans from the cold-seep-sourced endozoic Curvularia verruculosa CS-129",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.bioorg.2025.109304",
+      "schema:sameAs": "https://doi.org/10.1016/j.bioorg.2025.109304"
+    },
+    {
+      "@id": "src:scs-alternaria-wood-meroterpenoids",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Three New Meroterpenoids With Antimicrobial Activity Characterized From the Cold‐seep‐derived Alternaria alstroemeriae CS‐745",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1002/cbdv.202501369",
+      "schema:sameAs": "https://doi.org/10.1002/cbdv.202501369"
+    },
+    {
+      "@id": "src:scs-aspergillus-subversicolor-phenols",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "New Phenol Derivatives from the Haima Cold Seep-Derived Fungus Aspergillus subversicolor CYH-17",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.3390/md22030117",
+      "schema:sameAs": "https://doi.org/10.3390/md22030117"
+    },
+    {
+      "@id": "src:scs-aspergillus-fumitremorgin",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "8 R -methoxy-9 R -hydroxyl-fumitremorgin C, a new diketopiperazine alkaloid from Haima cold seep-derived fungus Aspergillus fumigatus CYH-5",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1080/14786419.2023.2294483",
+      "schema:sameAs": "https://doi.org/10.1080/14786419.2023.2294483"
+    },
+    {
+      "@id": "src:scs-trichoderma-lipids-terpenoids",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Lipids and Terpenoids from the Deep-Sea Fungus Trichoderma lixii R22 and Their Antagonism against Two Wheat Pathogens",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.3390/molecules28176220",
+      "schema:sameAs": "https://doi.org/10.3390/molecules28176220"
+    },
+    {
+      "@id": "src:scs-talaromyces-saha-metabolites",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Antimicrobial polyketides and sesquiterpene lactones from the deep-sea cold-seep-derived fungus Talaromyces minioluteus CS-113 triggered by the histone deacetylase inhibitor SAHA",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1039/d3ob00058c",
+      "schema:sameAs": "https://doi.org/10.1039/d3ob00058c"
+    },
+    {
+      "@id": "src:scs-talaromyces-inflammatory-assays",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Anti-inflammatory alkaloids from the cold-seep-derived fungus Talaromyces helicus SCSIO41311",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.1007/s13205-022-03237-9",
+      "schema:sameAs": "https://doi.org/10.1007/s13205-022-03237-9"
+    },
+    {
+      "@id": "src:scs-curvularia-cytochalasin-2022",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "New Cytochalasin Derivatives from Deep‐Sea Cold Seep‐Derived Endozoic Fungus Curvularia verruculosa CS‐129",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.1002/cbdv.202200550",
+      "schema:sameAs": "https://doi.org/10.1002/cbdv.202200550"
+    },
+    {
+      "@id": "src:scs-penicillium-verrucosidins",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Verrucosidin Derivatives from the Deep Sea Cold-Seep-Derived Fungus Penicillium polonicum CS-252",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.3390/ijms23105567",
+      "schema:sameAs": "https://doi.org/10.3390/ijms23105567"
+    },
+    {
+      "@id": "src:scs-curvularia-cytochalasin-2021",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Cytochalasin Derivatives from the Endozoic Curvularia verruculosa CS-129, a Fungus Isolated from the Deep-Sea Squat Lobster Shinkaia crosnieri Living in the Cold Seep Environment",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1021/acs.jnatprod.1c00907",
+      "schema:sameAs": "https://doi.org/10.1021/acs.jnatprod.1c00907"
+    },
+    {
+      "@id": "src:scs-eps364-bacterial-polysaccharide",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "EPS364, a Novel Deep-Sea Bacterial Exopolysaccharide, Inhibits Liver Cancer Cell Growth and Adhesion",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.3390/md19030171",
+      "schema:sameAs": "https://doi.org/10.3390/md19030171"
+    },
+    {
+      "@id": "src:scs-bacillus-n11-polysaccharide-genome",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Complete genome sequence of Bacillus sp. N1-1, a κ-selenocarrageenan degrading bacterium isolated from the cold seep in the South China Sea",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.1016/j.margen.2020.100771",
+      "schema:sameAs": "https://doi.org/10.1016/j.margen.2020.100771"
+    },
+    {
+      "@id": "src:scs-qiongdongnan-black-carbon-core",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The Substantial Yet Unaccounted Carbon Sink: Microbially-Derived Black Carbon in Cold Seep Sediments",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1021/acs.est.5c18624",
+      "schema:sameAs": "https://doi.org/10.1021/acs.est.5c18624"
+    },
+    {
+      "@id": "src:scs-seep-magnetotactic-bacteria",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Global Distribution and Biogeochemical Significance of Magnetotactic Bacteria in Deep‐Sea Cold Seep Ecosystems",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1029/2025jg008888",
+      "schema:sameAs": "https://doi.org/10.1029/2025jg008888"
+    },
+    {
+      "@id": "src:scs-methanochimaera-problematica",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Methanochimaera problematica gen. nov., sp. nov., a novel methanoarchaeon isolated from cold seep sediment and reclassification of Methanomicrobium antiquum as Methanoeremita antiquus gen. nov., comb. nov.",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1099/ijsem.0.006593",
+      "schema:sameAs": "https://doi.org/10.1099/ijsem.0.006593"
+    },
+    {
+      "@id": "src:scs-shenhu-long-term-incubation",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Shifting microbial communities perform anaerobic oxidation of methane and methanogenesis in sediments from the Shenhu area of northern south China sea during long-term incubations",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.3389/feart.2022.1014976",
+      "schema:sameAs": "https://doi.org/10.3389/feart.2022.1014976"
+    },
+    {
+      "@id": "src:scs-jiaolong-anme-metabolic-diversity",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Metabolic diversification of anaerobic methanotrophic archaea in a deep-sea cold seep",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.1007/s42995-020-00057-9",
+      "schema:sameAs": "https://doi.org/10.1007/s42995-020-00057-9"
+    },
+    {
+      "@id": "src:scs-aequorivita-iocasae",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Aequorivita iocasae sp. nov., a halophilic bacterium isolated from sediment collected at a cold seep field in the South China Sea",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.1099/ijsem.0.005199",
+      "schema:sameAs": "https://doi.org/10.1099/ijsem.0.005199"
+    },
+    {
+      "@id": "src:scs-marinobacter-fonticola",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Marinobacter fonticola sp. nov., isolated from deep sea cold seep sediment",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.1099/ijsem.0.003895",
+      "schema:sameAs": "https://doi.org/10.1099/ijsem.0.003895"
+    },
+    {
+      "@id": "src:scs-haima-asgard-spatial-genomes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Asgard archaea in the haima cold seep: Spatial distribution and genomic insights",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1016/j.dsr.2021.103489",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr.2021.103489"
+    },
+    {
+      "@id": "src:scs-scs-heimdallarchaeia-genomes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Metagenomic insights into Heimdallarchaeia clades from the deep-sea cold seep and hydrothermal vent",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1186/s40793-024-00585-2",
+      "schema:sameAs": "https://doi.org/10.1186/s40793-024-00585-2"
+    },
+    {
+      "@id": "src:scs-mussel-seep-vent-host-microbe-response",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "To live or die: “Fine-tuning” adaptation revealed by systemic analyses in symbiotic bathymodiolin mussels from diverse deep-sea extreme ecosystems",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1016/j.scitotenv.2024.170434",
+      "schema:sameAs": "https://doi.org/10.1016/j.scitotenv.2024.170434"
+    },
+    {
+      "@id": "src:scs-haima-plume-fate",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Fate of deep methane bubble plumes at the Haima cold seeps in the South China Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.marpolbul.2026.119308",
+      "schema:sameAs": "https://doi.org/10.1016/j.marpolbul.2026.119308"
+    },
+    {
+      "@id": "src:scs-haima-methane-water-porewater",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Distribution and potential drivers of methane emissions from deep-sea environments in Haima cold seep areas",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.3389/fmars.2025.1714180",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2025.1714180"
+    },
+    {
+      "@id": "src:scs-formosa-tidal-methane-monitoring",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Tidal modulation and temporal dynamics of methane emissions at the Formosa Ridge: insights from in-situ observations",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.3389/fmars.2025.1633033",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2025.1633033"
+    },
+    {
+      "@id": "src:scs-haima-photoacoustic-methane-sensor",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "In Situ High-Precision Measurement of Deep-Sea Dissolved Methane by Quartz-Enhanced Photoacoustic and Light-Induced Thermoelastic Spectroscopy",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1021/acs.analchem.4c02557",
+      "schema:sameAs": "https://doi.org/10.1021/acs.analchem.4c02557"
+    },
+    {
+      "@id": "src:scs-haima-nutrients-chlorophyll",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Elevated nutrients and surface chlorophyll-α associated with natural methane seeps in the Haima cold seep area of the Qiongdongnan Basin, northern South China Sea",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1016/j.marpolbul.2023.114873",
+      "schema:sameAs": "https://doi.org/10.1016/j.marpolbul.2023.114873"
+    },
+    {
+      "@id": "src:scs-video-bubble-flux",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Using Time-Series Videos to Quantify Methane Bubbles Flux from Natural Cold Seeps in the South China Sea",
+      "schema:datePublished": 2020,
+      "schema:identifier": "10.3390/min10030216",
+      "schema:sameAs": "https://doi.org/10.3390/min10030216"
+    },
+    {
+      "@id": "src:scs-lingtou-coastal-methane",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The Distribution of Dissolved Methane and Its Air-Sea Flux in the Plume of a Seep Field, Lingtou Promontory, South China Sea",
+      "schema:datePublished": 2019,
+      "schema:identifier": "10.1155/2019/3240697",
+      "schema:sameAs": "https://doi.org/10.1155/2019/3240697"
+    },
+    {
+      "@id": "src:scs-qiongdongnan-iron-bound-carbon",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Characterizing iron-bound organic carbon in cold seep sediment cores: impacts of anaerobic oxidation of methane",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1007/s10533-026-01334-y",
+      "schema:sameAs": "https://doi.org/10.1007/s10533-026-01334-y"
+    },
+    {
+      "@id": "src:scs-scs-pfas-core-occurrence",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Occurrence patterns, spatial heterogeneity, and compositional variation of PFASs in deep-sea cold seep sediments from the northern South China Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.envpol.2026.128425",
+      "schema:sameAs": "https://doi.org/10.1016/j.envpol.2026.128425"
+    },
+    {
+      "@id": "src:scs-haima-microplastic-occurrence",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Occurrence of microplastics in the Haima cold seep area of the South China Sea",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1016/j.scitotenv.2024.173072",
+      "schema:sameAs": "https://doi.org/10.1016/j.scitotenv.2024.173072"
+    },
+    {
+      "@id": "src:scs-scs-arsenic-speciation-incubation",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Speciation and distribution of arsenic in cold seep sediments of the South China Sea",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1016/j.marpolbul.2024.116258",
+      "schema:sameAs": "https://doi.org/10.1016/j.marpolbul.2024.116258"
+    },
+    {
+      "@id": "src:scs-formosa-raman-fluid-chemistry",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "In situ Raman Quantitative Detection of the Cold Seep Vents and Fluids in the Chemosynthetic Communities in the South China Sea",
+      "schema:datePublished": 2018,
+      "schema:identifier": "10.1029/2018gc007496",
+      "schema:sameAs": "https://doi.org/10.1029/2018gc007496"
+    },
+    {
+      "@id": "src:scs-haima-bivalve-fatty-acid-genes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Functional Characterization of Fad Genes from Two Chemosymbiotic Bivalves Inhabiting the Haima Cold Seep",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3390/genes17060662",
+      "schema:sameAs": "https://doi.org/10.3390/genes17060662"
+    },
+    {
+      "@id": "src:scs-streptomyces-shovelmycins",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The thiodiketopiperazine derivatives shovelmycin A–B and ansamycin derivative divergolide X from the cold-seep-derived Streptomyces olivaceus HDN22-001",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41429-025-00812-z",
+      "schema:sameAs": "https://doi.org/10.1038/s41429-025-00812-z"
+    },
+    {
+      "@id": "src:scs-shenhu-organic-matter-pyrolysis",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Geochemical Characteristics and Significance of Organic Matter in Hydrate-Bearing Sediments from Shenhu Area, South China Sea",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.3390/molecules27082533",
+      "schema:sameAs": "https://doi.org/10.3390/molecules27082533"
+    },
+    {
+      "@id": "src:scs-shenhu-hydrate-biomarkers",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Geochemical Significance of Biomarkers in the Methane Hydrate-Bearing Sediments from the Shenhu Area, the South China Sea",
+      "schema:datePublished": 2019,
+      "schema:identifier": "10.3390/molecules24030456",
+      "schema:sameAs": "https://doi.org/10.3390/molecules24030456"
+    },
+    {
+      "@id": "src:scs-west-haima-methane-transport-model",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Methane Source and Turnover in the Shallow Sediments to the West of Haima Cold Seeps on the Northwestern Slope of the South China Sea",
+      "schema:datePublished": 2019,
+      "schema:identifier": "10.1155/2019/1010824",
+      "schema:sameAs": "https://doi.org/10.1155/2019/1010824"
+    },
+    {
+      "@id": "src:scs-haima-manganese-micronodules",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Implication From Mineralogical and Geochemical Characteristics of Authigenic Micronodules in the Haima Cold Seeps for Understanding the Manganese Geochemistry in Active Seepage",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1029/2022jc019194",
+      "schema:sameAs": "https://doi.org/10.1029/2022jc019194"
+    },
+    {
+      "@id": "src:scs-mussel-muscle-recovery-transcripts",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Transcriptome analysis of gene expression profiling from the deep sea in situ to the laboratory for the cold seep mussel Gigantidas haimaensis",
+      "schema:datePublished": 2022,
+      "schema:identifier": "10.1186/s12864-022-09064-9",
+      "schema:sameAs": "https://doi.org/10.1186/s12864-022-09064-9"
+    },
+    {
+      "@id": "src:scs-dongsha-phytoplankton-drilling",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Characteristics of phytoplankton communities and their biomass variation in a gas hydrate drilling area in the northern South China Sea",
+      "schema:datePublished": 2018,
+      "schema:identifier": "10.1016/j.marpolbul.2018.06.018",
+      "schema:sameAs": "https://doi.org/10.1016/j.marpolbul.2018.06.018"
+    },
+    {
+      "@id": "src:scs-haima-hydrate-geophysics-2026",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Haima Cold Seeps: Direct Evidence for the Occurrence of Gas Hydrates—A Case Study from the Qiongdongnan Sea Area, South China Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3390/jmse14201881",
+      "schema:sameAs": "https://doi.org/10.3390/jmse14201881"
+    },
+    {
+      "@id": "src:scs-shenhu-new-plume-field",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "New discovery of submarine active cold seep and influencing factors of plume morphology in the South China Sea",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1063/5.0298170",
+      "schema:sameAs": "https://doi.org/10.1063/5.0298170"
+    },
+    {
+      "@id": "src:scs-hydrate-fluid-self-sealing-model",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Quantifying Thermo‐Fluid‐Chemical Coupling: Advection Governs Multi‐Phase Zonation and Self‐Sealing in a Hydrate‐Cold Seep System",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1029/2026gc013027",
+      "schema:sameAs": "https://doi.org/10.1029/2026gc013027"
+    },
+    {
+      "@id": "src:scs-scs-hydrate-seep-system-review",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Gas Hydrate Accumulation and Occurrence Associated with Cold Seep Systems in the Northern South China Sea: An Overview",
+      "schema:datePublished": 2021,
+      "schema:identifier": "10.1155/2021/5571150",
+      "schema:sameAs": "https://doi.org/10.1155/2021/5571150"
+    },
+    {
+      "@id": "src:scs-haima-gill-metal-symbiosis",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Functional and microbial insights into the gill symbiosis and metal tolerance of the cold seep mussel Gigantidas haimaensis",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.dsr.2025.104545",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr.2025.104545"
+    },
+    {
+      "@id": "src:scs-toxicocladosporium-diketopiperazines",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "New diketopiperazine alkaloids from the Haima cold seep-derived fungus Toxicocladosporium sp. CYH-18",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1016/j.phytol.2024.01.017",
+      "schema:sameAs": "https://doi.org/10.1016/j.phytol.2024.01.017"
+    },
+    {
+      "@id": "src:scs-aspergillus-emestrin-products",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Emestrin-type thiodiketopiperazines from Aspergillus nidulans SD-531, a fungus obtained from the deep-sea sediment of cold seep in the South China Sea",
+      "schema:datePublished": 2023,
+      "schema:identifier": "10.1016/j.dsr.2023.104004",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr.2023.104004"
     },
     {
       "@id": "claim:001-rothera-viral-novelty",
@@ -4998,6 +6054,2148 @@
       },
       "prov:wasDerivedFrom": {
         "@id": "src:scs-site-f-sponge-host-specificity"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-chondroitinase-a",
+      "@type": "pkg:Claim",
+      "schema:text": "The recovered enzyme selectively cleaved chondroitin/dermatan sulfate motifs containing GalNAc or GalNAc4S; mutagenesis identified residues required for activity.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-chondroitinase-a"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-chondroitinase-a"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-cross-latitude-carbon-fixation",
+      "@type": "pkg:Claim",
+      "schema:text": "Incubated tropical sediments had higher dark carbon-fixation rates than subarctic sediments; carbon-fixation pathway inventories also differed between regions and depths.",
+      "pkg:subject": {
+        "@id": "src:scs-cross-latitude-carbon-fixation"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:carbon-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-cross-latitude-carbon-fixation"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-mussel-recovery-hours",
+      "@type": "pkg:Claim",
+      "schema:text": "Methyloprofundus remained dominant while host transcription changed rapidly; exploratory microbiome–gene associations did not survive false-discovery-rate correction.",
+      "pkg:subject": {
+        "@id": "src:scs-mussel-recovery-hours"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-mussel-recovery-hours"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-pressure-hydrocarbon-consortia",
+      "@type": "pkg:Claim",
+      "schema:text": "Higher pressure suppressed naphthalene degradation and changed dominant taxa; incomplete pathways in high-pressure Sulfitobacter MAGs suggested metabolic dependence on partner organisms.",
+      "pkg:subject": {
+        "@id": "src:scs-pressure-hydrocarbon-consortia"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:hydrocarbon-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-pressure-hydrocarbon-consortia"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-sitef-host-symbiont-connectivity",
+      "@type": "pkg:Claim",
+      "schema:text": "Local host kinship declined with distance, whereas Site F methanotrophic symbionts showed low differentiation across host cohorts.",
+      "pkg:subject": {
+        "@id": "src:scs-sitef-host-symbiont-connectivity"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-sitef-host-symbiont-connectivity"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-stenotrophomonas-wo2",
+      "@type": "pkg:Claim",
+      "schema:text": "WO2 supplied a 4,772,190-bp draft genome with 66.01% GC content for investigating seep-derived hydrocarbon-utilizing bacteria.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-stenotrophomonas-wo2"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-stenotrophomonas-wo2"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-aom-dna-sip-partnerships",
+      "@type": "pkg:Claim",
+      "schema:text": "Methane oxidation persisted as archaeal–bacterial assemblages changed between treatments, supporting metabolic flexibility in the incubated consortia.",
+      "pkg:subject": {
+        "@id": "src:scs-aom-dna-sip-partnerships"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-aom-dna-sip-partnerships"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-aspergillus-anthraquinones",
+      "@type": "pkg:Claim",
+      "schema:text": "New anthraquinone-related metabolites were characterized; one assayed compound inhibited HT29 proliferation and colony growth in vitro.",
+      "pkg:subject": {
+        "@id": "src:scs-aspergillus-anthraquinones"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-aspergillus-anthraquinones"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-salegentibacter-two-species",
+      "@type": "pkg:Claim",
+      "schema:text": "The two facultatively anaerobic isolates met the study's criteria for Salegentibacter profundi and S. haimaensis, with distinct tested growth ranges.",
+      "pkg:subject": {
+        "@id": "src:scs-salegentibacter-two-species"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-salegentibacter-two-species"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-plastic-enrichments",
+      "@type": "pkg:Claim",
+      "schema:text": "Plastic-associated enrichments grew and altered film surfaces; abundance changes identified candidate degraders, with candidate signals more abundant in seawater than sediment.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-plastic-enrichments"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-plastic-enrichments"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-halogen-redox-profile",
+      "@type": "pkg:Claim",
+      "schema:text": "The study detected 669 halogenated molecular formulas; organochlorine signals declined near a redox boundary and covaried with chemistry and dehalogenase inventories.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-halogen-redox-profile"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:reductive-dehalogenation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-halogen-redox-profile"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-alkane-methanogens",
+      "@type": "pkg:Claim",
+      "schema:text": "mcrA signals increased within/below the transition zone; alkane loss accompanied acetate accumulation, consistent with a possible substrate link to acetoclastic methanogenesis.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-alkane-methanogens"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:hydrocarbon-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-alkane-methanogens"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-horizontal-assembly",
+      "@type": "pkg:Claim",
+      "schema:text": "The seepage habitat had lower alpha diversity and distinct archaeal composition; modeled bacterial and archaeal assembly differed across habitats.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-horizontal-assembly"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:community-assembly"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-horizontal-assembly"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-amino-compounds",
+      "@type": "pkg:Claim",
+      "schema:text": "Biomarker indices indicated degraded organic matter; methane-rich layers had lower amino-acid concentrations and source estimates suggested substantial fungal-derived carbon.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-amino-compounds"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-amino-compounds"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-lignin-metabolism",
+      "@type": "pkg:Claim",
+      "schema:text": "Lignin enrichment selected distinct bacterial communities and implicated multiple enzyme pathways for polymer breakdown and aromatic processing; direct methanogenesis was not detected.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-lignin-metabolism"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-lignin-metabolism"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-lysinibacillus-wb86-genome",
+      "@type": "pkg:Claim",
+      "schema:text": "The 4.54-Mb genome contained eight predicted biosynthetic clusters, including a candidate lanthipeptide cluster.",
+      "pkg:subject": {
+        "@id": "src:scs-lysinibacillus-wb86-genome"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-lysinibacillus-wb86-genome"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-biosynthetic-survey",
+      "@type": "pkg:Claim",
+      "schema:text": "Sediment types differed in community and biosynthetic-cluster profiles; cultivable communities were enriched in Firmicutes and did not mirror all environmental diversity.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-biosynthetic-survey"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-biosynthetic-survey"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-depth-assembly",
+      "@type": "pkg:Claim",
+      "schema:text": "Seepage profiles had more archaeal/bacterial gene copies and depth-specific lineages; assembly models indicated stronger homogeneous selection for prokaryotes and drift-dominated eukaryotic assembly.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-depth-assembly"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:community-assembly"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-depth-assembly"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-arcobacter-gill-isolate",
+      "@type": "pkg:Claim",
+      "schema:text": "The strain represented the proposed Arcobacter iocasae species and grew aerobically and microaerobically under tested conditions.",
+      "pkg:subject": {
+        "@id": "src:scs-arcobacter-gill-isolate"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-arcobacter-gill-isolate"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-viral-stages",
+      "@type": "pkg:Claim",
+      "schema:text": "The catalogue contained 4,272 viral units; diversity and predicted metabolic repertoires differed among seep stages, with the highest diversity in the chemoautotrophic stage.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-viral-stages"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "realm:viruses"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-viral-stages"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-bacillus-haimaensis-resource",
+      "@type": "pkg:Claim",
+      "schema:text": "Genomic and phenotypic evidence supported a new species; six predicted biosynthetic clusters included a candidate lassopeptide cluster.",
+      "pkg:subject": {
+        "@id": "src:scs-bacillus-haimaensis-resource"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-bacillus-haimaensis-resource"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-carbonate-black-carbon",
+      "@type": "pkg:Claim",
+      "schema:text": "Depleted black-carbon carbon isotopes were consistent with a methane-related source; the model assigned a 2–33% microbial contribution in the analyzed carbonates.",
+      "pkg:subject": {
+        "@id": "src:scs-carbonate-black-carbon"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-carbonate-black-carbon"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shallow-mussel-seep-transplant",
+      "@type": "pkg:Claim",
+      "schema:text": "Exposed mussels acquired a microbiome richer in methanotrophs alongside host stress, immune and metabolic transcriptional changes.",
+      "pkg:subject": {
+        "@id": "src:scs-shallow-mussel-seep-transplant"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shallow-mussel-seep-transplant"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-microplastic-community-response",
+      "@type": "pkg:Claim",
+      "schema:text": "Culture time and original habitat shaped plastic-associated communities, whose inferred network structure and nitrogen/methane functions differed from environmental communities.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-microplastic-community-response"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:community-assembly"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-microplastic-community-response"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-sitef-carbonate-spatial-microbiomes",
+      "@type": "pkg:Claim",
+      "schema:text": "Active lobster-zone carbonates favored ANME-2c while mussel-zone carbonates favored ANME-1b; low-activity carbonate communities differed and more closely resembled nearby water.",
+      "pkg:subject": {
+        "@id": "src:scs-sitef-carbonate-spatial-microbiomes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-sitef-carbonate-spatial-microbiomes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-six-host-gills",
+      "@type": "pkg:Claim",
+      "schema:text": "Mussel and clam gills had relatively simple intracellular symbiont communities, whereas the other examined hosts carried more complex extracellular assemblages.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-six-host-gills"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-six-host-gills"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-yungan-tubeworm-microbes",
+      "@type": "pkg:Claim",
+      "schema:text": "The trunk library contained one dominant symbiont phylotype; surrounding habitats included ANME-1b and abundant sulfur-oxidizing lineages.",
+      "pkg:subject": {
+        "@id": "src:scs-yungan-tubeworm-microbes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-yungan-tubeworm-microbes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-plastic-aging",
+      "@type": "pkg:Claim",
+      "schema:text": "Stronger simulated seepage accelerated measured surface aging, particularly for PLA and sediment treatments, alongside changes in inorganic nutrients.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-plastic-aging"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:laboratory-incubation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-plastic-aging"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-pacbio-shortread-sediment-comparison",
+      "@type": "pkg:Claim",
+      "schema:text": "PacBio profiles yielded more classified taxa, especially at species level, and resolved additional fine-scale community differences.",
+      "pkg:subject": {
+        "@id": "src:scs-pacbio-shortread-sediment-comparison"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:amplicon-sequencing"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-pacbio-shortread-sediment-comparison"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-dom-water-enrichment",
+      "@type": "pkg:Claim",
+      "schema:text": "Bottom-water communities more closely resembled other water layers than sediments; different organic nutrient additions enriched different bacterial orders.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-dom-water-enrichment"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-water-column"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-dom-water-enrichment"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-effluviviacota-seep-genomes",
+      "@type": "pkg:Claim",
+      "schema:text": "Effluviviacota genomes encoded fermentative carbohydrate/peptide use and candidate extracellular electron-transfer systems, with differences among genera.",
+      "pkg:subject": {
+        "@id": "src:scs-effluviviacota-seep-genomes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:fermentation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-effluviviacota-seep-genomes"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-hwangdonia-lutea",
+      "@type": "pkg:Claim",
+      "schema:text": "The isolate was assigned to Hwangdonia lutea; its genome similarity to H. seohaensis was below the study's species thresholds.",
+      "pkg:subject": {
+        "@id": "src:scs-hwangdonia-lutea"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-hwangdonia-lutea"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-fontisubflavum-water-isolate",
+      "@type": "pkg:Claim",
+      "schema:text": "The 3.59-Mb isolate genome and polyphasic evidence supported the proposed new genus and species Fontisubflavum oceani.",
+      "pkg:subject": {
+        "@id": "src:scs-fontisubflavum-water-isolate"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-fontisubflavum-water-isolate"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-remirge-functional-phylogeny",
+      "@type": "pkg:Claim",
+      "schema:text": "Methane-, sulfur- and nitrogen-related gene clusters differed among sites and sediment depths, revealing variation obscured by conventional functional summaries.",
+      "pkg:subject": {
+        "@id": "src:scs-remirge-functional-phylogeny"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:shotgun-metagenomics"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-remirge-functional-phylogeny"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-minerals-microbes",
+      "@type": "pkg:Claim",
+      "schema:text": "Seep sediments contained abundant calcite and distinct microbial assemblages; sulfate, calcium and magnesium covaried with minerals and bacteria.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-minerals-microbes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-minerals-microbes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-archaeal-lipidome-seeps",
+      "@type": "pkg:Claim",
+      "schema:text": "Lipid inventories and archaeal communities differed with seepage; intact-polar lipid indices correlated with ANME distributions and methane-related geochemistry.",
+      "pkg:subject": {
+        "@id": "src:scs-archaeal-lipidome-seeps"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "taxon:anme"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-archaeal-lipidome-seeps"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-abyssisolibacter-m8s5",
+      "@type": "pkg:Claim",
+      "schema:text": "M8S5 encoded diverse carbohydrate/peptide-use pathways, anaerobic respiratory genes and incomplete histidine/proline biosynthesis.",
+      "pkg:subject": {
+        "@id": "src:scs-abyssisolibacter-m8s5"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-abyssisolibacter-m8s5"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-faunal-cs-cycling",
+      "@type": "pkg:Claim",
+      "schema:text": "ANME, sulfate reducers and sulfur oxidizers differed across aggregates, with aggregate-specific network patterns and sulfate/calcium associations.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-faunal-cs-cycling"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:community-assembly"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-faunal-cs-cycling"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-microeukaryotic-diversity",
+      "@type": "pkg:Claim",
+      "schema:text": "Seep habitats had greater regional microeukaryotic diversity and more parasitic-lineage indicators, including Apicomplexa and Syndiniales.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-microeukaryotic-diversity"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "realm:eukaryota"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-microeukaryotic-diversity"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-sulfur-dom",
+      "@type": "pkg:Claim",
+      "schema:text": "Seep porewater had more protein-like fluorescence, sulfur-bearing formulas and molecular indicators of relatively labile DOM than reference sediments.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-sulfur-dom"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-sulfur-dom"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-aom-biogeography",
+      "@type": "pkg:Claim",
+      "schema:text": "Sites formed distinct microbial clusters; cold-seep sediments had more functional-marker copies, while NC10 relative abundance was higher in the trough.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-aom-biogeography"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-aom-biogeography"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-extinct-haima-metabolism",
+      "@type": "pkg:Claim",
+      "schema:text": "The extinct seep retained distinctive bacterial assemblages and diverse carbon, nitrogen and sulfur metabolic potential despite cessation of visible seep activity.",
+      "pkg:subject": {
+        "@id": "src:scs-extinct-haima-metabolism"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-extinct-haima-metabolism"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-qiongdongnan-thermogenic-hydrates",
+      "@type": "pkg:Claim",
+      "schema:text": "Hydrate-bearing layers had higher microbial abundance but lower diversity, and archaeal composition changed sharply along the core.",
+      "pkg:subject": {
+        "@id": "src:scs-qiongdongnan-thermogenic-hydrates"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:hydrate-bearing-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-qiongdongnan-thermogenic-hydrates"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-oil-degrading-isolates",
+      "@type": "pkg:Claim",
+      "schema:text": "Seven isolates degraded oil in laboratory tests; degradation differed between crude oil, diesel and alkane chain-length classes.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-oil-degrading-isolates"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:hydrocarbon-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-oil-degrading-isolates"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-srb-zero-valent-sulfur",
+      "@type": "pkg:Claim",
+      "schema:text": "CS1 produced zero-valent sulfur from thiosulfate; PhsA reduction followed by SQR-mediated sulfide oxidation supported the tested pathway.",
+      "pkg:subject": {
+        "@id": "src:scs-srb-zero-valent-sulfur"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:sulfur-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-srb-zero-valent-sulfur"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-sitef-horizontal-vertical-sediment",
+      "@type": "pkg:Claim",
+      "schema:text": "Southern and northern reduced sediments differed in ANME clades and sulfate-reducer assemblages, with proposed transition zones near 8 and 10 cm, respectively.",
+      "pkg:subject": {
+        "@id": "src:scs-sitef-horizontal-vertical-sediment"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-sitef-horizontal-vertical-sediment"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haiyang4-tetraether-lipids",
+      "@type": "pkg:Claim",
+      "schema:text": "Lipid indices shifted in the sulfate–methane transition, consistent with changing contributions from methane-related and ammonia-oxidizing archaea.",
+      "pkg:subject": {
+        "@id": "src:scs-haiyang4-tetraether-lipids"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "realm:archaea"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haiyang4-tetraether-lipids"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-bivalve-lipid-nutrition",
+      "@type": "pkg:Claim",
+      "schema:text": "Methanotroph-hosting and thiotroph-hosting bivalves had distinct lipid signatures; matching host/symbiont isotope patterns supported substantial symbiont-derived nutrition.",
+      "pkg:subject": {
+        "@id": "src:scs-bivalve-lipid-nutrition"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-bivalve-lipid-nutrition"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-six-carbon-fixation-pathways",
+      "@type": "pkg:Claim",
+      "schema:text": "Genes representing six carbon-fixation pathways were detected; rTCA was widespread and Wood–Ljungdahl pathway genes were concentrated in seep sediments.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-six-carbon-fixation-pathways"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:carbon-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-six-carbon-fixation-pathways"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-microeukaryote-biogeography",
+      "@type": "pkg:Claim",
+      "schema:text": "SAR lineages dominated; seep communities differed from the trough and contained many lineages related to parasitic or symbiotic taxa.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-microeukaryote-biogeography"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "realm:eukaryota"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-microeukaryote-biogeography"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-formosa-betaine-methanogenesis",
+      "@type": "pkg:Claim",
+      "schema:text": "A bacterial–archaeal coculture converted glycine betaine to methane; dimethylglycine addition was required for the tested 4°C coculture.",
+      "pkg:subject": {
+        "@id": "src:scs-formosa-betaine-methanogenesis"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:methanogenesis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-formosa-betaine-methanogenesis"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-mussel-sulfide-detoxification",
+      "@type": "pkg:Claim",
+      "schema:text": "Seep–vent differences and sulfide exposure involved host and symbiont sulfur-oxidation transcripts, including sqr, consistent with multiple detoxification components.",
+      "pkg:subject": {
+        "@id": "src:scs-mussel-sulfide-detoxification"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-mussel-sulfide-detoxification"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-acpsf1-archaeal-marker",
+      "@type": "pkg:Claim",
+      "schema:text": "aCPSF1 clustering broadly agreed with established archaeal phylogenies and gave finer lower-rank resolution; the seep comparison produced similar diversity patterns.",
+      "pkg:subject": {
+        "@id": "src:scs-acpsf1-archaeal-marker"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:phylogenetics"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-acpsf1-archaeal-marker"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-methane-derived-doc",
+      "@type": "pkg:Claim",
+      "schema:text": "Seep porewater had high DOC and strongly depleted carbon isotopes, together with more protein-like fluorescence, supporting a methane-related DOC contribution.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-methane-derived-doc"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-methane-derived-doc"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-iocasia-carbohydrate-fermentation",
+      "@type": "pkg:Claim",
+      "schema:text": "NS-1 used multiple tested carbohydrates and produced hydrogen and organic fermentation products, providing a cultivable model of seep carbohydrate processing.",
+      "pkg:subject": {
+        "@id": "src:scs-iocasia-carbohydrate-fermentation"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:fermentation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-iocasia-carbohydrate-fermentation"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-psychrosphaera-ytuae",
+      "@type": "pkg:Claim",
+      "schema:text": "The proposed Psychrosphaera ytuae grew from 4–40°C under tested conditions and carried a 3.33-Mb chromosome.",
+      "pkg:subject": {
+        "@id": "src:scs-psychrosphaera-ytuae"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-psychrosphaera-ytuae"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-bacillus-fonticola",
+      "@type": "pkg:Claim",
+      "schema:text": "Phenotypic and phylogenetic evidence supported Bacillus fonticola; tested growth occurred at 16–37°C and 0–8% NaCl.",
+      "pkg:subject": {
+        "@id": "src:scs-bacillus-fonticola"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-bacillus-fonticola"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-aom-without-anme",
+      "@type": "pkg:Claim",
+      "schema:text": "Incubations showed methane oxidation and production despite no detected classical ANME sequences in the sampled sediments.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-aom-without-anme"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-aom-without-anme"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-artificial-seep-biocoenosis",
+      "@type": "pkg:Claim",
+      "schema:text": "Bacteria and archaea colonized before observed jellyfish and amphipods; viruses were also detected in the constructed community.",
+      "pkg:subject": {
+        "@id": "src:scs-artificial-seep-biocoenosis"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:primary-succession"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-artificial-seep-biocoenosis"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-bivalve-gill-markers",
+      "@type": "pkg:Claim",
+      "schema:text": "Both hosts were dominated by Gammaproteobacteria but differed in bacterial diversity and composition, with distinct predicted functional profiles.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-bivalve-gill-markers"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-bivalve-gill-markers"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-methanofollis-fontis-isolate",
+      "@type": "pkg:Claim",
+      "schema:text": "The proposed Methanofollis fontis used formate or H2/CO2, whereas tested acetate, alcohol and methylamine substrates did not support methanogenesis.",
+      "pkg:subject": {
+        "@id": "src:scs-methanofollis-fontis-isolate"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:methanogenesis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-methanofollis-fontis-isolate"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-n-damo-potential",
+      "@type": "pkg:Claim",
+      "schema:text": "Methylomirabilis/Methanoperedens signals and related genes supported potential nitrate/nitrite-linked methane oxidation in some sampled habitats.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-n-damo-potential"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:nitrogen-methane-coupling"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-n-damo-potential"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-nitrincola-iocasae",
+      "@type": "pkg:Claim",
+      "schema:text": "A 4.17-Mb genome and polyphasic evidence supported Nitrincola iocasae as a distinct species.",
+      "pkg:subject": {
+        "@id": "src:scs-nitrincola-iocasae"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-nitrincola-iocasae"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-carbonate-phosphorus-speciation",
+      "@type": "pkg:Claim",
+      "schema:text": "Calcium-bound P was the largest fraction; spatial and elemental associations supported multiple mineral and organic P retention pathways.",
+      "pkg:subject": {
+        "@id": "src:scs-carbonate-phosphorus-speciation"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:phosphorus-cycling"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-carbonate-phosphorus-speciation"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-erythrobacter-thiosulfate-pathway",
+      "@type": "pkg:Claim",
+      "schema:text": "The tested bacterium converted thiosulfate to zero-valent sulfur through TsdA/SoxB-associated steps, with Sdo proteins involved in further oxidation.",
+      "pkg:subject": {
+        "@id": "src:scs-erythrobacter-thiosulfate-pathway"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:sulfur-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-erythrobacter-thiosulfate-pathway"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-formosa-sulfurovum-interface",
+      "@type": "pkg:Claim",
+      "schema:text": "Sulfurovum dominated sampled interface communities; a reconstructed genome supported rTCA carbon fixation, sulfur oxidation and nitrate-utilization potential.",
+      "pkg:subject": {
+        "@id": "src:scs-formosa-sulfurovum-interface"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:sulfur-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-formosa-sulfurovum-interface"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-jiaolong-vertical-prokaryotes",
+      "@type": "pkg:Claim",
+      "schema:text": "Surface layers favored sulfur oxidizers and ANME-1, whereas deeper layers favored sulfate reducers and ANME-1/2; sulfur/nitrate genes covaried near the surface.",
+      "pkg:subject": {
+        "@id": "src:scs-jiaolong-vertical-prokaryotes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-jiaolong-vertical-prokaryotes"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-mussel-methane-maintenance",
+      "@type": "pkg:Claim",
+      "schema:text": "Symbiont abundance declined during maintenance; decline was greater without methane at days 24 and 34.",
+      "pkg:subject": {
+        "@id": "src:scs-mussel-methane-maintenance"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-mussel-methane-maintenance"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-global-seep-diazotroph-genomes",
+      "@type": "pkg:Claim",
+      "schema:text": "Nitrogenase genes occurred across more archaeal/bacterial lineages and energy metabolisms than ANME–SRB alone, expanding the genomic catalogue of potential seep diazotrophs.",
+      "pkg:subject": {
+        "@id": "src:scs-global-seep-diazotroph-genomes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:nitrogen-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-global-seep-diazotroph-genomes"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-dna-rna-viral-carbon",
+      "@type": "pkg:Claim",
+      "schema:text": "Nascent-seep viral communities differed from other habitats, including more RNA/temperate-virus signals; viral metabolic genes showed transcription consistent with possible organic-matter functions.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-dna-rna-viral-carbon"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "realm:viruses"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-dna-rna-viral-carbon"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-sitef-mussel-phage-expression",
+      "@type": "pkg:Claim",
+      "schema:text": "Viral profiles differed among methane habitats; expressed phage contigs and shared gene signatures supported candidate associations with the gill symbionts.",
+      "pkg:subject": {
+        "@id": "src:scs-sitef-mussel-phage-expression"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "realm:viruses"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-sitef-mussel-phage-expression"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-twilight-particle-size-microbiomes",
+      "@type": "pkg:Claim",
+      "schema:text": "Particle size and depth were associated with distinct communities and carbohydrate-degradation gene inventories; smaller fractions had lower diversity but more carbon-degradation genes.",
+      "pkg:subject": {
+        "@id": "src:scs-twilight-particle-size-microbiomes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-water-column"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-twilight-particle-size-microbiomes"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-jiulong-uncultivated-lineages",
+      "@type": "pkg:Claim",
+      "schema:text": "Nine phyla included uncultivated archaeal/bacterial lineages with carbon-fixation, organic-substrate use and nutrient-reduction potential; several pathway genes were transcribed.",
+      "pkg:subject": {
+        "@id": "src:scs-jiulong-uncultivated-lineages"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:carbon-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-jiulong-uncultivated-lineages"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-carbonate-fossil-microbial-genomes",
+      "@type": "pkg:Claim",
+      "schema:text": "Carbonates preserved ANME and aerobic ammonia-oxidizer signals with community composition distinct from sediment; degradation differed among samples.",
+      "pkg:subject": {
+        "@id": "src:scs-carbonate-fossil-microbial-genomes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-carbonate-fossil-microbial-genomes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-organotrophic-chitin",
+      "@type": "pkg:Claim",
+      "schema:text": "Many prevalent MAGs encoded organic-substrate use and elemental-cycling genes; a selected chitinase retained structure and showed enhanced activity under the tested pressure/temperature.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-organotrophic-chitin"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chitin-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-organotrophic-chitin"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-arsenic-methane",
+      "@type": "pkg:Claim",
+      "schema:text": "Seep arsenic enrichment was mainly sulfide bound; methane-related geochemistry and co-occurring arrA/dsrA genes supported linked arsenic–sulfur–methane potential.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-arsenic-methane"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:trace-metal-cycling"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-arsenic-methane"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-deep-core-community",
+      "@type": "pkg:Claim",
+      "schema:text": "Microbial diversity declined with sediment depth and composition changed around geochemical transitions, including the approximately 70-cm interval.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-deep-core-community"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-deep-core-community"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-curvularia-genome-led-metabolites",
+      "@type": "pkg:Claim",
+      "schema:text": "Culture manipulation yielded six previously undescribed cytochalasans; selected compounds showed antimicrobial or seedling-radicle inhibition in laboratory tests.",
+      "pkg:subject": {
+        "@id": "src:scs-curvularia-genome-led-metabolites"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-curvularia-genome-led-metabolites"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-alternaria-wood-meroterpenoids",
+      "@type": "pkg:Claim",
+      "schema:text": "Three new meroterpenoids were characterized alongside known congeners; selected products inhibited the tested Klebsiella and resistant Staphylococcus strains.",
+      "pkg:subject": {
+        "@id": "src:scs-alternaria-wood-meroterpenoids"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-alternaria-wood-meroterpenoids"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-aspergillus-subversicolor-phenols",
+      "@type": "pkg:Claim",
+      "schema:text": "New phenol derivatives were characterized, but the reported screening found no obvious activity in the tested assays.",
+      "pkg:subject": {
+        "@id": "src:scs-aspergillus-subversicolor-phenols"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-aspergillus-subversicolor-phenols"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-aspergillus-fumitremorgin",
+      "@type": "pkg:Claim",
+      "schema:text": "A new fumitremorgin-related derivative was reported; selected other isolated compounds showed antibacterial or enzyme-inhibitory activity.",
+      "pkg:subject": {
+        "@id": "src:scs-aspergillus-fumitremorgin"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-aspergillus-fumitremorgin"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-trichoderma-lipids-terpenoids",
+      "@type": "pkg:Claim",
+      "schema:text": "Five new lipids and two known terpenoids were identified; selected compounds inhibited the tested wheat-pathogenic fungi.",
+      "pkg:subject": {
+        "@id": "src:scs-trichoderma-lipids-terpenoids"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-trichoderma-lipids-terpenoids"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-talaromyces-saha-metabolites",
+      "@type": "pkg:Claim",
+      "schema:text": "SAHA-treated cultures yielded seven new highly oxygenated products and altered metabolite profiles; one selected azaphilone inhibited tested agricultural fungi.",
+      "pkg:subject": {
+        "@id": "src:scs-talaromyces-saha-metabolites"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-talaromyces-saha-metabolites"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-talaromyces-inflammatory-assays",
+      "@type": "pkg:Claim",
+      "schema:text": "A new alkaloid and known compounds were isolated; several products inhibited NO signals, and a selected compound altered LPS-associated cytokine responses.",
+      "pkg:subject": {
+        "@id": "src:scs-talaromyces-inflammatory-assays"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-talaromyces-inflammatory-assays"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-curvularia-cytochalasin-2022",
+      "@type": "pkg:Claim",
+      "schema:text": "Two new cytochalasin derivatives and a newly reported natural product were characterized from the cultured fungus.",
+      "pkg:subject": {
+        "@id": "src:scs-curvularia-cytochalasin-2022"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-curvularia-cytochalasin-2022"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-penicillium-verrucosidins",
+      "@type": "pkg:Claim",
+      "schema:text": "Six new verrucosidin derivatives were characterized and exhibited activity against selected test pathogens, with reported MICs of 4–32 μg/mL.",
+      "pkg:subject": {
+        "@id": "src:scs-penicillium-verrucosidins"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-penicillium-verrucosidins"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-curvularia-cytochalasin-2021",
+      "@type": "pkg:Claim",
+      "schema:text": "New cytochalasin structures included a thioether-linked dimer; selected compounds showed antibacterial or tumor-cell cytotoxicity in vitro.",
+      "pkg:subject": {
+        "@id": "src:scs-curvularia-cytochalasin-2021"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-curvularia-cytochalasin-2021"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-eps364-bacterial-polysaccharide",
+      "@type": "pkg:Claim",
+      "schema:text": "A phosphorylated, β-linked polysaccharide was characterized and altered Huh7.5 cell growth, adhesion and apoptosis-related responses.",
+      "pkg:subject": {
+        "@id": "src:scs-eps364-bacterial-polysaccharide"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-eps364-bacterial-polysaccharide"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-bacillus-n11-polysaccharide-genome",
+      "@type": "pkg:Claim",
+      "schema:text": "The isolate had a 4,497,340-bp circular genome containing candidate polysaccharide-degradation genes.",
+      "pkg:subject": {
+        "@id": "src:scs-bacillus-n11-polysaccharide-genome"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-bacillus-n11-polysaccharide-genome"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-qiongdongnan-black-carbon-core",
+      "@type": "pkg:Claim",
+      "schema:text": "Strong isotope depletion supported a methane-related black-carbon component, estimated at 31–43% of sedimentary black carbon during the reconstructed active period.",
+      "pkg:subject": {
+        "@id": "src:scs-qiongdongnan-black-carbon-core"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-qiongdongnan-black-carbon-core"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-seep-magnetotactic-bacteria",
+      "@type": "pkg:Claim",
+      "schema:text": "Magnetotactic bacterial signals were diverse and widespread in seep datasets; genomes suggested iron/sulfur metabolism potentially associated with methane cycling.",
+      "pkg:subject": {
+        "@id": "src:scs-seep-magnetotactic-bacteria"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:trace-metal-cycling"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-seep-magnetotactic-bacteria"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-methanochimaera-problematica",
+      "@type": "pkg:Claim",
+      "schema:text": "The proposed Methanochimaera problematica used H2/CO2 or formate for methane production and required yeast extract under tested culture conditions.",
+      "pkg:subject": {
+        "@id": "src:scs-methanochimaera-problematica"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:methanogenesis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-methanochimaera-problematica"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-long-term-incubation",
+      "@type": "pkg:Claim",
+      "schema:text": "Methane transformations persisted despite undetected classical ANME and declining SEEP-SRB1; community shifts left the responsible unconventional lineages unresolved.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-long-term-incubation"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-long-term-incubation"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-jiaolong-anme-metabolic-diversity",
+      "@type": "pkg:Claim",
+      "schema:text": "ANME genomes contained methane/carbon pathways and candidate organic-carbon biosynthesis routes, including a transcriptionally supported propanoate pathway.",
+      "pkg:subject": {
+        "@id": "src:scs-jiaolong-anme-metabolic-diversity"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "taxon:anme"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-jiaolong-anme-metabolic-diversity"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-aequorivita-iocasae",
+      "@type": "pkg:Claim",
+      "schema:text": "The facultatively anaerobic strain represented Aequorivita iocasae and grew optimally at 3–6% NaCl under tested conditions.",
+      "pkg:subject": {
+        "@id": "src:scs-aequorivita-iocasae"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-aequorivita-iocasae"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-marinobacter-fonticola",
+      "@type": "pkg:Claim",
+      "schema:text": "Evidence supported Marinobacter fonticola; tested growth spanned 4–40°C, pH 5–11 and 0–19% NaCl.",
+      "pkg:subject": {
+        "@id": "src:scs-marinobacter-fonticola"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-marinobacter-fonticola"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-asgard-spatial-genomes",
+      "@type": "pkg:Claim",
+      "schema:text": "Asgard genomes were more frequently detected at the seep; candidate Gerdarchaeota encoded Wood–Ljungdahl and organic-substrate processing potential.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-asgard-spatial-genomes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "realm:archaea"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-asgard-spatial-genomes"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-heimdallarchaeia-genomes",
+      "@type": "pkg:Claim",
+      "schema:text": "The MAGs encoded diverse carbon and nitrogen pathways plus oxygen-associated genes, supporting a hypothesis of metabolically flexible Heimdallarchaeia.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-heimdallarchaeia-genomes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "realm:archaea"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-heimdallarchaeia-genomes"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-mussel-seep-vent-host-microbe-response",
+      "@type": "pkg:Claim",
+      "schema:text": "Host transcription and symbiont pathway inventories differed by ecosystem and tissue, including stress defense and sulfur/energy metabolism.",
+      "pkg:subject": {
+        "@id": "src:scs-mussel-seep-vent-host-microbe-response"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-mussel-seep-vent-host-microbe-response"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-plume-fate",
+      "@type": "pkg:Claim",
+      "schema:text": "Observed bubbles reached near the hydrate-stability upper boundary, while dissolved methane decreased by 1–2 orders within 20–40 m above vents.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-plume-fate"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-water-column"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-plume-fate"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-methane-water-porewater",
+      "@type": "pkg:Claim",
+      "schema:text": "Methane distributions varied spatially and vertically and covaried with distinct water-column and sediment geochemical variables.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-methane-water-porewater"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-water-column"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-methane-water-porewater"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-formosa-tidal-methane-monitoring",
+      "@type": "pkg:Claim",
+      "schema:text": "Gas emissions varied through time and closely tracked tidal bottom-pressure fluctuations.",
+      "pkg:subject": {
+        "@id": "src:scs-formosa-tidal-methane-monitoring"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:in-situ-monitoring"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-formosa-tidal-methane-monitoring"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-photoacoustic-methane-sensor",
+      "@type": "pkg:Claim",
+      "schema:text": "The compact instrument measured dissolved methane during deployment; laboratory spectrometer tests reported a 0.21-ppm detection limit and approximately four-minute system response.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-photoacoustic-methane-sensor"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:in-situ-monitoring"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-photoacoustic-methane-sensor"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-nutrients-chlorophyll",
+      "@type": "pkg:Claim",
+      "schema:text": "Phosphate and chlorophyll were higher over sampled seeps than controls within an otherwise low-nutrient, low-chlorophyll setting.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-nutrients-chlorophyll"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-water-column"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-nutrients-chlorophyll"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-video-bubble-flux",
+      "@type": "pkg:Claim",
+      "schema:text": "The observed vents differed in bubble-size distributions and inferred gas-volume flux, demonstrating strong vent-scale variability.",
+      "pkg:subject": {
+        "@id": "src:scs-video-bubble-flux"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:in-situ-monitoring"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-video-bubble-flux"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-lingtou-coastal-methane",
+      "@type": "pkg:Claim",
+      "schema:text": "Dissolved methane showed large spatial variation and generally stronger bottom-water enrichment; isotopes supported mixed biogenic and thermogenic sources.",
+      "pkg:subject": {
+        "@id": "src:scs-lingtou-coastal-methane"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-water-column"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-lingtou-coastal-methane"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-qiongdongnan-iron-bound-carbon",
+      "@type": "pkg:Claim",
+      "schema:text": "Iron-bound carbon fractions generally decreased in methane-rich sediments, while isotope estimates indicated retention of some methane-related organic carbon.",
+      "pkg:subject": {
+        "@id": "src:scs-qiongdongnan-iron-bound-carbon"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:trace-metal-cycling"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-qiongdongnan-iron-bound-carbon"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-pfas-core-occurrence",
+      "@type": "pkg:Claim",
+      "schema:text": "Quantified PFAS sums ranged from 0.13–6.12 ng/g dry weight, with strong station-level compositional heterogeneity.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-pfas-core-occurrence"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-pfas-core-occurrence"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-microplastic-occurrence",
+      "@type": "pkg:Claim",
+      "schema:text": "Microplastics occurred in all sampled media, with counts reported in separate units for water, sediment and individual animals.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-microplastic-occurrence"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-microplastic-occurrence"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-arsenic-speciation-incubation",
+      "@type": "pkg:Claim",
+      "schema:text": "Sulfide-bound arsenic dominated the solid pool; porewater iron/arsenic correlations and incubations supported multiple retention/removal processes.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-arsenic-speciation-incubation"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:trace-metal-cycling"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-arsenic-speciation-incubation"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-formosa-raman-fluid-chemistry",
+      "@type": "pkg:Claim",
+      "schema:text": "Vent/fluid measurements detected methane and other reduced gases; community-fluid depth profiles showed sulfate depletion and methane/elemental-sulfur changes.",
+      "pkg:subject": {
+        "@id": "src:scs-formosa-raman-fluid-chemistry"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:geochemistry"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-formosa-raman-fluid-chemistry"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-bivalve-fatty-acid-genes",
+      "@type": "pkg:Claim",
+      "schema:text": "Duplicated host desaturases had different substrate specificities, including tested conversion of bacterial-type monounsaturated fatty acid substrates.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-bivalve-fatty-acid-genes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-bivalve-fatty-acid-genes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-streptomyces-shovelmycins",
+      "@type": "pkg:Claim",
+      "schema:text": "Two new thiodiketopiperazines and an ansamycin derivative were characterized; individual products showed assay-specific antioxidant or cytotoxic signals.",
+      "pkg:subject": {
+        "@id": "src:scs-streptomyces-shovelmycins"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-streptomyces-shovelmycins"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-organic-matter-pyrolysis",
+      "@type": "pkg:Claim",
+      "schema:text": "Biomarkers indicated mixed marine/terrestrial/reworked organic sources and a deep-reservoir hydrocarbon contribution; local deposited organic matter had low generation potential.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-organic-matter-pyrolysis"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:hydrate-bearing-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-organic-matter-pyrolysis"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-hydrate-biomarkers",
+      "@type": "pkg:Claim",
+      "schema:text": "Unresolved hydrocarbon mixtures and 25-norhopane supported prior biodegradation; the study did not identify a specific methanogen biomarker.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-hydrate-biomarkers"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:hydrate-bearing-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-hydrate-biomarkers"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-west-haima-methane-transport-model",
+      "@type": "pkg:Claim",
+      "schema:text": "Models favored AOM sustained by external free-gas dissolution and variable methane flux histories rather than local methanogenesis alone.",
+      "pkg:subject": {
+        "@id": "src:scs-west-haima-methane-transport-model"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-west-haima-methane-transport-model"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-manganese-micronodules",
+      "@type": "pkg:Claim",
+      "schema:text": "Porous Mn-rich micronodules contained phyllomanganates and microbial-like textures, consistent with mixed mineralization processes supplied by seep fluids.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-manganese-micronodules"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:trace-metal-cycling"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-manganese-micronodules"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-mussel-muscle-recovery-transcripts",
+      "@type": "pkg:Claim",
+      "schema:text": "Recovery was accompanied by extensive host transcriptional differences, including protein-processing and metabolic pathways.",
+      "pkg:subject": {
+        "@id": "src:scs-mussel-muscle-recovery-transcripts"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:host-transcriptomics"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-mussel-muscle-recovery-transcripts"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-dongsha-phytoplankton-drilling",
+      "@type": "pkg:Claim",
+      "schema:text": "Phosphate/chlorophyll increased between surveys while phytoplankton abundance did not change significantly; methane showed no significant direct association in the reported analysis.",
+      "pkg:subject": {
+        "@id": "src:scs-dongsha-phytoplankton-drilling"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-water-column"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-dongsha-phytoplankton-drilling"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-hydrate-geophysics-2026",
+      "@type": "pkg:Claim",
+      "schema:text": "Gas chimneys, reflectors, pockmarks and ROV hydrate observations supported a connected deep-fluid and shallow seep/hydrate system.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-hydrate-geophysics-2026"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:hydrate-bearing-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-hydrate-geophysics-2026"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-new-plume-field",
+      "@type": "pkg:Claim",
+      "schema:text": "Ten tilted, flame-shaped plumes were identified, often in pairs, providing evidence of active gas release at the surveyed field.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-new-plume-field"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-bottom-water"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-new-plume-field"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-hydrate-fluid-self-sealing-model",
+      "@type": "pkg:Claim",
+      "schema:text": "The model linked lateral fluid-advection differences to hydrate/free-gas zonation and proposed carbonate-mediated weakening of seep conduits.",
+      "pkg:subject": {
+        "@id": "src:scs-hydrate-fluid-self-sealing-model"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:hydrate-bearing-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-hydrate-fluid-self-sealing-model"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-hydrate-seep-system-review",
+      "@type": "pkg:Claim",
+      "schema:text": "The synthesis linked variable seep/hydrate occurrence to deep fluid pathways, including faults, chimneys and diapirs, with mixed gas sources.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-hydrate-seep-system-review"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:hydrate-bearing-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-hydrate-seep-system-review"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-gill-metal-symbiosis",
+      "@type": "pkg:Claim",
+      "schema:text": "The gill had methanotroph-dominated bacterial profiles and distinct host immune/stress expression, together with greater metal accumulation and antioxidant responses.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-gill-metal-symbiosis"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-gill-metal-symbiosis"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-toxicocladosporium-diketopiperazines",
+      "@type": "pkg:Claim",
+      "schema:text": "A new bridged diketopiperazine and two newly reported natural products were identified; antioxidant/antibacterial activity was observed in selected known co-isolated compounds.",
+      "pkg:subject": {
+        "@id": "src:scs-toxicocladosporium-diketopiperazines"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-toxicocladosporium-diketopiperazines"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-aspergillus-emestrin-products",
+      "@type": "pkg:Claim",
+      "schema:text": "Three new and three known emestrin-type compounds were characterized; activity depended on compound and assay, with the strongest reported cytotoxicity in a known analogue.",
+      "pkg:subject": {
+        "@id": "src:scs-aspergillus-emestrin-products"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:cultivation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-aspergillus-emestrin-products"
       },
       "pkg:evidenceType": "reported",
       "pkg:confidence": "moderate"

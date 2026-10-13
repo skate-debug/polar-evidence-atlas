@@ -34,25 +34,32 @@ The repository deliberately separates **curated evidence** from **automatically 
 - `config/collections.json` — bilingual collection, compartment, topic, and site taxonomy.
 - `data/public/cold_seep_candidates.json` — abstract-free ten-year SCS literature inventory; automatic tags remain provisional until source review.
 - `dist/cold-seep-literature.csv` — sortable literature inventory with DOI, site, compartment, topic, publication stage, and review status.
-- `references/cold-seep-literature-apa7.md` — APA 7 references for the SCS inventory.
+- `data/cold_seep_reviews.json` — persistent SCS screening and source-review decisions, with access level, rationale, evidence link, and next action.
+- `dist/cold-seep-review-summary.md` and `dist/cold-seep-review.csv` — the source-review audit and remaining work queue.
+- `dist/cold-seep-evidence-profiles.md` — all curated SCS profiles in bilingual Markdown, with study-specific citation limits.
+- `references/cold-seep-curated-apa7.md` — APA 7 references for curated SCS studies; `references/cold-seep-literature-apa7.md` also includes the screened inventory, notices, and preprints.
 - `article/south-china-sea-cold-seep-guide.md` — bilingual scope, classification, evidence guide, and update instructions.
 
 The polar collection prioritizes 2024–2026 literature and retains older mechanistic baselines. The SCS collection covers a rolling ten years: 12 October 2016 through 12 October 2026 for this release. Discovery uses first publication date; citations use the version-of-record bibliographic year. Global comparison studies enter the SCS collection only when SCS sampling is documented.
 
 ## Current snapshot
 
-- 106 curated source profiles: 72 polar papers and 34 new SCS seep studies
-- 125 atomic evidence claims, with every curated paper represented
-- 299 controlled concepts; exact generated node and edge totals are available in `dist/graph.json`
-- 260 SCS discovery-inventory records, including 5 explicitly labeled preprints; 34 have source-scoped evidence profiles and 226 await source review
-- 138 inventory records have a provisional microbial-priority tag, including all 34 curated studies
-- Six sampling compartments and fourteen microbial/environmental research themes, with independent site filters
-- 161 automatically discovered candidates in the fully screened current snapshot: 12 retained for verification, 10 classified as background or methods references, 12 deferred pending full-text extraction or scope expansion, and 127 excluded
-- Across the persistent current-and-archived review ledger, 27 retained candidates have verification packets: 14 have been full-text checked and promoted into the curated graph, 1 has an official publisher page checked, and 12 have DOI metadata and abstracts checked, leaving 13 held for deeper full-text extraction
+Source-review update: **13 October 2026**; discovery window: **12 October 2016–12 October 2026**.
+
+- 232 curated source profiles: 72 polar papers and 160 SCS studies, including 126 SCS profiles added in this review batch
+- 251 evidence claims, with every curated paper represented
+- 305 controlled concepts; exact generated node and edge totals are available in `dist/graph.json`
+- 301 unique SCS inventory DOI records with independently retrieved bibliographic metadata, including 9 labeled preprints and 3 correction notices; DOI records are not a count of independent studies
+- All 301 inventory records have a screening or review decision: 160 curated, 49 awaiting supporting source text, 70 screened as context, 12 excluded, 3 linked correction notices, and 7 awaiting publication-version checks
+- Of the 160 curated SCS profiles, 122 are limited to abstract evidence and 38 draw on inspected full-text passages; full-text passages do not imply every figure or supplement was reviewed
+- 155 inventory records have a provisional microbial-priority tag; thematic tags overlap and are not additive paper counts
+- Eight compartment labels, including explicit categories for unreported sampling medium and wood/organic substrates, and fourteen microbial/environmental themes
+- The original polar queue remains separate: 161 screened current candidates, with 12 retained for verification, 10 background/methods references, 12 deferred, and 127 excluded
+- Across the polar current-and-archived review ledger, 27 retained candidates have verification packets: 14 full-text checked and promoted, 1 publisher page checked, and 12 DOI/abstract checked
 
 Domain labels intentionally overlap: a paper about viruses beneath an ice shelf can contribute simultaneously to the Antarctic-virus, Antarctic-prokaryote, and polar-Earth-system views.
 
-The SCS inventory combines Europe PMC title/abstract searches with Crossref publisher metadata. It is a reproducible first search pass, not a claim of complete systematic-review coverage. Discovery tags are automatic classifications. Curated profiles state whether the evidence was checked in an abstract or in accessible full-text extracts. Month/year-only publication dates retain their original precision and are accepted only when their entire possible date interval falls inside the window.
+The SCS inventory combines five Europe PMC queries, thirteen Crossref searches, and an explicit supplementary DOI list for studies whose SCS sampling is documented in the paper. It is a cumulative discovery inventory, not a completed systematic review. Uncurated discovery tags remain provisional; curated classifications follow inspected source material. Month/year-only publication dates retain their original precision and are accepted only when their entire possible date interval falls inside the window.
 
 ## Quick start
 
@@ -84,6 +91,9 @@ make update-cold-seeps
 # Independently refresh DOI metadata and regenerate the APA 7 inventory.
 python3 scripts/export_cold_seep_references.py --verify
 
+# Export the SCS review queue and bilingual evidence profiles.
+make cold-seep-review-report
+
 # Preview the discovery and archive changes without writing candidate files.
 make update-dry-run
 
@@ -109,6 +119,8 @@ python3 scripts/update_cold_seep_candidates.py --since 2016-10-12 --until 2026-1
 ```
 
 Review decisions are stored separately in `data/candidate_reviews.json`, so rerunning discovery does not overwrite them. Detailed verification packets are stored in `data/candidate_verifications.json`; they explicitly distinguish full-text checks from publisher-page or abstract-only checks. `data/candidate_archive.json` preserves records that disappear from a later bounded search or are promoted into the curated collection. Candidate identifiers are reused across refreshes by DOI or normalized title, and the discovery script records first-seen, last-seen, and discovery-run provenance. `dist/candidate-review.csv` is the sortable review sheet and `dist/candidate-review-summary.md` is the human-readable audit. Newly discovered records appear as unreviewed until a corresponding ledger entry is added.
+
+For SCS reviews, edit explicit bilingual evidence packets in `config/cold_seep_reviewed.json` and non-curated decisions in `config/cold_seep_review_decisions.json` after inspecting the relevant source. `python3 scripts/inspect_cold_seep_sources.py --pending --skip-cached` retrieves available material into the ignored local research cache; retrieval itself is not a review. `python3 scripts/curate_cold_seep_reviews.py` materializes new packets and persistent decisions. Use `--refresh` only when intentionally updating the existing packet-derived profiles. Then run `python3 scripts/update_cold_seep_candidates.py --reclassify`, `make translations`, and `make all`. Cumulative discovery retains previously found records within the window, even if a later bounded search ranks them below its retrieval limit. Correction notices and unresolved preprints retain separate audit statuses.
 
 Before committing an updated release, regenerate and check the rights-conscious public snapshots:
 

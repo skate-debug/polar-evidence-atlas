@@ -35,7 +35,7 @@
     "detailBody", "freshness", "toast", "brandHome", "metaDescription", "activeFilterBar",
     "activeFilterChips", "clearAllFilters", "openCommand", "commandScrim", "commandDialog",
     "commandInput", "commandResults", "commandPreview",
-    "librarySearch", "libraryCompartment", "libraryTopic", "librarySite", "libraryPriority", "libraryCount", "libraryRows", "libraryWindow",
+    "librarySearch", "libraryCompartment", "libraryTopic", "librarySite", "libraryPriority", "libraryReview", "libraryCount", "libraryRows", "libraryWindow",
   ];
   const els = Object.fromEntries(ids.map(id => [id, document.getElementById(id)]));
   const themeButtons = [...document.querySelectorAll("[data-theme-choice]")];
@@ -209,6 +209,7 @@
       replaceOptions(control, [[t(allKey), ""], ...(data.taxonomy?.[group] || []).map(item => [taxonomyLabel(group, item.id), item.id])]);
     }
     replaceOptions(els.libraryPriority, [[t("all_priorities"), ""], [t("microbial_priority"), "microbial"], [t("context_priority"), "context"]]);
+    replaceOptions(els.libraryReview, [[t("all_review_statuses"), ""], ...["curated", "awaiting_source_review", "awaiting_source_text", "screened_context", "excluded", "linked_notice", "version_check"].map(status => [t("review_" + status), status])]);
     replaceOptions(els.domainFilter, [
       [t("all_areas"), ""],
       ...data.domains.map(domain => [mappedLabel("domains", domain), domain]),
@@ -675,6 +676,7 @@
       if (els.libraryTopic.value && !paper.topics.includes(els.libraryTopic.value)) return false;
       if (els.librarySite.value && !paper.sites.includes(els.librarySite.value)) return false;
       if (els.libraryPriority.value && paper.priority !== els.libraryPriority.value) return false;
+      if (els.libraryReview.value && (paper.review?.status || "awaiting_source_review") !== els.libraryReview.value) return false;
       const translatedTags = ["compartments", "topics", "sites"].flatMap(group => (paper[group] || []).map(id => taxonomyLabel(group, id)));
       return !query || [paper.title, paper.doi, paper.journal, ...paper.authors, ...translatedTags].join(" ").toLowerCase().includes(query);
     });
@@ -682,7 +684,11 @@
     els.libraryCount.textContent = t("library_count", {count: papers.length, total: library.papers.length});
     els.libraryRows.innerHTML = papers.length ? papers.map(paper => {
       const curated = data.sources.find(source => source.doi.toLowerCase() === paper.doi.toLowerCase());
-      return `<tr><td>${paper.publication_date || paper.year}${paper.publication_stage === "preprint" ? `<br><span class="tag">${escapeHTML(t("preprint"))}</span>` : ""}</td><td><a href="${escapeHTML(paper.url)}" target="_blank" rel="noopener" lang="en">${escapeHTML(paper.title)}</a><div class="library-meta" lang="en">${escapeHTML(paper.authors[0] || "")} ${paper.authors.length > 1 ? "et al." : ""} · ${escapeHTML(paper.journal)}<br>${escapeHTML(paper.doi)}</div></td><td>${paper.compartments.map(id => escapeHTML(taxonomyLabel("compartments", id))).join("<br>") || "—"}</td><td>${paper.topics.map(id => `<span class="tag">${escapeHTML(taxonomyLabel("topics", id))}</span>`).join(" ")}</td><td>${curated ? `<button class="button" data-library-source="${escapeHTML(curated.id)}">${escapeHTML(t("view_evidence"))}</button>` : `<span class="library-pending">${escapeHTML(t("review_pending"))}</span>`}</td></tr>`;
+      const review = paper.review || {status: "awaiting_source_review"};
+      const reason = isChinese() ? review.reason_zh || "" : review.reason || "";
+      const access = curated ? `<div class="library-meta">${escapeHTML(t((review.access_level || curated.curation.access_level || "").includes("full_text") ? "access_full_text_extracts" : "access_abstract"))}</div>` : "";
+      const reviewContent = curated ? `<button class="button" data-library-source="${escapeHTML(curated.id)}">${escapeHTML(t("view_evidence"))}</button>${access}` : `<span class="library-pending">${escapeHTML(t("review_" + review.status))}</span>${reason ? `<div class="library-meta">${escapeHTML(reason)}</div>` : ""}`;
+      return `<tr><td>${paper.publication_date || paper.year}${paper.publication_stage === "preprint" ? `<br><span class="tag">${escapeHTML(t("preprint"))}</span>` : ""}</td><td><a href="${escapeHTML(paper.url)}" target="_blank" rel="noopener" lang="en">${escapeHTML(paper.title)}</a><div class="library-meta" lang="en">${escapeHTML(paper.authors[0] || "")} ${paper.authors.length > 1 ? "et al." : ""} · ${escapeHTML(paper.journal)}<br>${escapeHTML(paper.doi)}</div></td><td>${paper.compartments.map(id => escapeHTML(taxonomyLabel("compartments", id))).join("<br>") || "—"}</td><td>${paper.topics.map(id => `<span class="tag">${escapeHTML(taxonomyLabel("topics", id))}</span>`).join(" ")}</td><td>${reviewContent}</td></tr>`;
     }).join("") : `<tr><td colspan="5">${escapeHTML(t("library_empty"))}</td></tr>`;
     els.libraryRows.querySelectorAll("[data-library-source]").forEach(button => button.addEventListener("click", () => {
       reset();
@@ -796,7 +802,7 @@
       render();
     });
   });
-  [els.librarySearch, els.libraryCompartment, els.libraryTopic, els.librarySite, els.libraryPriority].forEach(control => {
+  [els.librarySearch, els.libraryCompartment, els.libraryTopic, els.librarySite, els.libraryPriority, els.libraryReview].forEach(control => {
     control.addEventListener(control === els.librarySearch ? "input" : "change", renderLibrary);
   });
   els.resetFilters.addEventListener("click", reset);

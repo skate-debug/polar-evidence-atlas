@@ -123,13 +123,16 @@ def write_json(path: Path, payload) -> None:
 def export_inventory(payload: dict) -> None:
     target = ROOT / "dist" / "cold-seep-literature.csv"
     target.parent.mkdir(exist_ok=True)
-    fields = ["id", "publication_date", "year", "title", "authors", "journal", "doi", "pmid", "pmcid", "compartments", "topics", "sites", "priority", "publication_stage", "status", "classification_basis", "url"]
+    fields = ["id", "publication_date", "year", "title", "authors", "journal", "doi", "pmid", "pmcid", "compartments", "topics", "sites", "priority", "publication_stage", "status", "access_level", "review_reason", "next_action", "classification_basis", "url"]
     sources = json.loads((DATA / "sources.json").read_text(encoding="utf-8"))
     curated = {source["doi"].lower() for source in sources}
+    reviews = {item["doi"]: item for item in read_data("cold_seep_reviews.json", {"reviews": []})["reviews"]}
     rows = []
     for item in payload["candidates"]:
         row = {field: item.get(field, "") for field in fields}
-        row["status"] = "curated" if item.get("doi", "").lower() in curated else "discovered; source review pending"
+        review = reviews.get(item.get("doi"), {})
+        row["status"] = "curated" if item.get("doi", "").lower() in curated else review.get("status", "awaiting_source_review")
+        row.update({"access_level": review.get("access_level", ""), "review_reason": review.get("reason", ""), "next_action": review.get("next_action", "")})
         for field, value in row.items():
             if isinstance(value, list):
                 row[field] = " | ".join(str(x) for x in value)
@@ -144,10 +147,13 @@ def export_inventory(payload: dict) -> None:
 def finalize_inventory(payload: dict) -> dict:
     overrides = json.loads((ROOT / "config" / "cold_seep_metadata_overrides.json").read_text(encoding="utf-8"))
     specs = {spec["doi"]: spec for spec in json.loads((ROOT / "config" / "cold_seep_seed.json").read_text(encoding="utf-8"))}
+    specs.update({source["doi"]: source for source in json.loads((DATA / "sources.json").read_text(encoding="utf-8")) if source.get("collection") == "scs-cold-seeps"})
     metadata = read_data("cold_seep_metadata.json", {"records": {}})["records"]
     all_dois = {item.get("doi") for item in payload["candidates"]}
     kept = []
     for item in payload["candidates"]:
+        if item.get("doi", "").startswith(("10.21203/", "10.1101/", "10.2139/ssrn.", "10.5194/egusphere-", "10.20944/preprints")):
+            item["publication_stage"] = "preprint"
         if item["title"] in overrides:
             item.update(overrides[item["title"]])
             item["id"] = "seep-candidate:" + re.sub(r"[^a-z0-9]+", "-", item["doi"]).strip("-")
@@ -165,7 +171,7 @@ def finalize_inventory(payload: dict) -> dict:
             item["topics"] = spec["topics"]
             item["sites"] = spec["sites"]
             item["classification_basis"] = "Source-scoped classification from the inspected curation profile"
-        else:
+        elif item.get("abstract") or not item.get("sites"):
             item["sites"] = classify(item["title"] + " " + item.get("abstract", ""), SITE_RULES) or ["regional"]
         kept.append(item)
     payload["candidates"] = kept
@@ -257,6 +263,53 @@ def crossref_discovery(payload: dict, config: dict) -> dict:
     return payload
 
 
+def add_inspected_supplements(payload: dict) -> dict:
+    """Add an explicit DOI shortlist; geography must be checked editorially."""
+    path = ROOT / "config/cold_seep_supplementary_dois.json"
+    dois = json.loads(path.read_text(encoding="utf-8")) if path.exists() else []
+    known = {item.get("doi") for item in payload["candidates"]}
+    metadata = read_data("cold_seep_metadata.json", {"records": {}, "errors": {}})
+    run_at = datetime.now(timezone.utc).isoformat()
+    for doi in dois:
+        if doi in known:
+            continue
+        cache = ROOT / ".research-cache" / (re.sub(r"[^a-z0-9]+", "-", doi) + ".json")
+        cached = json.loads(cache.read_text(encoding="utf-8")) if cache.exists() else {}
+        record, csl = cached.get("record", {}), cached.get("csl") or metadata["records"].get(doi)
+        if not csl:
+            req = urllib.request.Request("https://doi.org/" + doi, headers={"Accept": "application/vnd.citationstyles.csl+json", "User-Agent": USER_AGENT})
+            with urllib.request.urlopen(req, timeout=45) as response:
+                csl = json.load(response)
+        dates = [value.get("date-parts", [[]])[0] for key, value in csl.items() if key in {"issued", "published", "published-online", "published-print"}]
+        parts = min((p for p in dates if p), default=[])
+        publication = record.get("firstPublicationDate") or "-".join(str(part).zfill(2) if i else str(part) for i, part in enumerate(parts))
+        if not publication or not payload["since"] <= publication <= payload["until"]:
+            raise ValueError(f"Supplementary DOI outside configured publication window: {doi} ({publication})")
+        title = plain_text(csl["title"][0] if isinstance(csl["title"], list) else csl["title"])
+        abstract = plain_text(record.get("abstractText") or csl.get("abstract", ""))
+        text = title + " " + abstract
+        authors = csl.get("author", [])
+        journal = csl.get("container-title", "")
+        metadata["records"][doi] = csl
+        payload["candidates"].append({"id": "seep-candidate:" + re.sub(r"[^a-z0-9]+", "-", doi).strip("-"),
+            "doi": doi, "collection": "scs-cold-seeps", "status": "candidate", "title": title,
+            "publication_date": publication, "publication_date_precision": "day" if len(publication.split("-")) == 3 else "month" if len(publication.split("-")) == 2 else "year",
+            "year": int(publication[:4]), "publication_stage": "journal_record",
+            "authors": [" ".join(part for part in (a.get("given"), a.get("family")) if part) for a in authors],
+            "author_records": [{"firstName": a.get("given", ""), "lastName": a.get("family", "")} for a in authors],
+            "journal": journal[0] if isinstance(journal, list) else journal, "volume": csl.get("volume", ""), "issue": csl.get("issue", ""), "pages": csl.get("page", ""),
+            "pmid": record.get("pmid", ""), "pmcid": record.get("pmcid", ""), "abstract": abstract,
+            "url": "https://doi.org/" + doi, "compartments": classify(text, COMPARTMENTS), "topics": classify(text, TOPICS),
+            "sites": classify(text, SITE_RULES) or ["regional"], "priority": "microbial",
+            "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+            "matched_queries": ["inspected-scs-supplement"], "discovery_source": "Primary-source citation and Methods follow-up",
+            "first_discovered_at": run_at, "last_seen_at": run_at})
+        known.add(doi)
+    payload["candidates"].sort(key=lambda item: (item["year"], item["publication_date"], item["title"]), reverse=True)
+    write_json(DATA / "cold_seep_metadata.json", metadata)
+    return payload
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--until", default=date.today().isoformat())
@@ -264,12 +317,18 @@ def main() -> int:
     parser.add_argument("--export-only", action="store_true")
     parser.add_argument("--reclassify", action="store_true", help="apply inspected taxonomy and metadata overrides without a new search")
     parser.add_argument("--crossref-only", action="store_true", help="extend the existing inventory with publisher-deposited marine literature")
+    parser.add_argument("--supplement-only", action="store_true", help="add explicitly inspected DOI follow-ups without rerunning discovery")
     args = parser.parse_args()
     if args.export_only:
         export_inventory(read_data("cold_seep_candidates.json", {"candidates": []}))
         return 0
     if args.reclassify:
         payload = finalize_inventory(read_data("cold_seep_candidates.json", {"candidates": []}))
+        write_json(OUTPUT, payload)
+        export_inventory(payload)
+        return 0
+    if args.supplement_only:
+        payload = finalize_inventory(add_inspected_supplements(read_data("cold_seep_candidates.json", {"candidates": []})))
         write_json(OUTPUT, payload)
         export_inventory(payload)
         return 0
@@ -289,7 +348,10 @@ def main() -> int:
     config = json.loads((ROOT / "config" / "cold_seep_queries.json").read_text(encoding="utf-8"))
     previous = read_data("cold_seep_candidates.json", {"candidates": []})
     prior = {item["id"]: item for item in previous.get("candidates", [])}
-    records = {}
+    # Discovery is cumulative within the requested window. A bounded search
+    # changing its ranking must not silently erase an inspected candidate.
+    records = {item["id"]: dict(item) for item in previous.get("candidates", [])
+               if item.get("publication_date") and since <= item["publication_date"] <= until.isoformat()}
     log = []
     failures = []
     run_at = datetime.now(timezone.utc).isoformat()
@@ -307,7 +369,13 @@ def main() -> int:
             pmid = result.get("pmid", "")
             record_id = "seep-candidate:" + re.sub(r"[^a-z0-9]+", "-", doi or pmid or title.lower()).strip("-")
             if record_id in records:
-                records[record_id]["matched_queries"].append(query["id"])
+                if query["id"] not in records[record_id].setdefault("matched_queries", []):
+                    records[record_id]["matched_queries"].append(query["id"])
+                records[record_id]["last_seen_at"] = run_at
+                if result.get("abstractText"):
+                    records[record_id]["abstract"] = plain_text(result["abstractText"])
+                if result.get("pmcid"):
+                    records[record_id]["pmcid"] = result["pmcid"]
                 continue
             abstract = plain_text(result.get("abstractText", ""))
             text = title + " " + abstract
@@ -375,7 +443,7 @@ def main() -> int:
     for item in records.values():
         if item.get("publication_date", "") and not since <= item["publication_date"] <= until.isoformat():
             continue
-        item["publication_stage"] = "preprint" if item.get("doi", "").startswith(("10.21203/", "10.1101/")) else "journal_record"
+        item["publication_stage"] = "preprint" if item.get("doi", "").startswith(("10.21203/", "10.1101/", "10.2139/ssrn.", "10.5194/egusphere-")) else "journal_record"
         key = normalized_title(item["title"])
         old = deduplicated.get(key)
         if old:
@@ -389,11 +457,12 @@ def main() -> int:
     payload = {"generated_at": run_at, "since": since, "until": until.isoformat(),
                "collection": "scs-cold-seeps", "policy": "Title/abstract discovery inventory. Tags are provisional. Only curated source profiles supply graph claims.",
                "queries": log, "query_failures": failures, "supplementary_dois": supplementary, "collapsed_duplicate_ids": duplicates,
+               "collapsed_versions": previous.get("collapsed_versions", []),
                "candidates": sorted(records.values(), key=lambda x: (x["year"], x["priority"] == "microbial", x["publication_date"], x["title"]), reverse=True)}
     if failures:
         print("Incomplete discovery; keeping the previous snapshot. Failures:", failures)
         return 1
-    payload = finalize_inventory(crossref_discovery(payload, config))
+    payload = finalize_inventory(add_inspected_supplements(crossref_discovery(payload, config)))
     write_json(OUTPUT, payload)
     export_inventory(payload)
     print(f"Discovered {len(payload['candidates'])} unique records; {sum(x['priority'] == 'microbial' for x in payload['candidates'])} provisionally microbial. Window: {since} to {until}.")

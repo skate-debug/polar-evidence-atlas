@@ -145,6 +145,7 @@ def main() -> int:
     translations = load(DATA / "i18n.zh-CN.json", {})
     taxonomy = load(ROOT / "config" / "collections.json", {})
     seep_inventory = load(public_fallback("cold_seep_candidates.json"), {"candidates": []})
+    seep_reviews = {item["doi"]: item for item in load(DATA / "cold_seep_reviews.json", {"reviews": []})["reviews"]}
     current_candidate_ids = {candidate.get("id") for candidate in candidates_payload.get("candidates", [])}
     current_reviews = [
         review for review in candidate_reviews.get("reviews", [])
@@ -274,11 +275,12 @@ def main() -> int:
             "since": seep_inventory.get("since", ""),
             "until": seep_inventory.get("until", ""),
             "generated_at": seep_inventory.get("generated_at", ""),
+            "review_counts": dict(Counter(seep_reviews.get(item["doi"], {}).get("status", "awaiting_source_review") for item in seep_inventory.get("candidates", []))),
             "papers": [
-                {key: item.get(key, "") for key in (
+                {**{key: item.get(key, "") for key in (
                     "id", "title", "authors", "journal", "year", "publication_date", "doi", "pmcid", "url",
                     "compartments", "topics", "sites", "priority", "classification_basis", "publication_stage",
-                )}
+                )}, "review": seep_reviews.get(item["doi"], {"status": "awaiting_source_review"})}
                 for item in seep_inventory.get("candidates", [])
             ],
         },
@@ -310,7 +312,7 @@ def main() -> int:
     (REFERENCES / "earth-ocean-kg.bib").write_text("\n\n".join(bib_records) + "\n", encoding="utf-8")
 
     with (DIST / "nodes.csv").open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=["id", "type", "label", "description", "year", "domains", "poles", "doi", "collection", "regions", "compartments", "topics", "sites"])
+        writer = csv.DictWriter(handle, fieldnames=["id", "type", "label", "description", "year", "domains", "poles", "doi", "collection", "regions", "compartments", "topics", "sites"], lineterminator="\n")
         writer.writeheader()
         for node in nodes:
             writer.writerow({
@@ -323,7 +325,7 @@ def main() -> int:
             })
     with (DIST / "edges.csv").open("w", newline="", encoding="utf-8") as handle:
         fields = ["id", "source", "target", "predicate", "claim_id", "source_id", "evidence_type", "confidence", "statement"]
-        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         for edge in edges:
             writer.writerow({field: edge.get(field, "") for field in fields})

@@ -3724,6 +3724,3431 @@
       ],
       "curation_basis": "已独立核查 DOI 出版信息，证据位置见论断记录。核查材料：可访问的全文摘录与摘要。",
       "_source_hash": "852a483737820277"
+    },
+    "src:scs-haima-chondroitinase-a": {
+      "title": "海马冷泉宏基因组来源软骨素酶 A 的底物特异性与功能鉴定",
+      "study_type": "宏基因组来源酶的功能鉴定",
+      "study_profile": {
+        "spatial_scope": "海马附近沉积物；功能实验针对重建的酶开展。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "采用结构明确的寡糖、产物分析和定点突变，鉴定一种 PL8 裂解酶。",
+        "measured_or_derived": [
+          "底物特异性与酶活性",
+          "突变体表型"
+        ]
+      },
+      "key_findings": [
+        "该酶对含 GalNAc 或 GalNAc4S 的软骨素／皮肤素硫酸基序具有选择性；突变实验识别了活性所必需的残基。"
+      ],
+      "limitations": [
+        "纯化酶的特异性不能证明相应底物在冷泉中的供应、酶的表达或原位周转。"
+      ],
+      "cite_for": [
+        "宏基因组来源酶的功能鉴定，适用范围以采样设计为准。",
+        "该酶对含 GalNAc 或 GalNAc4S 的软骨素／皮肤素硫酸基序具有选择性；突变实验识别了活性所必需的残基。"
+      ],
+      "do_not_overcite": [
+        "纯化酶的特异性不能证明相应底物在冷泉中的供应、酶的表达或原位周转。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "547309eec9f0d766"
+    },
+    "src:scs-cross-latitude-carbon-fixation": {
+      "title": "亚寒带至热带冷泉沉积物化能自养群落与碳固定潜力的比较",
+      "study_type": "培养实验与比较宏基因组研究",
+      "study_profile": {
+        "spatial_scope": "鄂霍次克海与南海冷泉沉积物；133 个宏基因组覆盖海床下 0–240 cm。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合暗碳固定培养实验、26 个新增宏基因组和 107 个公开宏基因组。",
+        "measured_or_derived": [
+          "暗碳固定速率",
+          "碳固定途径基因"
+        ]
+      },
+      "key_findings": [
+        "培养条件下热带沉积物的暗碳固定速率高于亚寒带沉积物；碳固定途径的基因组成也随区域与深度变化。"
+      ],
+      "limitations": [
+        "区域比较同时包含环境与采样差异；培养速率不能代表年度原位碳收支。"
+      ],
+      "cite_for": [
+        "培养实验与比较宏基因组研究，适用范围以采样设计为准。",
+        "培养条件下热带沉积物的暗碳固定速率高于亚寒带沉积物；碳固定途径的基因组成也随区域与深度变化。"
+      ],
+      "do_not_overcite": [
+        "区域比较同时包含环境与采样差异；培养速率不能代表年度原位碳收支。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "b02bf50419deedf0"
+    },
+    "src:scs-mussel-recovery-hours": {
+      "title": "海马贻贝离底回收后鳃共生体系在数小时内的变化",
+      "study_type": "离体短期共生整体时间序列",
+      "study_profile": {
+        "spatial_scope": "海马冷泉 Gigantidas haimaensis，在常压条件下暂养。",
+        "temporal_scope": "采集后 0、3 和 9 小时取鳃样品。",
+        "sample_design": "结合 16S 扩增子与 RNA-seq，跟踪回收后鳃细菌和宿主转录变化。",
+        "measured_or_derived": [
+          "鳃细菌群落组成",
+          "宿主转录变化"
+        ]
+      },
+      "key_findings": [
+        "Methyloprofundus 始终占优势，宿主转录却迅速变化；探索性的菌群–基因关联未通过错误发现率校正。"
+      ],
+      "limitations": [
+        "减压、营养与操作影响同时变化；短期回收序列不能区分各因素的因果效应。"
+      ],
+      "cite_for": [
+        "离体短期共生整体时间序列，适用范围以采样设计为准。",
+        "Methyloprofundus 始终占优势，宿主转录却迅速变化；探索性的菌群–基因关联未通过错误发现率校正。"
+      ],
+      "do_not_overcite": [
+        "减压、营养与操作影响同时变化；短期回收序列不能区分各因素的因果效应。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "d257155b48e22b5e"
+    },
+    "src:scs-pressure-hydrocarbon-consortia": {
+      "title": "静水压力对冷泉厌氧烃降解群落与代谢策略的影响",
+      "study_type": "控压富集与宏基因组分析",
+      "study_profile": {
+        "spatial_scope": "添加正十六烷和萘的海马沉积物富集体系。",
+        "temporal_scope": "在 0.1、5 和 11 MPa 下培养七个月。",
+        "sample_design": "比较三种静水压力下的烃降解及 MAG 代谢途径。",
+        "measured_or_derived": [
+          "不同压力下的烃损失",
+          "MAG 分解代谢途径"
+        ]
+      },
+      "key_findings": [
+        "较高压力抑制萘降解并改变优势类群；高压 Sulfitobacter MAG 中不完整的途径提示其可能依赖其他微生物。"
+      ],
+      "limitations": [
+        "伙伴间物质交换来自基因组推断，并未直接测量；长期富集会筛选出不同于原始沉积物的群落。"
+      ],
+      "cite_for": [
+        "控压富集与宏基因组分析，适用范围以采样设计为准。",
+        "较高压力抑制萘降解并改变优势类群；高压 Sulfitobacter MAG 中不完整的途径提示其可能依赖其他微生物。"
+      ],
+      "do_not_overcite": [
+        "伙伴间物质交换来自基因组推断，并未直接测量；长期富集会筛选出不同于原始沉积物的群落。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "4734853ea7256a6e"
+    },
+    "src:scs-sitef-host-symbiont-connectivity": {
+      "title": "F 站位贻贝的局地补充与甲烷氧化共生菌的遗传组成",
+      "study_type": "宿主与共生菌种群基因组研究",
+      "study_profile": {
+        "spatial_scope": "西北太平洋 11 个站位的 Gigantidas platifrons；重点比较 F 站位六个体型组及 Methyloprofundus 共生菌。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较区域宿主种群结构、局地亲缘关系及不同体型组的共生菌遗传差异。",
+        "measured_or_derived": [
+          "宿主亲缘与种群结构",
+          "共生菌遗传分化"
+        ]
+      },
+      "key_findings": [
+        "宿主局地亲缘程度随距离降低，而 F 站位甲烷氧化共生菌在不同宿主体型组间的遗传分化较低。"
+      ],
+      "limitations": [
+        "壳体大小并非直接的纵向观测；遗传相似性本身不能证明共生菌持续从环境菌库获取。"
+      ],
+      "cite_for": [
+        "宿主与共生菌种群基因组研究，适用范围以采样设计为准。",
+        "宿主局地亲缘程度随距离降低，而 F 站位甲烷氧化共生菌在不同宿主体型组间的遗传分化较低。"
+      ],
+      "do_not_overcite": [
+        "壳体大小并非直接的纵向观测；遗传相似性本身不能证明共生菌持续从环境菌库获取。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "a355bfe986185b76"
+    },
+    "src:scs-haima-stenotrophomonas-wo2": {
+      "title": "海马沉积物烃利用菌 Stenotrophomonas WO2 的基因组草图",
+      "study_type": "分离菌基因组资源",
+      "study_profile": {
+        "spatial_scope": "以原油为唯一碳源从海马沉积物分离的 Stenotrophomonas WO2。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分离可利用原油的菌株并组装基因组草图。",
+        "measured_or_derived": [
+          "基因组大小与 GC 含量"
+        ]
+      },
+      "key_findings": [
+        "WO2 提供了长 4,772,190 bp、GC 含量为 66.01% 的基因组草图，可用于研究冷泉来源的烃利用细菌。"
+      ],
+      "limitations": [
+        "单株基因组不能确定环境丰度、特定底物降解速率或现场修复效果。"
+      ],
+      "cite_for": [
+        "分离菌基因组资源，适用范围以采样设计为准。",
+        "WO2 提供了长 4,772,190 bp、GC 含量为 66.01% 的基因组草图，可用于研究冷泉来源的烃利用细菌。"
+      ],
+      "do_not_overcite": [
+        "单株基因组不能确定环境丰度、特定底物降解速率或现场修复效果。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "78ea842886390b4c"
+    },
+    "src:scs-aom-dna-sip-partnerships": {
+      "title": "DNA 稳定同位素探针揭示冷泉厌氧甲烷氧化的微生物伙伴关系",
+      "study_type": "同位素探针与抑制实验",
+      "study_profile": {
+        "spatial_scope": "海马与 F 站位海床下 4–8 cm 沉积层。",
+        "temporal_scope": "海马 2018 年 6 月、F 站位 2021 年 6 月采样；七天微宇宙培养。",
+        "sample_design": "在不同电子受体条件下结合 DNA-SIP、示踪培养及细菌抑制实验。",
+        "measured_or_derived": [
+          "甲烷氧化与标记 DNA",
+          "抑制剂响应"
+        ]
+      },
+      "key_findings": [
+        "在不同处理间古菌–细菌组合变化时，体系仍保持甲烷氧化，支持培养联合体具有代谢灵活性。"
+      ],
+      "limitations": [
+        "抑制剂影响与同位素掺入需结合具体处理解释；室内功能冗余不能直接量化生态系统恢复能力。"
+      ],
+      "cite_for": [
+        "同位素探针与抑制实验，适用范围以采样设计为准。",
+        "在不同处理间古菌–细菌组合变化时，体系仍保持甲烷氧化，支持培养联合体具有代谢灵活性。"
+      ],
+      "do_not_overcite": [
+        "抑制剂影响与同位素掺入需结合具体处理解释；室内功能冗余不能直接量化生态系统恢复能力。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "ec8322bf0c84c184"
+    },
+    "src:scs-aspergillus-anthraquinones": {
+      "title": "冷泉沉积物来源 Aspergillus 的蒽醌类化合物及细胞实验",
+      "study_type": "真菌天然产物鉴定",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉积物来源 Aspergillus SCSIO 41331。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分离代谢产物，采用 NMR 和质谱解析结构，并开展肿瘤细胞增殖实验。",
+        "measured_or_derived": [
+          "代谢物结构",
+          "细胞增殖实验"
+        ]
+      },
+      "key_findings": [
+        "研究鉴定了新的蒽醌相关代谢物；其中一种受测化合物在体外抑制 HT29 细胞增殖及集落形成。"
+      ],
+      "limitations": [
+        "细胞系活性既不代表临床疗效，也不能证明这些化合物在冷泉中的生态作用。"
+      ],
+      "cite_for": [
+        "真菌天然产物鉴定，适用范围以采样设计为准。",
+        "研究鉴定了新的蒽醌相关代谢物；其中一种受测化合物在体外抑制 HT29 细胞增殖及集落形成。"
+      ],
+      "do_not_overcite": [
+        "细胞系活性既不代表临床疗效，也不能证明这些化合物在冷泉中的生态作用。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "c636b65a48fe7394"
+    },
+    "src:scs-salegentibacter-two-species": {
+      "title": "南海冷泉沉积物两种 Salegentibacter 新种的多相分类",
+      "study_type": "分离菌多相分类",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉积物分离株 F14T 与 HM20T。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合生长表型、化学分类、系统基因组及基因组相似度分析。",
+        "measured_or_derived": [
+          "生长范围与基因组相似度"
+        ]
+      },
+      "key_findings": [
+        "两株兼性厌氧菌符合研究中新种 Salegentibacter profundi 与 S. haimaensis 的划分标准，受测生长范围不同。"
+      ],
+      "limitations": [
+        "培养生长范围仅适用于这两株菌，不能确定其原位丰度或生态优势。"
+      ],
+      "cite_for": [
+        "分离菌多相分类，适用范围以采样设计为准。",
+        "两株兼性厌氧菌符合研究中新种 Salegentibacter profundi 与 S. haimaensis 的划分标准，受测生长范围不同。"
+      ],
+      "do_not_overcite": [
+        "培养生长范围仅适用于这两株菌，不能确定其原位丰度或生态优势。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "824cc86cd12a6ad3"
+    },
+    "src:scs-haima-plastic-enrichments": {
+      "title": "海马冷泉 PVC 与聚碳酸酯潜在降解菌的富集与分布",
+      "study_type": "原位培养与富集实验",
+      "study_profile": {
+        "spatial_scope": "海马冷泉塑料富集体系及环境水体、沉积物比较。",
+        "temporal_scope": "一年原位培养及 189 天室内富集。",
+        "sample_design": "培养 PVC 和聚碳酸酯膜，检查表面变化并跟踪细菌扩增子变体。",
+        "measured_or_derived": [
+          "膜表面变化与富集生长",
+          "候选 ASV 分布"
+        ]
+      },
+      "key_findings": [
+        "塑料相关富集群落可生长并改变膜表面；丰度变化识别出候选降解菌，其信号在海水中高于沉积物。"
+      ],
+      "limitations": [
+        "候选 ASV 与表面损伤本身不能证明聚合物完全矿化，也不能量化天然去除速率。"
+      ],
+      "cite_for": [
+        "原位培养与富集实验，适用范围以采样设计为准。",
+        "塑料相关富集群落可生长并改变膜表面；丰度变化识别出候选降解菌，其信号在海水中高于沉积物。"
+      ],
+      "do_not_overcite": [
+        "候选 ASV 与表面损伤本身不能证明聚合物完全矿化，也不能量化天然去除速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "f158c12a794e9a0a"
+    },
+    "src:scs-haima-halogen-redox-profile": {
+      "title": "海马冷泉氧化还原梯度上的卤代有机物与脱卤微生物",
+      "study_type": "非靶向化学分析与宏基因组剖面",
+      "study_profile": {
+        "spatial_scope": "跨氧化还原分区的一支 500 cm 海马沉积物岩芯。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合非靶向分子式鉴定、沉积物地球化学与宏基因组脱卤酶分析。",
+        "measured_or_derived": [
+          "含卤分子式",
+          "脱卤酶基因剖面"
+        ]
+      },
+      "key_findings": [
+        "研究检出 669 个含卤分子式；有机氯信号在氧化还原边界附近降低，并与化学条件及脱卤酶基因组成共变。"
+      ],
+      "limitations": [
+        "分子式层面鉴定不能解析全部化学结构；相关性不能区分微生物去除、埋藏和输运。"
+      ],
+      "cite_for": [
+        "非靶向化学分析与宏基因组剖面，适用范围以采样设计为准。",
+        "研究检出 669 个含卤分子式；有机氯信号在氧化还原边界附近降低，并与化学条件及脱卤酶基因组成共变。"
+      ],
+      "do_not_overcite": [
+        "分子式层面鉴定不能解析全部化学结构；相关性不能区分微生物去除、埋藏和输运。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "e8378e31e3ee8566"
+    },
+    "src:scs-haima-alkane-methanogens": {
+      "title": "海马沉积物产甲烷古菌的垂向分层与烷烃相关代谢潜力",
+      "study_type": "岩芯宏基因组与烷烃富集",
+      "study_profile": {
+        "spatial_scope": "包含硫酸盐–甲烷转换带的 5 m 海马岩芯；富集接种物取自海床下 350 cm。",
+        "temporal_scope": "十个月厌氧 C10／C16 烷烃富集。",
+        "sample_design": "结合地球化学、mcrA 定量 PCR、21 个含 mcrA 的 MAG 及烷烃富集。",
+        "measured_or_derived": [
+          "mcrA 丰度与 MAG 途径",
+          "烷烃损失与乙酸积累"
+        ]
+      },
+      "key_findings": [
+        "mcrA 信号在转换带内及下方升高；烷烃减少伴随乙酸积累，与向乙酸营养型产甲烷供底物的可能联系一致。"
+      ],
+      "limitations": [
+        "乙酸积累和途径基因不能直接追踪烷烃碳进入甲烷，也不能证明所提出的互营交换。"
+      ],
+      "cite_for": [
+        "岩芯宏基因组与烷烃富集，适用范围以采样设计为准。",
+        "mcrA 信号在转换带内及下方升高；烷烃减少伴随乙酸积累，与向乙酸营养型产甲烷供底物的可能联系一致。"
+      ],
+      "do_not_overcite": [
+        "乙酸积累和途径基因不能直接追踪烷烃碳进入甲烷，也不能证明所提出的互营交换。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "1eba4aa6f02f9f54"
+    },
+    "src:scs-haima-horizontal-assembly": {
+      "title": "海马冷泉水平生境异质性与原核群落构建及共现模式",
+      "study_type": "跨生境群落调查",
+      "study_profile": {
+        "spatial_scope": "海马渗漏区及大型动物相关沉积物生境。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "测量沉积物地球化学与 16S 群落组成，估计组装过程和共现模式。",
+        "measured_or_derived": [
+          "16S 多样性与组装估计",
+          "甲烷及沉积物化学"
+        ]
+      },
+      "key_findings": [
+        "渗漏生境的 α 多样性较低，古菌组成不同；模型估计的细菌和古菌组装过程随生境变化。"
+      ],
+      "limitations": [
+        "组装模型与共现边表示统计模式，并非已证实的微生物相互作用或环境因果控制。"
+      ],
+      "cite_for": [
+        "跨生境群落调查，适用范围以采样设计为准。",
+        "渗漏生境的 α 多样性较低，古菌组成不同；模型估计的细菌和古菌组装过程随生境变化。"
+      ],
+      "do_not_overcite": [
+        "组装模型与共现边表示统计模式，并非已证实的微生物相互作用或环境因果控制。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "3fa98efd78eb1d4f"
+    },
+    "src:scs-haima-amino-compounds": {
+      "title": "氨基酸与氨基糖揭示海马冷泉沉积物有机质加工特征",
+      "study_type": "有机质生物标志物剖面",
+      "study_profile": {
+        "spatial_scope": "三支海马沉积物岩芯，包含富甲烷和贫甲烷层位。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "定量氨基酸、氨基糖，并计算降解指数和微生物来源指标。",
+        "measured_or_derived": [
+          "氨基酸与氨基糖浓度",
+          "降解与来源指数"
+        ]
+      },
+      "key_findings": [
+        "生物标志物指数指示有机质降解程度较高；富甲烷层氨基酸较少，来源估计提示真菌来源碳具有一定贡献。"
+      ],
+      "limitations": [
+        "来源比例依赖生物标志物假设；剖面未直接测量真菌生物量生产或 AOM 驱动的降解速率。"
+      ],
+      "cite_for": [
+        "有机质生物标志物剖面，适用范围以采样设计为准。",
+        "生物标志物指数指示有机质降解程度较高；富甲烷层氨基酸较少，来源估计提示真菌来源碳具有一定贡献。"
+      ],
+      "do_not_overcite": [
+        "来源比例依赖生物标志物假设；剖面未直接测量真菌生物量生产或 AOM 驱动的降解速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "855d1f02da16af27"
+    },
+    "src:scs-haima-lignin-metabolism": {
+      "title": "海马冷泉木质素分布及微生物酶促转化潜力",
+      "study_type": "木质素富集与多组学研究",
+      "study_profile": {
+        "spatial_scope": "海马沉积层、室内富集，以及十二个冷泉系统的基因组比较。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分析木质素，以其为碳源富集群落，并检查解聚和芳香族中间产物处理基因。",
+        "measured_or_derived": [
+          "木质素分布与酶途径",
+          "富集群落变化"
+        ]
+      },
+      "key_findings": [
+        "木质素富集筛选出不同的细菌群落，多种酶途径参与聚合物分解和芳香族产物处理；未检出直接产甲烷。"
+      ],
+      "limitations": [
+        "甲基营养遗传潜力不等于测得甲烷产生；富集周转不能确定区域碳汇规模。"
+      ],
+      "cite_for": [
+        "木质素富集与多组学研究，适用范围以采样设计为准。",
+        "木质素富集筛选出不同的细菌群落，多种酶途径参与聚合物分解和芳香族产物处理；未检出直接产甲烷。"
+      ],
+      "do_not_overcite": [
+        "甲基营养遗传潜力不等于测得甲烷产生；富集周转不能确定区域碳汇规模。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "e2d8da15356ec3cb"
+    },
+    "src:scs-lysinibacillus-wb86-genome": {
+      "title": "南海冷泉 Lysinibacillus WB86 完整基因组与次级代谢潜力",
+      "study_type": "分离菌基因组与生物合成预测",
+      "study_profile": {
+        "spatial_scope": "南海冷泉分离株 Lysinibacillus WB86。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "利用 Oxford Nanopore 测序获得环状染色体，并预测生物合成基因簇。",
+        "measured_or_derived": [
+          "基因组结构与预测生物合成基因簇"
+        ]
+      },
+      "key_findings": [
+        "约 4.54 Mb 的基因组含八个预测生物合成基因簇，包括一个候选羊毛硫肽基因簇。"
+      ],
+      "limitations": [
+        "基因簇预测不能证明产物实际生成、化学新颖性或抗菌活性。"
+      ],
+      "cite_for": [
+        "分离菌基因组与生物合成预测，适用范围以采样设计为准。",
+        "约 4.54 Mb 的基因组含八个预测生物合成基因簇，包括一个候选羊毛硫肽基因簇。"
+      ],
+      "do_not_overcite": [
+        "基因簇预测不能证明产物实际生成、化学新颖性或抗菌活性。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "4009fda35dd80765"
+    },
+    "src:scs-scs-biosynthetic-survey": {
+      "title": "培养与非培养方法揭示南海冷泉微生物生物合成潜力",
+      "study_type": "培养与环境生物合成潜力调查",
+      "study_profile": {
+        "spatial_scope": "南海冷泉还原性、非还原性沉积物及分离菌株。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合 16S 扩增子、微生物分离、宏基因组与生物合成基因簇预测。",
+        "measured_or_derived": [
+          "群落组成与生物合成基因簇目录"
+        ]
+      },
+      "key_findings": [
+        "沉积物类型间群落和生物合成基因簇组成不同；可培养群落富集 Firmicutes，不能反映全部环境多样性。"
+      ],
+      "limitations": [
+        "基于扩增子或宏基因组的基因簇预测，需化学或表达验证后才能认定产物合成。"
+      ],
+      "cite_for": [
+        "培养与环境生物合成潜力调查，适用范围以采样设计为准。",
+        "沉积物类型间群落和生物合成基因簇组成不同；可培养群落富集 Firmicutes，不能反映全部环境多样性。"
+      ],
+      "do_not_overcite": [
+        "基于扩增子或宏基因组的基因簇预测，需化学或表达验证后才能认定产物合成。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "4fb0b245e9f7273f"
+    },
+    "src:scs-haima-depth-assembly": {
+      "title": "海马渗漏区与非渗漏区微生物垂向变化和组装过程",
+      "study_type": "多类群垂向群落调查",
+      "study_profile": {
+        "spatial_scope": "海马渗漏区与非渗漏区沉积物剖面。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较古菌、细菌和真核标记剖面、基因拷贝数及生态组装估计。",
+        "measured_or_derived": [
+          "标记基因拷贝数与深度分布",
+          "组装过程估计"
+        ]
+      },
+      "key_findings": [
+        "渗漏剖面的古菌／细菌基因拷贝数及深度特异类群较多；模型指示原核群落受较强同质选择，真核群落更受漂变影响。"
+      ],
+      "limitations": [
+        "模型分配的过程不是直接观测的扩散或选择；ANME–SRB 共现不能证明特定伙伴间的 AOM。"
+      ],
+      "cite_for": [
+        "多类群垂向群落调查，适用范围以采样设计为准。",
+        "渗漏剖面的古菌／细菌基因拷贝数及深度特异类群较多；模型指示原核群落受较强同质选择，真核群落更受漂变影响。"
+      ],
+      "do_not_overcite": [
+        "模型分配的过程不是直接观测的扩散或选择；ANME–SRB 共现不能证明特定伙伴间的 AOM。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "4a0d3f09b6c281b8"
+    },
+    "src:scs-arcobacter-gill-isolate": {
+      "title": "贻贝鳃来源 Arcobacter iocasae 新种的分类与生理特征",
+      "study_type": "鳃分离菌分类研究",
+      "study_profile": {
+        "spatial_scope": "南海冷泉 Gigantidas platifrons 鳃匀浆分离株 KX21116T。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较生理、化学分类、系统基因组、ANI 与数字 DNA–DNA 杂交值。",
+        "measured_or_derived": [
+          "生长生理与基因组相似度"
+        ]
+      },
+      "key_findings": [
+        "该菌株代表所提出的 Arcobacter iocasae 新种，在受测条件下可好氧和微需氧生长。"
+      ],
+      "limitations": [
+        "从鳃匀浆分离并不能证明其为专性共生菌、有益于宿主或具有某种天然丰度。"
+      ],
+      "cite_for": [
+        "鳃分离菌分类研究，适用范围以采样设计为准。",
+        "该菌株代表所提出的 Arcobacter iocasae 新种，在受测条件下可好氧和微需氧生长。"
+      ],
+      "do_not_overcite": [
+        "从鳃匀浆分离并不能证明其为专性共生菌、有益于宿主或具有某种天然丰度。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "b9721c834ca9135d"
+    },
+    "src:scs-haima-viral-stages": {
+      "title": "海马冷泉不同发育阶段的病毒多样性与辅助代谢基因",
+      "study_type": "发育阶段比较病毒宏基因组学",
+      "study_profile": {
+        "spatial_scope": "海马化能自养阶段、成熟阶段与衰亡冷泉沉积物生境。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "从沉积物宏基因组重建病毒单元，推断宿主、生活方式及辅助代谢基因。",
+        "measured_or_derived": [
+          "病毒单元与多样性",
+          "预测宿主与 AMG"
+        ]
+      },
+      "key_findings": [
+        "目录包含 4,272 个病毒单元；多样性与预测代谢组成随冷泉阶段变化，化能自养阶段的多样性最高。"
+      ],
+      "limitations": [
+        "宿主联系、生活方式和 AMG 来自计算推断；不同站位的阶段比较并非重复时间序列，也未测量病毒介导碳通量。"
+      ],
+      "cite_for": [
+        "发育阶段比较病毒宏基因组学，适用范围以采样设计为准。",
+        "目录包含 4,272 个病毒单元；多样性与预测代谢组成随冷泉阶段变化，化能自养阶段的多样性最高。"
+      ],
+      "do_not_overcite": [
+        "宿主联系、生活方式和 AMG 来自计算推断；不同站位的阶段比较并非重复时间序列，也未测量病毒介导碳通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "07a0169da5e64a60"
+    },
+    "src:scs-bacillus-haimaensis-resource": {
+      "title": "海马芽孢杆菌新种的生理特征与生物合成基因组潜力",
+      "study_type": "分离菌分类与比较基因组",
+      "study_profile": {
+        "spatial_scope": "水深 1,350 m 海马沉积物来源 Bacillus haimaensis CSS-39T。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合培养表型、完整基因组测序及与近缘 Bacillus 的比较。",
+        "measured_or_derived": [
+          "分离株表型与基因组比较",
+          "生物合成基因簇预测"
+        ]
+      },
+      "key_findings": [
+        "基因组和表型证据支持划分新种；六个预测生物合成基因簇中包括候选套索肽基因簇。"
+      ],
+      "limitations": [
+        "预测生物合成和胁迫基因不能证明产物活性或天然高压条件下的适应机制。"
+      ],
+      "cite_for": [
+        "分离菌分类与比较基因组，适用范围以采样设计为准。",
+        "基因组和表型证据支持划分新种；六个预测生物合成基因簇中包括候选套索肽基因簇。"
+      ],
+      "do_not_overcite": [
+        "预测生物合成和胁迫基因不能证明产物活性或天然高压条件下的适应机制。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "baae1532e49d1278"
+    },
+    "src:scs-carbonate-black-carbon": {
+      "title": "冷泉碳酸盐中黑碳的来源及微生物贡献估计",
+      "study_type": "同位素碳源评估",
+      "study_profile": {
+        "spatial_scope": "南海与墨西哥湾冷泉碳酸盐。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分析黑碳化学与同位素组成，并采用贝叶斯混合模型估计来源比例。",
+        "measured_or_derived": [
+          "黑碳碳同位素",
+          "模型来源比例"
+        ]
+      },
+      "key_findings": [
+        "黑碳碳同位素亏损与甲烷相关来源一致；模型估计受测碳酸盐中微生物来源贡献为 2–33%。"
+      ],
+      "limitations": [
+        "来源划分依赖同位素端元；碳酸盐储存量不能直接确定全球溶解黑碳通量。"
+      ],
+      "cite_for": [
+        "同位素碳源评估，适用范围以采样设计为准。",
+        "黑碳碳同位素亏损与甲烷相关来源一致；模型估计受测碳酸盐中微生物来源贡献为 2–33%。"
+      ],
+      "do_not_overcite": [
+        "来源划分依赖同位素端元；碳酸盐储存量不能直接确定全球溶解黑碳通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "c227b204cab7edda"
+    },
+    "src:scs-shallow-mussel-seep-transplant": {
+      "title": "浅海贻贝暴露于深海冷泉后的转录与微生物群落响应",
+      "study_type": "宿主深海暴露实验",
+      "study_profile": {
+        "spatial_scope": "移入 F 站位冷泉的 Mytilus galloprovincialis。",
+        "temporal_scope": "十天深海暴露。",
+        "sample_design": "比较冷泉暴露期间宿主转录组与相关微生物群落。",
+        "measured_or_derived": [
+          "宿主转录与微生物组成"
+        ]
+      },
+      "key_findings": [
+        "暴露贻贝的菌群中甲烷氧化菌增多，同时出现宿主胁迫、免疫与代谢转录变化。"
+      ],
+      "limitations": [
+        "短期暴露及宿主–微生物相关性不能证明进化适应或稳定的营养共生。"
+      ],
+      "cite_for": [
+        "宿主深海暴露实验，适用范围以采样设计为准。",
+        "暴露贻贝的菌群中甲烷氧化菌增多，同时出现宿主胁迫、免疫与代谢转录变化。"
+      ],
+      "do_not_overcite": [
+        "短期暴露及宿主–微生物相关性不能证明进化适应或稳定的营养共生。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "8db0aa1c4a0acb00"
+    },
+    "src:scs-haima-microplastic-community-response": {
+      "title": "不同微塑料对海马冷泉微生物群落及功能潜力的影响",
+      "study_type": "微塑料暴露实验",
+      "study_profile": {
+        "spatial_scope": "海马海水与沉积物室内培养体系。",
+        "temporal_scope": "两个月培养序列。",
+        "sample_design": "结合环境化学和微生物遗传分析，比较塑料表面与周围环境群落。",
+        "measured_or_derived": [
+          "塑料际群落组成",
+          "推断功能与网络性质"
+        ]
+      },
+      "key_findings": [
+        "培养时间和原始生境影响塑料表面群落，其推断的网络结构及氮／甲烷功能不同于环境群落。"
+      ],
+      "limitations": [
+        "网络脆弱性和预测功能不等于测得的生态系统不稳定性、病原风险或原位营养盐通量。"
+      ],
+      "cite_for": [
+        "微塑料暴露实验，适用范围以采样设计为准。",
+        "培养时间和原始生境影响塑料表面群落，其推断的网络结构及氮／甲烷功能不同于环境群落。"
+      ],
+      "do_not_overcite": [
+        "网络脆弱性和预测功能不等于测得的生态系统不稳定性、病原风险或原位营养盐通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "ec7b422b7847ab90"
+    },
+    "src:scs-sitef-carbonate-spatial-microbiomes": {
+      "title": "F 站位冷泉碳酸盐中的空间异质性与微生物代谢潜力",
+      "study_type": "碳酸盐生境多方法比较",
+      "study_profile": {
+        "spatial_scope": "F 站位铠甲虾区、贻贝区及低活性生境的八件碳酸盐样品，并与沉积物／水体比较。",
+        "temporal_scope": "2021 年 Faxian ROV 采样。",
+        "sample_design": "结合界面传感、碳酸盐成像、宏基因组、定量 PCR 与 13CH4 标记；活动等级依据生境及地球化学代理指标划分。",
+        "measured_or_derived": [
+          "碳酸盐微生物组成",
+          "界面化学与孔隙结构"
+        ]
+      },
+      "key_findings": [
+        "活跃铠甲虾区碳酸盐偏富集 ANME-2c，贻贝区偏富集 ANME-1b；低活性碳酸盐群落不同，且更接近附近水体。"
+      ],
+      "limitations": [
+        "活动等级基于代理指标；提出的矿物自封闭过程不能量化长期甲烷渗透性变化。"
+      ],
+      "cite_for": [
+        "碳酸盐生境多方法比较，适用范围以采样设计为准。",
+        "活跃铠甲虾区碳酸盐偏富集 ANME-2c，贻贝区偏富集 ANME-1b；低活性碳酸盐群落不同，且更接近附近水体。"
+      ],
+      "do_not_overcite": [
+        "活动等级基于代理指标；提出的矿物自封闭过程不能量化长期甲烷渗透性变化。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "b2b7b38d4ba65bdc"
+    },
+    "src:scs-haima-six-host-gills": {
+      "title": "海马六种底栖动物鳃相关菌群的宿主特异性",
+      "study_type": "鳃菌群与组织学比较",
+      "study_profile": {
+        "spatial_scope": "海马异质生境中的六种底栖无脊椎动物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较细菌组成、组织／亚细胞定位与鳃菌群预测功能。",
+        "measured_or_derived": [
+          "鳃群落组成及细胞定位",
+          "预测功能组成"
+        ]
+      },
+      "key_findings": [
+        "贻贝和蛤鳃内共生菌群较简单，其他受测宿主的胞外相关群落更复杂。"
+      ],
+      "limitations": [
+        "宿主特异性与预测功能不能单独证明宿主选择机制或适合度收益。"
+      ],
+      "cite_for": [
+        "鳃菌群与组织学比较，适用范围以采样设计为准。",
+        "贻贝和蛤鳃内共生菌群较简单，其他受测宿主的胞外相关群落更复杂。"
+      ],
+      "do_not_overcite": [
+        "宿主特异性与预测功能不能单独证明宿主选择机制或适合度收益。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "b2f6b1cd3adb2e20"
+    },
+    "src:scs-yungan-tubeworm-microbes": {
+      "title": "南永安东脊管虫体内及周围环境的冷泉微生物",
+      "study_type": "管虫共生菌与生境标记基因调查",
+      "study_profile": {
+        "spatial_scope": "台湾西南南永安东脊 Paraescarpia formosa 及其生境。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "采用管虫躯干 16S 克隆文库及环境全长 16S 扩增子。",
+        "measured_or_derived": [
+          "宿主及生境 16S 系统型"
+        ]
+      },
+      "key_findings": [
+        "躯干部位文库含一个主要共生菌系统型；周围生境包含 ANME-1b 和丰富的硫氧化类群。"
+      ],
+      "limitations": [
+        "标记基因描述成员组成，不能识别代谢物转移或证明特定 ANME–SRB 伙伴关系。"
+      ],
+      "cite_for": [
+        "管虫共生菌与生境标记基因调查，适用范围以采样设计为准。",
+        "躯干部位文库含一个主要共生菌系统型；周围生境包含 ANME-1b 和丰富的硫氧化类群。"
+      ],
+      "do_not_overcite": [
+        "标记基因描述成员组成，不能识别代谢物转移或证明特定 ANME–SRB 伙伴关系。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "1338e2c6c0668888"
+    },
+    "src:scs-haima-plastic-aging": {
+      "title": "模拟海马冷泉条件下甲烷渗漏与微塑料老化",
+      "study_type": "高压微塑料培养实验",
+      "study_profile": {
+        "spatial_scope": "200 mL 反应器中的海马沉积物与海水。",
+        "temporal_scope": "两个月；四种塑料，浓度约 10%。",
+        "sample_design": "在模拟渗漏条件下比较塑料表面化学、粗糙度、微生物定殖和营养盐变化。",
+        "measured_or_derived": [
+          "表面化学与粗糙度",
+          "营养盐浓度"
+        ]
+      },
+      "key_findings": [
+        "较强模拟渗漏加速测得的表面老化，PLA 与沉积物处理尤为明显，并伴随无机营养盐变化。"
+      ],
+      "limitations": [
+        "高塑料负荷与反应器条件限制环境外推；表面老化不同于完全生物降解。"
+      ],
+      "cite_for": [
+        "高压微塑料培养实验，适用范围以采样设计为准。",
+        "较强模拟渗漏加速测得的表面老化，PLA 与沉积物处理尤为明显，并伴随无机营养盐变化。"
+      ],
+      "do_not_overcite": [
+        "高塑料负荷与反应器条件限制环境外推；表面老化不同于完全生物降解。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "7b1fc072d30ec957"
+    },
+    "src:scs-pacbio-shortread-sediment-comparison": {
+      "title": "深海沉积物全长与短读长 16S 测序的分辨率比较",
+      "study_type": "测序方法比较",
+      "study_profile": {
+        "spatial_scope": "珠江口外神狐冷泉区域表层沉积物岩芯。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "对沉积物样品比较 PacBio 全长与 Illumina 短读长 16S 分析。",
+        "measured_or_derived": [
+          "分类率与多样性指标"
+        ]
+      },
+      "key_findings": [
+        "PacBio 分析获得更多可分类类群，种水平尤为明显，并分辨出更多细尺度群落差异。"
+      ],
+      "limitations": [
+        "数据库、引物与流程选择影响平台比较；标记分辨率提高不能替代代谢或菌株水平验证。"
+      ],
+      "cite_for": [
+        "测序方法比较，适用范围以采样设计为准。",
+        "PacBio 分析获得更多可分类类群，种水平尤为明显，并分辨出更多细尺度群落差异。"
+      ],
+      "do_not_overcite": [
+        "数据库、引物与流程选择影响平台比较；标记分辨率提高不能替代代谢或菌株水平验证。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "a9d6769a98c3eafb"
+    },
+    "src:scs-haima-dom-water-enrichment": {
+      "title": "海马冷泉水体与沉积物原核群落及有机营养物添加响应",
+      "study_type": "水体–沉积物调查与溶解有机物添加",
+      "study_profile": {
+        "spatial_scope": "海马五个站位；表层至 1,350–1,450 m 底层水及表层沉积物。",
+        "temporal_scope": "2021 年 5 月采样；48 小时瓶培养。",
+        "sample_design": "采集 CTD 水样与 ROV 沉积物，比较群落，并在控温瓶中添加尿素、ATP、二苯并噻吩及葡萄糖。",
+        "measured_or_derived": [
+          "群落相似性的深度变化",
+          "溶解有机物添加响应"
+        ]
+      },
+      "key_findings": [
+        "底层水群落与其他水层的相似性高于与沉积物的相似性；不同有机营养物添加富集不同细菌目。"
+      ],
+      "limitations": [
+        "这些结果为控温瓶培养响应；底物添加和宏基因组潜力不能量化天然元素通量。"
+      ],
+      "cite_for": [
+        "水体–沉积物调查与溶解有机物添加，适用范围以采样设计为准。",
+        "底层水群落与其他水层的相似性高于与沉积物的相似性；不同有机营养物添加富集不同细菌目。"
+      ],
+      "do_not_overcite": [
+        "这些结果为控温瓶培养响应；底物添加和宏基因组潜力不能量化天然元素通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "b788a7a86c7d4bb5"
+    },
+    "src:scs-effluviviacota-seep-genomes": {
+      "title": "冷泉候选细菌门 Effluviviacota 的系统基因组与代谢潜力",
+      "study_type": "未培养类群比较基因组学",
+      "study_profile": {
+        "spatial_scope": "来自南海等冷泉及 Guaymas 热液沉积物的三十个 MAG。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "采用系统基因组与代谢重建分析候选门及其属级类群。",
+        "measured_or_derived": [
+          "MAG 系统发育与途径目录"
+        ]
+      },
+      "key_findings": [
+        "Effluviviacota 基因组编码碳水化合物／肽发酵利用及候选胞外电子传递系统，不同属间存在差异。"
+      ],
+      "limitations": [
+        "不完整 MAG 与功能注释不能确定实际生长底物、电子受体或原位反应速率。"
+      ],
+      "cite_for": [
+        "未培养类群比较基因组学，适用范围以采样设计为准。",
+        "Effluviviacota 基因组编码碳水化合物／肽发酵利用及候选胞外电子传递系统，不同属间存在差异。"
+      ],
+      "do_not_overcite": [
+        "不完整 MAG 与功能注释不能确定实际生长底物、电子受体或原位反应速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "e2ae5373dfef1474"
+    },
+    "src:scs-hwangdonia-lutea": {
+      "title": "海马冷泉 Hwangdonia lutea 新种的分类鉴定",
+      "study_type": "分离菌多相分类",
+      "study_profile": {
+        "spatial_scope": "海马沉积物好氧分离株 SCSIO 19198T。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较生长特征、细胞化学、16S 系统发育与基因组相似度。",
+        "measured_or_derived": [
+          "分离株生长与基因组相似度"
+        ]
+      },
+      "key_findings": [
+        "该分离株被划为 Hwangdonia lutea；与 H. seohaensis 的基因组相似度低于研究采用的种划分阈值。"
+      ],
+      "limitations": [
+        "分类和培养证据不能确定其在未扰动沉积物中的丰度、活性或生态作用。"
+      ],
+      "cite_for": [
+        "分离菌多相分类，适用范围以采样设计为准。",
+        "该分离株被划为 Hwangdonia lutea；与 H. seohaensis 的基因组相似度低于研究采用的种划分阈值。"
+      ],
+      "do_not_overcite": [
+        "分类和培养证据不能确定其在未扰动沉积物中的丰度、活性或生态作用。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "5d2bc992dad544b7"
+    },
+    "src:scs-fontisubflavum-water-isolate": {
+      "title": "南海冷泉水体新属新种 Fontisubflavum oceani",
+      "study_type": "水体分离菌分类研究",
+      "study_profile": {
+        "spatial_scope": "南海深海冷泉水体好氧分离株 CSW1921T。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合生理、化学分类及与近缘 Rhodobacteraceae 的基因组比较。",
+        "measured_or_derived": [
+          "基因组相似度与生长特征"
+        ]
+      },
+      "key_findings": [
+        "约 3.59 Mb 的分离株基因组及多相证据支持提出新属新种 Fontisubflavum oceani。"
+      ],
+      "limitations": [
+        "培养获得的水体分离株不能证明其在水体占优势或具有甲烷氧化能力。"
+      ],
+      "cite_for": [
+        "水体分离菌分类研究，适用范围以采样设计为准。",
+        "约 3.59 Mb 的分离株基因组及多相证据支持提出新属新种 Fontisubflavum oceani。"
+      ],
+      "do_not_overcite": [
+        "培养获得的水体分离株不能证明其在水体占优势或具有甲烷氧化能力。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "f800a557076968f6"
+    },
+    "src:scs-remirge-functional-phylogeny": {
+      "title": "REMIRGE 揭示冷泉功能基因的细尺度系统发育多样性",
+      "study_type": "功能基因重建方法研究",
+      "study_profile": {
+        "spatial_scope": "五个冷泉与一个非冷泉对照，包括海马厘米尺度剖面。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "利用 REMIRGE 从宏基因组读段重建全长功能基因，比较系统发育簇。",
+        "measured_or_derived": [
+          "功能基因序列簇",
+          "基因多样性的深度变化"
+        ]
+      },
+      "key_findings": [
+        "甲烷、硫和氮相关基因簇随站位及沉积深度变化，揭示常规功能汇总难以分辨的差异。"
+      ],
+      "limitations": [
+        "基因系统发育提高潜在功能分辨率，但相关基因簇不能证明代谢耦合或通量。"
+      ],
+      "cite_for": [
+        "功能基因重建方法研究，适用范围以采样设计为准。",
+        "甲烷、硫和氮相关基因簇随站位及沉积深度变化，揭示常规功能汇总难以分辨的差异。"
+      ],
+      "do_not_overcite": [
+        "基因系统发育提高潜在功能分辨率，但相关基因簇不能证明代谢耦合或通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "ff13c5f707dde06b"
+    },
+    "src:scs-haima-minerals-microbes": {
+      "title": "海马不同生境沉积物的矿物组合与微生物群落",
+      "study_type": "矿物学与群落比较",
+      "study_profile": {
+        "spatial_scope": "海马甲烷渗漏、动物聚集及对照沉积物生境。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较矿物组合、细菌／古菌组成及沉积物化学。",
+        "measured_or_derived": [
+          "矿物组合与微生物组成"
+        ]
+      },
+      "key_findings": [
+        "渗漏沉积物含丰富方解石及不同的微生物组合；硫酸盐、钙、镁与矿物及细菌组成共变。"
+      ],
+      "limitations": [
+        "矿物–群落相关性不能测量矿物沉淀速率或证明特定微生物沉淀机制。"
+      ],
+      "cite_for": [
+        "矿物学与群落比较，适用范围以采样设计为准。",
+        "渗漏沉积物含丰富方解石及不同的微生物组合；硫酸盐、钙、镁与矿物及细菌组成共变。"
+      ],
+      "do_not_overcite": [
+        "矿物–群落相关性不能测量矿物沉淀速率或证明特定微生物沉淀机制。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "9b9b358b2d1f1c83"
+    },
+    "src:scs-archaeal-lipidome-seeps": {
+      "title": "南海冷泉古菌脂质组多样性及甲烷氧化代理指标",
+      "study_type": "古菌标记基因–脂质比较",
+      "study_profile": {
+        "spatial_scope": "甲烷供应不同的南海沉积物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合 16S 组成、55 种核心／完整极性脂质及孔隙水碳化学。",
+        "measured_or_derived": [
+          "古菌脂质与甲烷指数"
+        ]
+      },
+      "key_findings": [
+        "脂质组成和古菌群落随渗漏条件变化；完整极性脂质指数与 ANME 分布及甲烷相关地球化学有关。"
+      ],
+      "limitations": [
+        "脂质保存及多来源生产增加归因难度；代理指数并非 ANME 活性的直接测量。"
+      ],
+      "cite_for": [
+        "古菌标记基因–脂质比较，适用范围以采样设计为准。",
+        "脂质组成和古菌群落随渗漏条件变化；完整极性脂质指数与 ANME 分布及甲烷相关地球化学有关。"
+      ],
+      "do_not_overcite": [
+        "脂质保存及多来源生产增加归因难度；代理指数并非 ANME 活性的直接测量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "adcf5f107ad5bdfb"
+    },
+    "src:scs-abyssisolibacter-m8s5": {
+      "title": "冷泉厌氧菌 Abyssisolibacter M8S5 的代谢与适应基因",
+      "study_type": "厌氧分离菌基因组分析",
+      "study_profile": {
+        "spatial_scope": "水深 1,151 m 南海冷泉沉积物来源 Abyssisolibacter M8S5。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分析完整分离株基因组中的底物途径、胞外酶与胁迫相关基因。",
+        "measured_or_derived": [
+          "底物利用与生物合成基因"
+        ]
+      },
+      "key_findings": [
+        "M8S5 编码多种碳水化合物／肽利用途径与厌氧呼吸基因，而组氨酸／脯氨酸合成途径不完整。"
+      ],
+      "limitations": [
+        "基因组注释本身不能证明严格的氨基酸依赖或对压力、温度的功能适应。"
+      ],
+      "cite_for": [
+        "厌氧分离菌基因组分析，适用范围以采样设计为准。",
+        "M8S5 编码多种碳水化合物／肽利用途径与厌氧呼吸基因，而组氨酸／脯氨酸合成途径不完整。"
+      ],
+      "do_not_overcite": [
+        "基因组注释本身不能证明严格的氨基酸依赖或对压力、温度的功能适应。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "65fbf9d0b4b6c830"
+    },
+    "src:scs-haima-faunal-cs-cycling": {
+      "title": "海马动物聚集区环境异质性与碳硫循环相关菌群",
+      "study_type": "动物生境地球化学与组学比较",
+      "study_profile": {
+        "spatial_scope": "海马四类动物聚集生境。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合沉积物地球化学、组学及微生物关联网络。",
+        "measured_or_derived": [
+          "群落网络与沉积物化学"
+        ]
+      },
+      "key_findings": [
+        "ANME、硫酸盐还原菌及硫氧化菌在聚集区间不同，网络模式及硫酸盐／钙关联具有生境特异性。"
+      ],
+      "limitations": [
+        "群落与化学相关性不能因果区分流体供应、动物影响及微生物反馈。"
+      ],
+      "cite_for": [
+        "动物生境地球化学与组学比较，适用范围以采样设计为准。",
+        "ANME、硫酸盐还原菌及硫氧化菌在聚集区间不同，网络模式及硫酸盐／钙关联具有生境特异性。"
+      ],
+      "do_not_overcite": [
+        "群落与化学相关性不能因果区分流体供应、动物影响及微生物反馈。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "fd1d8da61e95e684"
+    },
+    "src:scs-haima-microeukaryotic-diversity": {
+      "title": "海马冷泉沉积物微型真核生物多样性与寄生类群",
+      "study_type": "微型真核生物垂向调查",
+      "study_profile": {
+        "spatial_scope": "海马活跃、较低活跃与非冷泉岩芯，沉积深度 0–25 cm。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分析 18S 组成、多样性、系统发育及生态组装模型。",
+        "measured_or_derived": [
+          "18S 多样性与寄生类群指标"
+        ]
+      },
+      "key_findings": [
+        "冷泉生境的区域微型真核多样性较高，包含 Apicomplexa 和 Syndiniales 等更多寄生类群指示信号。"
+      ],
+      "limitations": [
+        "18S 分类归属不能证明感染或识别实际宿主；组装效应来自统计推断。"
+      ],
+      "cite_for": [
+        "微型真核生物垂向调查，适用范围以采样设计为准。",
+        "冷泉生境的区域微型真核多样性较高，包含 Apicomplexa 和 Syndiniales 等更多寄生类群指示信号。"
+      ],
+      "do_not_overcite": [
+        "18S 分类归属不能证明感染或识别实际宿主；组装效应来自统计推断。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "b92496ee632ad311"
+    },
+    "src:scs-haima-sulfur-dom": {
+      "title": "海马冷泉孔隙水易利用含硫溶解有机物的分子证据",
+      "study_type": "孔隙水光学与分子化学",
+      "study_profile": {
+        "spatial_scope": "海马冷泉及附近非冷泉对照沉积物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较溶解有机物光学性质、分子式及基于组成的易利用性指数。",
+        "measured_or_derived": [
+          "DOM 荧光与分子式"
+        ]
+      },
+      "key_findings": [
+        "与对照相比，冷泉孔隙水具有更多类蛋白荧光、含硫分子式及相对易利用 DOM 的分子指标。"
+      ],
+      "limitations": [
+        "光学／分子易利用性指标并非直接生物降解实验；生物与非生物硫化尚未完全区分。"
+      ],
+      "cite_for": [
+        "孔隙水光学与分子化学，适用范围以采样设计为准。",
+        "与对照相比，冷泉孔隙水具有更多类蛋白荧光、含硫分子式及相对易利用 DOM 的分子指标。"
+      ],
+      "do_not_overcite": [
+        "光学／分子易利用性指标并非直接生物降解实验；生物与非生物硫化尚未完全区分。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "a6688a55609c8693"
+    },
+    "src:scs-scs-aom-biogeography": {
+      "title": "南海冷泉与西沙海槽表层沉积物甲烷循环菌群的生物地理",
+      "study_type": "区域功能标记比较",
+      "study_profile": {
+        "spatial_scope": "F 站位、海马与西沙海槽 0–4 cm 表层沉积物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合地球化学比较 16S 组成、甲烷／硫酸盐循环标记丰度及系统发育。",
+        "measured_or_derived": [
+          "功能标记拷贝数与基因型"
+        ]
+      },
+      "key_findings": [
+        "站位形成不同微生物簇；冷泉沉积物功能标记拷贝较多，而海槽 NC10 相对丰度较高。"
+      ],
+      "limitations": [
+        "与已知 DAMO 生物的标记相似性不能量化硝酸盐／亚硝酸盐依赖甲烷氧化或其实际贡献。"
+      ],
+      "cite_for": [
+        "区域功能标记比较，适用范围以采样设计为准。",
+        "站位形成不同微生物簇；冷泉沉积物功能标记拷贝较多，而海槽 NC10 相对丰度较高。"
+      ],
+      "do_not_overcite": [
+        "与已知 DAMO 生物的标记相似性不能量化硝酸盐／亚硝酸盐依赖甲烷氧化或其实际贡献。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "7e19ad8f7179aab0"
+    },
+    "src:scs-extinct-haima-metabolism": {
+      "title": "海马衰亡冷泉微生物的碳氮硫代谢潜力",
+      "study_type": "衰亡冷泉群落与代谢分析",
+      "study_profile": {
+        "spatial_scope": "海马衰亡冷泉沉积物，并与活跃冷泉及非冷泉比较。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较原核多样性、关联网络及推断代谢途径。",
+        "measured_or_derived": [
+          "原核多样性与代谢目录"
+        ]
+      },
+      "key_findings": [
+        "可见渗漏活动停止后，衰亡冷泉仍保留独特细菌组合及多种碳、氮、硫代谢潜力。"
+      ],
+      "limitations": [
+        "跨站位比较未连续追踪生态衰退；途径目录不能测量持续的初级生产。"
+      ],
+      "cite_for": [
+        "衰亡冷泉群落与代谢分析，适用范围以采样设计为准。",
+        "可见渗漏活动停止后，衰亡冷泉仍保留独特细菌组合及多种碳、氮、硫代谢潜力。"
+      ],
+      "do_not_overcite": [
+        "跨站位比较未连续追踪生态衰退；途径目录不能测量持续的初级生产。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "b25ac5cdb0d1b99a"
+    },
+    "src:scs-qiongdongnan-thermogenic-hydrates": {
+      "title": "琼东南热成因水合物沉积层的微生物垂向分布",
+      "study_type": "含水合物岩芯微生物调查",
+      "study_profile": {
+        "spatial_scope": "琼东南包含含水合物及无水合物层的岩芯。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合 16S 扩增子及分子／地球化学测量，比较不同水合物赋存层。",
+        "measured_or_derived": [
+          "微生物丰度与水合物分层"
+        ]
+      },
+      "key_findings": [
+        "含水合物层微生物丰度较高而多样性较低，古菌组成沿岩芯明显变化。"
+      ],
+      "limitations": [
+        "水合物赋存与沉积物性质共同变化；从分类推断的功能需直接检验。"
+      ],
+      "cite_for": [
+        "含水合物岩芯微生物调查，适用范围以采样设计为准。",
+        "含水合物层微生物丰度较高而多样性较低，古菌组成沿岩芯明显变化。"
+      ],
+      "do_not_overcite": [
+        "水合物赋存与沉积物性质共同变化；从分类推断的功能需直接检验。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "f5eb379076559597"
+    },
+    "src:scs-haima-oil-degrading-isolates": {
+      "title": "海马沉积物可培养石油降解菌及烷烃利用特征",
+      "study_type": "石油降解联合体与分离株实验",
+      "study_profile": {
+        "spatial_scope": "海马沉积物来源五个富集联合体及细菌分离株。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "富集石油利用群落，测试分离株生长及石油／烷烃降解。",
+        "measured_or_derived": [
+          "石油与烷烃降解"
+        ]
+      },
+      "key_findings": [
+        "七株分离菌在室内实验中降解石油，原油、柴油及不同链长烷烃的降解表现不同。"
+      ],
+      "limitations": [
+        "富集性能不能证明天然深海压力下的存活、去除速率或修复效果。"
+      ],
+      "cite_for": [
+        "石油降解联合体与分离株实验，适用范围以采样设计为准。",
+        "七株分离菌在室内实验中降解石油，原油、柴油及不同链长烷烃的降解表现不同。"
+      ],
+      "do_not_overcite": [
+        "富集性能不能证明天然深海压力下的存活、去除速率或修复效果。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "f0429875ca44ba6f"
+    },
+    "src:scs-srb-zero-valent-sulfur": {
+      "title": "冷泉硫酸盐还原菌通过硫代硫酸盐代谢生成零价硫",
+      "study_type": "分离株生理与酶学验证",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉积物分离株 Oceanidesulfovibrio marinus CS1。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合培养硫测量、蛋白组、酶实验及原位培养表达观测。",
+        "measured_or_derived": [
+          "硫产物与 PhsA／SQR 活性"
+        ]
+      },
+      "key_findings": [
+        "CS1 可由硫代硫酸盐产生零价硫；PhsA 还原后经 SQR 氧化硫化物的证据支持受测途径。"
+      ],
+      "limitations": [
+        "沉积物中的同源基因不能量化这一分离株途径对整体硫循环的贡献。"
+      ],
+      "cite_for": [
+        "分离株生理与酶学验证，适用范围以采样设计为准。",
+        "CS1 可由硫代硫酸盐产生零价硫；PhsA 还原后经 SQR 氧化硫化物的证据支持受测途径。"
+      ],
+      "do_not_overcite": [
+        "沉积物中的同源基因不能量化这一分离株途径对整体硫循环的贡献。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "01ad4e1557878144"
+    },
+    "src:scs-sitef-horizontal-vertical-sediment": {
+      "title": "F 站位冷泉沉积物微生物的水平与垂向异质性",
+      "study_type": "细尺度沉积物群落调查",
+      "study_profile": {
+        "spatial_scope": "F 站位南部／北部还原沉积物与两个对照的 0–24 cm 岩芯。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较四个位置、多个深度的 16S 组成与环境梯度。",
+        "measured_or_derived": [
+          "深度特异类群与沉积物化学"
+        ]
+      },
+      "key_findings": [
+        "南北还原沉积物的 ANME 分支及硫酸盐还原菌组合不同，推定转换带分别约为 8 和 10 cm。"
+      ],
+      "limitations": [
+        "推定转换深度与共现模式限于该研究；标记数据不能确定 AOM 速率或证明互营。"
+      ],
+      "cite_for": [
+        "细尺度沉积物群落调查，适用范围以采样设计为准。",
+        "南北还原沉积物的 ANME 分支及硫酸盐还原菌组合不同，推定转换带分别约为 8 和 10 cm。"
+      ],
+      "do_not_overcite": [
+        "推定转换深度与共现模式限于该研究；标记数据不能确定 AOM 速率或证明互营。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "6b0fe174aff8bdbd"
+    },
+    "src:scs-haiyang4-tetraether-lipids": {
+      "title": "海洋四号冷泉岩芯完整极性及核心四醚脂质指标",
+      "study_type": "沉积物脂质代理剖面",
+      "study_profile": {
+        "spatial_scope": "海洋四号冷泉区 973-5 岩芯。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "沿沉积剖面分别分析完整极性和核心 GDGT 脂质。",
+        "measured_or_derived": [
+          "核心及完整极性 GDGT 比值"
+        ]
+      },
+      "key_findings": [
+        "硫酸盐–甲烷转换带脂质指数发生变化，与甲烷相关及氨氧化古菌贡献改变相符。"
+      ],
+      "limitations": [
+        "不同脂质组分的来源划分和保存不同；比值并非活体生物量或代谢速率的直接测量。"
+      ],
+      "cite_for": [
+        "沉积物脂质代理剖面，适用范围以采样设计为准。",
+        "硫酸盐–甲烷转换带脂质指数发生变化，与甲烷相关及氨氧化古菌贡献改变相符。"
+      ],
+      "do_not_overcite": [
+        "不同脂质组分的来源划分和保存不同；比值并非活体生物量或代谢速率的直接测量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "d5c096953e0ca743"
+    },
+    "src:scs-bivalve-lipid-nutrition": {
+      "title": "南海冷泉双壳类脂质标志物及共生营养来源",
+      "study_type": "宿主–共生菌脂质同位素比较",
+      "study_profile": {
+        "spatial_scope": "F 站位与海马四种贻贝／蛤。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分析组织脂质及化合物特异碳同位素，比较营养来源。",
+        "measured_or_derived": [
+          "组织脂质组成与碳同位素"
+        ]
+      },
+      "key_findings": [
+        "甲烷氧化与硫氧化共生双壳类的脂质特征不同；宿主／共生菌相近同位素模式支持较大的共生营养贡献。"
+      ],
+      "limitations": [
+        "标志物推断来源贡献，未直接测量同步碳转移速率或环境氧浓度。"
+      ],
+      "cite_for": [
+        "宿主–共生菌脂质同位素比较，适用范围以采样设计为准。",
+        "甲烷氧化与硫氧化共生双壳类的脂质特征不同；宿主／共生菌相近同位素模式支持较大的共生营养贡献。"
+      ],
+      "do_not_overcite": [
+        "标志物推断来源贡献，未直接测量同步碳转移速率或环境氧浓度。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "5eb3df0a5b9275b5"
+    },
+    "src:scs-scs-six-carbon-fixation-pathways": {
+      "title": "南海冷泉沉积物六类自养碳固定途径的宏基因组潜力",
+      "study_type": "碳固定宏基因组重建",
+      "study_profile": {
+        "spatial_scope": "南海两个冷泉与一个海槽的沉积物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "由宏基因组和 MAG 重建不同沉积深度的碳固定途径。",
+        "measured_or_derived": [
+          "碳固定基因与 MAG 途径"
+        ]
+      },
+      "key_findings": [
+        "检出代表六类碳固定途径的基因；rTCA 分布广泛，Wood–Ljungdahl 途径基因主要集中于冷泉沉积物。"
+      ],
+      "limitations": [
+        "基因存在及完整性不能确定途径方向、表达或碳固定的定量贡献。"
+      ],
+      "cite_for": [
+        "碳固定宏基因组重建，适用范围以采样设计为准。",
+        "检出代表六类碳固定途径的基因；rTCA 分布广泛，Wood–Ljungdahl 途径基因主要集中于冷泉沉积物。"
+      ],
+      "do_not_overcite": [
+        "基因存在及完整性不能确定途径方向、表达或碳固定的定量贡献。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "eff05436478aaeb7"
+    },
+    "src:scs-scs-microeukaryote-biogeography": {
+      "title": "南海冷泉与海槽沉积物微型真核生物的生物地理",
+      "study_type": "微型真核标记与网络调查",
+      "study_profile": {
+        "spatial_scope": "南海北部两个冷泉与一个海槽。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "利用 18S 扩增子与网络分析比较微型真核组成。",
+        "measured_or_derived": [
+          "18S 多样性与网络关联"
+        ]
+      },
+      "key_findings": [
+        "SAR 类群占优势；冷泉群落不同于海槽，并包含许多与寄生或共生类群相关的谱系。"
+      ],
+      "limitations": [
+        "序列归属及网络相关性不能识别实际营养关系，也不能区分活细胞与沉积 DNA。"
+      ],
+      "cite_for": [
+        "微型真核标记与网络调查，适用范围以采样设计为准。",
+        "SAR 类群占优势；冷泉群落不同于海槽，并包含许多与寄生或共生类群相关的谱系。"
+      ],
+      "do_not_overcite": [
+        "序列归属及网络相关性不能识别实际营养关系，也不能区分活细胞与沉积 DNA。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "d9f66fa38607d035"
+    },
+    "src:scs-formosa-betaine-methanogenesis": {
+      "title": "福尔摩沙冷泉细菌–古菌协同将甘氨酸甜菜碱转化为甲烷",
+      "study_type": "沉积物微宇宙与重建共培养",
+      "study_profile": {
+        "spatial_scope": "福尔摩沙冷泉沉积物及分离的 Oceanirhabdus／Methanococcoides 菌株。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合底物添加、抑制、宏基因组、菌株分离及 18°C、4°C 的明确共培养体系。",
+        "measured_or_derived": [
+          "甲烷产生与底物转化"
+        ]
+      },
+      "key_findings": [
+        "细菌–古菌共培养可将甘氨酸甜菜碱转化为甲烷；受测 4°C 共培养需添加二甲基甘氨酸。"
+      ],
+      "limitations": [
+        "已验证的途径不能确定甘氨酸甜菜碱是天然冷泉沉积物中占主导的甲烷前体。"
+      ],
+      "cite_for": [
+        "沉积物微宇宙与重建共培养，适用范围以采样设计为准。",
+        "细菌–古菌共培养可将甘氨酸甜菜碱转化为甲烷；受测 4°C 共培养需添加二甲基甘氨酸。"
+      ],
+      "do_not_overcite": [
+        "已验证的途径不能确定甘氨酸甜菜碱是天然冷泉沉积物中占主导的甲烷前体。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "ca1c99c490d341e4"
+    },
+    "src:scs-mussel-sulfide-detoxification": {
+      "title": "贻贝宿主、内共生菌与表生菌的硫化物胁迫响应",
+      "study_type": "冷泉–热液比较与硫化物暴露",
+      "study_profile": {
+        "spatial_scope": "福尔摩沙海脊及伊平屋北丘来源 Gigantidas platifrons。",
+        "temporal_scope": "三天室内硫化物处理。",
+        "sample_design": "比较 16S 及宿主／微生物转录，再检验贻贝对 Na2S 暴露的响应。",
+        "measured_or_derived": [
+          "硫氧化及宿主胁迫转录信号"
+        ]
+      },
+      "key_findings": [
+        "冷泉–热液差异及硫化物暴露涉及宿主与共生菌的硫氧化转录变化，包括 sqr，与多组分解毒机制一致。"
+      ],
+      "limitations": [
+        "转录响应不能独立量化解毒通量，也不能证明每个伙伴的必要性。"
+      ],
+      "cite_for": [
+        "冷泉–热液比较与硫化物暴露，适用范围以采样设计为准。",
+        "冷泉–热液差异及硫化物暴露涉及宿主与共生菌的硫氧化转录变化，包括 sqr，与多组分解毒机制一致。"
+      ],
+      "do_not_overcite": [
+        "转录响应不能独立量化解毒通量，也不能证明每个伙伴的必要性。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "6e68b0e98abc49d1"
+    },
+    "src:scs-acpsf1-archaeal-marker": {
+      "title": "古菌分类标记 aCPSF1 及南海冷泉样品验证",
+      "study_type": "古菌标记评估",
+      "study_profile": {
+        "spatial_scope": "全球古菌基因组及用于标记比较的南海冷泉样品。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "将 aCPSF1 系统发育与 16S、系统基因组比较，并在同一环境样品中比较多样性。",
+        "measured_or_derived": [
+          "标记系统发育与分类分辨率"
+        ]
+      },
+      "key_findings": [
+        "aCPSF1 聚类总体与既有古菌系统发育一致，低分类阶元分辨率更高；冷泉样品比较获得相近多样性模式。"
+      ],
+      "limitations": [
+        "单个环境验证不能确定普适引物覆盖度或不同古菌类群间等效的定量丰度。"
+      ],
+      "cite_for": [
+        "古菌标记评估，适用范围以采样设计为准。",
+        "aCPSF1 聚类总体与既有古菌系统发育一致，低分类阶元分辨率更高；冷泉样品比较获得相近多样性模式。"
+      ],
+      "do_not_overcite": [
+        "单个环境验证不能确定普适引物覆盖度或不同古菌类群间等效的定量丰度。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "502291544b6e3ec4"
+    },
+    "src:scs-haima-methane-derived-doc": {
+      "title": "海马孔隙水类蛋白溶解有机碳与甲烷氧化的联系",
+      "study_type": "孔隙水同位素与光学剖面",
+      "study_profile": {
+        "spatial_scope": "两支海马冷泉岩芯及附近一支对照岩芯。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "测量硫酸盐、DOC 浓度、DOC 碳同位素及荧光组分。",
+        "measured_or_derived": [
+          "DOC 碳同位素与荧光"
+        ]
+      },
+      "key_findings": [
+        "冷泉孔隙水 DOC 较高、碳同位素明显亏损，且类蛋白荧光较多，支持存在甲烷相关 DOC 贡献。"
+      ],
+      "limitations": [
+        "同位素／荧光代理不能直接量化甲烷向 DOC 的转化、微生物摄取或向海洋输出。"
+      ],
+      "cite_for": [
+        "孔隙水同位素与光学剖面，适用范围以采样设计为准。",
+        "冷泉孔隙水 DOC 较高、碳同位素明显亏损，且类蛋白荧光较多，支持存在甲烷相关 DOC 贡献。"
+      ],
+      "do_not_overcite": [
+        "同位素／荧光代理不能直接量化甲烷向 DOC 的转化、微生物摄取或向海洋输出。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "dffd7d1254320916"
+    },
+    "src:scs-iocasia-carbohydrate-fermentation": {
+      "title": "冷泉厌氧菌 Iocasia 的多糖降解与发酵产物",
+      "study_type": "厌氧分离菌生理与转录分析",
+      "study_profile": {
+        "spatial_scope": "南海深海冷泉来源 Iocasia fonsfrigidae NS-1。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合分离株分类、多糖生长实验、发酵产物测量及转录分析。",
+        "measured_or_derived": [
+          "底物利用与发酵产物"
+        ]
+      },
+      "key_findings": [
+        "NS-1 利用多种受测碳水化合物，产生氢及有机发酵产物，可作为冷泉多糖加工的可培养模型。"
+      ],
+      "limitations": [
+        "分离株产物不能证明其他伙伴的利用或该菌对天然冷泉碳周转的贡献。"
+      ],
+      "cite_for": [
+        "厌氧分离菌生理与转录分析，适用范围以采样设计为准。",
+        "NS-1 利用多种受测碳水化合物，产生氢及有机发酵产物，可作为冷泉多糖加工的可培养模型。"
+      ],
+      "do_not_overcite": [
+        "分离株产物不能证明其他伙伴的利用或该菌对天然冷泉碳周转的贡献。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "4ababa7dedebe801"
+    },
+    "src:scs-psychrosphaera-ytuae": {
+      "title": "南海冷泉沉积物 Psychrosphaera ytuae 新种",
+      "study_type": "分离菌多相分类",
+      "study_profile": {
+        "spatial_scope": "南海冷泉好氧沉积物分离株 MTZ26T。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合生理、化学特征、系统发育及分离株基因组分析。",
+        "measured_or_derived": [
+          "生长范围与基因组性质"
+        ]
+      },
+      "key_findings": [
+        "所提出的 Psychrosphaera ytuae 在受测条件下可于 4–40°C 生长，染色体约 3.33 Mb。"
+      ],
+      "limitations": [
+        "室内温度耐受不能证明原位压力适应或环境丰度。"
+      ],
+      "cite_for": [
+        "分离菌多相分类，适用范围以采样设计为准。",
+        "所提出的 Psychrosphaera ytuae 在受测条件下可于 4–40°C 生长，染色体约 3.33 Mb。"
+      ],
+      "do_not_overcite": [
+        "室内温度耐受不能证明原位压力适应或环境丰度。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "24e9f86d1a997bbe"
+    },
+    "src:scs-bacillus-fonticola": {
+      "title": "冷泉沉积物 Bacillus fonticola 新种与培养特征",
+      "study_type": "分离菌多相分类",
+      "study_profile": {
+        "spatial_scope": "南海深海冷泉沉积物分离株 CS13T。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较 16S 系统发育、生长范围与细胞化学。",
+        "measured_or_derived": [
+          "生长生理与化学分类"
+        ]
+      },
+      "key_findings": [
+        "表型和系统发育证据支持 Bacillus fonticola；受测生长范围为 16–37°C 和 0–8% NaCl。"
+      ],
+      "limitations": [
+        "培养范围不能作为冷泉环境温盐条件，也不能证明生态优势。"
+      ],
+      "cite_for": [
+        "分离菌多相分类，适用范围以采样设计为准。",
+        "表型和系统发育证据支持 Bacillus fonticola；受测生长范围为 16–37°C 和 0–8% NaCl。"
+      ],
+      "do_not_overcite": [
+        "培养范围不能作为冷泉环境温盐条件，也不能证明生态优势。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "404f1ddd8ec1c1b2"
+    },
+    "src:scs-shenhu-aom-without-anme": {
+      "title": "神狐沉积物地球化学剖面及未检出经典 ANME 时的潜在甲烷转化",
+      "study_type": "岩芯调查与甲烷过程培养",
+      "study_profile": {
+        "spatial_scope": "硫酸盐–甲烷转换带上方两支神狐岩芯。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合地球化学剖面、高通量群落测序及 AOM／产甲烷培养。",
+        "measured_or_derived": [
+          "潜在甲烷转化与群落剖面"
+        ]
+      },
+      "key_findings": [
+        "尽管受测沉积物中未检出经典 ANME 序列，培养体系仍出现甲烷氧化与产生。"
+      ],
+      "limitations": [
+        "未检出受方法影响；责任微生物尚未确定，不能仅依据丰度归因于 Bathyarchaeota。"
+      ],
+      "cite_for": [
+        "岩芯调查与甲烷过程培养，适用范围以采样设计为准。",
+        "尽管受测沉积物中未检出经典 ANME 序列，培养体系仍出现甲烷氧化与产生。"
+      ],
+      "do_not_overcite": [
+        "未检出受方法影响；责任微生物尚未确定，不能仅依据丰度归因于 Bathyarchaeota。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "d297b7c695341983"
+    },
+    "src:scs-artificial-seep-biocoenosis": {
+      "title": "持续甲烷释放装置构建南海深海生物群落",
+      "study_type": "人工渗漏定殖实验",
+      "study_profile": {
+        "spatial_scope": "南海约 1,000 m 海床持续释放甲烷的装置。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "部署甲烷生物群落发生装置，观测微生物与动物定殖。",
+        "measured_or_derived": [
+          "微生物与动物定殖顺序"
+        ]
+      },
+      "key_findings": [
+        "观测到细菌与古菌先于水母和端足类定殖，构建群落中也检出病毒。"
+      ],
+      "limitations": [
+        "定殖演替不能直接追踪所有生物间的电子或碳转移，也不能复制全部天然冷泉条件。"
+      ],
+      "cite_for": [
+        "人工渗漏定殖实验，适用范围以采样设计为准。",
+        "观测到细菌与古菌先于水母和端足类定殖，构建群落中也检出病毒。"
+      ],
+      "do_not_overcite": [
+        "定殖演替不能直接追踪所有生物间的电子或碳转移，也不能复制全部天然冷泉条件。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "9425e93cf4f2d0b0"
+    },
+    "src:scs-haima-bivalve-gill-markers": {
+      "title": "海马贻贝与蛤鳃细菌组成及标记基因功能预测",
+      "study_type": "鳃 16S 与功能预测",
+      "study_profile": {
+        "spatial_scope": "海马 Gigantidas haimaensis 与 Archivesica marissinica。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较鳃 16S 群落及 FAPROTAX／PICRUSt 推断功能。",
+        "measured_or_derived": [
+          "鳃 16S 组成与预测功能"
+        ]
+      },
+      "key_findings": [
+        "两个宿主均以 Gammaproteobacteria 为主，但细菌多样性、组成及预测功能不同。"
+      ],
+      "limitations": [
+        "16S 功能预测并非宏基因组、转录组或已证实的化能自养营养途径。"
+      ],
+      "cite_for": [
+        "鳃 16S 与功能预测，适用范围以采样设计为准。",
+        "两个宿主均以 Gammaproteobacteria 为主，但细菌多样性、组成及预测功能不同。"
+      ],
+      "do_not_overcite": [
+        "16S 功能预测并非宏基因组、转录组或已证实的化能自养营养途径。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "f8a22a5bd14759dc"
+    },
+    "src:scs-methanofollis-fontis-isolate": {
+      "title": "台湾西南冷泉邻近沉积物氢营养型 Methanofollis fontis",
+      "study_type": "产甲烷古菌分离与分类",
+      "study_profile": {
+        "spatial_scope": "四方封闭海脊冷泉邻近 C5-6 站位分离株 FWC-SCC2T。",
+        "temporal_scope": "2015 年 Ocean Researcher III 航次 ORIII-1900；论文发表于要求的时间范围内。",
+        "sample_design": "测试产甲烷底物，比较生理、16S 与基因组相似度。",
+        "measured_or_derived": [
+          "产甲烷底物范围"
+        ]
+      },
+      "key_findings": [
+        "所提出的 Methanofollis fontis 可利用甲酸或 H2／CO2，而受测乙酸、醇类及甲胺未支持产甲烷。"
+      ],
+      "limitations": [
+        "邻近沉积物中分离的中温菌不能确定活跃泉口产甲烷或其定量现场贡献。"
+      ],
+      "cite_for": [
+        "产甲烷古菌分离与分类，适用范围以采样设计为准。",
+        "所提出的 Methanofollis fontis 可利用甲酸或 H2／CO2，而受测乙酸、醇类及甲胺未支持产甲烷。"
+      ],
+      "do_not_overcite": [
+        "邻近沉积物中分离的中温菌不能确定活跃泉口产甲烷或其定量现场贡献。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "88117cc795f2f96e"
+    },
+    "src:scs-scs-n-damo-potential": {
+      "title": "南海冷泉与海槽沉积物氮依赖甲烷氧化的宏基因组潜力",
+      "study_type": "甲烷途径宏基因组比较",
+      "study_profile": {
+        "spatial_scope": "F 站位、海马与西沙海槽还原沉积物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "跨生境比较微生物类群及甲烷／氮途径基因。",
+        "measured_or_derived": [
+          "甲烷／氮基因与分类信号"
+        ]
+      },
+      "key_findings": [
+        "Methylomirabilis／Methanoperedens 信号及相关基因支持部分受测生境可能具有硝酸盐／亚硝酸盐耦合甲烷氧化。"
+      ],
+      "limitations": [
+        "研究从宏基因组推断潜力；需同位素速率测量才能确定各途径对甲烷去除的贡献。"
+      ],
+      "cite_for": [
+        "甲烷途径宏基因组比较，适用范围以采样设计为准。",
+        "Methylomirabilis／Methanoperedens 信号及相关基因支持部分受测生境可能具有硝酸盐／亚硝酸盐耦合甲烷氧化。"
+      ],
+      "do_not_overcite": [
+        "研究从宏基因组推断潜力；需同位素速率测量才能确定各途径对甲烷去除的贡献。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "16a3ccb4a840f1bd"
+    },
+    "src:scs-nitrincola-iocasae": {
+      "title": "福尔摩沙冷泉 Nitrincola iocasae 新种的分类",
+      "study_type": "分离菌多相分类",
+      "study_profile": {
+        "spatial_scope": "福尔摩沙海脊沉积物兼性厌氧分离株 KXZD1103T。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合生理、16S 系统发育、基因组测序及亲缘比较。",
+        "measured_or_derived": [
+          "分离株生理与基因组相似度"
+        ]
+      },
+      "key_findings": [
+        "4.17 Mb 基因组及多相证据支持 Nitrincola iocasae 为独立新种。"
+      ],
+      "limitations": [
+        "属级名称不能证明硝化、反硝化或对群落氮循环的作用。"
+      ],
+      "cite_for": [
+        "分离菌多相分类，适用范围以采样设计为准。",
+        "4.17 Mb 基因组及多相证据支持 Nitrincola iocasae 为独立新种。"
+      ],
+      "do_not_overcite": [
+        "属级名称不能证明硝化、反硝化或对群落氮循环的作用。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "dcac1df5265dcddc"
+    },
+    "src:scs-carbonate-phosphorus-speciation": {
+      "title": "冷泉碳酸盐磷形态及微纳尺度分布",
+      "study_type": "碳酸盐磷分级与成像",
+      "study_profile": {
+        "spatial_scope": "南海／东海三个深海冷泉碳酸盐站位。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "测量磷组分，并利用 NanoSIMS／SEM 映射 P、Ca、C、Fe 分布。",
+        "measured_or_derived": [
+          "磷组分与元素分布图"
+        ]
+      },
+      "key_findings": [
+        "钙结合磷占最大比例；空间与元素关联支持多种矿物和有机磷保留途径。"
+      ],
+      "limitations": [
+        "P–Fe 共变本身不能证明铁依赖 AOM 为溶解磷来源，也不能量化磷通量。"
+      ],
+      "cite_for": [
+        "碳酸盐磷分级与成像，适用范围以采样设计为准。",
+        "钙结合磷占最大比例；空间与元素关联支持多种矿物和有机磷保留途径。"
+      ],
+      "do_not_overcite": [
+        "P–Fe 共变本身不能证明铁依赖 AOM 为溶解磷来源，也不能量化磷通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "455939e15e24e8a8"
+    },
+    "src:scs-erythrobacter-thiosulfate-pathway": {
+      "title": "冷泉 Erythrobacter 的硫代硫酸盐氧化与零价硫途径",
+      "study_type": "遗传与生化途径检验",
+      "study_profile": {
+        "spatial_scope": "南海冷泉分离株 Erythrobacter flavus 21-3。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合硫产物鉴定、蛋白组、遗传检验及中间体化学计量。",
+        "measured_or_derived": [
+          "硫中间体与基因干预效应"
+        ]
+      },
+      "key_findings": [
+        "受测菌经 TsdA／SoxB 相关步骤将硫代硫酸盐转为零价硫，Sdo 蛋白参与后续氧化。"
+      ],
+      "limitations": [
+        "同源基因分布提示可能能力，却不能量化该途径对天然或全球硫循环的贡献。"
+      ],
+      "cite_for": [
+        "遗传与生化途径检验，适用范围以采样设计为准。",
+        "受测菌经 TsdA／SoxB 相关步骤将硫代硫酸盐转为零价硫，Sdo 蛋白参与后续氧化。"
+      ],
+      "do_not_overcite": [
+        "同源基因分布提示可能能力，却不能量化该途径对天然或全球硫循环的贡献。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "7a115492fede9220"
+    },
+    "src:scs-formosa-sulfurovum-interface": {
+      "title": "福尔摩沙冷泉界面 Sulfurovum 优势群落及基因组潜力",
+      "study_type": "界面扩增子与基因组重建",
+      "study_profile": {
+        "spatial_scope": "福尔摩沙近泉水体、表层沉积物及 Shinkaia 鳃。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合界面样品短／全长 16S 扩增子与宏基因组分箱。",
+        "measured_or_derived": [
+          "Sulfurovum 标记丰度与 MAG 途径"
+        ]
+      },
+      "key_findings": [
+        "Sulfurovum 在受测界面群落占优势；重建基因组支持 rTCA 碳固定、硫氧化及硝酸盐利用潜力。"
+      ],
+      "limitations": [
+        "优势标记谱系并非已培养物种，也不能代表已验证的碳／硫／氮过程速率。"
+      ],
+      "cite_for": [
+        "界面扩增子与基因组重建，适用范围以采样设计为准。",
+        "Sulfurovum 在受测界面群落占优势；重建基因组支持 rTCA 碳固定、硫氧化及硝酸盐利用潜力。"
+      ],
+      "do_not_overcite": [
+        "优势标记谱系并非已培养物种，也不能代表已验证的碳／硫／氮过程速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "53602f25b9008160"
+    },
+    "src:scs-jiaolong-vertical-prokaryotes": {
+      "title": "蛟龙冷泉表层沉积物原核微生物的垂向分布",
+      "study_type": "表层岩芯标记与宏基因组调查",
+      "study_profile": {
+        "spatial_scope": "蛟龙沉积物，比较 0–6 与 8–14 cm 层。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合 16S 焦磷酸测序与宏基因组甲烷／硫／硝酸盐功能基因。",
+        "measured_or_derived": [
+          "群落与功能基因垂向分布"
+        ]
+      },
+      "key_findings": [
+        "表层偏富集硫氧化菌和 ANME-1，深层偏富集硫酸盐还原菌及 ANME-1／2；表层硫／硝酸盐基因共变。"
+      ],
+      "limitations": [
+        "基因共同分布不能直接确定电子受体耦合或特定伙伴互营。"
+      ],
+      "cite_for": [
+        "表层岩芯标记与宏基因组调查，适用范围以采样设计为准。",
+        "表层偏富集硫氧化菌和 ANME-1，深层偏富集硫酸盐还原菌及 ANME-1／2；表层硫／硝酸盐基因共变。"
+      ],
+      "do_not_overcite": [
+        "基因共同分布不能直接确定电子受体耦合或特定伙伴互营。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "b6fb3f990fc5ab66"
+    },
+    "src:scs-mussel-methane-maintenance": {
+      "title": "甲烷供应对冷泉贻贝室内暂养共生菌数量的影响",
+      "study_type": "添加甲烷的贻贝暂养实验",
+      "study_profile": {
+        "spatial_scope": "南海 Bathymodiolus platifrons 及其鳃甲烷氧化共生菌。",
+        "temporal_scope": "34 天有甲烷与无甲烷室内暂养。",
+        "sample_design": "鉴定 pmoABC，定量共生菌标记 DNA，并通过显微观察验证数量变化。",
+        "measured_or_derived": [
+          "共生菌标记 DNA 与显微观察"
+        ]
+      },
+      "key_findings": [
+        "暂养期间共生菌数量下降，第 24、34 天无甲烷处理的下降更明显。"
+      ],
+      "limitations": [
+        "标记 DNA 丰度及室内甲烷供应不能量化天然共生菌碳固定或向宿主转移。"
+      ],
+      "cite_for": [
+        "添加甲烷的贻贝暂养实验，适用范围以采样设计为准。",
+        "暂养期间共生菌数量下降，第 24、34 天无甲烷处理的下降更明显。"
+      ],
+      "do_not_overcite": [
+        "标记 DNA 丰度及室内甲烷供应不能量化天然共生菌碳固定或向宿主转移。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "0b28f6f7749322f4"
+    },
+    "src:scs-global-seep-diazotroph-genomes": {
+      "title": "全球冷泉沉积物固氮微生物的系统发育与分解代谢多样性",
+      "study_type": "固氮酶比较宏基因组研究",
+      "study_profile": {
+        "spatial_scope": "全球十一个冷泉区域，包括南海蛟龙、海洋四号、F 站位及海马。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分析 61 个宏基因组、1,428 个 MAG 及六个宏转录组中的固氮酶与相关供能途径。",
+        "measured_or_derived": [
+          "固氮酶系统发育与途径目录"
+        ]
+      },
+      "key_findings": [
+        "固氮酶基因分布于 ANME–SRB 之外更多古菌／细菌谱系及供能代谢，扩展了冷泉潜在固氮者的基因组目录。"
+      ],
+      "limitations": [
+        "基因／转录证据不能确定各谱系的固氮速率或全球氮收支。"
+      ],
+      "cite_for": [
+        "固氮酶比较宏基因组研究，适用范围以采样设计为准。",
+        "固氮酶基因分布于 ANME–SRB 之外更多古菌／细菌谱系及供能代谢，扩展了冷泉潜在固氮者的基因组目录。"
+      ],
+      "do_not_overcite": [
+        "基因／转录证据不能确定各谱系的固氮速率或全球氮收支。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "4cc3c4482330e714"
+    },
+    "src:scs-scs-dna-rna-viral-carbon": {
+      "title": "南海冷泉与海山 DNA／RNA 病毒多样性及有机质代谢基因表达",
+      "study_type": "DNA／RNA 病毒组与宏转录组研究",
+      "study_profile": {
+        "spatial_scope": "南海四个位置：衰退冷泉、远处对照、新生冷泉及海山；最表层 1 cm 沉积物。",
+        "temporal_scope": "2022 年 7 月 Faxian ROV 采样；各站位三个独立样品。",
+        "sample_design": "跨不同生境结合纯化病毒组分、DNA／RNA 病毒组、宏基因组及宏转录组。",
+        "measured_or_derived": [
+          "DNA／RNA 病毒多样性与基因表达"
+        ]
+      },
+      "key_findings": [
+        "新生冷泉病毒群落不同于其他生境，包括更多 RNA／温和病毒信号；病毒代谢基因转录支持可能参与有机质功能。"
+      ],
+      "limitations": [
+        "RNA 检出和基因表达不能量化感染速率或群落碳周转；位置与生境效应重叠。"
+      ],
+      "cite_for": [
+        "DNA／RNA 病毒组与宏转录组研究，适用范围以采样设计为准。",
+        "新生冷泉病毒群落不同于其他生境，包括更多 RNA／温和病毒信号；病毒代谢基因转录支持可能参与有机质功能。"
+      ],
+      "do_not_overcite": [
+        "RNA 检出和基因表达不能量化感染速率或群落碳周转；位置与生境效应重叠。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "529c7a45514c0663"
+    },
+    "src:scs-sitef-mussel-phage-expression": {
+      "title": "F 站位贻贝鳃病毒与甲烷氧化共生菌的基因组和转录联系",
+      "study_type": "鳃病毒宏基因组–转录组比较",
+      "study_profile": {
+        "spatial_scope": "F 站位九只 Gigantidas platifrons，高、中、低甲烷生境各三只。",
+        "temporal_scope": "2019 年 Faxian ROV 于 1,119 m 水深采集。",
+        "sample_design": "比较鳃 DNA／RNA 病毒组成，并推断噬菌体与甲烷氧化共生菌的联系。",
+        "measured_or_derived": [
+          "病毒片段、转录与候选宿主联系"
+        ]
+      },
+      "key_findings": [
+        "病毒组成随甲烷生境不同；表达的噬菌体片段及共有基因特征支持与鳃共生菌存在候选关联。"
+      ],
+      "limitations": [
+        "计算联系和转录信号不能证明有效感染、水平转移或对贻贝营养的影响。"
+      ],
+      "cite_for": [
+        "鳃病毒宏基因组–转录组比较，适用范围以采样设计为准。",
+        "病毒组成随甲烷生境不同；表达的噬菌体片段及共有基因特征支持与鳃共生菌存在候选关联。"
+      ],
+      "do_not_overcite": [
+        "计算联系和转录信号不能证明有效感染、水平转移或对贻贝营养的影响。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "a5d1fc0ed6c4adc6"
+    },
+    "src:scs-twilight-particle-size-microbiomes": {
+      "title": "南海冷泉上方暮光层不同粒径颗粒相关微生物",
+      "study_type": "原位粒径分级宏基因组调查",
+      "study_profile": {
+        "spatial_scope": "海马／F 站位水体与 SEATS 对照，以及龙旂热液站；表层、约 200 及 800 m。",
+        "temporal_scope": "南海 2018 年、热液站 2019 年采样。",
+        "sample_design": "每样原位过滤约 500 L，分为 >50、10–50 和 1–10 μm 颗粒组分，分析宏基因组与碳化学。",
+        "measured_or_derived": [
+          "粒径分级群落与 CAZyme 组成"
+        ]
+      },
+      "key_findings": [
+        "粒径与深度对应不同群落及碳水化合物降解基因组成；较小组分多样性较低，但碳降解基因较多。"
+      ],
+      "limitations": [
+        "受测组分为颗粒相关微生物，并非全部游离菌；基因目录不能量化颗粒沉降或再矿化速率。"
+      ],
+      "cite_for": [
+        "原位粒径分级宏基因组调查，适用范围以采样设计为准。",
+        "粒径与深度对应不同群落及碳水化合物降解基因组成；较小组分多样性较低，但碳降解基因较多。"
+      ],
+      "do_not_overcite": [
+        "受测组分为颗粒相关微生物，并非全部游离菌；基因目录不能量化颗粒沉降或再矿化速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "92f87a16a613943b"
+    },
+    "src:scs-jiulong-uncultivated-lineages": {
+      "title": "九龙甲烷礁邻近沉积物未培养微生物的固碳与营养循环潜力",
+      "study_type": "未培养类群基因组与转录研究",
+      "study_profile": {
+        "spatial_scope": "南海北部水深 1,100 m 九龙甲烷礁附近一支岩芯。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "重建十一个完整度 >85% 的基因组，检查途径基因与转录支持。",
+        "measured_or_derived": [
+          "MAG 完整度与途径转录"
+        ]
+      },
+      "key_findings": [
+        "九个门包括未培养古菌／细菌类群，具有固碳、有机底物利用及营养元素还原潜力；部分途径基因有转录支持。"
+      ],
+      "limitations": [
+        "转录比仅有基因更有支持力，但不能确定完整途径活性、伙伴交换或通量。"
+      ],
+      "cite_for": [
+        "未培养类群基因组与转录研究，适用范围以采样设计为准。",
+        "九个门包括未培养古菌／细菌类群，具有固碳、有机底物利用及营养元素还原潜力；部分途径基因有转录支持。"
+      ],
+      "do_not_overcite": [
+        "转录比仅有基因更有支持力，但不能确定完整途径活性、伙伴交换或通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "2deff8557d0e7b0d"
+    },
+    "src:scs-carbonate-fossil-microbial-genomes": {
+      "title": "南海及墨西哥湾冷泉碳酸盐保存的微生物遗传记录",
+      "study_type": "碳酸盐宏基因组资源",
+      "study_profile": {
+        "spatial_scope": "南海与墨西哥湾冷泉碳酸盐。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "提取碳酸盐宏基因组，重建标记组成并获得十个优势原核基因组。",
+        "measured_or_derived": [
+          "碳酸盐 DNA 组成与重建基因组"
+        ]
+      },
+      "key_findings": [
+        "碳酸盐保存了 ANME 及好氧氨氧化古菌信号，群落组成不同于沉积物，样品间降解程度不同。"
+      ],
+      "limitations": [
+        "保存的 DNA 和基因组不能证明碳酸盐中存在活细胞或当前微生物活性。"
+      ],
+      "cite_for": [
+        "碳酸盐宏基因组资源，适用范围以采样设计为准。",
+        "碳酸盐保存了 ANME 及好氧氨氧化古菌信号，群落组成不同于沉积物，样品间降解程度不同。"
+      ],
+      "do_not_overcite": [
+        "保存的 DNA 和基因组不能证明碳酸盐中存在活细胞或当前微生物活性。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "047a43ad16ed5961"
+    },
+    "src:scs-haima-organotrophic-chitin": {
+      "title": "海马有机营养微生物的碳氮硫潜力与高压几丁质酶",
+      "study_type": "有机营养微生物基因组与酶实验",
+      "study_profile": {
+        "spatial_scope": "海马活跃及衰亡生境沉积物微生物群落。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分析 225 个非冗余 MAG，并在 15 MPa、4°C 下测试候选几丁质酶。",
+        "measured_or_derived": [
+          "有机底物基因与几丁质酶活性"
+        ]
+      },
+      "key_findings": [
+        "多个常见 MAG 编码有机底物利用和元素循环基因；受选几丁质酶在受测压力／温度下保持结构并显示增强活性。"
+      ],
+      "limitations": [
+        "单个酶实验不能确定群落几丁质周转，也不能证明几丁质为长期碳／氮储库。"
+      ],
+      "cite_for": [
+        "有机营养微生物基因组与酶实验，适用范围以采样设计为准。",
+        "多个常见 MAG 编码有机底物利用和元素循环基因；受选几丁质酶在受测压力／温度下保持结构并显示增强活性。"
+      ],
+      "do_not_overcite": [
+        "单个酶实验不能确定群落几丁质周转，也不能证明几丁质为长期碳／氮储库。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "efc79464841d74ee"
+    },
+    "src:scs-haima-arsenic-methane": {
+      "title": "海马冷泉砷富集与甲烷、硫循环微生物的联系",
+      "study_type": "砷地球化学与途径基因组学",
+      "study_profile": {
+        "spatial_scope": "海马冷泉沉积物及孔隙水。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分析砷结合形态、甲烷氧化代理指标及砷／甲烷／硫相关基因。",
+        "measured_or_derived": [
+          "砷组分与 arrA／dsrA 基因"
+        ]
+      },
+      "key_findings": [
+        "冷泉富集砷主要与硫化物结合；甲烷相关地球化学及共现 arrA／dsrA 支持砷–硫–甲烷联系的潜力。"
+      ],
+      "limitations": [
+        "代理相关性与基因组共现不能直接量化耦合反应；年度固定量估计依赖尺度外推假设。"
+      ],
+      "cite_for": [
+        "砷地球化学与途径基因组学，适用范围以采样设计为准。",
+        "冷泉富集砷主要与硫化物结合；甲烷相关地球化学及共现 arrA／dsrA 支持砷–硫–甲烷联系的潜力。"
+      ],
+      "do_not_overcite": [
+        "代理相关性与基因组共现不能直接量化耦合反应；年度固定量估计依赖尺度外推假设。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "a711ac00bb0456b0"
+    },
+    "src:scs-haima-deep-core-community": {
+      "title": "海马深岩芯甲烷渗漏层的群落垂向分化",
+      "study_type": "深岩芯地球化学与群落模型",
+      "study_profile": {
+        "spatial_scope": "深至 290 cm 的海马甲烷渗漏沉积剖面。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "采用沉积物化学、16S 组成及生态组装模型比较 21 个分层样品。",
+        "measured_or_derived": [
+          "垂向多样性及甲烷／硫酸盐剖面"
+        ]
+      },
+      "key_findings": [
+        "微生物多样性随沉积深度降低，群落组成在地球化学转换附近变化，包括约 70 cm 层位。"
+      ],
+      "limitations": [
+        "组装模型分配不能确定因果驱动；基于基因的预测不同于测得的甲烷或硫速率。"
+      ],
+      "cite_for": [
+        "深岩芯地球化学与群落模型，适用范围以采样设计为准。",
+        "微生物多样性随沉积深度降低，群落组成在地球化学转换附近变化，包括约 70 cm 层位。"
+      ],
+      "do_not_overcite": [
+        "组装模型分配不能确定因果驱动；基于基因的预测不同于测得的甲烷或硫速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "95369f10d695ecd6"
+    },
+    "src:scs-curvularia-genome-led-metabolites": {
+      "title": "冷泉动物来源 Curvularia 真菌的基因组引导天然产物发现",
+      "study_type": "基因组引导真菌代谢物研究",
+      "study_profile": {
+        "spatial_scope": "南海冷泉 Shinkaia crosnieri 内部组织来源 Curvularia verruculosa CS-129。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合基因组引导培养条件改变、代谢物纯化、结构解析及抗菌／幼苗实验。",
+        "measured_or_derived": [
+          "代谢物结构与室内生物活性"
+        ]
+      },
+      "key_findings": [
+        "培养条件改变获得六种此前未描述的细胞松弛素类化合物；部分化合物在室内实验中具有抗菌或幼苗根生长抑制活性。"
+      ],
+      "limitations": [
+        "培养诱导产物及受测生物抑制不能证明天然产量、宿主保护或生态功能。"
+      ],
+      "cite_for": [
+        "基因组引导真菌代谢物研究，适用范围以采样设计为准。",
+        "培养条件改变获得六种此前未描述的细胞松弛素类化合物；部分化合物在室内实验中具有抗菌或幼苗根生长抑制活性。"
+      ],
+      "do_not_overcite": [
+        "培养诱导产物及受测生物抑制不能证明天然产量、宿主保护或生态功能。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "dee2615eedea605a"
+    },
+    "src:scs-alternaria-wood-meroterpenoids": {
+      "title": "冷泉沉木来源 Alternaria 的混源萜类及抗菌活性",
+      "study_type": "沉木来源真菌天然产物",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉木来源 Alternaria alstroemeriae CS-745。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "纯化培养代谢物，解析结构／构型并测量细菌抑制。",
+        "measured_or_derived": [
+          "混源萜结构与抑制浓度"
+        ]
+      },
+      "key_findings": [
+        "研究鉴定三种新混源萜及已知同类物；部分产物抑制受测 Klebsiella 与耐药 Staphylococcus 菌株。"
+      ],
+      "limitations": [
+        "体外抑制不能证明动物内抗生素疗效或冷泉沉木生境中的抗菌作用。"
+      ],
+      "cite_for": [
+        "沉木来源真菌天然产物，适用范围以采样设计为准。",
+        "研究鉴定三种新混源萜及已知同类物；部分产物抑制受测 Klebsiella 与耐药 Staphylococcus 菌株。"
+      ],
+      "do_not_overcite": [
+        "体外抑制不能证明动物内抗生素疗效或冷泉沉木生境中的抗菌作用。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "e04fa608a9746924"
+    },
+    "src:scs-aspergillus-subversicolor-phenols": {
+      "title": "海马 Aspergillus subversicolor 新酚类及阴性活性筛查",
+      "study_type": "真菌化学与活性筛查",
+      "study_profile": {
+        "spatial_scope": "海马来源 Aspergillus subversicolor CYH-17。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "解析代谢物结构，测试酶抑制、抗氧化与抗菌活性。",
+        "measured_or_derived": [
+          "化学结构与实验结果"
+        ]
+      },
+      "key_findings": [
+        "研究鉴定新酚类衍生物，但报告的受测实验中未观察到明显活性。"
+      ],
+      "limitations": [
+        "阴性筛查仅适用于所用实验及浓度；化学新颖性本身不能说明有用的生物活性。"
+      ],
+      "cite_for": [
+        "真菌化学与活性筛查，适用范围以采样设计为准。",
+        "研究鉴定新酚类衍生物，但报告的受测实验中未观察到明显活性。"
+      ],
+      "do_not_overcite": [
+        "阴性筛查仅适用于所用实验及浓度；化学新颖性本身不能说明有用的生物活性。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "7b8036426eb8be7a"
+    },
+    "src:scs-aspergillus-fumitremorgin": {
+      "title": "海马 Aspergillus fumigatus 的二酮哌嗪衍生物及活性筛查",
+      "study_type": "真菌代谢物鉴定",
+      "study_profile": {
+        "spatial_scope": "海马来源 Aspergillus fumigatus CYH-5 培养物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分离一种新衍生物及已知化合物，解析结构并测试细菌／酶抑制。",
+        "measured_or_derived": [
+          "化合物结构与逐个化合物活性"
+        ]
+      },
+      "key_findings": [
+        "研究报告一种新的 fumitremorgin 相关衍生物；部分其他分离化合物具有抗菌或酶抑制活性。"
+      ],
+      "limitations": [
+        "其他化合物显示的活性不能归于新衍生物；来源信息不能证明现场代谢物生成。"
+      ],
+      "cite_for": [
+        "真菌代谢物鉴定，适用范围以采样设计为准。",
+        "研究报告一种新的 fumitremorgin 相关衍生物；部分其他分离化合物具有抗菌或酶抑制活性。"
+      ],
+      "do_not_overcite": [
+        "其他化合物显示的活性不能归于新衍生物；来源信息不能证明现场代谢物生成。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "ab5f967f9334756c"
+    },
+    "src:scs-trichoderma-lipids-terpenoids": {
+      "title": "冷泉 Trichoderma 的脂类、萜类及植物病原真菌抑制",
+      "study_type": "沉积物真菌天然产物实验",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉积物来源 Trichoderma lixii R22。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "纯化脂类／萜类，解析结构并测试小麦病原抑制及卤虫毒性。",
+        "measured_or_derived": [
+          "代谢物结构与真菌抑制"
+        ]
+      },
+      "key_findings": [
+        "鉴定五种新脂类及两种已知萜类；部分化合物抑制受测小麦病原真菌。"
+      ],
+      "limitations": [
+        "室内病原抑制不能证明农业现场效果或冷泉中的抗真菌相互作用。"
+      ],
+      "cite_for": [
+        "沉积物真菌天然产物实验，适用范围以采样设计为准。",
+        "鉴定五种新脂类及两种已知萜类；部分化合物抑制受测小麦病原真菌。"
+      ],
+      "do_not_overcite": [
+        "室内病原抑制不能证明农业现场效果或冷泉中的抗真菌相互作用。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "9c178faae018e19c"
+    },
+    "src:scs-talaromyces-saha-metabolites": {
+      "title": "SAHA 诱导冷泉 Talaromyces 天然产物多样性",
+      "study_type": "化学诱导真菌代谢物研究",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉积物来源 Talaromyces minioluteus CS-113。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "培养时添加 HDAC 抑制剂，比较 LC-MS 产物、解析结构并测试真菌抑制。",
+        "measured_or_derived": [
+          "诱导代谢谱与生物活性"
+        ]
+      },
+      "key_findings": [
+        "SAHA 处理培养物获得七种新高氧化产物并改变代谢谱；一种受选 azaphilone 抑制受测农业病原真菌。"
+      ],
+      "limitations": [
+        "代谢物增加不能证明特定沉默基因簇被激活，也不能确定天然冷泉产量。"
+      ],
+      "cite_for": [
+        "化学诱导真菌代谢物研究，适用范围以采样设计为准。",
+        "SAHA 处理培养物获得七种新高氧化产物并改变代谢谱；一种受选 azaphilone 抑制受测农业病原真菌。"
+      ],
+      "do_not_overcite": [
+        "代谢物增加不能证明特定沉默基因簇被激活，也不能确定天然冷泉产量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "c35a4607cd431718"
+    },
+    "src:scs-talaromyces-inflammatory-assays": {
+      "title": "冷泉 Talaromyces 生物碱及炎症相关细胞实验",
+      "study_type": "真菌代谢物与细胞实验",
+      "study_profile": {
+        "spatial_scope": "南海冷泉来源 Talaromyces helicus SCSIO41311。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "鉴定生物碱，测试一氧化氮抑制及部分细胞因子响应。",
+        "measured_or_derived": [
+          "化合物鉴定与 NO／细胞因子实验"
+        ]
+      },
+      "key_findings": [
+        "分离一种新生物碱及已知化合物；部分产物抑制 NO 信号，一种受选化合物改变 LPS 相关细胞因子响应。"
+      ],
+      "limitations": [
+        "细胞层面的抗炎信号不能证明临床收益或天然冷泉微生物功能。"
+      ],
+      "cite_for": [
+        "真菌代谢物与细胞实验，适用范围以采样设计为准。",
+        "分离一种新生物碱及已知化合物；部分产物抑制 NO 信号，一种受选化合物改变 LPS 相关细胞因子响应。"
+      ],
+      "do_not_overcite": [
+        "细胞层面的抗炎信号不能证明临床收益或天然冷泉微生物功能。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "b621999f6c7a122e"
+    },
+    "src:scs-curvularia-cytochalasin-2022": {
+      "title": "冷泉动物来源 Curvularia 的细胞松弛素衍生物",
+      "study_type": "动物内生真菌化学鉴定",
+      "study_profile": {
+        "spatial_scope": "南海冷泉 Shinkaia crosnieri 来源 Curvularia verruculosa CS-129。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分离细胞松弛素衍生物，解析结构并筛查抗菌活性。",
+        "measured_or_derived": [
+          "细胞松弛素结构"
+        ]
+      },
+      "key_findings": [
+        "培养真菌中鉴定两种新细胞松弛素衍生物及一种新报道的天然产物。"
+      ],
+      "limitations": [
+        "所核查摘要列出抗菌测试，但不足以支持全部产物逐个化合物的效力论断。"
+      ],
+      "cite_for": [
+        "动物内生真菌化学鉴定，适用范围以采样设计为准。",
+        "培养真菌中鉴定两种新细胞松弛素衍生物及一种新报道的天然产物。"
+      ],
+      "do_not_overcite": [
+        "所核查摘要列出抗菌测试，但不足以支持全部产物逐个化合物的效力论断。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "9f55a56ae1602141"
+    },
+    "src:scs-penicillium-verrucosidins": {
+      "title": "冷泉 Penicillium 的 verrucosidin 衍生物与抗菌筛查",
+      "study_type": "沉积物真菌代谢物研究",
+      "study_profile": {
+        "spatial_scope": "水深 1,183 m 南海冷泉沉积物来源 Penicillium polonicum CS-252。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "解析代谢物结构／构型，并测试部分人类／水生病原菌抑制。",
+        "measured_or_derived": [
+          "代谢物结构与 MIC"
+        ]
+      },
+      "key_findings": [
+        "鉴定六种新 verrucosidin 衍生物，对部分受测病原菌显示活性，报告 MIC 为 4–32 μg/mL。"
+      ],
+      "limitations": [
+        "特定实验 MIC 不能证明临床疗效、广泛安全性或产物在天然冷泉群落中的作用。"
+      ],
+      "cite_for": [
+        "沉积物真菌代谢物研究，适用范围以采样设计为准。",
+        "鉴定六种新 verrucosidin 衍生物，对部分受测病原菌显示活性，报告 MIC 为 4–32 μg/mL。"
+      ],
+      "do_not_overcite": [
+        "特定实验 MIC 不能证明临床疗效、广泛安全性或产物在天然冷泉群落中的作用。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "cf46fe8bda42be39"
+    },
+    "src:scs-curvularia-cytochalasin-2021": {
+      "title": "冷泉铠甲虾内生真菌的细胞松弛素类天然产物",
+      "study_type": "动物内生真菌结构与活性研究",
+      "study_profile": {
+        "spatial_scope": "南海 Shinkaia 内部组织来源 Curvularia verruculosa CS-129。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "纯化产物，采用光谱／晶体学解析结构，并测量细菌或细胞系抑制。",
+        "measured_or_derived": [
+          "产物结构与逐个化合物活性"
+        ]
+      },
+      "key_findings": [
+        "新细胞松弛素结构包括硫醚连接二聚体；部分化合物在体外显示抗菌或肿瘤细胞毒性。"
+      ],
+      "limitations": [
+        "不同化合物产生不同实验效应；结果不能证明宿主保护或临床用途。"
+      ],
+      "cite_for": [
+        "动物内生真菌结构与活性研究，适用范围以采样设计为准。",
+        "新细胞松弛素结构包括硫醚连接二聚体；部分化合物在体外显示抗菌或肿瘤细胞毒性。"
+      ],
+      "do_not_overcite": [
+        "不同化合物产生不同实验效应；结果不能证明宿主保护或临床用途。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "11d134ac93e311fa"
+    },
+    "src:scs-eps364-bacterial-polysaccharide": {
+      "title": "冷泉细菌胞外多糖 EPS364 的结构及细胞活性",
+      "study_type": "细菌多糖鉴定",
+      "study_profile": {
+        "spatial_scope": "南海冷泉分离株 Vibrio alginolyticus 364。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "纯化 EPS364，鉴定糖组成，并结合蛋白组／定量 PCR 测试癌细胞响应。",
+        "measured_or_derived": [
+          "多糖组成与细胞响应"
+        ]
+      },
+      "key_findings": [
+        "鉴定一种磷酸化、β 连接多糖，改变 Huh7.5 细胞生长、黏附及凋亡相关响应。"
+      ],
+      "limitations": [
+        "细胞系效应不能证明治疗收益或 EPS364 的环境生物膜功能。"
+      ],
+      "cite_for": [
+        "细菌多糖鉴定，适用范围以采样设计为准。",
+        "鉴定一种磷酸化、β 连接多糖，改变 Huh7.5 细胞生长、黏附及凋亡相关响应。"
+      ],
+      "do_not_overcite": [
+        "细胞系效应不能证明治疗收益或 EPS364 的环境生物膜功能。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "12ba729c987b70ce"
+    },
+    "src:scs-bacillus-n11-polysaccharide-genome": {
+      "title": "冷泉 Bacillus N1-1 完整基因组与多糖降解资源",
+      "study_type": "多糖利用分离株基因组",
+      "study_profile": {
+        "spatial_scope": "南海冷泉分离株 Bacillus N1-1。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "测序一株报告可降解 κ-硒卡拉胶分离菌的完整基因组。",
+        "measured_or_derived": [
+          "基因组结构与多糖基因"
+        ]
+      },
+      "key_findings": [
+        "分离株具有 4,497,340 bp 环状基因组，包含候选多糖降解基因。"
+      ],
+      "limitations": [
+        "基因组注释不能识别责任酶，也不能证明该改性底物在冷泉的天然存在及周转。"
+      ],
+      "cite_for": [
+        "多糖利用分离株基因组，适用范围以采样设计为准。",
+        "分离株具有 4,497,340 bp 环状基因组，包含候选多糖降解基因。"
+      ],
+      "do_not_overcite": [
+        "基因组注释不能识别责任酶，也不能证明该改性底物在冷泉的天然存在及周转。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "742546f0bc9db224"
+    },
+    "src:scs-qiongdongnan-black-carbon-core": {
+      "title": "琼东南冷泉沉积黑碳的微生物来源及碳汇估计",
+      "study_type": "同位素来源与埋藏重建",
+      "study_profile": {
+        "spatial_scope": "具有百年尺度冷泉记录的琼东南沉积物岩芯。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合黑碳／有机碳同位素、沉积年代及来源／埋藏尺度估计。",
+        "measured_or_derived": [
+          "黑碳同位素与重建来源比例"
+        ]
+      },
+      "key_findings": [
+        "显著同位素亏损支持甲烷相关黑碳组分，在重建的活跃期估计占沉积黑碳的 31–43%。"
+      ],
+      "limitations": [
+        "微生物归因与全球埋藏估计依赖端元、年代及冷泉面积外推；未直接测量全球生产速率。"
+      ],
+      "cite_for": [
+        "同位素来源与埋藏重建，适用范围以采样设计为准。",
+        "显著同位素亏损支持甲烷相关黑碳组分，在重建的活跃期估计占沉积黑碳的 31–43%。"
+      ],
+      "do_not_overcite": [
+        "微生物归因与全球埋藏估计依赖端元、年代及冷泉面积外推；未直接测量全球生产速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "cfdf213b100ada30"
+    },
+    "src:scs-seep-magnetotactic-bacteria": {
+      "title": "南海及全球冷泉趋磁细菌的分布与代谢潜力",
+      "study_type": "磁学显微与比较基因组",
+      "study_profile": {
+        "spatial_scope": "南海两个活跃冷泉沉积物及全球汇编冷泉宏基因组。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合宏基因组、磁学测量、显微观察及基因组代谢重建。",
+        "measured_or_derived": [
+          "磁学／显微观测与 MAG 途径"
+        ]
+      },
+      "key_findings": [
+        "趋磁细菌信号在冷泉数据集中多样且广泛；基因组提示铁／硫代谢可能与甲烷循环相关。"
+      ],
+      "limitations": [
+        "代谢重建不能证明趋磁细菌氧化甲烷或量化其铁／硫通量。"
+      ],
+      "cite_for": [
+        "磁学显微与比较基因组，适用范围以采样设计为准。",
+        "趋磁细菌信号在冷泉数据集中多样且广泛；基因组提示铁／硫代谢可能与甲烷循环相关。"
+      ],
+      "do_not_overcite": [
+        "代谢重建不能证明趋磁细菌氧化甲烷或量化其铁／硫通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "443dfcd3b0dacc57"
+    },
+    "src:scs-methanochimaera-problematica": {
+      "title": "台湾西南冷泉产甲烷古菌 Methanochimaera 新属新种",
+      "study_type": "产甲烷古菌生理与系统基因组",
+      "study_profile": {
+        "spatial_scope": "台湾西南四方封闭海脊沉积物分离株 FWC-SCC4T。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "测试底物／生长，比较 16S、核糖体蛋白系统发育及基因组亲缘。",
+        "measured_or_derived": [
+          "产甲烷底物与生长需求"
+        ]
+      },
+      "key_findings": [
+        "所提出的 Methanochimaera problematica 利用 H2／CO2 或甲酸产甲烷，在受测培养条件下需要酵母提取物。"
+      ],
+      "limitations": [
+        "室内营养需求及中温生长不能确定天然丰度或低温海床产甲烷。"
+      ],
+      "cite_for": [
+        "产甲烷古菌生理与系统基因组，适用范围以采样设计为准。",
+        "所提出的 Methanochimaera problematica 利用 H2／CO2 或甲酸产甲烷，在受测培养条件下需要酵母提取物。"
+      ],
+      "do_not_overcite": [
+        "室内营养需求及中温生长不能确定天然丰度或低温海床产甲烷。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "25dea10a92c45dd4"
+    },
+    "src:scs-shenhu-long-term-incubation": {
+      "title": "神狐沉积物长期培养中的甲烷转化与群落改变",
+      "study_type": "长期沉积物过程培养",
+      "study_profile": {
+        "spatial_scope": "具有电子受体处理的神狐沉积物培养。",
+        "temporal_scope": "最长 199 天培养。",
+        "sample_design": "在长期富集中比较甲烷氧化／产生、硫酸盐／铁还原及 16S 群落变化。",
+        "measured_or_derived": [
+          "培养甲烷过程与群落变化"
+        ]
+      },
+      "key_findings": [
+        "尽管未检出经典 ANME 且 SEEP-SRB1 减少，甲烷转化仍发生；群落变化尚不能确定责任非常规谱系。"
+      ],
+      "limitations": [
+        "长期培养筛选种群；共同富集不能将 AOM 归于 Bathyarchaeota，或在缺乏针对性验证时证明铁耦合途径。"
+      ],
+      "cite_for": [
+        "长期沉积物过程培养，适用范围以采样设计为准。",
+        "尽管未检出经典 ANME 且 SEEP-SRB1 减少，甲烷转化仍发生；群落变化尚不能确定责任非常规谱系。"
+      ],
+      "do_not_overcite": [
+        "长期培养筛选种群；共同富集不能将 AOM 归于 Bathyarchaeota，或在缺乏针对性验证时证明铁耦合途径。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "9353ed1dcf080f9c"
+    },
+    "src:scs-jiaolong-anme-metabolic-diversity": {
+      "title": "蛟龙冷泉 ANME 的甲烷与有机碳代谢多样性",
+      "study_type": "ANME 基因组／转录重建",
+      "study_profile": {
+        "spatial_scope": "蛟龙冷泉十三个 ANME 基因组草图。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "利用 MAG 代谢重建及途径转录证据，比较五类 ANME。",
+        "measured_or_derived": [
+          "ANME 途径基因与转录"
+        ]
+      },
+      "key_findings": [
+        "ANME 基因组包含甲烷／碳途径及候选有机碳合成途径，包括具有转录支持的丙酸途径。"
+      ],
+      "limitations": [
+        "基因组草图中未见基因不能确定其缺失；预测分泌与途径转录不能量化代谢物释放。"
+      ],
+      "cite_for": [
+        "ANME 基因组／转录重建，适用范围以采样设计为准。",
+        "ANME 基因组包含甲烷／碳途径及候选有机碳合成途径，包括具有转录支持的丙酸途径。"
+      ],
+      "do_not_overcite": [
+        "基因组草图中未见基因不能确定其缺失；预测分泌与途径转录不能量化代谢物释放。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "01dda9f7cd3d10a0"
+    },
+    "src:scs-aequorivita-iocasae": {
+      "title": "南海冷泉兼性厌氧盐适应菌 Aequorivita iocasae",
+      "study_type": "盐适应分离菌分类",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉积物分离株 KX20305T。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较生理／化学特征、16S 及约 3.35 Mb 分离株基因组。",
+        "measured_or_derived": [
+          "生长特征与基因组相似度"
+        ]
+      },
+      "key_findings": [
+        "兼性厌氧菌株代表 Aequorivita iocasae，在受测条件下最适 NaCl 为 3–6%。"
+      ],
+      "limitations": [
+        "培养最适值并非天然冷泉盐度测量，也不能确定元素循环作用。"
+      ],
+      "cite_for": [
+        "盐适应分离菌分类，适用范围以采样设计为准。",
+        "兼性厌氧菌株代表 Aequorivita iocasae，在受测条件下最适 NaCl 为 3–6%。"
+      ],
+      "do_not_overcite": [
+        "培养最适值并非天然冷泉盐度测量，也不能确定元素循环作用。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "961fb888534b7cff"
+    },
+    "src:scs-marinobacter-fonticola": {
+      "title": "冷泉沉积物 Marinobacter fonticola 新种的分类",
+      "study_type": "分离菌多相分类",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉积物来源 CS412T。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合 16S 系统发育、生长范围及细胞化学特征。",
+        "measured_or_derived": [
+          "生长与化学分类特征"
+        ]
+      },
+      "key_findings": [
+        "证据支持 Marinobacter fonticola；受测生长范围为 4–40°C、pH 5–11 和 0–19% NaCl。"
+      ],
+      "limitations": [
+        "广泛培养耐受不能证明其在冷泉占优势或该物种具有烃降解能力。"
+      ],
+      "cite_for": [
+        "分离菌多相分类，适用范围以采样设计为准。",
+        "证据支持 Marinobacter fonticola；受测生长范围为 4–40°C、pH 5–11 和 0–19% NaCl。"
+      ],
+      "do_not_overcite": [
+        "广泛培养耐受不能证明其在冷泉占优势或该物种具有烃降解能力。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "bca02916da2a7694"
+    },
+    "src:scs-haima-asgard-spatial-genomes": {
+      "title": "海马 Asgard 古菌的空间分布与基因组潜力",
+      "study_type": "Asgard 空间与基因组重建",
+      "study_profile": {
+        "spatial_scope": "海马冷泉沉积物与海洋对照沉积物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "重建七个 Asgard 谱系的 48 个 MAG，比较出现情况、防御基因与代谢目录。",
+        "measured_or_derived": [
+          "Asgard MAG 分布与途径"
+        ]
+      },
+      "key_findings": [
+        "Asgard 基因组在冷泉更常检出；候选 Gerdarchaeota 编码 Wood–Ljungdahl 及有机底物加工潜力。"
+      ],
+      "limitations": [
+        "MAG 途径不能确定专性自养或测得几丁质利用；CRISPR 目录不能量化病毒保护。"
+      ],
+      "cite_for": [
+        "Asgard 空间与基因组重建，适用范围以采样设计为准。",
+        "Asgard 基因组在冷泉更常检出；候选 Gerdarchaeota 编码 Wood–Ljungdahl 及有机底物加工潜力。"
+      ],
+      "do_not_overcite": [
+        "MAG 途径不能确定专性自养或测得几丁质利用；CRISPR 目录不能量化病毒保护。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "630e5c115b55242f"
+    },
+    "src:scs-scs-heimdallarchaeia-genomes": {
+      "title": "冷泉与热液 Heimdallarchaeia 的基因组代谢潜力",
+      "study_type": "Asgard 比较宏基因组",
+      "study_profile": {
+        "spatial_scope": "南海四个冷泉沉积物样品，覆盖 0–280 cm，及一个西太平洋热液样品。",
+        "temporal_scope": "2018 年 7 月 Kexue 航次。",
+        "sample_design": "重建十三个 Heimdallarchaeia MAG，比较系统发育、碳／营养基因及氧相关功能。",
+        "measured_or_derived": [
+          "Heimdallarchaeia MAG 途径与系统发育"
+        ]
+      },
+      "key_findings": [
+        "MAG 编码多种碳、氮途径及氧相关基因，支持 Heimdallarchaeia 具有代谢灵活性的假说。"
+      ],
+      "limitations": [
+        "基因组中的氧／色素基因不能证明微氧生长、光合作用或黑暗冷泉中的光依赖代谢。"
+      ],
+      "cite_for": [
+        "Asgard 比较宏基因组，适用范围以采样设计为准。",
+        "MAG 编码多种碳、氮途径及氧相关基因，支持 Heimdallarchaeia 具有代谢灵活性的假说。"
+      ],
+      "do_not_overcite": [
+        "基因组中的氧／色素基因不能证明微氧生长、光合作用或黑暗冷泉中的光依赖代谢。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "21f2bd04994b9fa6"
+    },
+    "src:scs-mussel-seep-vent-host-microbe-response": {
+      "title": "活跃与衰亡冷泉、热液中贻贝宿主与共生菌的响应",
+      "study_type": "跨生态系统宿主–微生物组学",
+      "study_profile": {
+        "spatial_scope": "南海冷泉与西南印度洋热液的 bathymodiolin 贻贝，含活跃及衰亡生境。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较鳃／消化腺宿主转录组、生理指标及共生菌宏基因组。",
+        "measured_or_derived": [
+          "宿主胁迫响应与共生菌途径基因"
+        ]
+      },
+      "key_findings": [
+        "宿主转录与共生菌途径组成随生态系统和组织变化，涉及胁迫防御及硫／能量代谢。"
+      ],
+      "limitations": [
+        "航次、环境与宿主差异可能共同变化；推断功能补偿不能直接测量碳转移或存活收益。"
+      ],
+      "cite_for": [
+        "跨生态系统宿主–微生物组学，适用范围以采样设计为准。",
+        "宿主转录与共生菌途径组成随生态系统和组织变化，涉及胁迫防御及硫／能量代谢。"
+      ],
+      "do_not_overcite": [
+        "航次、环境与宿主差异可能共同变化；推断功能补偿不能直接测量碳转移或存活收益。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "492f56228df15ee9"
+    },
+    "src:scs-haima-plume-fate": {
+      "title": "海马深海甲烷气泡羽流的输运与溶解命运",
+      "study_type": "羽流现场观测与模拟",
+      "study_profile": {
+        "spatial_scope": "海马 HM01／HMS18 冷泉，海床水深 1,408–1,522 m。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合气泡／羽流成像、溶解甲烷剖面、系泊海流及数值模拟。",
+        "measured_or_derived": [
+          "羽流几何、海流与甲烷浓度"
+        ]
+      },
+      "key_findings": [
+        "观测气泡上升至水合物稳定带上界附近，而泉口上方 20–40 m 内溶解甲烷降低 1–2 个数量级。"
+      ],
+      "limitations": [
+        "溶解浓度降低并不唯一代表微生物氧化；羽流高度不能证明甲烷到达表层或大气。"
+      ],
+      "cite_for": [
+        "羽流现场观测与模拟，适用范围以采样设计为准。",
+        "观测气泡上升至水合物稳定带上界附近，而泉口上方 20–40 m 内溶解甲烷降低 1–2 个数量级。"
+      ],
+      "do_not_overcite": [
+        "溶解浓度降低并不唯一代表微生物氧化；羽流高度不能证明甲烷到达表层或大气。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "0546ed304e009117"
+    },
+    "src:scs-haima-methane-water-porewater": {
+      "title": "海马水体与孔隙水甲烷分布及环境关联",
+      "study_type": "水体–孔隙水甲烷调查",
+      "study_profile": {
+        "spatial_scope": "海马渗漏与非渗漏水体／孔隙水剖面。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较甲烷分布与水体化学、沉积深度、孔隙度及孔隙水组分。",
+        "measured_or_derived": [
+          "甲烷与环境剖面"
+        ]
+      },
+      "key_findings": [
+        "甲烷分布在空间及垂向变化，并与水体、沉积物中不同地球化学变量共变。"
+      ],
+      "limitations": [
+        "相关性不能唯一识别生物消耗；大气源论断需进一步检查气体交换计算。"
+      ],
+      "cite_for": [
+        "水体–孔隙水甲烷调查，适用范围以采样设计为准。",
+        "甲烷分布在空间及垂向变化，并与水体、沉积物中不同地球化学变量共变。"
+      ],
+      "do_not_overcite": [
+        "相关性不能唯一识别生物消耗；大气源论断需进一步检查气体交换计算。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "890cc9058137c41b"
+    },
+    "src:scs-formosa-tidal-methane-monitoring": {
+      "title": "福尔摩沙海脊潮汐与甲烷释放的长期原位观测",
+      "study_type": "海床时间序列观测",
+      "study_profile": {
+        "spatial_scope": "台湾西南福尔摩沙海脊／F 站位冷泉。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "利用 ADCP、CTD 与海流仪监测气体释放强度，并与底压周期比较。",
+        "measured_or_derived": [
+          "气体释放强度与底压"
+        ]
+      },
+      "key_findings": [
+        "气体释放随时间变化，并与潮汐底压波动密切对应。"
+      ],
+      "limitations": [
+        "潮汐相关性支持压力调制模型，但不能证明水力破裂或各冷泉均具有相同行为。"
+      ],
+      "cite_for": [
+        "海床时间序列观测，适用范围以采样设计为准。",
+        "气体释放随时间变化，并与潮汐底压波动密切对应。"
+      ],
+      "do_not_overcite": [
+        "潮汐相关性支持压力调制模型，但不能证明水力破裂或各冷泉均具有相同行为。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "0cadcbac7e4c1e47"
+    },
+    "src:scs-haima-photoacoustic-methane-sensor": {
+      "title": "海马深海溶解甲烷光声与光热传感系统",
+      "study_type": "甲烷传感器标定与现场部署",
+      "study_profile": {
+        "spatial_scope": "传感器测试及海马附近 1,380 m 水深三天部署。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "标定带气体提取的光声／光热光谱系统，并测试深水溶解甲烷测量。",
+        "measured_or_derived": [
+          "传感灵敏度、响应与溶解甲烷"
+        ]
+      },
+      "key_findings": [
+        "紧凑仪器在部署中测量溶解甲烷；室内光谱仪测试报告 0.21 ppm 检出限及约四分钟系统响应。"
+      ],
+      "limitations": [
+        "气相光谱仪 ppm 不能在缺乏提取／标定换算时当作溶解水样浓度检出限。"
+      ],
+      "cite_for": [
+        "甲烷传感器标定与现场部署，适用范围以采样设计为准。",
+        "紧凑仪器在部署中测量溶解甲烷；室内光谱仪测试报告 0.21 ppm 检出限及约四分钟系统响应。"
+      ],
+      "do_not_overcite": [
+        "气相光谱仪 ppm 不能在缺乏提取／标定换算时当作溶解水样浓度检出限。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "ac133f6cb7ce3ff2"
+    },
+    "src:scs-haima-nutrients-chlorophyll": {
+      "title": "海马冷泉上方营养盐及叶绿素与甲烷的关联",
+      "study_type": "上覆水营养盐调查",
+      "study_profile": {
+        "spatial_scope": "海马上覆真光层水体及对照站。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "测量甲烷、营养盐、叶绿素及水文，比较站位关联。",
+        "measured_or_derived": [
+          "磷酸盐、叶绿素与甲烷"
+        ]
+      },
+      "key_findings": [
+        "在总体低营养、低叶绿素环境中，受测冷泉上方磷酸盐与叶绿素高于对照。"
+      ],
+      "limitations": [
+        "甲烷羽流输送营养机制为提出的解释，未被直接追踪；季节或水文替代解释仍存在。"
+      ],
+      "cite_for": [
+        "上覆水营养盐调查，适用范围以采样设计为准。",
+        "在总体低营养、低叶绿素环境中，受测冷泉上方磷酸盐与叶绿素高于对照。"
+      ],
+      "do_not_overcite": [
+        "甲烷羽流输送营养机制为提出的解释，未被直接追踪；季节或水文替代解释仍存在。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "24da4767b90ba6a3"
+    },
+    "src:scs-video-bubble-flux": {
+      "title": "时间序列视频估计海马与 F 站位冷泉气泡通量",
+      "study_type": "视频泉口气泡通量估计",
+      "study_profile": {
+        "spatial_scope": "海马一个泉口与 F 站位三个泉口。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "通过图像处理及半自动计数估计气泡大小与释放速率。",
+        "measured_or_derived": [
+          "气泡直径、数量与估计体积通量"
+        ]
+      },
+      "key_findings": [
+        "受测泉口的气泡粒径分布与推定气体体积通量不同，显示明显泉口尺度差异。"
+      ],
+      "limitations": [
+        "短观测时段与气体体积换算不能确定年度甲烷质量通量或到达大气的比例。"
+      ],
+      "cite_for": [
+        "视频泉口气泡通量估计，适用范围以采样设计为准。",
+        "受测泉口的气泡粒径分布与推定气体体积通量不同，显示明显泉口尺度差异。"
+      ],
+      "do_not_overcite": [
+        "短观测时段与气体体积换算不能确定年度甲烷质量通量或到达大气的比例。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "a703f6ab24b01fee"
+    },
+    "src:scs-lingtou-coastal-methane": {
+      "title": "岭头岬浅海渗漏区溶解甲烷及海气交换估计",
+      "study_type": "近岸甲烷测绘与气体交换估计",
+      "study_profile": {
+        "spatial_scope": "岭头岬／莺歌海盆地附近 56 km² 内 48 个站位。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "测量表层／底层甲烷及碳同位素，并估计海气通量。",
+        "measured_or_derived": [
+          "甲烷分布、同位素与模型海气通量"
+        ]
+      },
+      "key_findings": [
+        "溶解甲烷具有较大空间变化，底层水总体富集更强；同位素支持生物成因与热成因混合来源。"
+      ],
+      "limitations": [
+        "浅海近岸渗漏不能代表深海海马／F 站位输运；海气通量为估计，并非微生物氧化速率测量。"
+      ],
+      "cite_for": [
+        "近岸甲烷测绘与气体交换估计，适用范围以采样设计为准。",
+        "溶解甲烷具有较大空间变化，底层水总体富集更强；同位素支持生物成因与热成因混合来源。"
+      ],
+      "do_not_overcite": [
+        "浅海近岸渗漏不能代表深海海马／F 站位输运；海气通量为估计，并非微生物氧化速率测量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "a67166a4e98ad5de"
+    },
+    "src:scs-qiongdongnan-iron-bound-carbon": {
+      "title": "琼东南冷泉铁结合有机碳与甲烷相关碳保留",
+      "study_type": "铁结合碳组分／同位素剖面",
+      "study_profile": {
+        "spatial_scope": "琼东南富甲烷及对照沉积物岩芯。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "测量活性铁结合有机碳及基于同位素的甲烷来源碳比例。",
+        "measured_or_derived": [
+          "活性铁结合有机碳与碳同位素"
+        ]
+      },
+      "key_findings": [
+        "富甲烷沉积物铁结合碳比例总体降低，同时同位素估计表明部分甲烷相关有机碳被保留。"
+      ],
+      "limitations": [
+        "分级与端元假设限制来源估计；存量不能直接确定保存时间或碳固定速率。"
+      ],
+      "cite_for": [
+        "铁结合碳组分／同位素剖面，适用范围以采样设计为准。",
+        "富甲烷沉积物铁结合碳比例总体降低，同时同位素估计表明部分甲烷相关有机碳被保留。"
+      ],
+      "do_not_overcite": [
+        "分级与端元假设限制来源估计；存量不能直接确定保存时间或碳固定速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "f3a7100d980ba2ba"
+    },
+    "src:scs-scs-pfas-core-occurrence": {
+      "title": "南海冷泉沉积物 PFAS 的层位分布与定量边界",
+      "study_type": "目标污染物岩芯调查",
+      "study_profile": {
+        "spatial_scope": "南海北部六支岩芯的四十个层位。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "分析 25 种目标 PFAS，区分可定量、检出与低于检出限响应。",
+        "measured_or_derived": [
+          "PFAS 浓度与报告阈值"
+        ]
+      },
+      "key_findings": [
+        "可定量 PFAS 总和为干重 0.13–6.12 ng/g，站位间组成异质性明显。"
+      ],
+      "limitations": [
+        "低于 LOD 的响应不能作为定量检出；赋存剖面不能证明毒性效应或类色谱保留机制。"
+      ],
+      "cite_for": [
+        "目标污染物岩芯调查，适用范围以采样设计为准。",
+        "可定量 PFAS 总和为干重 0.13–6.12 ng/g，站位间组成异质性明显。"
+      ],
+      "do_not_overcite": [
+        "低于 LOD 的响应不能作为定量检出；赋存剖面不能证明毒性效应或类色谱保留机制。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "cb00c3454ab7d968"
+    },
+    "src:scs-haima-microplastic-occurrence": {
+      "title": "海马水体、沉积物与贝类中的微塑料赋存",
+      "study_type": "多介质微塑料调查",
+      "study_profile": {
+        "spatial_scope": "海马海水、表层沉积物及贝类。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "鉴定／计数颗粒，跨介质比较形态与聚合物组成。",
+        "measured_or_derived": [
+          "颗粒数量、聚合物与形态"
+        ]
+      },
+      "key_findings": [
+        "受测各介质均存在微塑料，水体、沉积物和动物分别采用不同计量单位报告。"
+      ],
+      "limitations": [
+        "跨介质相关性不能确定转移方向、摄入速率或微生物降解。"
+      ],
+      "cite_for": [
+        "多介质微塑料调查，适用范围以采样设计为准。",
+        "受测各介质均存在微塑料，水体、沉积物和动物分别采用不同计量单位报告。"
+      ],
+      "do_not_overcite": [
+        "跨介质相关性不能确定转移方向、摄入速率或微生物降解。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "eacfe5662fb89b2a"
+    },
+    "src:scs-scs-arsenic-speciation-incubation": {
+      "title": "南海冷泉砷形态、孔隙水释放与培养响应",
+      "study_type": "砷形态与培养实验",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉积物与孔隙水。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "测量溶解／固相砷、矿物结合与硫酸盐还原相关培养响应。",
+        "measured_or_derived": [
+          "砷组分与培养响应"
+        ]
+      },
+      "key_findings": [
+        "硫化物结合砷主导固相库；孔隙水铁／砷相关性及培养支持多种保留／去除过程。"
+      ],
+      "limitations": [
+        "吸附与微生物反应可能重叠；数据未区分每种反应对砷去除的贡献。"
+      ],
+      "cite_for": [
+        "砷形态与培养实验，适用范围以采样设计为准。",
+        "硫化物结合砷主导固相库；孔隙水铁／砷相关性及培养支持多种保留／去除过程。"
+      ],
+      "do_not_overcite": [
+        "吸附与微生物反应可能重叠；数据未区分每种反应对砷去除的贡献。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "50c931546d6588d8"
+    },
+    "src:scs-formosa-raman-fluid-chemistry": {
+      "title": "福尔摩沙冷泉流体原位拉曼探测与化学梯度",
+      "study_type": "拉曼流体地球化学",
+      "study_profile": {
+        "spatial_scope": "福尔摩沙海脊泉口及化能合成群落内部流体。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合原位拉曼探针、气相色谱及碳同位素。",
+        "measured_or_derived": [
+          "拉曼气体信号与硫酸盐／硫梯度"
+        ]
+      },
+      "key_findings": [
+        "泉口／流体测量检出甲烷等还原气体；群落流体深度剖面显示硫酸盐消耗及甲烷／单质硫变化。"
+      ],
+      "limitations": [
+        "地球化学梯度支持反应假说，却不能独立识别微生物、电子传递途径或过程速率。"
+      ],
+      "cite_for": [
+        "拉曼流体地球化学，适用范围以采样设计为准。",
+        "泉口／流体测量检出甲烷等还原气体；群落流体深度剖面显示硫酸盐消耗及甲烷／单质硫变化。"
+      ],
+      "do_not_overcite": [
+        "地球化学梯度支持反应假说，却不能独立识别微生物、电子传递途径或过程速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "d385f78b5c765dac"
+    },
+    "src:scs-haima-bivalve-fatty-acid-genes": {
+      "title": "海马共生双壳类脂肪酸去饱和酶的功能鉴定",
+      "study_type": "宿主去饱和酶功能实验",
+      "study_profile": {
+        "spatial_scope": "海马 Gigantidas haimaensis 与 Archivesica marissinica。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "从宿主基因组／转录组获得 Fad 基因，并在酵母中测试底物转化。",
+        "measured_or_derived": [
+          "Fad 序列与底物特异活性"
+        ]
+      },
+      "key_findings": [
+        "重复的宿主去饱和酶具有不同底物特异性，包括对受测细菌型单不饱和脂肪酸底物的转化。"
+      ],
+      "limitations": [
+        "酵母中的酶功能不能量化共生菌向宿主脂肪酸转移或天然宿主组织内脂质合成。"
+      ],
+      "cite_for": [
+        "宿主去饱和酶功能实验，适用范围以采样设计为准。",
+        "重复的宿主去饱和酶具有不同底物特异性，包括对受测细菌型单不饱和脂肪酸底物的转化。"
+      ],
+      "do_not_overcite": [
+        "酵母中的酶功能不能量化共生菌向宿主脂肪酸转移或天然宿主组织内脂质合成。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "26927231ce9a8ac7"
+    },
+    "src:scs-streptomyces-shovelmycins": {
+      "title": "冷泉 Streptomyces 的 shovelmycin 与 divergolide 类产物",
+      "study_type": "放线菌天然产物鉴定",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉积物来源 Streptomyces olivaceus HDN22-001。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "纯化培养化合物，解析结构并测试自由基清除／细胞系毒性。",
+        "measured_or_derived": [
+          "化合物结构与实验响应"
+        ]
+      },
+      "key_findings": [
+        "鉴定两种新硫代二酮哌嗪及一种安莎霉素衍生物；单个产物显示实验特异的抗氧化或细胞毒性信号。"
+      ],
+      "limitations": [
+        "DPPH 清除及细胞系效应不能证明生理抗氧化收益或环境功能。"
+      ],
+      "cite_for": [
+        "放线菌天然产物鉴定，适用范围以采样设计为准。",
+        "鉴定两种新硫代二酮哌嗪及一种安莎霉素衍生物；单个产物显示实验特异的抗氧化或细胞毒性信号。"
+      ],
+      "do_not_overcite": [
+        "DPPH 清除及细胞系效应不能证明生理抗氧化收益或环境功能。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "89ba53d7427ec98e"
+    },
+    "src:scs-shenhu-organic-matter-pyrolysis": {
+      "title": "神狐水合物沉积物有机质来源与深层烃贡献",
+      "study_type": "有机质热解与生物标志物",
+      "study_profile": {
+        "spatial_scope": "神狐含水合物沉积物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "采用 Rock-Eval 热解及烃类标志物，比较有机质与储层来源特征。",
+        "measured_or_derived": [
+          "热解指数与烃类标志物"
+        ]
+      },
+      "key_findings": [
+        "标志物指示海洋／陆源／再搬运有机质混合及深层储层烃贡献；当地沉积有机质生烃潜力较低。"
+      ],
+      "limitations": [
+        "可能的产甲烷菌标志物不能证明活跃产甲烷或当地生成水合物甲烷的比例。"
+      ],
+      "cite_for": [
+        "有机质热解与生物标志物，适用范围以采样设计为准。",
+        "标志物指示海洋／陆源／再搬运有机质混合及深层储层烃贡献；当地沉积有机质生烃潜力较低。"
+      ],
+      "do_not_overcite": [
+        "可能的产甲烷菌标志物不能证明活跃产甲烷或当地生成水合物甲烷的比例。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "d5d613157bbaeb01"
+    },
+    "src:scs-shenhu-hydrate-biomarkers": {
+      "title": "神狐水合物沉积物生物标志物与降解记录",
+      "study_type": "烃类标志物分析",
+      "study_profile": {
+        "spatial_scope": "神狐含水合物岩芯 SH2B 与 SH7B。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "采用 GC-MS 与全二维气相色谱鉴定沉积物标志物。",
+        "measured_or_derived": [
+          "烃标志物与降解特征"
+        ]
+      },
+      "key_findings": [
+        "未分辨烃混合物及 25-norhopane 支持既往生物降解；研究未识别特异产甲烷菌标志物。"
+      ],
+      "limitations": [
+        "一般烃标志物不能识别当前产甲烷菌或证明其当前产甲烷活性。"
+      ],
+      "cite_for": [
+        "烃类标志物分析，适用范围以采样设计为准。",
+        "未分辨烃混合物及 25-norhopane 支持既往生物降解；研究未识别特异产甲烷菌标志物。"
+      ],
+      "do_not_overcite": [
+        "一般烃标志物不能识别当前产甲烷菌或证明其当前产甲烷活性。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "1280131c5c8a7b79"
+    },
+    "src:scs-west-haima-methane-transport-model": {
+      "title": "海马西侧沉积物甲烷来源及反应输运估计",
+      "study_type": "孔隙水反应输运重建",
+      "study_profile": {
+        "spatial_scope": "海马西侧三支活塞岩芯。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "以稳态／非稳态反应输运模型及碳同位素质量平衡拟合孔隙水剖面。",
+        "measured_or_derived": [
+          "孔隙水剖面与模型 AOM 速率"
+        ]
+      },
+      "key_findings": [
+        "模型倾向于外部游离气溶解支持 AOM 及变化的甲烷通量历史，而非仅由当地产甲烷支持。"
+      ],
+      "limitations": [
+        "拟合 AOM 速率与启动年代依赖边界条件、年代及稳态假设，非直接培养测量。"
+      ],
+      "cite_for": [
+        "孔隙水反应输运重建，适用范围以采样设计为准。",
+        "模型倾向于外部游离气溶解支持 AOM 及变化的甲烷通量历史，而非仅由当地产甲烷支持。"
+      ],
+      "do_not_overcite": [
+        "拟合 AOM 速率与启动年代依赖边界条件、年代及稳态假设，非直接培养测量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "007b419509a8dbb3"
+    },
+    "src:scs-haima-manganese-micronodules": {
+      "title": "海马锰微结核的矿物地球化学与形成推断",
+      "study_type": "微结核矿物／地球化学分析",
+      "study_profile": {
+        "spatial_scope": "海马活跃冷泉富锰沉积物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "提取微结核，分析矿物结构、元素组成、纹理及计时指标推导生长。",
+        "measured_or_derived": [
+          "微结核矿物与元素分布"
+        ]
+      },
+      "key_findings": [
+        "多孔富锰微结核含层状锰矿物及类微生物纹理，与渗漏流体供应的混合矿化过程一致。"
+      ],
+      "limitations": [
+        "类微生物纹理及生长代理不能证明锰依赖 AOM 或识别责任微生物。"
+      ],
+      "cite_for": [
+        "微结核矿物／地球化学分析，适用范围以采样设计为准。",
+        "多孔富锰微结核含层状锰矿物及类微生物纹理，与渗漏流体供应的混合矿化过程一致。"
+      ],
+      "do_not_overcite": [
+        "类微生物纹理及生长代理不能证明锰依赖 AOM 或识别责任微生物。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "d7e94d595a54fc00"
+    },
+    "src:scs-mussel-muscle-recovery-transcripts": {
+      "title": "海马贻贝从原位到室内回收后的肌肉转录变化",
+      "study_type": "回收相关宿主转录序列",
+      "study_profile": {
+        "spatial_scope": "海马 Gigantidas haimaensis 肌肉，比较原位与室内样品。",
+        "temporal_scope": "原位及室内 0、3、9 小时时点。",
+        "sample_design": "比较肌肉 RNA-seq 组成及胁迫／免疫／代谢途径富集。",
+        "measured_or_derived": [
+          "宿主肌肉差异表达"
+        ]
+      },
+      "key_findings": [
+        "回收伴随广泛宿主转录差异，涉及蛋白加工与代谢途径。"
+      ],
+      "limitations": [
+        "肌肉转录组不测量鳃共生菌活性；该序列不能区分操作、压力与营养变化。"
+      ],
+      "cite_for": [
+        "回收相关宿主转录序列，适用范围以采样设计为准。",
+        "回收伴随广泛宿主转录差异，涉及蛋白加工与代谢途径。"
+      ],
+      "do_not_overcite": [
+        "肌肉转录组不测量鳃共生菌活性；该序列不能区分操作、压力与营养变化。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "2bc4e8e548d07dd6"
+    },
+    "src:scs-dongsha-phytoplankton-drilling": {
+      "title": "东沙水合物钻探区浮游植物、营养盐及季节比较",
+      "study_type": "钻探前后季节调查",
+      "study_profile": {
+        "spatial_scope": "东沙水合物钻探区水柱。",
+        "temporal_scope": "2013 年 5 月、10 月观测；论文发表于 2018 年。",
+        "sample_design": "比较钻探前后浮游植物计数、叶绿素、营养盐与溶解甲烷。",
+        "measured_or_derived": [
+          "浮游植物丰度、营养盐与叶绿素"
+        ]
+      },
+      "key_findings": [
+        "调查间磷酸盐／叶绿素增加，浮游植物丰度未显著变化；报告分析未发现甲烷显著直接关联。"
+      ],
+      "limitations": [
+        "钻探状态与季节混杂；提出的羽流上升流不能证明钻探导致浮游植物响应。"
+      ],
+      "cite_for": [
+        "钻探前后季节调查，适用范围以采样设计为准。",
+        "调查间磷酸盐／叶绿素增加，浮游植物丰度未显著变化；报告分析未发现甲烷显著直接关联。"
+      ],
+      "do_not_overcite": [
+        "钻探状态与季节混杂；提出的羽流上升流不能证明钻探导致浮游植物响应。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "20a943c747b64a27"
+    },
+    "src:scs-haima-hydrate-geophysics-2026": {
+      "title": "海马冷泉水合物赋存与流体通道的多尺度证据",
+      "study_type": "地震与 ROV 水合物系统研究",
+      "study_profile": {
+        "spatial_scope": "琼东南盆地南部约 400 km² 及海马观测。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "整合三维地震、浅地层剖面、地形及 ROV 观测／采样。",
+        "measured_or_derived": [
+          "地震流体特征与水合物观测"
+        ]
+      },
+      "key_findings": [
+        "气烟囱、反射层、麻坑及 ROV 水合物观测支持深层流体与浅部冷泉／水合物系统的联系。"
+      ],
+      "limitations": [
+        "地震通道与水合物赋存不能量化微生物群落或甲烷氧化效率。"
+      ],
+      "cite_for": [
+        "地震与 ROV 水合物系统研究，适用范围以采样设计为准。",
+        "气烟囱、反射层、麻坑及 ROV 水合物观测支持深层流体与浅部冷泉／水合物系统的联系。"
+      ],
+      "do_not_overcite": [
+        "地震通道与水合物赋存不能量化微生物群落或甲烷氧化效率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "2dd745333942f739"
+    },
+    "src:scs-shenhu-new-plume-field": {
+      "title": "神狐白云凹陷新识别气泡羽流及冷泉活动",
+      "study_type": "多波束羽流测绘",
+      "study_profile": {
+        "spatial_scope": "神狐白云凹陷；研究将冷泉区命名为 Dongfanghong 3。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "利用多波束回声探测羽流几何，并比较区域地质／海洋背景。",
+        "measured_or_derived": [
+          "羽流几何与空间分布"
+        ]
+      },
+      "key_findings": [
+        "识别十个倾斜火焰状羽流，常成对出现，为受测区域活跃气体释放提供证据。"
+      ],
+      "limitations": [
+        "羽流检出不能证明人类活动导致再激活，也不能确定气候强迫或微生物后果。"
+      ],
+      "cite_for": [
+        "多波束羽流测绘，适用范围以采样设计为准。",
+        "识别十个倾斜火焰状羽流，常成对出现，为受测区域活跃气体释放提供证据。"
+      ],
+      "do_not_overcite": [
+        "羽流检出不能证明人类活动导致再激活，也不能确定气候强迫或微生物后果。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "6e5253aa7f477d7b"
+    },
+    "src:scs-hydrate-fluid-self-sealing-model": {
+      "title": "南海水合物–冷泉系统的热流体化学耦合模型",
+      "study_type": "地质–地球化学耦合模型",
+      "study_profile": {
+        "spatial_scope": "南海一处气烟囱／水合物–冷泉系统。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "结合三维地震、钻探、地热／地球化学观测及数值模拟。",
+        "measured_or_derived": [
+          "模型平流与水合物分区"
+        ]
+      },
+      "key_findings": [
+        "模型将横向流体平流差异与水合物／游离气分区联系，并提出碳酸盐沉淀减弱渗漏通道的机制。"
+      ],
+      "limitations": [
+        "拟合输运参数与自封闭反馈依赖模型；未直接量化微生物沉淀速率。"
+      ],
+      "cite_for": [
+        "地质–地球化学耦合模型，适用范围以采样设计为准。",
+        "模型将横向流体平流差异与水合物／游离气分区联系，并提出碳酸盐沉淀减弱渗漏通道的机制。"
+      ],
+      "do_not_overcite": [
+        "拟合输运参数与自封闭反馈依赖模型；未直接量化微生物沉淀速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "db55ca5120ad6b11"
+    },
+    "src:scs-scs-hydrate-seep-system-review": {
+      "title": "南海北部冷泉系统与水合物赋存的地质综述",
+      "study_type": "区域地质综述",
+      "study_profile": {
+        "spatial_scope": "琼东南、神狐、东沙及台西南系统。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "整合地震、浅地层、ROV、钻探及水合物气体地球化学研究。",
+        "measured_or_derived": [
+          "区域冷泉／水合物与流体通道整合"
+        ]
+      },
+      "key_findings": [
+        "综述将不同冷泉／水合物赋存与断层、气烟囱、底辟等深层流体通道联系，并指出混合气源。"
+      ],
+      "limitations": [
+        "综述层面模式不能替代站位微生物采样、过程速率或独立定年的渗漏历史。"
+      ],
+      "cite_for": [
+        "区域地质综述，适用范围以采样设计为准。",
+        "综述将不同冷泉／水合物赋存与断层、气烟囱、底辟等深层流体通道联系，并指出混合气源。"
+      ],
+      "do_not_overcite": [
+        "综述层面模式不能替代站位微生物采样、过程速率或独立定年的渗漏历史。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "750e6c7c51c9f701"
+    },
+    "src:scs-haima-gill-metal-symbiosis": {
+      "title": "海马贻贝鳃共生、金属积累与组织响应",
+      "study_type": "组织菌群／转录组比较",
+      "study_profile": {
+        "spatial_scope": "海马 Gigantidas haimaensis 的鳃、外套膜与闭壳肌。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "跨组织比较宿主 RNA、16S 菌群、十三种金属及生化指标。",
+        "measured_or_derived": [
+          "组织转录、细菌与金属浓度"
+        ]
+      },
+      "key_findings": [
+        "鳃细菌组成以甲烷氧化相关类群为主，宿主免疫／胁迫表达不同，并具有较高金属积累及抗氧化响应。"
+      ],
+      "limitations": [
+        "组织关联不能证明共生菌介导金属解毒或上调宿主基因的功能必要性。"
+      ],
+      "cite_for": [
+        "组织菌群／转录组比较，适用范围以采样设计为准。",
+        "鳃细菌组成以甲烷氧化相关类群为主，宿主免疫／胁迫表达不同，并具有较高金属积累及抗氧化响应。"
+      ],
+      "do_not_overcite": [
+        "组织关联不能证明共生菌介导金属解毒或上调宿主基因的功能必要性。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "da3e012fee708f63"
+    },
+    "src:scs-toxicocladosporium-diketopiperazines": {
+      "title": "海马 Toxicocladosporium 的二酮哌嗪类与化合物特异活性",
+      "study_type": "冷泉真菌代谢物鉴定",
+      "study_profile": {
+        "spatial_scope": "水深 1,382 m 海马沉积物来源 Toxicocladosporium CYH-18。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "采用 NMR／MS 与 X 射线衍射解析培养代谢物结构，并筛查活性。",
+        "measured_or_derived": [
+          "结构与逐个化合物活性"
+        ]
+      },
+      "key_findings": [
+        "鉴定一种新桥连二酮哌嗪及两种新报道天然产物；抗氧化／抗菌活性见于部分共同分离的已知化合物。"
+      ],
+      "limitations": [
+        "已知化合物活性不能转用于新产物；培养化学不能证明现场产物生成。"
+      ],
+      "cite_for": [
+        "冷泉真菌代谢物鉴定，适用范围以采样设计为准。",
+        "鉴定一种新桥连二酮哌嗪及两种新报道天然产物；抗氧化／抗菌活性见于部分共同分离的已知化合物。"
+      ],
+      "do_not_overcite": [
+        "已知化合物活性不能转用于新产物；培养化学不能证明现场产物生成。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "6f4a7e7222702998"
+    },
+    "src:scs-aspergillus-emestrin-products": {
+      "title": "冷泉 Aspergillus nidulans 的 emestrin 类产物及活性",
+      "study_type": "真菌天然产物实验",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉积物来源 Aspergillus nidulans SD-531。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "纯化 emestrin 类化合物，解析构型并测试抗菌／细胞系活性。",
+        "measured_or_derived": [
+          "emestrin 结构与实验特异效力"
+        ]
+      },
+      "key_findings": [
+        "鉴定三种新及三种已知 emestrin 类化合物；活性随化合物和实验不同，最强报告细胞毒性来自已知类似物。"
+      ],
+      "limitations": [
+        "与对照比较的细胞系效力不代表临床优越性，也不能确定产物的天然生态功能。"
+      ],
+      "cite_for": [
+        "真菌天然产物实验，适用范围以采样设计为准。",
+        "鉴定三种新及三种已知 emestrin 类化合物；活性随化合物和实验不同，最强报告细胞毒性来自已知类似物。"
+      ],
+      "do_not_overcite": [
+        "与对照比较的细胞系效力不代表临床优越性，也不能确定产物的天然生态功能。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "978ac3e7e6ebcd6e"
     }
   },
   "claims": {
@@ -4726,6 +8151,1014 @@
       "locator": "抽象的; 2.1 样品采集； 2.3 16S rRNA基因扩增子测序及加工",
       "confidence_note": "标记基因系统发育不能量化硫或甲烷氧化，也不能证明宿主特异性的形成机制。",
       "_source_hash": "38692842d104692e"
+    },
+    "claim:scs-haima-chondroitinase-a": {
+      "statement": "该酶对含 GalNAc 或 GalNAc4S 的软骨素／皮肤素硫酸基序具有选择性；突变实验识别了活性所必需的残基。",
+      "scope": "海马附近沉积物；功能实验针对重建的酶开展。",
+      "evidence_basis": "采用结构明确的寡糖、产物分析和定点突变，鉴定一种 PL8 裂解酶。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "纯化酶的特异性不能证明相应底物在冷泉中的供应、酶的表达或原位周转。",
+      "_source_hash": "f5c7e23febf375b6"
+    },
+    "claim:scs-cross-latitude-carbon-fixation": {
+      "statement": "培养条件下热带沉积物的暗碳固定速率高于亚寒带沉积物；碳固定途径的基因组成也随区域与深度变化。",
+      "scope": "鄂霍次克海与南海冷泉沉积物；133 个宏基因组覆盖海床下 0–240 cm。",
+      "evidence_basis": "结合暗碳固定培养实验、26 个新增宏基因组和 107 个公开宏基因组。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "区域比较同时包含环境与采样差异；培养速率不能代表年度原位碳收支。",
+      "_source_hash": "053f15507f98a234"
+    },
+    "claim:scs-mussel-recovery-hours": {
+      "statement": "Methyloprofundus 始终占优势，宿主转录却迅速变化；探索性的菌群–基因关联未通过错误发现率校正。",
+      "scope": "海马冷泉 Gigantidas haimaensis，在常压条件下暂养。",
+      "evidence_basis": "结合 16S 扩增子与 RNA-seq，跟踪回收后鳃细菌和宿主转录变化。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "减压、营养与操作影响同时变化；短期回收序列不能区分各因素的因果效应。",
+      "_source_hash": "196f7c1e46a3b335"
+    },
+    "claim:scs-pressure-hydrocarbon-consortia": {
+      "statement": "较高压力抑制萘降解并改变优势类群；高压 Sulfitobacter MAG 中不完整的途径提示其可能依赖其他微生物。",
+      "scope": "添加正十六烷和萘的海马沉积物富集体系。",
+      "evidence_basis": "比较三种静水压力下的烃降解及 MAG 代谢途径。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "伙伴间物质交换来自基因组推断，并未直接测量；长期富集会筛选出不同于原始沉积物的群落。",
+      "_source_hash": "53e2fdbdbe20d966"
+    },
+    "claim:scs-sitef-host-symbiont-connectivity": {
+      "statement": "宿主局地亲缘程度随距离降低，而 F 站位甲烷氧化共生菌在不同宿主体型组间的遗传分化较低。",
+      "scope": "西北太平洋 11 个站位的 Gigantidas platifrons；重点比较 F 站位六个体型组及 Methyloprofundus 共生菌。",
+      "evidence_basis": "比较区域宿主种群结构、局地亲缘关系及不同体型组的共生菌遗传差异。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "壳体大小并非直接的纵向观测；遗传相似性本身不能证明共生菌持续从环境菌库获取。",
+      "_source_hash": "1a7ed4d2b9d7d2e6"
+    },
+    "claim:scs-haima-stenotrophomonas-wo2": {
+      "statement": "WO2 提供了长 4,772,190 bp、GC 含量为 66.01% 的基因组草图，可用于研究冷泉来源的烃利用细菌。",
+      "scope": "以原油为唯一碳源从海马沉积物分离的 Stenotrophomonas WO2。",
+      "evidence_basis": "分离可利用原油的菌株并组装基因组草图。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "单株基因组不能确定环境丰度、特定底物降解速率或现场修复效果。",
+      "_source_hash": "53aa77a9ea5a5079"
+    },
+    "claim:scs-aom-dna-sip-partnerships": {
+      "statement": "在不同处理间古菌–细菌组合变化时，体系仍保持甲烷氧化，支持培养联合体具有代谢灵活性。",
+      "scope": "海马与 F 站位海床下 4–8 cm 沉积层。",
+      "evidence_basis": "在不同电子受体条件下结合 DNA-SIP、示踪培养及细菌抑制实验。",
+      "locator": "摘要；Sample collection and chemical analysis；SIP microcosms incubations。",
+      "confidence_note": "抑制剂影响与同位素掺入需结合具体处理解释；室内功能冗余不能直接量化生态系统恢复能力。",
+      "_source_hash": "3149bf231b2d5587"
+    },
+    "claim:scs-aspergillus-anthraquinones": {
+      "statement": "研究鉴定了新的蒽醌相关代谢物；其中一种受测化合物在体外抑制 HT29 细胞增殖及集落形成。",
+      "scope": "南海冷泉沉积物来源 Aspergillus SCSIO 41331。",
+      "evidence_basis": "分离代谢产物，采用 NMR 和质谱解析结构，并开展肿瘤细胞增殖实验。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "细胞系活性既不代表临床疗效，也不能证明这些化合物在冷泉中的生态作用。",
+      "_source_hash": "5856997c1401eaf2"
+    },
+    "claim:scs-salegentibacter-two-species": {
+      "statement": "两株兼性厌氧菌符合研究中新种 Salegentibacter profundi 与 S. haimaensis 的划分标准，受测生长范围不同。",
+      "scope": "南海冷泉沉积物分离株 F14T 与 HM20T。",
+      "evidence_basis": "结合生长表型、化学分类、系统基因组及基因组相似度分析。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "培养生长范围仅适用于这两株菌，不能确定其原位丰度或生态优势。",
+      "_source_hash": "212d4b23d53603c8"
+    },
+    "claim:scs-haima-plastic-enrichments": {
+      "statement": "塑料相关富集群落可生长并改变膜表面；丰度变化识别出候选降解菌，其信号在海水中高于沉积物。",
+      "scope": "海马冷泉塑料富集体系及环境水体、沉积物比较。",
+      "evidence_basis": "培养 PVC 和聚碳酸酯膜，检查表面变化并跟踪细菌扩增子变体。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "候选 ASV 与表面损伤本身不能证明聚合物完全矿化，也不能量化天然去除速率。",
+      "_source_hash": "05e42fa4ca4246ac"
+    },
+    "claim:scs-haima-halogen-redox-profile": {
+      "statement": "研究检出 669 个含卤分子式；有机氯信号在氧化还原边界附近降低，并与化学条件及脱卤酶基因组成共变。",
+      "scope": "跨氧化还原分区的一支 500 cm 海马沉积物岩芯。",
+      "evidence_basis": "结合非靶向分子式鉴定、沉积物地球化学与宏基因组脱卤酶分析。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "分子式层面鉴定不能解析全部化学结构；相关性不能区分微生物去除、埋藏和输运。",
+      "_source_hash": "0a288a374a4555e5"
+    },
+    "claim:scs-haima-alkane-methanogens": {
+      "statement": "mcrA 信号在转换带内及下方升高；烷烃减少伴随乙酸积累，与向乙酸营养型产甲烷供底物的可能联系一致。",
+      "scope": "包含硫酸盐–甲烷转换带的 5 m 海马岩芯；富集接种物取自海床下 350 cm。",
+      "evidence_basis": "结合地球化学、mcrA 定量 PCR、21 个含 mcrA 的 MAG 及烷烃富集。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "乙酸积累和途径基因不能直接追踪烷烃碳进入甲烷，也不能证明所提出的互营交换。",
+      "_source_hash": "86d9885f028a28fa"
+    },
+    "claim:scs-haima-horizontal-assembly": {
+      "statement": "渗漏生境的 α 多样性较低，古菌组成不同；模型估计的细菌和古菌组装过程随生境变化。",
+      "scope": "海马渗漏区及大型动物相关沉积物生境。",
+      "evidence_basis": "测量沉积物地球化学与 16S 群落组成，估计组装过程和共现模式。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "组装模型与共现边表示统计模式，并非已证实的微生物相互作用或环境因果控制。",
+      "_source_hash": "1ad5e3d0b373cf82"
+    },
+    "claim:scs-haima-amino-compounds": {
+      "statement": "生物标志物指数指示有机质降解程度较高；富甲烷层氨基酸较少，来源估计提示真菌来源碳具有一定贡献。",
+      "scope": "三支海马沉积物岩芯，包含富甲烷和贫甲烷层位。",
+      "evidence_basis": "定量氨基酸、氨基糖，并计算降解指数和微生物来源指标。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "来源比例依赖生物标志物假设；剖面未直接测量真菌生物量生产或 AOM 驱动的降解速率。",
+      "_source_hash": "122b2d5132c94b45"
+    },
+    "claim:scs-haima-lignin-metabolism": {
+      "statement": "木质素富集筛选出不同的细菌群落，多种酶途径参与聚合物分解和芳香族产物处理；未检出直接产甲烷。",
+      "scope": "海马沉积层、室内富集，以及十二个冷泉系统的基因组比较。",
+      "evidence_basis": "分析木质素，以其为碳源富集群落，并检查解聚和芳香族中间产物处理基因。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "甲基营养遗传潜力不等于测得甲烷产生；富集周转不能确定区域碳汇规模。",
+      "_source_hash": "98f20f7dda67e8d9"
+    },
+    "claim:scs-lysinibacillus-wb86-genome": {
+      "statement": "约 4.54 Mb 的基因组含八个预测生物合成基因簇，包括一个候选羊毛硫肽基因簇。",
+      "scope": "南海冷泉分离株 Lysinibacillus WB86。",
+      "evidence_basis": "利用 Oxford Nanopore 测序获得环状染色体，并预测生物合成基因簇。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "基因簇预测不能证明产物实际生成、化学新颖性或抗菌活性。",
+      "_source_hash": "05c8d211b4f02919"
+    },
+    "claim:scs-scs-biosynthetic-survey": {
+      "statement": "沉积物类型间群落和生物合成基因簇组成不同；可培养群落富集 Firmicutes，不能反映全部环境多样性。",
+      "scope": "南海冷泉还原性、非还原性沉积物及分离菌株。",
+      "evidence_basis": "结合 16S 扩增子、微生物分离、宏基因组与生物合成基因簇预测。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "基于扩增子或宏基因组的基因簇预测，需化学或表达验证后才能认定产物合成。",
+      "_source_hash": "dc0fd34bdfb9bbe5"
+    },
+    "claim:scs-haima-depth-assembly": {
+      "statement": "渗漏剖面的古菌／细菌基因拷贝数及深度特异类群较多；模型指示原核群落受较强同质选择，真核群落更受漂变影响。",
+      "scope": "海马渗漏区与非渗漏区沉积物剖面。",
+      "evidence_basis": "比较古菌、细菌和真核标记剖面、基因拷贝数及生态组装估计。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "模型分配的过程不是直接观测的扩散或选择；ANME–SRB 共现不能证明特定伙伴间的 AOM。",
+      "_source_hash": "22d8bbb880187d8a"
+    },
+    "claim:scs-arcobacter-gill-isolate": {
+      "statement": "该菌株代表所提出的 Arcobacter iocasae 新种，在受测条件下可好氧和微需氧生长。",
+      "scope": "南海冷泉 Gigantidas platifrons 鳃匀浆分离株 KX21116T。",
+      "evidence_basis": "比较生理、化学分类、系统基因组、ANI 与数字 DNA–DNA 杂交值。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "从鳃匀浆分离并不能证明其为专性共生菌、有益于宿主或具有某种天然丰度。",
+      "_source_hash": "32ca975142551aff"
+    },
+    "claim:scs-haima-viral-stages": {
+      "statement": "目录包含 4,272 个病毒单元；多样性与预测代谢组成随冷泉阶段变化，化能自养阶段的多样性最高。",
+      "scope": "海马化能自养阶段、成熟阶段与衰亡冷泉沉积物生境。",
+      "evidence_basis": "从沉积物宏基因组重建病毒单元，推断宿主、生活方式及辅助代谢基因。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "宿主联系、生活方式和 AMG 来自计算推断；不同站位的阶段比较并非重复时间序列，也未测量病毒介导碳通量。",
+      "_source_hash": "37b26f8ecfe7dee7"
+    },
+    "claim:scs-bacillus-haimaensis-resource": {
+      "statement": "基因组和表型证据支持划分新种；六个预测生物合成基因簇中包括候选套索肽基因簇。",
+      "scope": "水深 1,350 m 海马沉积物来源 Bacillus haimaensis CSS-39T。",
+      "evidence_basis": "结合培养表型、完整基因组测序及与近缘 Bacillus 的比较。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "预测生物合成和胁迫基因不能证明产物活性或天然高压条件下的适应机制。",
+      "_source_hash": "3235d777483ae92e"
+    },
+    "claim:scs-carbonate-black-carbon": {
+      "statement": "黑碳碳同位素亏损与甲烷相关来源一致；模型估计受测碳酸盐中微生物来源贡献为 2–33%。",
+      "scope": "南海与墨西哥湾冷泉碳酸盐。",
+      "evidence_basis": "分析黑碳化学与同位素组成，并采用贝叶斯混合模型估计来源比例。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "来源划分依赖同位素端元；碳酸盐储存量不能直接确定全球溶解黑碳通量。",
+      "_source_hash": "f688699c51d5ad14"
+    },
+    "claim:scs-shallow-mussel-seep-transplant": {
+      "statement": "暴露贻贝的菌群中甲烷氧化菌增多，同时出现宿主胁迫、免疫与代谢转录变化。",
+      "scope": "移入 F 站位冷泉的 Mytilus galloprovincialis。",
+      "evidence_basis": "比较冷泉暴露期间宿主转录组与相关微生物群落。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "短期暴露及宿主–微生物相关性不能证明进化适应或稳定的营养共生。",
+      "_source_hash": "af658b6a50283d4f"
+    },
+    "claim:scs-haima-microplastic-community-response": {
+      "statement": "培养时间和原始生境影响塑料表面群落，其推断的网络结构及氮／甲烷功能不同于环境群落。",
+      "scope": "海马海水与沉积物室内培养体系。",
+      "evidence_basis": "结合环境化学和微生物遗传分析，比较塑料表面与周围环境群落。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "网络脆弱性和预测功能不等于测得的生态系统不稳定性、病原风险或原位营养盐通量。",
+      "_source_hash": "1d8a8cbd94113dd6"
+    },
+    "claim:scs-sitef-carbonate-spatial-microbiomes": {
+      "statement": "活跃铠甲虾区碳酸盐偏富集 ANME-2c，贻贝区偏富集 ANME-1b；低活性碳酸盐群落不同，且更接近附近水体。",
+      "scope": "F 站位铠甲虾区、贻贝区及低活性生境的八件碳酸盐样品，并与沉积物／水体比较。",
+      "evidence_basis": "结合界面传感、碳酸盐成像、宏基因组、定量 PCR 与 13CH4 标记；活动等级依据生境及地球化学代理指标划分。",
+      "locator": "Sampling；采样点地球化学条件；基于 PhyloFlash 的碳酸盐微生物群落结构。",
+      "confidence_note": "活动等级基于代理指标；提出的矿物自封闭过程不能量化长期甲烷渗透性变化。",
+      "_source_hash": "364f6ea7a3286d6f"
+    },
+    "claim:scs-haima-six-host-gills": {
+      "statement": "贻贝和蛤鳃内共生菌群较简单，其他受测宿主的胞外相关群落更复杂。",
+      "scope": "海马异质生境中的六种底栖无脊椎动物。",
+      "evidence_basis": "比较细菌组成、组织／亚细胞定位与鳃菌群预测功能。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "宿主特异性与预测功能不能单独证明宿主选择机制或适合度收益。",
+      "_source_hash": "e9f2d7b1e50e205b"
+    },
+    "claim:scs-yungan-tubeworm-microbes": {
+      "statement": "躯干部位文库含一个主要共生菌系统型；周围生境包含 ANME-1b 和丰富的硫氧化类群。",
+      "scope": "台湾西南南永安东脊 Paraescarpia formosa 及其生境。",
+      "evidence_basis": "采用管虫躯干 16S 克隆文库及环境全长 16S 扩增子。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "标记基因描述成员组成，不能识别代谢物转移或证明特定 ANME–SRB 伙伴关系。",
+      "_source_hash": "cd691ffad72fd97f"
+    },
+    "claim:scs-haima-plastic-aging": {
+      "statement": "较强模拟渗漏加速测得的表面老化，PLA 与沉积物处理尤为明显，并伴随无机营养盐变化。",
+      "scope": "200 mL 反应器中的海马沉积物与海水。",
+      "evidence_basis": "在模拟渗漏条件下比较塑料表面化学、粗糙度、微生物定殖和营养盐变化。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "高塑料负荷与反应器条件限制环境外推；表面老化不同于完全生物降解。",
+      "_source_hash": "c2b65801d60984d1"
+    },
+    "claim:scs-pacbio-shortread-sediment-comparison": {
+      "statement": "PacBio 分析获得更多可分类类群，种水平尤为明显，并分辨出更多细尺度群落差异。",
+      "scope": "珠江口外神狐冷泉区域表层沉积物岩芯。",
+      "evidence_basis": "对沉积物样品比较 PacBio 全长与 Illumina 短读长 16S 分析。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "数据库、引物与流程选择影响平台比较；标记分辨率提高不能替代代谢或菌株水平验证。",
+      "_source_hash": "56144477b51f8505"
+    },
+    "claim:scs-haima-dom-water-enrichment": {
+      "statement": "底层水群落与其他水层的相似性高于与沉积物的相似性；不同有机营养物添加富集不同细菌目。",
+      "scope": "海马五个站位；表层至 1,350–1,450 m 底层水及表层沉积物。",
+      "evidence_basis": "采集 CTD 水样与 ROV 沉积物，比较群落，并在控温瓶中添加尿素、ATP、二苯并噻吩及葡萄糖。",
+      "locator": "摘要；Sample collection；DOM enrichment experiments。",
+      "confidence_note": "这些结果为控温瓶培养响应；底物添加和宏基因组潜力不能量化天然元素通量。",
+      "_source_hash": "6a4d18e73e050dd6"
+    },
+    "claim:scs-effluviviacota-seep-genomes": {
+      "statement": "Effluviviacota 基因组编码碳水化合物／肽发酵利用及候选胞外电子传递系统，不同属间存在差异。",
+      "scope": "来自南海等冷泉及 Guaymas 热液沉积物的三十个 MAG。",
+      "evidence_basis": "采用系统基因组与代谢重建分析候选门及其属级类群。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "不完整 MAG 与功能注释不能确定实际生长底物、电子受体或原位反应速率。",
+      "_source_hash": "fb4e8dab1344a42d"
+    },
+    "claim:scs-hwangdonia-lutea": {
+      "statement": "该分离株被划为 Hwangdonia lutea；与 H. seohaensis 的基因组相似度低于研究采用的种划分阈值。",
+      "scope": "海马沉积物好氧分离株 SCSIO 19198T。",
+      "evidence_basis": "比较生长特征、细胞化学、16S 系统发育与基因组相似度。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "分类和培养证据不能确定其在未扰动沉积物中的丰度、活性或生态作用。",
+      "_source_hash": "ebe370bb644afa66"
+    },
+    "claim:scs-fontisubflavum-water-isolate": {
+      "statement": "约 3.59 Mb 的分离株基因组及多相证据支持提出新属新种 Fontisubflavum oceani。",
+      "scope": "南海深海冷泉水体好氧分离株 CSW1921T。",
+      "evidence_basis": "结合生理、化学分类及与近缘 Rhodobacteraceae 的基因组比较。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "培养获得的水体分离株不能证明其在水体占优势或具有甲烷氧化能力。",
+      "_source_hash": "137854ec6b1c1be7"
+    },
+    "claim:scs-remirge-functional-phylogeny": {
+      "statement": "甲烷、硫和氮相关基因簇随站位及沉积深度变化，揭示常规功能汇总难以分辨的差异。",
+      "scope": "五个冷泉与一个非冷泉对照，包括海马厘米尺度剖面。",
+      "evidence_basis": "利用 REMIRGE 从宏基因组读段重建全长功能基因，比较系统发育簇。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "基因系统发育提高潜在功能分辨率，但相关基因簇不能证明代谢耦合或通量。",
+      "_source_hash": "34612140936542fe"
+    },
+    "claim:scs-haima-minerals-microbes": {
+      "statement": "渗漏沉积物含丰富方解石及不同的微生物组合；硫酸盐、钙、镁与矿物及细菌组成共变。",
+      "scope": "海马甲烷渗漏、动物聚集及对照沉积物生境。",
+      "evidence_basis": "比较矿物组合、细菌／古菌组成及沉积物化学。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "矿物–群落相关性不能测量矿物沉淀速率或证明特定微生物沉淀机制。",
+      "_source_hash": "29718dcfdb1f6500"
+    },
+    "claim:scs-archaeal-lipidome-seeps": {
+      "statement": "脂质组成和古菌群落随渗漏条件变化；完整极性脂质指数与 ANME 分布及甲烷相关地球化学有关。",
+      "scope": "甲烷供应不同的南海沉积物。",
+      "evidence_basis": "结合 16S 组成、55 种核心／完整极性脂质及孔隙水碳化学。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "脂质保存及多来源生产增加归因难度；代理指数并非 ANME 活性的直接测量。",
+      "_source_hash": "107a434cba6ad38b"
+    },
+    "claim:scs-abyssisolibacter-m8s5": {
+      "statement": "M8S5 编码多种碳水化合物／肽利用途径与厌氧呼吸基因，而组氨酸／脯氨酸合成途径不完整。",
+      "scope": "水深 1,151 m 南海冷泉沉积物来源 Abyssisolibacter M8S5。",
+      "evidence_basis": "分析完整分离株基因组中的底物途径、胞外酶与胁迫相关基因。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "基因组注释本身不能证明严格的氨基酸依赖或对压力、温度的功能适应。",
+      "_source_hash": "b8de1c6f9c4e2133"
+    },
+    "claim:scs-haima-faunal-cs-cycling": {
+      "statement": "ANME、硫酸盐还原菌及硫氧化菌在聚集区间不同，网络模式及硫酸盐／钙关联具有生境特异性。",
+      "scope": "海马四类动物聚集生境。",
+      "evidence_basis": "结合沉积物地球化学、组学及微生物关联网络。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "群落与化学相关性不能因果区分流体供应、动物影响及微生物反馈。",
+      "_source_hash": "4408c5e6f82ff426"
+    },
+    "claim:scs-haima-microeukaryotic-diversity": {
+      "statement": "冷泉生境的区域微型真核多样性较高，包含 Apicomplexa 和 Syndiniales 等更多寄生类群指示信号。",
+      "scope": "海马活跃、较低活跃与非冷泉岩芯，沉积深度 0–25 cm。",
+      "evidence_basis": "分析 18S 组成、多样性、系统发育及生态组装模型。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "18S 分类归属不能证明感染或识别实际宿主；组装效应来自统计推断。",
+      "_source_hash": "56aeb166f8e4f844"
+    },
+    "claim:scs-haima-sulfur-dom": {
+      "statement": "与对照相比，冷泉孔隙水具有更多类蛋白荧光、含硫分子式及相对易利用 DOM 的分子指标。",
+      "scope": "海马冷泉及附近非冷泉对照沉积物。",
+      "evidence_basis": "比较溶解有机物光学性质、分子式及基于组成的易利用性指数。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "光学／分子易利用性指标并非直接生物降解实验；生物与非生物硫化尚未完全区分。",
+      "_source_hash": "81d6b8879893bb50"
+    },
+    "claim:scs-scs-aom-biogeography": {
+      "statement": "站位形成不同微生物簇；冷泉沉积物功能标记拷贝较多，而海槽 NC10 相对丰度较高。",
+      "scope": "F 站位、海马与西沙海槽 0–4 cm 表层沉积物。",
+      "evidence_basis": "结合地球化学比较 16S 组成、甲烷／硫酸盐循环标记丰度及系统发育。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "与已知 DAMO 生物的标记相似性不能量化硝酸盐／亚硝酸盐依赖甲烷氧化或其实际贡献。",
+      "_source_hash": "1983e2ca600d6a6d"
+    },
+    "claim:scs-extinct-haima-metabolism": {
+      "statement": "可见渗漏活动停止后，衰亡冷泉仍保留独特细菌组合及多种碳、氮、硫代谢潜力。",
+      "scope": "海马衰亡冷泉沉积物，并与活跃冷泉及非冷泉比较。",
+      "evidence_basis": "比较原核多样性、关联网络及推断代谢途径。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "跨站位比较未连续追踪生态衰退；途径目录不能测量持续的初级生产。",
+      "_source_hash": "b8b6c081cf1c605a"
+    },
+    "claim:scs-qiongdongnan-thermogenic-hydrates": {
+      "statement": "含水合物层微生物丰度较高而多样性较低，古菌组成沿岩芯明显变化。",
+      "scope": "琼东南包含含水合物及无水合物层的岩芯。",
+      "evidence_basis": "结合 16S 扩增子及分子／地球化学测量，比较不同水合物赋存层。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "水合物赋存与沉积物性质共同变化；从分类推断的功能需直接检验。",
+      "_source_hash": "85c1314e91071747"
+    },
+    "claim:scs-haima-oil-degrading-isolates": {
+      "statement": "七株分离菌在室内实验中降解石油，原油、柴油及不同链长烷烃的降解表现不同。",
+      "scope": "海马沉积物来源五个富集联合体及细菌分离株。",
+      "evidence_basis": "富集石油利用群落，测试分离株生长及石油／烷烃降解。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "富集性能不能证明天然深海压力下的存活、去除速率或修复效果。",
+      "_source_hash": "f39bddea74525266"
+    },
+    "claim:scs-srb-zero-valent-sulfur": {
+      "statement": "CS1 可由硫代硫酸盐产生零价硫；PhsA 还原后经 SQR 氧化硫化物的证据支持受测途径。",
+      "scope": "南海冷泉沉积物分离株 Oceanidesulfovibrio marinus CS1。",
+      "evidence_basis": "结合培养硫测量、蛋白组、酶实验及原位培养表达观测。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "沉积物中的同源基因不能量化这一分离株途径对整体硫循环的贡献。",
+      "_source_hash": "95a1aada3cc33c0b"
+    },
+    "claim:scs-sitef-horizontal-vertical-sediment": {
+      "statement": "南北还原沉积物的 ANME 分支及硫酸盐还原菌组合不同，推定转换带分别约为 8 和 10 cm。",
+      "scope": "F 站位南部／北部还原沉积物与两个对照的 0–24 cm 岩芯。",
+      "evidence_basis": "比较四个位置、多个深度的 16S 组成与环境梯度。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "推定转换深度与共现模式限于该研究；标记数据不能确定 AOM 速率或证明互营。",
+      "_source_hash": "47991b69ceb102fe"
+    },
+    "claim:scs-haiyang4-tetraether-lipids": {
+      "statement": "硫酸盐–甲烷转换带脂质指数发生变化，与甲烷相关及氨氧化古菌贡献改变相符。",
+      "scope": "海洋四号冷泉区 973-5 岩芯。",
+      "evidence_basis": "沿沉积剖面分别分析完整极性和核心 GDGT 脂质。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "不同脂质组分的来源划分和保存不同；比值并非活体生物量或代谢速率的直接测量。",
+      "_source_hash": "f56a2ccb9b4089ed"
+    },
+    "claim:scs-bivalve-lipid-nutrition": {
+      "statement": "甲烷氧化与硫氧化共生双壳类的脂质特征不同；宿主／共生菌相近同位素模式支持较大的共生营养贡献。",
+      "scope": "F 站位与海马四种贻贝／蛤。",
+      "evidence_basis": "分析组织脂质及化合物特异碳同位素，比较营养来源。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "标志物推断来源贡献，未直接测量同步碳转移速率或环境氧浓度。",
+      "_source_hash": "ca9fe872c275fb8e"
+    },
+    "claim:scs-scs-six-carbon-fixation-pathways": {
+      "statement": "检出代表六类碳固定途径的基因；rTCA 分布广泛，Wood–Ljungdahl 途径基因主要集中于冷泉沉积物。",
+      "scope": "南海两个冷泉与一个海槽的沉积物。",
+      "evidence_basis": "由宏基因组和 MAG 重建不同沉积深度的碳固定途径。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "基因存在及完整性不能确定途径方向、表达或碳固定的定量贡献。",
+      "_source_hash": "04b3f8b3f2882650"
+    },
+    "claim:scs-scs-microeukaryote-biogeography": {
+      "statement": "SAR 类群占优势；冷泉群落不同于海槽，并包含许多与寄生或共生类群相关的谱系。",
+      "scope": "南海北部两个冷泉与一个海槽。",
+      "evidence_basis": "利用 18S 扩增子与网络分析比较微型真核组成。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "序列归属及网络相关性不能识别实际营养关系，也不能区分活细胞与沉积 DNA。",
+      "_source_hash": "0d5c2b87efa1662e"
+    },
+    "claim:scs-formosa-betaine-methanogenesis": {
+      "statement": "细菌–古菌共培养可将甘氨酸甜菜碱转化为甲烷；受测 4°C 共培养需添加二甲基甘氨酸。",
+      "scope": "福尔摩沙冷泉沉积物及分离的 Oceanirhabdus／Methanococcoides 菌株。",
+      "evidence_basis": "结合底物添加、抑制、宏基因组、菌株分离及 18°C、4°C 的明确共培养体系。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "已验证的途径不能确定甘氨酸甜菜碱是天然冷泉沉积物中占主导的甲烷前体。",
+      "_source_hash": "2f35729aa3f2cf52"
+    },
+    "claim:scs-mussel-sulfide-detoxification": {
+      "statement": "冷泉–热液差异及硫化物暴露涉及宿主与共生菌的硫氧化转录变化，包括 sqr，与多组分解毒机制一致。",
+      "scope": "福尔摩沙海脊及伊平屋北丘来源 Gigantidas platifrons。",
+      "evidence_basis": "比较 16S 及宿主／微生物转录，再检验贻贝对 Na2S 暴露的响应。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "转录响应不能独立量化解毒通量，也不能证明每个伙伴的必要性。",
+      "_source_hash": "9e24d725a35a9032"
+    },
+    "claim:scs-acpsf1-archaeal-marker": {
+      "statement": "aCPSF1 聚类总体与既有古菌系统发育一致，低分类阶元分辨率更高；冷泉样品比较获得相近多样性模式。",
+      "scope": "全球古菌基因组及用于标记比较的南海冷泉样品。",
+      "evidence_basis": "将 aCPSF1 系统发育与 16S、系统基因组比较，并在同一环境样品中比较多样性。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "单个环境验证不能确定普适引物覆盖度或不同古菌类群间等效的定量丰度。",
+      "_source_hash": "5501885b3b785e58"
+    },
+    "claim:scs-haima-methane-derived-doc": {
+      "statement": "冷泉孔隙水 DOC 较高、碳同位素明显亏损，且类蛋白荧光较多，支持存在甲烷相关 DOC 贡献。",
+      "scope": "两支海马冷泉岩芯及附近一支对照岩芯。",
+      "evidence_basis": "测量硫酸盐、DOC 浓度、DOC 碳同位素及荧光组分。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "同位素／荧光代理不能直接量化甲烷向 DOC 的转化、微生物摄取或向海洋输出。",
+      "_source_hash": "1004edf2e74a1274"
+    },
+    "claim:scs-iocasia-carbohydrate-fermentation": {
+      "statement": "NS-1 利用多种受测碳水化合物，产生氢及有机发酵产物，可作为冷泉多糖加工的可培养模型。",
+      "scope": "南海深海冷泉来源 Iocasia fonsfrigidae NS-1。",
+      "evidence_basis": "结合分离株分类、多糖生长实验、发酵产物测量及转录分析。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "分离株产物不能证明其他伙伴的利用或该菌对天然冷泉碳周转的贡献。",
+      "_source_hash": "c7d0d27dba6435dc"
+    },
+    "claim:scs-psychrosphaera-ytuae": {
+      "statement": "所提出的 Psychrosphaera ytuae 在受测条件下可于 4–40°C 生长，染色体约 3.33 Mb。",
+      "scope": "南海冷泉好氧沉积物分离株 MTZ26T。",
+      "evidence_basis": "结合生理、化学特征、系统发育及分离株基因组分析。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "室内温度耐受不能证明原位压力适应或环境丰度。",
+      "_source_hash": "a208a0fa7c773e9b"
+    },
+    "claim:scs-bacillus-fonticola": {
+      "statement": "表型和系统发育证据支持 Bacillus fonticola；受测生长范围为 16–37°C 和 0–8% NaCl。",
+      "scope": "南海深海冷泉沉积物分离株 CS13T。",
+      "evidence_basis": "比较 16S 系统发育、生长范围与细胞化学。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "培养范围不能作为冷泉环境温盐条件，也不能证明生态优势。",
+      "_source_hash": "9d14c3df2e8becf4"
+    },
+    "claim:scs-shenhu-aom-without-anme": {
+      "statement": "尽管受测沉积物中未检出经典 ANME 序列，培养体系仍出现甲烷氧化与产生。",
+      "scope": "硫酸盐–甲烷转换带上方两支神狐岩芯。",
+      "evidence_basis": "结合地球化学剖面、高通量群落测序及 AOM／产甲烷培养。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "未检出受方法影响；责任微生物尚未确定，不能仅依据丰度归因于 Bathyarchaeota。",
+      "_source_hash": "64cbb7c45874aa20"
+    },
+    "claim:scs-artificial-seep-biocoenosis": {
+      "statement": "观测到细菌与古菌先于水母和端足类定殖，构建群落中也检出病毒。",
+      "scope": "南海约 1,000 m 海床持续释放甲烷的装置。",
+      "evidence_basis": "部署甲烷生物群落发生装置，观测微生物与动物定殖。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "定殖演替不能直接追踪所有生物间的电子或碳转移，也不能复制全部天然冷泉条件。",
+      "_source_hash": "a3949446a4e30514"
+    },
+    "claim:scs-haima-bivalve-gill-markers": {
+      "statement": "两个宿主均以 Gammaproteobacteria 为主，但细菌多样性、组成及预测功能不同。",
+      "scope": "海马 Gigantidas haimaensis 与 Archivesica marissinica。",
+      "evidence_basis": "比较鳃 16S 群落及 FAPROTAX／PICRUSt 推断功能。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "16S 功能预测并非宏基因组、转录组或已证实的化能自养营养途径。",
+      "_source_hash": "8b99158ad13d3443"
+    },
+    "claim:scs-methanofollis-fontis-isolate": {
+      "statement": "所提出的 Methanofollis fontis 可利用甲酸或 H2／CO2，而受测乙酸、醇类及甲胺未支持产甲烷。",
+      "scope": "四方封闭海脊冷泉邻近 C5-6 站位分离株 FWC-SCC2T。",
+      "evidence_basis": "测试产甲烷底物，比较生理、16S 与基因组相似度。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "邻近沉积物中分离的中温菌不能确定活跃泉口产甲烷或其定量现场贡献。",
+      "_source_hash": "4dc4af3ecd14bca3"
+    },
+    "claim:scs-scs-n-damo-potential": {
+      "statement": "Methylomirabilis／Methanoperedens 信号及相关基因支持部分受测生境可能具有硝酸盐／亚硝酸盐耦合甲烷氧化。",
+      "scope": "F 站位、海马与西沙海槽还原沉积物。",
+      "evidence_basis": "跨生境比较微生物类群及甲烷／氮途径基因。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "研究从宏基因组推断潜力；需同位素速率测量才能确定各途径对甲烷去除的贡献。",
+      "_source_hash": "7cd1807109532716"
+    },
+    "claim:scs-nitrincola-iocasae": {
+      "statement": "4.17 Mb 基因组及多相证据支持 Nitrincola iocasae 为独立新种。",
+      "scope": "福尔摩沙海脊沉积物兼性厌氧分离株 KXZD1103T。",
+      "evidence_basis": "结合生理、16S 系统发育、基因组测序及亲缘比较。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "属级名称不能证明硝化、反硝化或对群落氮循环的作用。",
+      "_source_hash": "41f3ea0ca02788e1"
+    },
+    "claim:scs-carbonate-phosphorus-speciation": {
+      "statement": "钙结合磷占最大比例；空间与元素关联支持多种矿物和有机磷保留途径。",
+      "scope": "南海／东海三个深海冷泉碳酸盐站位。",
+      "evidence_basis": "测量磷组分，并利用 NanoSIMS／SEM 映射 P、Ca、C、Fe 分布。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "P–Fe 共变本身不能证明铁依赖 AOM 为溶解磷来源，也不能量化磷通量。",
+      "_source_hash": "cc2f249f5d882dbd"
+    },
+    "claim:scs-erythrobacter-thiosulfate-pathway": {
+      "statement": "受测菌经 TsdA／SoxB 相关步骤将硫代硫酸盐转为零价硫，Sdo 蛋白参与后续氧化。",
+      "scope": "南海冷泉分离株 Erythrobacter flavus 21-3。",
+      "evidence_basis": "结合硫产物鉴定、蛋白组、遗传检验及中间体化学计量。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "同源基因分布提示可能能力，却不能量化该途径对天然或全球硫循环的贡献。",
+      "_source_hash": "d0e82f0343933287"
+    },
+    "claim:scs-formosa-sulfurovum-interface": {
+      "statement": "Sulfurovum 在受测界面群落占优势；重建基因组支持 rTCA 碳固定、硫氧化及硝酸盐利用潜力。",
+      "scope": "福尔摩沙近泉水体、表层沉积物及 Shinkaia 鳃。",
+      "evidence_basis": "结合界面样品短／全长 16S 扩增子与宏基因组分箱。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "优势标记谱系并非已培养物种，也不能代表已验证的碳／硫／氮过程速率。",
+      "_source_hash": "a007fcb888ff71a1"
+    },
+    "claim:scs-jiaolong-vertical-prokaryotes": {
+      "statement": "表层偏富集硫氧化菌和 ANME-1，深层偏富集硫酸盐还原菌及 ANME-1／2；表层硫／硝酸盐基因共变。",
+      "scope": "蛟龙沉积物，比较 0–6 与 8–14 cm 层。",
+      "evidence_basis": "结合 16S 焦磷酸测序与宏基因组甲烷／硫／硝酸盐功能基因。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "基因共同分布不能直接确定电子受体耦合或特定伙伴互营。",
+      "_source_hash": "f4a81074dce343ed"
+    },
+    "claim:scs-mussel-methane-maintenance": {
+      "statement": "暂养期间共生菌数量下降，第 24、34 天无甲烷处理的下降更明显。",
+      "scope": "南海 Bathymodiolus platifrons 及其鳃甲烷氧化共生菌。",
+      "evidence_basis": "鉴定 pmoABC，定量共生菌标记 DNA，并通过显微观察验证数量变化。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "标记 DNA 丰度及室内甲烷供应不能量化天然共生菌碳固定或向宿主转移。",
+      "_source_hash": "5244b134e84b1b1f"
+    },
+    "claim:scs-global-seep-diazotroph-genomes": {
+      "statement": "固氮酶基因分布于 ANME–SRB 之外更多古菌／细菌谱系及供能代谢，扩展了冷泉潜在固氮者的基因组目录。",
+      "scope": "全球十一个冷泉区域，包括南海蛟龙、海洋四号、F 站位及海马。",
+      "evidence_basis": "分析 61 个宏基因组、1,428 个 MAG 及六个宏转录组中的固氮酶与相关供能途径。",
+      "locator": "摘要；Metagenomic datasets for deep-sea cold seep sediments；引言中的数据集组成。",
+      "confidence_note": "基因／转录证据不能确定各谱系的固氮速率或全球氮收支。",
+      "_source_hash": "4b4d0e1d8adc31dc"
+    },
+    "claim:scs-scs-dna-rna-viral-carbon": {
+      "statement": "新生冷泉病毒群落不同于其他生境，包括更多 RNA／温和病毒信号；病毒代谢基因转录支持可能参与有机质功能。",
+      "scope": "南海四个位置：衰退冷泉、远处对照、新生冷泉及海山；最表层 1 cm 沉积物。",
+      "evidence_basis": "跨不同生境结合纯化病毒组分、DNA／RNA 病毒组、宏基因组及宏转录组。",
+      "locator": "摘要；Sample collection and total organic carbon measurement；四站位比较结果。",
+      "confidence_note": "RNA 检出和基因表达不能量化感染速率或群落碳周转；位置与生境效应重叠。",
+      "_source_hash": "98dc1a733a81511e"
+    },
+    "claim:scs-sitef-mussel-phage-expression": {
+      "statement": "病毒组成随甲烷生境不同；表达的噬菌体片段及共有基因特征支持与鳃共生菌存在候选关联。",
+      "scope": "F 站位九只 Gigantidas platifrons，高、中、低甲烷生境各三只。",
+      "evidence_basis": "比较鳃 DNA／RNA 病毒组成，并推断噬菌体与甲烷氧化共生菌的联系。",
+      "locator": "摘要；Sample collection；G. platifrons 病毒相对丰度与组成。",
+      "confidence_note": "计算联系和转录信号不能证明有效感染、水平转移或对贻贝营养的影响。",
+      "_source_hash": "fac7029047cec957"
+    },
+    "claim:scs-twilight-particle-size-microbiomes": {
+      "statement": "粒径与深度对应不同群落及碳水化合物降解基因组成；较小组分多样性较低，但碳降解基因较多。",
+      "scope": "海马／F 站位水体与 SEATS 对照，以及龙旂热液站；表层、约 200 及 800 m。",
+      "evidence_basis": "每样原位过滤约 500 L，分为 >50、10–50 和 1–10 μm 颗粒组分，分析宏基因组与碳化学。",
+      "locator": "摘要；Sample collection, genomic DNA extraction, and sequencing；海水化学分析。",
+      "confidence_note": "受测组分为颗粒相关微生物，并非全部游离菌；基因目录不能量化颗粒沉降或再矿化速率。",
+      "_source_hash": "49eb30eee7ae4870"
+    },
+    "claim:scs-jiulong-uncultivated-lineages": {
+      "statement": "九个门包括未培养古菌／细菌类群，具有固碳、有机底物利用及营养元素还原潜力；部分途径基因有转录支持。",
+      "scope": "南海北部水深 1,100 m 九龙甲烷礁附近一支岩芯。",
+      "evidence_basis": "重建十一个完整度 >85% 的基因组，检查途径基因与转录支持。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "转录比仅有基因更有支持力，但不能确定完整途径活性、伙伴交换或通量。",
+      "_source_hash": "6482b57ed3f7ccf4"
+    },
+    "claim:scs-carbonate-fossil-microbial-genomes": {
+      "statement": "碳酸盐保存了 ANME 及好氧氨氧化古菌信号，群落组成不同于沉积物，样品间降解程度不同。",
+      "scope": "南海与墨西哥湾冷泉碳酸盐。",
+      "evidence_basis": "提取碳酸盐宏基因组，重建标记组成并获得十个优势原核基因组。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "保存的 DNA 和基因组不能证明碳酸盐中存在活细胞或当前微生物活性。",
+      "_source_hash": "386a25d7184e8cc7"
+    },
+    "claim:scs-haima-organotrophic-chitin": {
+      "statement": "多个常见 MAG 编码有机底物利用和元素循环基因；受选几丁质酶在受测压力／温度下保持结构并显示增强活性。",
+      "scope": "海马活跃及衰亡生境沉积物微生物群落。",
+      "evidence_basis": "分析 225 个非冗余 MAG，并在 15 MPa、4°C 下测试候选几丁质酶。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "单个酶实验不能确定群落几丁质周转，也不能证明几丁质为长期碳／氮储库。",
+      "_source_hash": "d46143c3d40c0af9"
+    },
+    "claim:scs-haima-arsenic-methane": {
+      "statement": "冷泉富集砷主要与硫化物结合；甲烷相关地球化学及共现 arrA／dsrA 支持砷–硫–甲烷联系的潜力。",
+      "scope": "海马冷泉沉积物及孔隙水。",
+      "evidence_basis": "分析砷结合形态、甲烷氧化代理指标及砷／甲烷／硫相关基因。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "代理相关性与基因组共现不能直接量化耦合反应；年度固定量估计依赖尺度外推假设。",
+      "_source_hash": "3b60dc98699a0345"
+    },
+    "claim:scs-haima-deep-core-community": {
+      "statement": "微生物多样性随沉积深度降低，群落组成在地球化学转换附近变化，包括约 70 cm 层位。",
+      "scope": "深至 290 cm 的海马甲烷渗漏沉积剖面。",
+      "evidence_basis": "采用沉积物化学、16S 组成及生态组装模型比较 21 个分层样品。",
+      "locator": "摘要；引言中的 21 个分层样品；结果：不同深度的微生物群落结构。",
+      "confidence_note": "组装模型分配不能确定因果驱动；基于基因的预测不同于测得的甲烷或硫速率。",
+      "_source_hash": "25079f2c1fa72873"
+    },
+    "claim:scs-curvularia-genome-led-metabolites": {
+      "statement": "培养条件改变获得六种此前未描述的细胞松弛素类化合物；部分化合物在室内实验中具有抗菌或幼苗根生长抑制活性。",
+      "scope": "南海冷泉 Shinkaia crosnieri 内部组织来源 Curvularia verruculosa CS-129。",
+      "evidence_basis": "结合基因组引导培养条件改变、代谢物纯化、结构解析及抗菌／幼苗实验。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "培养诱导产物及受测生物抑制不能证明天然产量、宿主保护或生态功能。",
+      "_source_hash": "a9392a0892ef47fe"
+    },
+    "claim:scs-alternaria-wood-meroterpenoids": {
+      "statement": "研究鉴定三种新混源萜及已知同类物；部分产物抑制受测 Klebsiella 与耐药 Staphylococcus 菌株。",
+      "scope": "南海冷泉沉木来源 Alternaria alstroemeriae CS-745。",
+      "evidence_basis": "纯化培养代谢物，解析结构／构型并测量细菌抑制。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "体外抑制不能证明动物内抗生素疗效或冷泉沉木生境中的抗菌作用。",
+      "_source_hash": "51ecc08c53b78771"
+    },
+    "claim:scs-aspergillus-subversicolor-phenols": {
+      "statement": "研究鉴定新酚类衍生物，但报告的受测实验中未观察到明显活性。",
+      "scope": "海马来源 Aspergillus subversicolor CYH-17。",
+      "evidence_basis": "解析代谢物结构，测试酶抑制、抗氧化与抗菌活性。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "阴性筛查仅适用于所用实验及浓度；化学新颖性本身不能说明有用的生物活性。",
+      "_source_hash": "21ce3b339351a44d"
+    },
+    "claim:scs-aspergillus-fumitremorgin": {
+      "statement": "研究报告一种新的 fumitremorgin 相关衍生物；部分其他分离化合物具有抗菌或酶抑制活性。",
+      "scope": "海马来源 Aspergillus fumigatus CYH-5 培养物。",
+      "evidence_basis": "分离一种新衍生物及已知化合物，解析结构并测试细菌／酶抑制。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "其他化合物显示的活性不能归于新衍生物；来源信息不能证明现场代谢物生成。",
+      "_source_hash": "b4a7b8e82b50456b"
+    },
+    "claim:scs-trichoderma-lipids-terpenoids": {
+      "statement": "鉴定五种新脂类及两种已知萜类；部分化合物抑制受测小麦病原真菌。",
+      "scope": "南海冷泉沉积物来源 Trichoderma lixii R22。",
+      "evidence_basis": "纯化脂类／萜类，解析结构并测试小麦病原抑制及卤虫毒性。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "室内病原抑制不能证明农业现场效果或冷泉中的抗真菌相互作用。",
+      "_source_hash": "4d37755d889923aa"
+    },
+    "claim:scs-talaromyces-saha-metabolites": {
+      "statement": "SAHA 处理培养物获得七种新高氧化产物并改变代谢谱；一种受选 azaphilone 抑制受测农业病原真菌。",
+      "scope": "南海冷泉沉积物来源 Talaromyces minioluteus CS-113。",
+      "evidence_basis": "培养时添加 HDAC 抑制剂，比较 LC-MS 产物、解析结构并测试真菌抑制。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "代谢物增加不能证明特定沉默基因簇被激活，也不能确定天然冷泉产量。",
+      "_source_hash": "a5a190bee826c288"
+    },
+    "claim:scs-talaromyces-inflammatory-assays": {
+      "statement": "分离一种新生物碱及已知化合物；部分产物抑制 NO 信号，一种受选化合物改变 LPS 相关细胞因子响应。",
+      "scope": "南海冷泉来源 Talaromyces helicus SCSIO41311。",
+      "evidence_basis": "鉴定生物碱，测试一氧化氮抑制及部分细胞因子响应。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "细胞层面的抗炎信号不能证明临床收益或天然冷泉微生物功能。",
+      "_source_hash": "f9119d46936c551f"
+    },
+    "claim:scs-curvularia-cytochalasin-2022": {
+      "statement": "培养真菌中鉴定两种新细胞松弛素衍生物及一种新报道的天然产物。",
+      "scope": "南海冷泉 Shinkaia crosnieri 来源 Curvularia verruculosa CS-129。",
+      "evidence_basis": "分离细胞松弛素衍生物，解析结构并筛查抗菌活性。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "所核查摘要列出抗菌测试，但不足以支持全部产物逐个化合物的效力论断。",
+      "_source_hash": "3d0088dca96daa6f"
+    },
+    "claim:scs-penicillium-verrucosidins": {
+      "statement": "鉴定六种新 verrucosidin 衍生物，对部分受测病原菌显示活性，报告 MIC 为 4–32 μg/mL。",
+      "scope": "水深 1,183 m 南海冷泉沉积物来源 Penicillium polonicum CS-252。",
+      "evidence_basis": "解析代谢物结构／构型，并测试部分人类／水生病原菌抑制。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "特定实验 MIC 不能证明临床疗效、广泛安全性或产物在天然冷泉群落中的作用。",
+      "_source_hash": "4352ae48099e0b63"
+    },
+    "claim:scs-curvularia-cytochalasin-2021": {
+      "statement": "新细胞松弛素结构包括硫醚连接二聚体；部分化合物在体外显示抗菌或肿瘤细胞毒性。",
+      "scope": "南海 Shinkaia 内部组织来源 Curvularia verruculosa CS-129。",
+      "evidence_basis": "纯化产物，采用光谱／晶体学解析结构，并测量细菌或细胞系抑制。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "不同化合物产生不同实验效应；结果不能证明宿主保护或临床用途。",
+      "_source_hash": "3d93998a1894e89c"
+    },
+    "claim:scs-eps364-bacterial-polysaccharide": {
+      "statement": "鉴定一种磷酸化、β 连接多糖，改变 Huh7.5 细胞生长、黏附及凋亡相关响应。",
+      "scope": "南海冷泉分离株 Vibrio alginolyticus 364。",
+      "evidence_basis": "纯化 EPS364，鉴定糖组成，并结合蛋白组／定量 PCR 测试癌细胞响应。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "细胞系效应不能证明治疗收益或 EPS364 的环境生物膜功能。",
+      "_source_hash": "bb49cae434981f4d"
+    },
+    "claim:scs-bacillus-n11-polysaccharide-genome": {
+      "statement": "分离株具有 4,497,340 bp 环状基因组，包含候选多糖降解基因。",
+      "scope": "南海冷泉分离株 Bacillus N1-1。",
+      "evidence_basis": "测序一株报告可降解 κ-硒卡拉胶分离菌的完整基因组。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "基因组注释不能识别责任酶，也不能证明该改性底物在冷泉的天然存在及周转。",
+      "_source_hash": "66ec808dc3dfc335"
+    },
+    "claim:scs-qiongdongnan-black-carbon-core": {
+      "statement": "显著同位素亏损支持甲烷相关黑碳组分，在重建的活跃期估计占沉积黑碳的 31–43%。",
+      "scope": "具有百年尺度冷泉记录的琼东南沉积物岩芯。",
+      "evidence_basis": "结合黑碳／有机碳同位素、沉积年代及来源／埋藏尺度估计。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "微生物归因与全球埋藏估计依赖端元、年代及冷泉面积外推；未直接测量全球生产速率。",
+      "_source_hash": "cffb291eb13af0a6"
+    },
+    "claim:scs-seep-magnetotactic-bacteria": {
+      "statement": "趋磁细菌信号在冷泉数据集中多样且广泛；基因组提示铁／硫代谢可能与甲烷循环相关。",
+      "scope": "南海两个活跃冷泉沉积物及全球汇编冷泉宏基因组。",
+      "evidence_basis": "结合宏基因组、磁学测量、显微观察及基因组代谢重建。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "代谢重建不能证明趋磁细菌氧化甲烷或量化其铁／硫通量。",
+      "_source_hash": "6bdd8a2e7de088b3"
+    },
+    "claim:scs-methanochimaera-problematica": {
+      "statement": "所提出的 Methanochimaera problematica 利用 H2／CO2 或甲酸产甲烷，在受测培养条件下需要酵母提取物。",
+      "scope": "台湾西南四方封闭海脊沉积物分离株 FWC-SCC4T。",
+      "evidence_basis": "测试底物／生长，比较 16S、核糖体蛋白系统发育及基因组亲缘。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "室内营养需求及中温生长不能确定天然丰度或低温海床产甲烷。",
+      "_source_hash": "1cfaf9710d9c7a9e"
+    },
+    "claim:scs-shenhu-long-term-incubation": {
+      "statement": "尽管未检出经典 ANME 且 SEEP-SRB1 减少，甲烷转化仍发生；群落变化尚不能确定责任非常规谱系。",
+      "scope": "具有电子受体处理的神狐沉积物培养。",
+      "evidence_basis": "在长期富集中比较甲烷氧化／产生、硫酸盐／铁还原及 16S 群落变化。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "长期培养筛选种群；共同富集不能将 AOM 归于 Bathyarchaeota，或在缺乏针对性验证时证明铁耦合途径。",
+      "_source_hash": "8449bd1784dd9668"
+    },
+    "claim:scs-jiaolong-anme-metabolic-diversity": {
+      "statement": "ANME 基因组包含甲烷／碳途径及候选有机碳合成途径，包括具有转录支持的丙酸途径。",
+      "scope": "蛟龙冷泉十三个 ANME 基因组草图。",
+      "evidence_basis": "利用 MAG 代谢重建及途径转录证据，比较五类 ANME。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "基因组草图中未见基因不能确定其缺失；预测分泌与途径转录不能量化代谢物释放。",
+      "_source_hash": "13cb49e88225c747"
+    },
+    "claim:scs-aequorivita-iocasae": {
+      "statement": "兼性厌氧菌株代表 Aequorivita iocasae，在受测条件下最适 NaCl 为 3–6%。",
+      "scope": "南海冷泉沉积物分离株 KX20305T。",
+      "evidence_basis": "比较生理／化学特征、16S 及约 3.35 Mb 分离株基因组。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "培养最适值并非天然冷泉盐度测量，也不能确定元素循环作用。",
+      "_source_hash": "75f0781456f074cc"
+    },
+    "claim:scs-marinobacter-fonticola": {
+      "statement": "证据支持 Marinobacter fonticola；受测生长范围为 4–40°C、pH 5–11 和 0–19% NaCl。",
+      "scope": "南海冷泉沉积物来源 CS412T。",
+      "evidence_basis": "结合 16S 系统发育、生长范围及细胞化学特征。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "广泛培养耐受不能证明其在冷泉占优势或该物种具有烃降解能力。",
+      "_source_hash": "3eabac82decafe97"
+    },
+    "claim:scs-haima-asgard-spatial-genomes": {
+      "statement": "Asgard 基因组在冷泉更常检出；候选 Gerdarchaeota 编码 Wood–Ljungdahl 及有机底物加工潜力。",
+      "scope": "海马冷泉沉积物与海洋对照沉积物。",
+      "evidence_basis": "重建七个 Asgard 谱系的 48 个 MAG，比较出现情况、防御基因与代谢目录。",
+      "locator": "出版方摘要：分布与基因组重建。",
+      "confidence_note": "MAG 途径不能确定专性自养或测得几丁质利用；CRISPR 目录不能量化病毒保护。",
+      "_source_hash": "3bdcc25f803cc72e"
+    },
+    "claim:scs-scs-heimdallarchaeia-genomes": {
+      "statement": "MAG 编码多种碳、氮途径及氧相关基因，支持 Heimdallarchaeia 具有代谢灵活性的假说。",
+      "scope": "南海四个冷泉沉积物样品，覆盖 0–280 cm，及一个西太平洋热液样品。",
+      "evidence_basis": "重建十三个 Heimdallarchaeia MAG，比较系统发育、碳／营养基因及氧相关功能。",
+      "locator": "摘要；系统发育与真核特征；Sample collection and processing。",
+      "confidence_note": "基因组中的氧／色素基因不能证明微氧生长、光合作用或黑暗冷泉中的光依赖代谢。",
+      "_source_hash": "07e0134fd6ab2e3e"
+    },
+    "claim:scs-mussel-seep-vent-host-microbe-response": {
+      "statement": "宿主转录与共生菌途径组成随生态系统和组织变化，涉及胁迫防御及硫／能量代谢。",
+      "scope": "南海冷泉与西南印度洋热液的 bathymodiolin 贻贝，含活跃及衰亡生境。",
+      "evidence_basis": "比较鳃／消化腺宿主转录组、生理指标及共生菌宏基因组。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "航次、环境与宿主差异可能共同变化；推断功能补偿不能直接测量碳转移或存活收益。",
+      "_source_hash": "af1c063f6a810764"
+    },
+    "claim:scs-haima-plume-fate": {
+      "statement": "观测气泡上升至水合物稳定带上界附近，而泉口上方 20–40 m 内溶解甲烷降低 1–2 个数量级。",
+      "scope": "海马 HM01／HMS18 冷泉，海床水深 1,408–1,522 m。",
+      "evidence_basis": "结合气泡／羽流成像、溶解甲烷剖面、系泊海流及数值模拟。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "溶解浓度降低并不唯一代表微生物氧化；羽流高度不能证明甲烷到达表层或大气。",
+      "_source_hash": "716473a369768f55"
+    },
+    "claim:scs-haima-methane-water-porewater": {
+      "statement": "甲烷分布在空间及垂向变化，并与水体、沉积物中不同地球化学变量共变。",
+      "scope": "海马渗漏与非渗漏水体／孔隙水剖面。",
+      "evidence_basis": "比较甲烷分布与水体化学、沉积深度、孔隙度及孔隙水组分。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "相关性不能唯一识别生物消耗；大气源论断需进一步检查气体交换计算。",
+      "_source_hash": "eb14d45200f6fb8c"
+    },
+    "claim:scs-formosa-tidal-methane-monitoring": {
+      "statement": "气体释放随时间变化，并与潮汐底压波动密切对应。",
+      "scope": "台湾西南福尔摩沙海脊／F 站位冷泉。",
+      "evidence_basis": "利用 ADCP、CTD 与海流仪监测气体释放强度，并与底压周期比较。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "潮汐相关性支持压力调制模型，但不能证明水力破裂或各冷泉均具有相同行为。",
+      "_source_hash": "1d35d75b842661dc"
+    },
+    "claim:scs-haima-photoacoustic-methane-sensor": {
+      "statement": "紧凑仪器在部署中测量溶解甲烷；室内光谱仪测试报告 0.21 ppm 检出限及约四分钟系统响应。",
+      "scope": "传感器测试及海马附近 1,380 m 水深三天部署。",
+      "evidence_basis": "标定带气体提取的光声／光热光谱系统，并测试深水溶解甲烷测量。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "气相光谱仪 ppm 不能在缺乏提取／标定换算时当作溶解水样浓度检出限。",
+      "_source_hash": "4c93f9e31ada9225"
+    },
+    "claim:scs-haima-nutrients-chlorophyll": {
+      "statement": "在总体低营养、低叶绿素环境中，受测冷泉上方磷酸盐与叶绿素高于对照。",
+      "scope": "海马上覆真光层水体及对照站。",
+      "evidence_basis": "测量甲烷、营养盐、叶绿素及水文，比较站位关联。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "甲烷羽流输送营养机制为提出的解释，未被直接追踪；季节或水文替代解释仍存在。",
+      "_source_hash": "8a927b7e9a02fa78"
+    },
+    "claim:scs-video-bubble-flux": {
+      "statement": "受测泉口的气泡粒径分布与推定气体体积通量不同，显示明显泉口尺度差异。",
+      "scope": "海马一个泉口与 F 站位三个泉口。",
+      "evidence_basis": "通过图像处理及半自动计数估计气泡大小与释放速率。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "短观测时段与气体体积换算不能确定年度甲烷质量通量或到达大气的比例。",
+      "_source_hash": "cfc32aa490ea4c08"
+    },
+    "claim:scs-lingtou-coastal-methane": {
+      "statement": "溶解甲烷具有较大空间变化，底层水总体富集更强；同位素支持生物成因与热成因混合来源。",
+      "scope": "岭头岬／莺歌海盆地附近 56 km² 内 48 个站位。",
+      "evidence_basis": "测量表层／底层甲烷及碳同位素，并估计海气通量。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "浅海近岸渗漏不能代表深海海马／F 站位输运；海气通量为估计，并非微生物氧化速率测量。",
+      "_source_hash": "032ab37c2428603f"
+    },
+    "claim:scs-qiongdongnan-iron-bound-carbon": {
+      "statement": "富甲烷沉积物铁结合碳比例总体降低，同时同位素估计表明部分甲烷相关有机碳被保留。",
+      "scope": "琼东南富甲烷及对照沉积物岩芯。",
+      "evidence_basis": "测量活性铁结合有机碳及基于同位素的甲烷来源碳比例。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "分级与端元假设限制来源估计；存量不能直接确定保存时间或碳固定速率。",
+      "_source_hash": "8e0538742d0bc6bd"
+    },
+    "claim:scs-scs-pfas-core-occurrence": {
+      "statement": "可定量 PFAS 总和为干重 0.13–6.12 ng/g，站位间组成异质性明显。",
+      "scope": "南海北部六支岩芯的四十个层位。",
+      "evidence_basis": "分析 25 种目标 PFAS，区分可定量、检出与低于检出限响应。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "低于 LOD 的响应不能作为定量检出；赋存剖面不能证明毒性效应或类色谱保留机制。",
+      "_source_hash": "1ded3eb2ee86fe86"
+    },
+    "claim:scs-haima-microplastic-occurrence": {
+      "statement": "受测各介质均存在微塑料，水体、沉积物和动物分别采用不同计量单位报告。",
+      "scope": "海马海水、表层沉积物及贝类。",
+      "evidence_basis": "鉴定／计数颗粒，跨介质比较形态与聚合物组成。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "跨介质相关性不能确定转移方向、摄入速率或微生物降解。",
+      "_source_hash": "fea5b92ff136ffd8"
+    },
+    "claim:scs-scs-arsenic-speciation-incubation": {
+      "statement": "硫化物结合砷主导固相库；孔隙水铁／砷相关性及培养支持多种保留／去除过程。",
+      "scope": "南海冷泉沉积物与孔隙水。",
+      "evidence_basis": "测量溶解／固相砷、矿物结合与硫酸盐还原相关培养响应。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "吸附与微生物反应可能重叠；数据未区分每种反应对砷去除的贡献。",
+      "_source_hash": "6dfbc361f2296eea"
+    },
+    "claim:scs-formosa-raman-fluid-chemistry": {
+      "statement": "泉口／流体测量检出甲烷等还原气体；群落流体深度剖面显示硫酸盐消耗及甲烷／单质硫变化。",
+      "scope": "福尔摩沙海脊泉口及化能合成群落内部流体。",
+      "evidence_basis": "结合原位拉曼探针、气相色谱及碳同位素。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "地球化学梯度支持反应假说，却不能独立识别微生物、电子传递途径或过程速率。",
+      "_source_hash": "a620dcc302215c15"
+    },
+    "claim:scs-haima-bivalve-fatty-acid-genes": {
+      "statement": "重复的宿主去饱和酶具有不同底物特异性，包括对受测细菌型单不饱和脂肪酸底物的转化。",
+      "scope": "海马 Gigantidas haimaensis 与 Archivesica marissinica。",
+      "evidence_basis": "从宿主基因组／转录组获得 Fad 基因，并在酵母中测试底物转化。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "酵母中的酶功能不能量化共生菌向宿主脂肪酸转移或天然宿主组织内脂质合成。",
+      "_source_hash": "d17376aab7cb0cb6"
+    },
+    "claim:scs-streptomyces-shovelmycins": {
+      "statement": "鉴定两种新硫代二酮哌嗪及一种安莎霉素衍生物；单个产物显示实验特异的抗氧化或细胞毒性信号。",
+      "scope": "南海冷泉沉积物来源 Streptomyces olivaceus HDN22-001。",
+      "evidence_basis": "纯化培养化合物，解析结构并测试自由基清除／细胞系毒性。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "DPPH 清除及细胞系效应不能证明生理抗氧化收益或环境功能。",
+      "_source_hash": "b0f67e06642b1f39"
+    },
+    "claim:scs-shenhu-organic-matter-pyrolysis": {
+      "statement": "标志物指示海洋／陆源／再搬运有机质混合及深层储层烃贡献；当地沉积有机质生烃潜力较低。",
+      "scope": "神狐含水合物沉积物。",
+      "evidence_basis": "采用 Rock-Eval 热解及烃类标志物，比较有机质与储层来源特征。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "可能的产甲烷菌标志物不能证明活跃产甲烷或当地生成水合物甲烷的比例。",
+      "_source_hash": "8143c7587e1efb67"
+    },
+    "claim:scs-shenhu-hydrate-biomarkers": {
+      "statement": "未分辨烃混合物及 25-norhopane 支持既往生物降解；研究未识别特异产甲烷菌标志物。",
+      "scope": "神狐含水合物岩芯 SH2B 与 SH7B。",
+      "evidence_basis": "采用 GC-MS 与全二维气相色谱鉴定沉积物标志物。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "一般烃标志物不能识别当前产甲烷菌或证明其当前产甲烷活性。",
+      "_source_hash": "270c9b13e318e2fe"
+    },
+    "claim:scs-west-haima-methane-transport-model": {
+      "statement": "模型倾向于外部游离气溶解支持 AOM 及变化的甲烷通量历史，而非仅由当地产甲烷支持。",
+      "scope": "海马西侧三支活塞岩芯。",
+      "evidence_basis": "以稳态／非稳态反应输运模型及碳同位素质量平衡拟合孔隙水剖面。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "拟合 AOM 速率与启动年代依赖边界条件、年代及稳态假设，非直接培养测量。",
+      "_source_hash": "55a4ddde82653090"
+    },
+    "claim:scs-haima-manganese-micronodules": {
+      "statement": "多孔富锰微结核含层状锰矿物及类微生物纹理，与渗漏流体供应的混合矿化过程一致。",
+      "scope": "海马活跃冷泉富锰沉积物。",
+      "evidence_basis": "提取微结核，分析矿物结构、元素组成、纹理及计时指标推导生长。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "类微生物纹理及生长代理不能证明锰依赖 AOM 或识别责任微生物。",
+      "_source_hash": "ce7cdfc2d384748d"
+    },
+    "claim:scs-mussel-muscle-recovery-transcripts": {
+      "statement": "回收伴随广泛宿主转录差异，涉及蛋白加工与代谢途径。",
+      "scope": "海马 Gigantidas haimaensis 肌肉，比较原位与室内样品。",
+      "evidence_basis": "比较肌肉 RNA-seq 组成及胁迫／免疫／代谢途径富集。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "肌肉转录组不测量鳃共生菌活性；该序列不能区分操作、压力与营养变化。",
+      "_source_hash": "c297d6a77ecf8022"
+    },
+    "claim:scs-dongsha-phytoplankton-drilling": {
+      "statement": "调查间磷酸盐／叶绿素增加，浮游植物丰度未显著变化；报告分析未发现甲烷显著直接关联。",
+      "scope": "东沙水合物钻探区水柱。",
+      "evidence_basis": "比较钻探前后浮游植物计数、叶绿素、营养盐与溶解甲烷。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "钻探状态与季节混杂；提出的羽流上升流不能证明钻探导致浮游植物响应。",
+      "_source_hash": "e58159babc268ff0"
+    },
+    "claim:scs-haima-hydrate-geophysics-2026": {
+      "statement": "气烟囱、反射层、麻坑及 ROV 水合物观测支持深层流体与浅部冷泉／水合物系统的联系。",
+      "scope": "琼东南盆地南部约 400 km² 及海马观测。",
+      "evidence_basis": "整合三维地震、浅地层剖面、地形及 ROV 观测／采样。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "地震通道与水合物赋存不能量化微生物群落或甲烷氧化效率。",
+      "_source_hash": "7d48d1e0ad852af4"
+    },
+    "claim:scs-shenhu-new-plume-field": {
+      "statement": "识别十个倾斜火焰状羽流，常成对出现，为受测区域活跃气体释放提供证据。",
+      "scope": "神狐白云凹陷；研究将冷泉区命名为 Dongfanghong 3。",
+      "evidence_basis": "利用多波束回声探测羽流几何，并比较区域地质／海洋背景。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "羽流检出不能证明人类活动导致再激活，也不能确定气候强迫或微生物后果。",
+      "_source_hash": "11185a4180f7848a"
+    },
+    "claim:scs-hydrate-fluid-self-sealing-model": {
+      "statement": "模型将横向流体平流差异与水合物／游离气分区联系，并提出碳酸盐沉淀减弱渗漏通道的机制。",
+      "scope": "南海一处气烟囱／水合物–冷泉系统。",
+      "evidence_basis": "结合三维地震、钻探、地热／地球化学观测及数值模拟。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "拟合输运参数与自封闭反馈依赖模型；未直接量化微生物沉淀速率。",
+      "_source_hash": "4430c5338ad96491"
+    },
+    "claim:scs-scs-hydrate-seep-system-review": {
+      "statement": "综述将不同冷泉／水合物赋存与断层、气烟囱、底辟等深层流体通道联系，并指出混合气源。",
+      "scope": "琼东南、神狐、东沙及台西南系统。",
+      "evidence_basis": "整合地震、浅地层、ROV、钻探及水合物气体地球化学研究。",
+      "locator": "摘要：研究设计与主要结果。",
+      "confidence_note": "综述层面模式不能替代站位微生物采样、过程速率或独立定年的渗漏历史。",
+      "_source_hash": "2bc9023dad9a274d"
+    },
+    "claim:scs-haima-gill-metal-symbiosis": {
+      "statement": "鳃细菌组成以甲烷氧化相关类群为主，宿主免疫／胁迫表达不同，并具有较高金属积累及抗氧化响应。",
+      "scope": "海马 Gigantidas haimaensis 的鳃、外套膜与闭壳肌。",
+      "evidence_basis": "跨组织比较宿主 RNA、16S 菌群、十三种金属及生化指标。",
+      "locator": "出版方摘要；讨论中的 16S 方法说明；数据可用性。",
+      "confidence_note": "组织关联不能证明共生菌介导金属解毒或上调宿主基因的功能必要性。",
+      "_source_hash": "cf859fc2f725cc6f"
+    },
+    "claim:scs-toxicocladosporium-diketopiperazines": {
+      "statement": "鉴定一种新桥连二酮哌嗪及两种新报道天然产物；抗氧化／抗菌活性见于部分共同分离的已知化合物。",
+      "scope": "水深 1,382 m 海马沉积物来源 Toxicocladosporium CYH-18。",
+      "evidence_basis": "采用 NMR／MS 与 X 射线衍射解析培养代谢物结构，并筛查活性。",
+      "locator": "出版方摘要；引言中的沉积物水深与来源。",
+      "confidence_note": "已知化合物活性不能转用于新产物；培养化学不能证明现场产物生成。",
+      "_source_hash": "93bdf9f4fe315860"
+    },
+    "claim:scs-aspergillus-emestrin-products": {
+      "statement": "鉴定三种新及三种已知 emestrin 类化合物；活性随化合物和实验不同，最强报告细胞毒性来自已知类似物。",
+      "scope": "南海冷泉沉积物来源 Aspergillus nidulans SD-531。",
+      "evidence_basis": "纯化 emestrin 类化合物，解析构型并测试抗菌／细胞系活性。",
+      "locator": "出版方摘要：结构与生物活性结果。",
+      "confidence_note": "与对照比较的细胞系效力不代表临床优越性，也不能确定产物的天然生态功能。",
+      "_source_hash": "5f47a4943ecca258"
     }
   },
   "concepts": {
@@ -6223,6 +10656,36 @@
       "label": "原位移植实验",
       "description": "在海底环境中移植个体以比较生态响应。",
       "_source_hash": "f94b6b0748cc47c5"
+    },
+    "method:isolate-genome-sequencing": {
+      "label": "分离株基因组测序",
+      "description": "对培养分离的微生物进行基因组测序。",
+      "_source_hash": "fabb1df821009cd2"
+    },
+    "method:host-transcriptomics": {
+      "label": "宿主转录组学",
+      "description": "动物宿主 RNA 分析，与环境宏转录组相区分。",
+      "_source_hash": "9ed1febe843e3ccc"
+    },
+    "method:natural-product-analysis": {
+      "label": "天然产物结构分析",
+      "description": "微生物代谢物的分离及化学结构鉴定。",
+      "_source_hash": "fdc1d4db9e3706c8"
+    },
+    "method:biochemical-assay": {
+      "label": "生化与生物活性实验",
+      "description": "明确底物、酶或细胞实验的测量，适用范围以原文为准。",
+      "_source_hash": "5ada2c8b6433abe7"
+    },
+    "process:methanogenesis": {
+      "label": "产甲烷作用",
+      "description": "微生物产生甲烷的过程；底物途径与实验支持以各文献为准。",
+      "_source_hash": "16e1522d22e0500d"
+    },
+    "habitat:seep-organic-substrate": {
+      "label": "冷泉相关沉木与有机基质",
+      "description": "冷泉环境采集的沉木等有机物，与宿主组织及沉积物区分。",
+      "_source_hash": "a0886feaf8fdb366"
     }
   },
   "schema_version": "1.0",
@@ -6375,7 +10838,19 @@
       "library_empty": "No inventory records match these filters.",
       "download_inventory": "Download inventory ↓",
       "apa_references": "APA 7 references ↗",
-      "preprint": "Preprint"
+      "preprint": "Preprint",
+      "all_review_statuses": "All review stages",
+      "review_curated": "Curated evidence",
+      "review_awaiting_source_review": "Awaiting source review",
+      "review_awaiting_source_text": "Source text needed",
+      "review_screened_context": "Screened: context",
+      "review_excluded": "Excluded after screening",
+      "review_linked_notice": "Linked correction notice",
+      "access_full_text_extracts": "Full-text excerpts checked",
+      "access_abstract": "Abstract-scoped evidence",
+      "review_version_check": "Check publication version",
+      "review_ledger": "Review ledger ↗",
+      "profile_export": "Evidence profiles ↗"
     },
     "zh-CN": {
       "site_title": "地球与海洋证据图谱",
@@ -6523,7 +10998,19 @@
       "library_empty": "没有符合筛选条件的目录记录。",
       "download_inventory": "下载文献目录 ↓",
       "apa_references": "APA 7 参考文献 ↗",
-      "preprint": "预印本"
+      "preprint": "预印本",
+      "all_review_statuses": "全部核查阶段",
+      "review_curated": "已建立证据档案",
+      "review_awaiting_source_review": "待核查原文",
+      "review_awaiting_source_text": "需获取支持性原文",
+      "review_screened_context": "已初筛：背景文献",
+      "review_excluded": "初筛后排除",
+      "review_linked_notice": "已关联勘误",
+      "access_full_text_extracts": "已核查相关全文段落",
+      "access_abstract": "证据范围限于摘要",
+      "review_version_check": "需核查发表版本",
+      "review_ledger": "核查记录 ↗",
+      "profile_export": "证据档案导出 ↗"
     }
   },
   "labels": {
@@ -6537,6 +11024,8 @@
       "Cold-seep prokaryotes": "冷泉原核生物",
       "Cold-seep viruses": "冷泉病毒",
       "Cold-seep microeukaryotes": "冷泉微型真核生物",
+      "Cold-seep eukaryotes": "冷泉真核生物",
+      "Cold-seep microbial resources": "冷泉微生物资源",
       "Cold-seep symbioses": "冷泉共生系统",
       "Cold-seep biogeochemistry": "冷泉生物地球化学"
     },
@@ -6606,6 +11095,6 @@
       "Concept": "概念"
     }
   },
-  "generated_at": "2026-10-13T02:57:17.480653+00:00",
+  "generated_at": "2026-10-13T08:33:27.965399+00:00",
   "translation_note": "Terminology-normalized Simplified-Chinese reading translation; English evidence records remain canonical."
 }

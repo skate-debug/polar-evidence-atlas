@@ -40,6 +40,9 @@ METADATA_FIELDS = {
     "volume",
     "article-number",
     "published-print",
+    "published-online",
+    "relation",
+    "update-to",
     "metadata_verification_url",
     "metadata_verification_basis",
 }

@@ -430,7 +430,7 @@
     .footer a { color: inherit; text-underline-offset: 3px; }
     .library-panel { margin-top: 18px; }
     .library-intro { color: var(--muted); font-size: 12px; line-height: 1.7; margin: 0; padding: 0 20px 14px; }
-    .library-controls { display: grid; grid-template-columns: minmax(160px, 1.4fr) repeat(4, minmax(105px, 1fr)); gap: 8px; padding: 0 20px 15px; }
+    .library-controls { display: grid; grid-template-columns: minmax(160px, 1.4fr) repeat(5, minmax(105px, 1fr)); gap: 8px; padding: 0 20px 15px; }
     .library-controls label { display: flex; flex-direction: column; gap: 6px; color: var(--muted); font-size: 10px; }
     .library-controls input, .library-controls select { width: 100%; min-width: 0; padding: 10px 8px; border: 1px solid var(--border); border-radius: 7px; background: var(--surface-2); color: var(--text); font: inherit; font-size: 12px; }
     .library-table-wrap { max-height: 560px; overflow: auto; border-top: 1px solid var(--border); }
@@ -443,7 +443,7 @@
     .library-table .tag { margin: 2px 0; white-space: normal; }
     .library-meta { color: var(--muted); font-size: 10px; margin-top: 5px; }
     .library-pending { color: var(--muted); font-size: 10px; }
-    .library-footer { padding: 12px 20px; display: flex; justify-content: space-between; gap: 12px; color: var(--muted); font-size: 11px; }
+    .library-footer { padding: 12px 20px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; color: var(--muted); font-size: 11px; }
     @media (max-width: 900px) { .library-controls { grid-template-columns: 1fr 1fr; } .library-controls label:first-child { grid-column: 1 / -1; } }
     .dialog-scrim { position: fixed; inset: 0; z-index: 30; border: 0; background: rgba(0, 0, 0, .58); backdrop-filter: blur(5px); cursor: default; }
     .command-dialog {
@@ -650,9 +650,10 @@
           <label><span data-i18n="topic">Topic</span><select id="libraryTopic"></select></label>
           <label><span data-i18n="site">Study site</span><select id="librarySite"></select></label>
           <label><span data-i18n="priority">Focus</span><select id="libraryPriority"></select></label>
+          <label><span data-i18n="source_review">Source review</span><select id="libraryReview"></select></label>
         </div>
         <div class="library-table-wrap"><table class="library-table"><thead><tr><th data-i18n="published">Published</th><th data-i18n="paper">Paper</th><th data-i18n="compartment">Compartment</th><th data-i18n="topic">Topic</th><th data-i18n="source_review">Source review</th></tr></thead><tbody id="libraryRows"></tbody></table></div>
-        <div class="library-footer"><span id="libraryCount" role="status" aria-live="polite"></span><a href="../references/cold-seep-literature-apa7.md" data-i18n="apa_references">APA 7 references ↗</a></div>
+        <div class="library-footer"><span id="libraryCount" role="status" aria-live="polite"></span><a href="cold-seep-review-summary.md" data-i18n="review_ledger">Review ledger ↗</a><a href="cold-seep-evidence-profiles.md" data-i18n="profile_export">Evidence profiles ↗</a><a href="../references/cold-seep-curated-apa7.md" data-i18n="apa_references">APA 7 references ↗</a></div>
       </section>
 
       <footer class="footer">

@@ -133,6 +133,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1016/j.envpol.2026.128242",
+      "relation": {},
       "article-number": "128242"
     },
     "10.1016/j.envpol.2026.128745": {
@@ -255,6 +256,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1016/j.envpol.2026.128745",
+      "relation": {},
       "article-number": "128745"
     },
     "10.1016/j.marpolbul.2026.119632": {
@@ -407,6 +409,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1016/j.marpolbul.2026.119632",
+      "relation": {},
       "article-number": "119632"
     },
     "10.1016/j.rse.2026.115511": {
@@ -607,6 +610,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1016/j.rse.2026.115511",
+      "relation": {},
       "article-number": "115511"
     },
     "10.1016/j.scitotenv.2026.182123": {
@@ -785,6 +789,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1016/j.scitotenv.2026.182123",
+      "relation": {},
       "article-number": "182123"
     },
     "10.1016/j.syapm.2026.126730": {
@@ -986,6 +991,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1016/j.syapm.2026.126730",
+      "relation": {},
       "article-number": "126730"
     },
     "10.1021/acs.est.5c10583": {
@@ -1187,6 +1193,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            12
+          ]
+        ]
+      },
       "container-title": "Environmental Science &amp; Technology",
       "language": "en",
       "issued": {
@@ -1198,7 +1213,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1021/acs.est.5c10583"
+      "URL": "http://dx.doi.org/10.1021/acs.est.5c10583",
+      "relation": {}
     },
     "10.1038/s41597-026-07848-2": {
       "publisher": "Springer Science and Business Media LLC",
@@ -1385,6 +1401,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            13
+          ]
+        ]
+      },
       "container-title": "Scientific Data",
       "language": "en",
       "issued": {
@@ -1396,7 +1421,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1038/s41597-026-07848-2"
+      "URL": "http://dx.doi.org/10.1038/s41597-026-07848-2",
+      "relation": {}
     },
     "10.1073/pnas.2528615123": {
       "publisher": "National Academy of Sciences",
@@ -1849,6 +1875,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            1
+          ]
+        ]
+      },
       "container-title": "Proceedings of the National Academy of Sciences",
       "language": "en",
       "issued": {
@@ -1861,6 +1896,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1073/pnas.2528615123",
+      "relation": {},
       "article-number": "e2528615123"
     },
     "10.1080/22221751.2026.2627076": {
@@ -2233,6 +2269,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            20
+          ]
+        ]
+      },
       "container-title": "Emerging Microbes &amp; Infections",
       "language": "en",
       "issued": {
@@ -2245,6 +2290,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1080/22221751.2026.2627076",
+      "relation": {},
       "article-number": "2627076"
     },
     "10.1093/femsec/fiag060": {
@@ -2422,6 +2468,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            13
+          ]
+        ]
+      },
       "container-title": "FEMS Microbiology Ecology",
       "language": "en",
       "issued": {
@@ -2434,6 +2489,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1093/femsec/fiag060",
+      "relation": {},
       "article-number": "fiag060"
     },
     "10.1093/femsec/fiag061": {
@@ -2556,6 +2612,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            8
+          ]
+        ]
+      },
       "container-title": "FEMS Microbiology Ecology",
       "language": "en",
       "issued": {
@@ -2568,6 +2633,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1093/femsec/fiag061",
+      "relation": {},
       "article-number": "fiag061"
     },
     "10.1093/femsec/fiag073": {
@@ -2672,6 +2738,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            16
+          ]
+        ]
+      },
       "container-title": "FEMS Microbiology Ecology",
       "language": "en",
       "issued": {
@@ -2684,6 +2759,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1093/femsec/fiag073",
+      "relation": {},
       "article-number": "fiag073"
     },
     "10.1093/femsec/fiag077": {
@@ -2960,6 +3036,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            20
+          ]
+        ]
+      },
       "container-title": "FEMS Microbiology Ecology",
       "language": "en",
       "issued": {
@@ -2972,6 +3057,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1093/femsec/fiag077",
+      "relation": {},
       "article-number": "fiag077"
     },
     "10.1093/jambio/lxag182": {
@@ -3069,6 +3155,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
       "container-title": "Journal of Applied Microbiology",
       "language": "en",
       "issued": {
@@ -3081,6 +3176,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1093/jambio/lxag182",
+      "relation": {},
       "article-number": "lxag182"
     },
     "10.1093/nsr/nwag314": {
@@ -3190,6 +3286,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            27
+          ]
+        ]
+      },
       "container-title": "National Science Review",
       "language": "en",
       "issued": {
@@ -3202,6 +3307,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1093/nsr/nwag314",
+      "relation": {},
       "article-number": "nwag314"
     },
     "10.1111/gcb.71039": {
@@ -3364,6 +3470,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            8
+          ]
+        ]
+      },
       "container-title": "Global Change Biology",
       "language": "en",
       "issued": {
@@ -3375,6 +3490,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1111/gcb.71039",
+      "relation": {},
       "article-number": "e71039"
     },
     "10.1126/sciadv.aed1936": {
@@ -3554,6 +3670,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1126/sciadv.aed1936",
+      "relation": {},
       "article-number": "eaed1936"
     },
     "10.1126/sciadv.aed2633": {
@@ -3721,6 +3838,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1126/sciadv.aed2633",
+      "relation": {},
       "article-number": "eaed2633"
     },
     "10.1126/sciadv.aef3201": {
@@ -3876,6 +3994,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1126/sciadv.aef3201",
+      "relation": {},
       "article-number": "eaef3201"
     },
     "10.1128/msystems.00738-25": {
@@ -4606,6 +4725,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1128/msystems.00738-25",
+      "relation": {},
       "article-number": "e00738-25"
     },
     "10.1128/spectrum.00456-26": {
@@ -5072,6 +5192,7 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1128/spectrum.00456-26",
+      "relation": {},
       "article-number": "e00456-26"
     },
     "10.1186/s12915-026-02685-6": {
@@ -5199,6 +5320,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            16
+          ]
+        ]
+      },
       "container-title": "BMC Biology",
       "language": "en",
       "issued": {
@@ -5210,7 +5340,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1186/s12915-026-02685-6"
+      "URL": "http://dx.doi.org/10.1186/s12915-026-02685-6",
+      "relation": {}
     },
     "10.1186/s40793-026-00919-2": {
       "publisher": "Springer Science and Business Media LLC",
@@ -5363,6 +5494,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            28
+          ]
+        ]
+      },
       "container-title": "Environmental Microbiome",
       "language": "en",
       "issued": {
@@ -5375,6 +5515,15 @@
         ]
       },
       "URL": "http://dx.doi.org/10.1186/s40793-026-00919-2",
+      "relation": {
+        "has-preprint": [
+          {
+            "id-type": "doi",
+            "id": "10.21203/rs.3.rs-8441910/v1",
+            "asserted-by": "object"
+          }
+        ]
+      },
       "article-number": "93"
     },
     "10.3390/cimb48060639": {
@@ -5495,6 +5644,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            20
+          ]
+        ]
+      },
       "container-title": "Current Issues in Molecular Biology",
       "language": "en",
       "issued": {
@@ -5506,7 +5664,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.3390/cimb48060639"
+      "URL": "http://dx.doi.org/10.3390/cimb48060639",
+      "relation": {}
     },
     "10.3390/v18070726": {
       "publisher": "MDPI AG",
@@ -5667,6 +5826,15 @@
           ]
         }
       ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            30
+          ]
+        ]
+      },
       "container-title": "Viruses",
       "language": "en",
       "issued": {
@@ -5678,7 +5846,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.3390/v18070726"
+      "URL": "http://dx.doi.org/10.3390/v18070726",
+      "relation": {}
     }
   },
   "errors": {}
