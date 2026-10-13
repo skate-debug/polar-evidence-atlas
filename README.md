@@ -1,6 +1,8 @@
-# Polar Evidence Atlas
+# Earth & Ocean Evidence Atlas
 
-[Open the bilingual atlas / 打开双语图谱](https://skate-debug.github.io/polar-evidence-atlas/)
+[Open the bilingual atlas / 打开双语图谱](https://skate-debug.github.io/polar-evidence-atlas/) · [South China Sea cold seeps / 南海冷泉](https://skate-debug.github.io/polar-evidence-atlas/?collection=scs-cold-seeps)
+
+Formerly **Polar Evidence Atlas**. The broader name covers the new South China Sea cold-seep collection alongside the original polar research. The existing repository URL and legacy explorer file remain available.
 
 An updateable, citation-first knowledge graph for:
 
@@ -10,6 +12,7 @@ An updateable, citation-first knowledge graph for:
 - Arctic prokaryotes
 - Arctic and Antarctic eukaryotes
 - Polar geography, geology, geochemistry, nutrients, and hydrological/ocean circulation
+- South China Sea cold-seep microorganisms in water, sediments, interfaces, and host-associated communities
 
 The repository deliberately separates **curated evidence** from **automatically discovered candidates**. Search results never become factual graph edges until a person reviews them.
 
@@ -28,21 +31,28 @@ The repository deliberately separates **curated evidence** from **automatically 
 - `dist/polar-knowledge-graph.html` — a self-contained bilingual English/Chinese literature and graph explorer with a ThreeUI-inspired catalog shell, responsive evidence inspector, command search, active-filter chips, and light/dark/system themes.
 - `dist/nodes.csv`, `dist/edges.csv`, `dist/graph.graphml`, and `dist/kg.jsonld` — interoperable exports for Gephi, Cytoscape, Neo4j import workflows, and linked-data tools.
 - `references/polar-kg.bib` — BibTeX generated from DOI metadata and curated fallbacks.
+- `config/collections.json` — bilingual collection, compartment, topic, and site taxonomy.
+- `data/public/cold_seep_candidates.json` — abstract-free ten-year SCS literature inventory; automatic tags remain provisional until source review.
+- `dist/cold-seep-literature.csv` — sortable literature inventory with DOI, site, compartment, topic, publication stage, and review status.
+- `references/cold-seep-literature-apa7.md` — APA 7 references for the SCS inventory.
+- `article/south-china-sea-cold-seep-guide.md` — bilingual scope, classification, evidence guide, and update instructions.
 
-The seed set prioritizes 2024–2026 literature and retains a limited number of 2021–2023 studies when they supply a key time series, genome catalogue, experimental design, or mechanistic baseline.
+The polar collection prioritizes 2024–2026 literature and retains older mechanistic baselines. The SCS collection covers a rolling ten years: 12 October 2016 through 12 October 2026 for this release. Discovery uses first publication date; citations use the version-of-record bibliographic year. Global comparison studies enter the SCS collection only when SCS sampling is documented.
 
 ## Current snapshot
 
-- 72 DOI-verified curated papers, each with a complete study and citation-safety profile
-- 91 atomic evidence claims, with every curated paper represented
-- 253 controlled concepts and 331 total exported nodes
-- 1,077 exported semantic, provenance, study-design, and hierarchy edges
-- 61 of 72 curated papers published from 2024 onward
-- 48 papers published in 2025–2026, including 31 from 2026
+- 106 curated source profiles: 72 polar papers and 34 new SCS seep studies
+- 125 atomic evidence claims, with every curated paper represented
+- 299 controlled concepts; exact generated node and edge totals are available in `dist/graph.json`
+- 260 SCS discovery-inventory records, including 5 explicitly labeled preprints; 34 have source-scoped evidence profiles and 226 await source review
+- 138 inventory records have a provisional microbial-priority tag, including all 34 curated studies
+- Six sampling compartments and fourteen microbial/environmental research themes, with independent site filters
 - 161 automatically discovered candidates in the fully screened current snapshot: 12 retained for verification, 10 classified as background or methods references, 12 deferred pending full-text extraction or scope expansion, and 127 excluded
 - Across the persistent current-and-archived review ledger, 27 retained candidates have verification packets: 14 have been full-text checked and promoted into the curated graph, 1 has an official publisher page checked, and 12 have DOI metadata and abstracts checked, leaving 13 held for deeper full-text extraction
 
 Domain labels intentionally overlap: a paper about viruses beneath an ice shelf can contribute simultaneously to the Antarctic-virus, Antarctic-prokaryote, and polar-Earth-system views.
+
+The SCS inventory combines Europe PMC title/abstract searches with Crossref publisher metadata. It is a reproducible first search pass, not a claim of complete systematic-review coverage. Discovery tags are automatic classifications. Curated profiles state whether the evidence was checked in an abstract or in accessible full-text extracts. Month/year-only publication dates retain their original precision and are accepted only when their entire possible date interval falls inside the window.
 
 ## Quick start
 
@@ -68,6 +78,12 @@ The explorer borrows interface ideas from the MIT-licensed [ThreeUI Community](h
 # Discover recent candidates. This does not alter curated claims.
 make update
 
+# Discover SCS seep papers in a rolling ten-year window.
+make update-cold-seeps
+
+# Independently refresh DOI metadata and regenerate the APA 7 inventory.
+python3 scripts/export_cold_seep_references.py --verify
+
 # Preview the discovery and archive changes without writing candidate files.
 make update-dry-run
 
@@ -89,6 +105,7 @@ The discovery date can be overridden:
 
 ```bash
 python3 scripts/update_candidates.py --since 2025-01-01
+python3 scripts/update_cold_seep_candidates.py --since 2016-10-12 --until 2026-10-12
 ```
 
 Review decisions are stored separately in `data/candidate_reviews.json`, so rerunning discovery does not overwrite them. Detailed verification packets are stored in `data/candidate_verifications.json`; they explicitly distinguish full-text checks from publisher-page or abstract-only checks. `data/candidate_archive.json` preserves records that disappear from a later bounded search or are promoted into the curated collection. Candidate identifiers are reused across refreshes by DOI or normalized title, and the discovery script records first-seen, last-seen, and discovery-run provenance. `dist/candidate-review.csv` is the sortable review sheet and `dist/candidate-review-summary.md` is the human-readable audit. Newly discovered records appear as unreviewed until a corresponding ledger entry is added.
@@ -98,6 +115,9 @@ Before committing an updated release, regenerate and check the rights-conscious 
 ```bash
 make public-snapshot
 make public-check
+git add .
+git commit -m "Update evidence atlas"
+git push
 ```
 
 The public files retain bibliographic and discovery provenance but omit publisher-supplied abstracts and full text. A public clone automatically falls back to `data/public/` when the private working caches are absent.
@@ -134,6 +154,8 @@ Confidence is about support within the cited study, not universal truth:
 ## Scope and caveats
 
 This is a high-detail seed graph, not a completed systematic review. Polar literature is too large and changes too quickly for a static claim of completeness. Candidate discovery is intentionally broad; curated evidence remains conservative. Coordinates are representative study locations when available, not substitutes for cruise tracks, polygons, or complete sampling metadata. Taxonomy follows the terminology used by each source unless a current normalized label is explicitly recorded.
+
+For seeps, water depth, height above seabed, sediment depth, porewater, and host tissue are distinct sampling dimensions. RNA, gene annotations, metabolic models, isotope-incubation rates, and direct in situ measurements retain separate evidence limits. See the [cold-seep guide](article/south-china-sea-cold-seep-guide.md).
 
 ## Licensing and citation
 

@@ -1,11 +1,14 @@
 # Contributing / 参与贡献
 
 Contributions are welcome, especially newly published polar literature,
+South China Sea cold-seep research from the rolling ten-year window,
 corrections to evidence profiles, improved Chinese scientific terminology, and
 links to open data. Please open an issue before making a large structural
 change.
 
 欢迎提交最新极地研究文献、证据档案勘误、中文科学术语修订以及开放数据链接。若计划进行较大的结构调整，请先创建 Issue 讨论。
+
+南海冷泉专题优先收录最近十年的微生物研究。请明确水深、距海底高度、沉积物深度与宿主组织，并分别记录采样介质、主题和站位。目录中的自动标签仅用于发现文献，不能替代原文核查。
 
 ## Evidence requirements / 证据要求
 
@@ -34,3 +37,8 @@ make public-check
 English source records remain canonical for citation. Chinese translations are
 a terminology-normalized reading layer and should be reviewed by someone
 familiar with the scientific domain.
+
+SCS records use `collection=scs-cold-seeps`, an empty `poles` array, and explicit
+region concept IDs. Choose `compartments`, `topics`, and `sites` from
+`config/collections.json`. Keep first-online discovery dates separate from
+version-of-record citation years, and identify preprints or corrected versions.

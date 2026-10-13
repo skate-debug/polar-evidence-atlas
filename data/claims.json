@@ -12,7 +12,10 @@
     "locator": "Results: viral diversity and novelty",
     "confidence": "high",
     "confidence_note": "Direct assembly result; novelty remains conditional on catalogues and clustering thresholds.",
-    "qualifiers": {"vOTUs": 7957, "unrepresented_fraction_approx": 0.75}
+    "qualifiers": {
+      "vOTUs": 7957,
+      "unrepresented_fraction_approx": 0.75
+    }
   },
   {
     "id": "claim:002-ross-shelf-virus-hosts",
@@ -69,7 +72,10 @@
     "locator": "Results: viral composition across the contamination gradient",
     "confidence": "moderate",
     "confidence_note": "The within-study contrast is direct, but compositional data and a single transect limit causal generalization.",
-    "qualifiers": {"contaminated_relative_abundance_gt": 0.90, "uncontaminated_relative_abundance_lt": 0.62}
+    "qualifiers": {
+      "contaminated_relative_abundance_gt": 0.9,
+      "uncontaminated_relative_abundance_lt": 0.62
+    }
   },
   {
     "id": "claim:006-arctic-virus-seasonality",
@@ -112,7 +118,10 @@
     "locator": "Results: active viral populations and host links",
     "confidence": "moderate",
     "confidence_note": "Isotope labeling provides activity evidence, while individual virus–host assignments remain inferential.",
-    "qualifiers": {"active_viral_populations": 243, "linked_fraction_approx": 0.333}
+    "qualifiers": {
+      "active_viral_populations": 243,
+      "linked_fraction_approx": 0.333
+    }
   },
   {
     "id": "claim:009-permafrost-pithovirus",
@@ -225,7 +234,9 @@
     "locator": "Results: exclusive and shared ASVs",
     "confidence": "high",
     "confidence_note": "The within-dataset percentage is direct; marker and host sampling constrain generalization.",
-    "qualifiers": {"prokaryotic_ASV_sponge_exclusive_fraction": 0.76}
+    "qualifiers": {
+      "prokaryotic_ASV_sponge_exclusive_fraction": 0.76
+    }
   },
   {
     "id": "claim:017-arctic-microbiome-recurrence",
@@ -254,7 +265,11 @@
     "locator": "Data Records: MAG catalogue",
     "confidence": "high",
     "confidence_note": "Catalogue counts and sample metadata are direct; MAG recovery is not complete community coverage.",
-    "qualifiers": {"prokaryotic_MAGs": 2407, "eukaryotic_MAGs": 56, "samples": 73}
+    "qualifiers": {
+      "prokaryotic_MAGs": 2407,
+      "eukaryotic_MAGs": 56,
+      "samples": 73
+    }
   },
   {
     "id": "claim:019-atlantification-microbiome",
@@ -297,7 +312,11 @@
     "locator": "Results: genomic catalogue and biogeography",
     "confidence": "high",
     "confidence_note": "Catalogue counts are direct; novelty and exclusivity depend on reference coverage and thresholds.",
-    "qualifiers": {"species": 526, "previously_unreported": 441, "exclusively_polar": 299}
+    "qualifiers": {
+      "species": 526,
+      "previously_unreported": 441,
+      "exclusively_polar": 299
+    }
   },
   {
     "id": "claim:022-water-mass-gene-structure",
@@ -326,7 +345,9 @@
     "locator": "Announcement: data description and accessions",
     "confidence": "high",
     "confidence_note": "Resource content is directly documented; ecological interpretations require follow-up analysis.",
-    "qualifiers": {"bacterial_MAGs": 319}
+    "qualifiers": {
+      "bacterial_MAGs": 319
+    }
   },
   {
     "id": "claim:024-maxwell-bay-filtering",
@@ -341,7 +362,9 @@
     "locator": "Results: community assembly processes",
     "confidence": "moderate",
     "confidence_note": "The model partition is explicit, but the short record limits seasonal and causal generalization.",
-    "qualifiers": {"february_homogeneous_selection_fraction": 0.8468}
+    "qualifiers": {
+      "february_homogeneous_selection_fraction": 0.8468
+    }
   },
   {
     "id": "claim:025-greenland-ucyn-a",
@@ -440,7 +463,10 @@
     "locator": "Results: bloom area, albedo, and melt contribution",
     "confidence": "moderate",
     "confidence_note": "Bloom darkening was measured, while the melt fraction is modeled for site-specific conditions.",
-    "qualifiers": {"maximum_melt_contribution_fraction": 0.024, "maximum_mapped_area_km2": 2.7}
+    "qualifiers": {
+      "maximum_melt_contribution_fraction": 0.024,
+      "maximum_mapped_area_km2": 2.7
+    }
   },
   {
     "id": "claim:032-antarctic-plastisphere",
@@ -553,7 +579,10 @@
     "locator": "Results: future biological-carbon-pump efficiency",
     "confidence": "moderate",
     "confidence_note": "The direction is model-supported; magnitude depends on scenario and process parameterization.",
-    "qualifiers": {"projected_decline_fraction_approx": 0.40, "horizon": 2100}
+    "qualifiers": {
+      "projected_decline_fraction_approx": 0.4,
+      "horizon": 2100
+    }
   },
   {
     "id": "claim:040-siberian-shelf-denitrification",
@@ -568,7 +597,9 @@
     "locator": "Results: shelf denitrification budget and regime transition",
     "confidence": "moderate",
     "confidence_note": "The synthesis is spatially extensive, but continuous denitrification is reconstructed rather than directly measured.",
-    "qualifiers": {"arctic_benthic_denitrification_fraction_min": 0.50}
+    "qualifiers": {
+      "arctic_benthic_denitrification_fraction_min": 0.5
+    }
   },
   {
     "id": "claim:041-subglacial-lake-network",
@@ -583,7 +614,9 @@
     "locator": "Review: lake inventory and active hydrology",
     "confidence": "high",
     "confidence_note": "Lake detections and active examples are well documented; connectivity cannot be assumed for every lake.",
-    "qualifiers": {"identified_lakes_gt": 600}
+    "qualifiers": {
+      "identified_lakes_gt": 600
+    }
   },
   {
     "id": "claim:042-dome-fuji-tectonic-domains",
@@ -654,7 +687,12 @@
     "locator": "Results: terrigenous support of primary production",
     "confidence": "moderate",
     "confidence_note": "The importance is model-supported; the numerical range is sensitive to inputs and recycling assumptions.",
-    "qualifiers": {"supported_NPP_fraction_range": [0.28, 0.51]}
+    "qualifiers": {
+      "supported_NPP_fraction_range": [
+        0.28,
+        0.51
+      ]
+    }
   },
   {
     "id": "claim:047-manganese-colimitation",
@@ -683,7 +721,11 @@
     "locator": "Results: freshwater budget and hydrographic effects",
     "confidence": "moderate",
     "confidence_note": "The event and hydrographic anomaly were observed; the total meltwater mass carries a reported uncertainty.",
-    "qualifiers": {"freshwater_Gt": 152, "uncertainty_Gt": 61, "radius_km": 300}
+    "qualifiers": {
+      "freshwater_Gt": 152,
+      "uncertainty_Gt": 61,
+      "radius_km": 300
+    }
   },
   {
     "id": "claim:049-arctic-sulfide-oxidation",
@@ -698,7 +740,9 @@
     "locator": "Results: sulfate source partitioning",
     "confidence": "moderate",
     "confidence_note": "The isotope model strongly favors sulfide oxidation, but the fraction depends on end-member assumptions.",
-    "qualifiers": {"sulfate_from_sulfide_oxidation_fraction_approx": 0.80}
+    "qualifiers": {
+      "sulfate_from_sulfide_oxidation_fraction_approx": 0.8
+    }
   },
   {
     "id": "claim:050-gakkel-hydrothermalism",
@@ -727,7 +771,11 @@
     "locator": "Results: Meltwater-induced AMOC weakening; Fig. 2A",
     "confidence": "moderate",
     "confidence_note": "The within-model meltwater signal is consistent, but magnitude and stability depend on one climate model and a high-end forcing trajectory.",
-    "qualifiers": {"additional_weakening_to_2100_sv_per_century": 0.9, "additional_weakening_by_2300_sv_approx": 4, "scenario": "SSP5-8.5"}
+    "qualifiers": {
+      "additional_weakening_to_2100_sv_per_century": 0.9,
+      "additional_weakening_by_2300_sv_approx": 4,
+      "scenario": "SSP5-8.5"
+    }
   },
   {
     "id": "claim:052-mean-state-limits-southern-ocean-teleconnection",
@@ -784,7 +832,12 @@
     "locator": "Results sections 3.1-3.8; Discussion",
     "confidence": "moderate",
     "confidence_note": "Presence is supported within the sampled genomes, but population fixation and adaptive function require broader sampling and validation.",
-    "qualifiers": {"polar_bears": 13, "brown_bears": 10, "black_bear_outgroups": 11, "candidate_affected_genes": 67}
+    "qualifiers": {
+      "polar_bears": 13,
+      "brown_bears": 10,
+      "black_bear_outgroups": 11,
+      "candidate_affected_genes": 67
+    }
   },
   {
     "id": "claim:056-aasiaat-relative-sea-level-fall",
@@ -799,7 +852,11 @@
     "locator": "Results: projections of sea-level change; Fig. 4",
     "confidence": "moderate",
     "confidence_note": "The direction is robust in the analyzed cases, while magnitude depends on ice history, Earth structure, and scenario assumptions.",
-    "qualifiers": {"relative_sea_level_fall_m_min": 0.41, "relative_sea_level_fall_m_max": 0.93, "projection_year": 2100}
+    "qualifiers": {
+      "relative_sea_level_fall_m_min": 0.41,
+      "relative_sea_level_fall_m_max": 0.93,
+      "projection_year": 2100
+    }
   },
   {
     "id": "claim:057-aasiaat-channel-exchange",
@@ -884,7 +941,13 @@
     "locator": "Results: early and late communities; taxon-specific growth following thaw",
     "confidence": "high",
     "confidence_note": "The isotope signal directly identifies growth in the experiment, while generalization beyond the single core is limited.",
-    "qualifiers": {"incubation_days": [21, 98], "asvs_labeled_at_both_timepoints_fraction": 0.22}
+    "qualifiers": {
+      "incubation_days": [
+        21,
+        98
+      ],
+      "asvs_labeled_at_both_timepoints_fraction": 0.22
+    }
   },
   {
     "id": "claim:063-thaw-microbial-predation",
@@ -913,7 +976,11 @@
     "locator": "Results: Diagnostic evaluation of samples; Table 1",
     "confidence": "high",
     "confidence_note": "Infection is laboratory confirmed, although the sample is too small to estimate population prevalence or mortality.",
-    "qualifiers": {"positive_birds": 3, "whole_genomes": 2, "collection_date": "2024-09-20"}
+    "qualifiers": {
+      "positive_birds": 3,
+      "whole_genomes": 2,
+      "collection_date": "2024-09-20"
+    }
   },
   {
     "id": "claim:065-skua-movement-h5n1-dispersal",
@@ -942,7 +1009,13 @@
     "locator": "Abstract; Methods: de novo assembly and gene prediction; Data Records; Technical Validation",
     "confidence": "high",
     "confidence_note": "Assembly metrics are directly reported and supported by mapping and BUSCO checks, but the resource represents one individual.",
-    "qualifiers": {"assembly_gb": 1.27, "chromosomes": 24, "anchored_fraction": 0.968, "scaffold_n50_mb": 51.82, "protein_coding_genes": 31777}
+    "qualifiers": {
+      "assembly_gb": 1.27,
+      "chromosomes": 24,
+      "anchored_fraction": 0.968,
+      "scaffold_n50_mb": 51.82,
+      "protein_coding_genes": 31777
+    }
   },
   {
     "id": "claim:067-mpov-strains-infect-micromonas",
@@ -971,7 +1044,11 @@
     "locator": "Results 3.3: Coexistence; Fig. 5c-d",
     "confidence": "high",
     "confidence_note": "Suppression is directly measured in the laboratory treatment, but the responsible molecular mechanism was not identified.",
-    "qualifiers": {"mpov_b_dual_vs_single_fraction": 0.18, "uncertainty_fraction": 0.08, "replicates": 3}
+    "qualifiers": {
+      "mpov_b_dual_vs_single_fraction": 0.18,
+      "uncertainty_fraction": 0.08,
+      "replicates": 3
+    }
   },
   {
     "id": "claim:069-mpov-b-arctic-metagenomes",
@@ -986,7 +1063,11 @@
     "locator": "Results 3.4; Fig. 6",
     "confidence": "moderate",
     "confidence_note": "The relative read signal is statistically consistent across the dataset but depends on classifier specificity and does not establish absolute particle abundance.",
-    "qualifiers": {"mpov_b_mean_percent_total_reads": 0.086, "mpov_a_mean_percent_total_reads": 0.006, "paired_p_value": 0.00012}
+    "qualifiers": {
+      "mpov_b_mean_percent_total_reads": 0.086,
+      "mpov_a_mean_percent_total_reads": 0.006,
+      "paired_p_value": 0.00012
+    }
   },
   {
     "id": "claim:070-fur-seal-gut-chitin-potential",
@@ -1015,7 +1096,10 @@
     "locator": "Results: relative abundance and composition of antibiotic resistance genes; Discussion; Fig. 7",
     "confidence": "moderate",
     "confidence_note": "Gene presence is supported, while phenotype, source, transferability, and clinical risk remain untested.",
-    "qualifiers": {"samples": 4, "annotated_arg_types": 16}
+    "qualifiers": {
+      "samples": 4,
+      "annotated_arg_types": 16
+    }
   },
   {
     "id": "claim:072-polar-sea-ice-votu-catalogue",
@@ -1030,7 +1114,12 @@
     "locator": "Results: Diversity and taxonomy of sea ice viruses; Fig. 3",
     "confidence": "high",
     "confidence_note": "The catalogue is reproducible for these metagenomes, but bulk membrane-filter sequencing under-recovers small free viral particles and most genomes were incomplete.",
-    "qualifiers": {"samples": 9, "votus": 550, "classified_votus": 537, "caudoviricetes_votus": 528}
+    "qualifiers": {
+      "samples": 9,
+      "votus": 550,
+      "classified_votus": 537,
+      "caudoviricetes_votus": 528
+    }
   },
   {
     "id": "claim:073-sea-ice-virus-host-predictions",
@@ -1045,7 +1134,10 @@
     "locator": "Results: Predicted hosts of the sea ice vOTUs; Fig. 5",
     "confidence": "moderate",
     "confidence_note": "Only 187 of 550 vOTUs received a prediction and no host association was experimentally validated.",
-    "qualifiers": {"votus_with_predicted_hosts": 187, "votus_without_predicted_hosts": 363}
+    "qualifiers": {
+      "votus_with_predicted_hosts": 187,
+      "votus_without_predicted_hosts": 363
+    }
   },
   {
     "id": "claim:074-antarctic-sea-ice-dmsp-reservoir",
@@ -1060,7 +1152,13 @@
     "locator": "Results: DMSP standing stock concentrations; Fig. 2B-C",
     "confidence": "high",
     "confidence_note": "The concentration contrast is directly measured but represents one winter cruise and three ice cores.",
-    "qualifiers": {"ice_samples": 6, "seawater_samples": 18, "ice_dmsp_nM_min": 24, "ice_dmsp_nM_max": 115, "maximum_fold_enrichment": 38}
+    "qualifiers": {
+      "ice_samples": 6,
+      "seawater_samples": 18,
+      "ice_dmsp_nM_min": 24,
+      "ice_dmsp_nM_max": 115,
+      "maximum_fold_enrichment": 38
+    }
   },
   {
     "id": "claim:075-antarctic-algal-dmsp-potential",
@@ -1089,7 +1187,10 @@
     "locator": "Results: nutrient flux and biotic parameters; Discussion",
     "confidence": "moderate",
     "confidence_note": "Agreement in magnitudes supports the mechanism, but the flux and limitation were not experimentally manipulated.",
-    "qualifiers": {"estimated_silicate_flux_mmol_m2_d": 1.9, "inferred_silicate_demand_mmol_m2_d": 1.72}
+    "qualifiers": {
+      "estimated_silicate_flux_mmol_m2_d": 1.9,
+      "inferred_silicate_demand_mmol_m2_d": 1.72
+    }
   },
   {
     "id": "claim:077-greenland-bottom-ice-production",
@@ -1104,7 +1205,12 @@
     "locator": "Results: Biotic parameters; Fig. 3",
     "confidence": "high",
     "confidence_note": "The values are directly measured for one site and date but should not be spatially or annually extrapolated.",
-    "qualifiers": {"primary_production_mg_C_m2_d": 146, "primary_production_uncertainty": 4.8, "chlorophyll_a_mg_m2": 42.4, "chlorophyll_a_uncertainty": 1.6}
+    "qualifiers": {
+      "primary_production_mg_C_m2_d": 146,
+      "primary_production_uncertainty": 4.8,
+      "chlorophyll_a_mg_m2": 42.4,
+      "chlorophyll_a_uncertainty": 1.6
+    }
   },
   {
     "id": "claim:078-glacial-microbes-rare-in-fjord",
@@ -1119,7 +1225,12 @@
     "locator": "Results and Discussion: bacterial community composition, diversity, and microbial source tracking; Figs. 2-3",
     "confidence": "moderate",
     "confidence_note": "The habitat partition is strong for recovered MAGs, but establishment, viability, and immigration rates were not measured.",
-    "qualifiers": {"mags": 309, "glacial_fraction_foreland_percent": 75, "glacial_fraction_fjord_percent": 14, "fjord_endemic_percent": 83}
+    "qualifiers": {
+      "mags": 309,
+      "glacial_fraction_foreland_percent": 75,
+      "glacial_fraction_fjord_percent": 14,
+      "fjord_endemic_percent": 83
+    }
   },
   {
     "id": "claim:079-glacier-continuum-functional-partition",
@@ -1162,7 +1273,11 @@
     "locator": "Results and Discussion 3.1; Fig. 1d and Fig. S2",
     "confidence": "moderate",
     "confidence_note": "Chlorophyll response is directly measured, but carbon fixation, species turnover, and co-limitation were not isolated.",
-    "qualifiers": {"polynya_response_ratio": 0.99, "oceanic_response_ratio": 1.54, "sea_ice_zone_response_ratio": 2.16}
+    "qualifiers": {
+      "polynya_response_ratio": 0.99,
+      "oceanic_response_ratio": 1.54,
+      "sea_ice_zone_response_ratio": 2.16
+    }
   },
   {
     "id": "claim:082-ross-sea-core-eukaryotes",
@@ -1177,7 +1292,13 @@
     "locator": "Abstract and Results: annual comparison and species-level composition",
     "confidence": "moderate",
     "confidence_note": "Cross-year detection is clear, but eDNA does not establish organism abundance, viability, or activity.",
-    "qualifiers": {"samples_2024": 61, "stations_2024": 20, "samples_2025": 40, "stations_2025": 12, "species_detected_both_years": 92}
+    "qualifiers": {
+      "samples_2024": 61,
+      "stations_2024": 20,
+      "samples_2025": 40,
+      "stations_2025": 12,
+      "species_detected_both_years": 92
+    }
   },
   {
     "id": "claim:083-ross-water-mass-eukaryotes",
@@ -1220,7 +1341,12 @@
     "locator": "Results: oil-hydrocarbon depletion and functional profiles; Fig. 1 and supplementary gene analyses",
     "confidence": "moderate",
     "confidence_note": "Genetic potential is credible, but compound loss combines biological and physical processes and does not show that every annotated pathway was active.",
-    "qualifiers": {"experiment_days": 89, "nonsterile_total_hydrocarbon_loss_percent": 34, "sterile_total_hydrocarbon_loss_percent": 43, "heavy_hydrocarbon_depletion_percent_max": 10}
+    "qualifiers": {
+      "experiment_days": 89,
+      "nonsterile_total_hydrocarbon_loss_percent": 34,
+      "sterile_total_hydrocarbon_loss_percent": 43,
+      "heavy_hydrocarbon_depletion_percent_max": 10
+    }
   },
   {
     "id": "claim:086-ridge-algal-biomass-hotspot",
@@ -1249,7 +1375,12 @@
     "locator": "Results: Habitat complexity and associated microbial communities; Tables 3-4",
     "confidence": "moderate",
     "confidence_note": "The local standing-stock estimate is transparent but sensitive to ridge geometry, areal fraction, sampling heterogeneity, and extrapolation.",
-    "qualifiers": {"ridge_areal_fraction_percent": 22, "ridge_chlorophyll_fraction_percent": 80, "uncertainty_percent": 20, "survey_area_km2": 40}
+    "qualifiers": {
+      "ridge_areal_fraction_percent": 22,
+      "ridge_chlorophyll_fraction_percent": 80,
+      "uncertainty_percent": 20,
+      "survey_area_km2": 40
+    }
   },
   {
     "id": "claim:088-rotten-ice-distinct-microbiome",
@@ -1306,6 +1437,485 @@
     "locator": "Results 3.4: Chemical signatures of melting sea ice",
     "confidence": "moderate",
     "confidence_note": "Formula overlap supports transfer but does not uniquely identify molecular structures, bioavailability, or ecosystem-scale flux.",
-    "qualifiers": {"sea_ice_unique_formulae": 128, "formulae_detected_in_meltwater": 10}
+    "qualifiers": {
+      "sea_ice_unique_formulae": 128,
+      "formulae_detected_in_meltwater": 10
+    }
+  },
+  {
+    "id": "claim:scs-haima-anme-zonation",
+    "source_id": "src:scs-haima-anme-zonation",
+    "subject": "src:scs-haima-anme-zonation",
+    "predicate": "associated_with",
+    "object": "process:anaerobic-methane-oxidation",
+    "statement": "ANME lineages occupied different sediment niches: ANME-2a/b predominated in upper and middle sulfate–methane transition layers, whereas ANME-1b was more prominent in deeper sulfate-depleted layers.",
+    "scope": "Haima seep core QDN-14B and non-seep core QDN-31B, northwestern South China Sea.",
+    "evidence_type": "reported",
+    "evidence_basis": "Two piston cores compared using geochemical profiles, archaeal 16S rRNA genes, and mcrA phylogeny.",
+    "locator": "Abstract",
+    "confidence": "moderate",
+    "confidence_note": "Two cores describe local zonation; marker-gene occurrence does not identify electron-transfer mechanisms."
+  },
+  {
+    "id": "claim:scs-gmgs2-hydrate-diversity",
+    "source_id": "src:scs-gmgs2-hydrate-diversity",
+    "subject": "src:scs-gmgs2-hydrate-diversity",
+    "predicate": "associated_with",
+    "object": "habitat:hydrate-bearing-sediment",
+    "statement": "Microbial assemblages differed among hydrate-bearing, transition, and carbonate zones; ANME-1b occurred prominently in hydrate-bearing intervals.",
+    "scope": "GMGS2-08, northern South China Sea, including present and buried seep systems.",
+    "evidence_type": "reported",
+    "evidence_basis": "qPCR and 16S rRNA sequencing compared sulfate–methane transition, carbonate, and upper/lower hydrate-bearing zones.",
+    "locator": "Abstract",
+    "confidence": "moderate",
+    "confidence_note": "Taxonomic patterns support habitat differentiation, while the proposed AOM roles remain inferred."
+  },
+  {
+    "id": "claim:scs-water-particle-fractions",
+    "source_id": "src:scs-water-particle-fractions",
+    "subject": "src:scs-water-particle-fractions",
+    "predicate": "associated_with",
+    "object": "habitat:seep-water-column",
+    "statement": "Particle-attached and free-living prokaryotic fractions differed in abundance and diversity; free-living communities were more associated with temperature and inorganic nutrients.",
+    "scope": "Water above two South China Sea cold seeps.",
+    "evidence_type": "reported",
+    "evidence_basis": "Particle-attached and free-living fractions analyzed by 16S rRNA sequencing and qPCR along vertical geochemical gradients.",
+    "locator": "Abstract",
+    "confidence": "moderate",
+    "confidence_note": "Fractions are operationally defined; amplicons do not quantify methane oxidation or organic-carbon turnover rates."
+  },
+  {
+    "id": "claim:scs-new-seep-dna-rna",
+    "source_id": "src:scs-new-seep-dna-rna",
+    "subject": "src:scs-new-seep-dna-rna",
+    "predicate": "associated_with",
+    "object": "taxon:anme",
+    "statement": "DNA- and RNA-derived assemblages differed, with RNA libraries showing stronger representation of methane-cycling archaea and sulfate reducers in particular seep habitats.",
+    "scope": "Newly developed ROV05 and ROV07 seeps, northern South China Sea.",
+    "evidence_type": "reported",
+    "evidence_basis": "ROV cores and surface samples across living clams, dead shells, and carbonate habitats; paired DNA/RNA amplicons, qPCR, and geochemistry.",
+    "locator": "Abstract; Site Description and Sampling",
+    "confidence": "moderate",
+    "confidence_note": "RNA enrichment is an activity indicator, not a direct measurement of AOM rate; the associated corrigendum should accompany citation."
+  },
+  {
+    "id": "claim:scs-sulfur-smtz-genomes",
+    "source_id": "src:scs-sulfur-smtz-genomes",
+    "subject": "src:scs-sulfur-smtz-genomes",
+    "predicate": "associated_with",
+    "object": "process:sulfur-reduction",
+    "statement": "The 110 recovered sulfur-cycling genomes supported distinct niches above and below SMTZ, linking inferred sulfur metabolism with carbon fixation and nitrogen fixation.",
+    "scope": "Eight cores from two South China Sea seep areas, including three shallow-SMTZ cores.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Genome reconstruction and transcript evidence used to characterize sulfur-oxidizing and sulfur-reducing populations above and below SMTZ.",
+    "locator": "Abstract",
+    "confidence": "moderate",
+    "confidence_note": "Genomic pathways and transcripts do not directly determine electron budgets or in situ process rates."
+  },
+  {
+    "id": "claim:scs-haima-bottom-water-intensity",
+    "source_id": "src:scs-haima-bottom-water-intensity",
+    "subject": "src:scs-haima-bottom-water-intensity",
+    "predicate": "associated_with",
+    "object": "habitat:seep-bottom-water",
+    "statement": "Bottom-water bacterial composition differed among seep-intensity regimes; the high-intensity site had the lowest alpha diversity and methane was associated with community variation.",
+    "scope": "Haima non-seep, low-intensity, and high-intensity sites; water approximately 50 cm above seabed.",
+    "evidence_type": "reported",
+    "evidence_basis": "ROV-mounted Niskin bottles; 4 L filtered through 0.22 µm membranes; 16S sequencing compared with methane, nutrients, and DOC.",
+    "locator": "Abstract; Collection of Bottom-Water Samples and Geochemical Analysis",
+    "confidence": "moderate",
+    "confidence_note": "One expedition and correlative community analyses do not establish hydrocarbon degradation rates."
+  },
+  {
+    "id": "claim:scs-site-f-mag-resource",
+    "source_id": "src:scs-site-f-mag-resource",
+    "subject": "src:scs-site-f-mag-resource",
+    "predicate": "catalogues",
+    "object": "habitat:cold-seep",
+    "statement": "The study supplied 768 MAGs from Site F samples, including 597 bacterial and 171 archaeal genomes, expanding genomic references across seep compartments.",
+    "scope": "Site F waters, seep fluids, fluids beneath fauna, and sediment cores.",
+    "evidence_type": "reported",
+    "evidence_basis": "23 metagenomes; near-fauna water collected by ROV and filtered through 0.22 µm membranes, with depth-sectioned sediment cores.",
+    "locator": "Abstract; Sampling; Data Records",
+    "confidence": "moderate",
+    "confidence_note": "MAGs ranged in completeness; the number is a recovered-genome count, not a count of viable species."
+  },
+  {
+    "id": "claim:scs-methane-supply-assembly",
+    "source_id": "src:scs-methane-supply-assembly",
+    "subject": "src:scs-methane-supply-assembly",
+    "predicate": "associated_with",
+    "object": "process:community-assembly",
+    "statement": "Communities grouped by methane-supply regime across sites, with ANME-1 more prominent under high supply and ANME-2 under low supply.",
+    "scope": "Eleven sediment cores from two geographically separated South China Sea seeps.",
+    "evidence_type": "reported",
+    "evidence_basis": "Geochemical and microbiological profiles; assembly models and co-occurrence networks compared across methane-supply classes.",
+    "locator": "Abstract",
+    "confidence": "moderate",
+    "confidence_note": "Supply classes and network models do not prove causal interactions between individual taxa."
+  },
+  {
+    "id": "claim:scs-deep-hydrate-fermentation",
+    "source_id": "src:scs-deep-hydrate-fermentation",
+    "subject": "src:scs-deep-hydrate-fermentation",
+    "predicate": "associated_with",
+    "object": "process:fermentation",
+    "statement": "Abundant populations carried and expressed macromolecule-fermentation pathways, while classical sulfate reducers, methanogens, and methanotrophs were comparatively rare.",
+    "scope": "Qiongdongnan Basin and Shenhu hydrate sediments; analyzed samples to 49 m below seabed.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Four drill cores, geochemical zonation, MAGs, and metatranscriptomes compared above and below sulfate–methane interfaces.",
+    "locator": "Abstract; Sampling sites",
+    "confidence": "moderate",
+    "confidence_note": "Transcription supports metabolic engagement but does not quantify the energy contribution of fermentation for the entire sediment column."
+  },
+  {
+    "id": "claim:scs-seep-population-evolution",
+    "source_id": "src:scs-seep-population-evolution",
+    "subject": "src:scs-seep-population-evolution",
+    "predicate": "associated_with",
+    "object": "process:microbial-evolution",
+    "statement": "Population genomes showed generally low homologous recombination and strong purifying selection, with sediment-depth-dependent diversification of key metabolic genes.",
+    "scope": "Six global seep sites, including Haima, Site F, and Haiyang 4; sediments to 430 cm.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Microdiversity and selection analysis for 39 abundant methane-oxidizing and sulfate-reducing species from 68 metagenomes.",
+    "locator": "Abstract; Methods: Metagenomes for deep-sea cold seep sediments",
+    "confidence": "moderate",
+    "confidence_note": "Global aggregate results must be distinguished from SCS-specific populations; sampling and read coverage affect microdiversity recovery."
+  },
+  {
+    "id": "claim:scs-metal-dependent-aom",
+    "source_id": "src:scs-metal-dependent-aom",
+    "subject": "src:scs-metal-dependent-aom",
+    "predicate": "associated_with",
+    "object": "process:metal-dependent-aom",
+    "statement": "Geochemical, omics, and model evidence supported an additional methane sink linked to iron and manganese reduction in methanic sediments.",
+    "scope": "Haima core HM-S11; methanic sediments beneath the sulfate-rich zone.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Porewater/solid geochemistry, DNA/RNA communities, metagenomes, metatranscriptomes, and modeling examined Fe/Mn-linked AOM.",
+    "locator": "Abstract; Sampling and geochemical analyses",
+    "confidence": "moderate",
+    "confidence_note": "The pathway contribution is model-estimated; it does not experimentally confirm a specific metal-reducing partner."
+  },
+  {
+    "id": "claim:scs-active-aom-pathways",
+    "source_id": "src:scs-active-aom-pathways",
+    "subject": "src:scs-active-aom-pathways",
+    "predicate": "associated_with",
+    "object": "process:nitrogen-methane-coupling",
+    "statement": "The study provided incubation evidence for nitrate/nitrite-dependent methane oxidation in addition to sulfate-associated pathways in SCS seep sediments.",
+    "scope": "Nine stations in Haima, Site F, and Xisha Trough; 0–4 cm surface sediments.",
+    "evidence_type": "reported",
+    "evidence_basis": "Surface sediments were examined with geochemistry and 13CH4 slurry incubations under sulfate, nitrate, and nitrite amendments.",
+    "locator": "Abstract; Sample collection and chemical analysis; Measurement of AOM rates",
+    "confidence": "moderate",
+    "confidence_note": "Incubation potentials are not equivalent to unamended in situ rates or region-wide pathway fractions."
+  },
+  {
+    "id": "claim:scs-campylobacterota-interface",
+    "source_id": "src:scs-campylobacterota-interface",
+    "subject": "src:scs-campylobacterota-interface",
+    "predicate": "associated_with",
+    "object": "process:sulfur-oxidation",
+    "statement": "Culture and transcript evidence linked Campylobacterota to hydrogen utilization, sulfur transformations, and nitrate consumption at the seep interface.",
+    "scope": "Formosa cold seep, seawater–sediment interface and reduced sediment.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Sulfurovum/Sulfurimonas isolates integrated with comparative genomes, transcripts, geochemistry, and gas-tight in situ sampling.",
+    "locator": "Abstract; Sampling and",
+    "confidence": "moderate",
+    "confidence_note": "Functions of cultured representatives and expressed pathways should not be assigned uniformly to all Campylobacterota."
+  },
+  {
+    "id": "claim:scs-haima-viral-evolution",
+    "source_id": "src:scs-haima-viral-evolution",
+    "subject": "src:scs-haima-viral-evolution",
+    "predicate": "associated_with",
+    "object": "process:viral-defense",
+    "statement": "The study recovered 338 vOTUs and identified candidate viral persistence strategies alongside low within-population nucleotide diversity.",
+    "scope": "Two active and one extinct Haima seep site; upper 18–20 cm sediments.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Viral genomes, predicted hosts, defense systems, and population nucleotide diversity recovered from bulk sediment metagenomes.",
+    "locator": "Abstract; Sample description, metagenomic sequencing and analysis",
+    "confidence": "moderate",
+    "confidence_note": "Host links and auxiliary functions are computational predictions; sequence recovery does not demonstrate active infection."
+  },
+  {
+    "id": "claim:scs-haima-fungal-networks",
+    "source_id": "src:scs-haima-fungal-networks",
+    "subject": "src:scs-haima-fungal-networks",
+    "predicate": "associated_with",
+    "object": "realm:eukaryota",
+    "statement": "Fungal sequences occupied connected network positions and fungal genes were transcribed in seep sediments, supporting inclusion of fungi in seep-microbiome studies.",
+    "scope": "Haima seep/control sediments plus comparative datasets from ten global seep regions.",
+    "evidence_type": "reported",
+    "evidence_basis": "147-sample fungal/prokaryotic networks integrated with metagenomic and metatranscriptomic searches for fungal enzymes.",
+    "locator": "Abstract; Environmental context of cold seep and control samples",
+    "confidence": "moderate",
+    "confidence_note": "Network centrality and fungal transcripts do not demonstrate direct fungal methane oxidation or causal ecosystem control."
+  },
+  {
+    "id": "claim:scs-haima-water-sediment-networks",
+    "source_id": "src:scs-haima-water-sediment-networks",
+    "subject": "src:scs-haima-water-sediment-networks",
+    "predicate": "associated_with",
+    "object": "process:community-assembly",
+    "statement": "Seep and reference samples differed in elemental distribution and bacterial network structure; water and sediment assemblages were more similar at seepage stations.",
+    "scope": "Haima seep and non-seep stations; water 160–200 m above seabed and 0–6 cm sediments.",
+    "evidence_type": "reported",
+    "evidence_basis": "CTD-rosette water samples and gravity-core surface sediments compared using community and elemental analyses.",
+    "locator": "Abstract; Samples Collection",
+    "confidence": "moderate",
+    "confidence_note": "These water samples were not taken immediately at the interface; network association does not prove sediment-to-water migration of cells."
+  },
+  {
+    "id": "claim:scs-haima-water-assembly",
+    "source_id": "src:scs-haima-water-assembly",
+    "subject": "src:scs-haima-water-assembly",
+    "predicate": "associated_with",
+    "object": "habitat:seep-water-column",
+    "statement": "Prokaryotic diversity and modeled assembly processes changed with depth and hydrochemistry, with Cyanobacteria prominent near the illuminated surface and Proteobacteria deeper.",
+    "scope": "Vertical water profile above Haima cold seep.",
+    "evidence_type": "reported",
+    "evidence_basis": "Depth-stratified communities compared with hydrochemistry and statistical assembly/co-occurrence models.",
+    "locator": "Abstract",
+    "confidence": "moderate",
+    "confidence_note": "Statistical assembly classifications depend on null-model assumptions and cannot directly measure microbial interactions."
+  },
+  {
+    "id": "claim:scs-lingshui-sitef-interface",
+    "source_id": "src:scs-lingshui-sitef-interface",
+    "subject": "src:scs-lingshui-sitef-interface",
+    "predicate": "associated_with",
+    "object": "habitat:seep-interface",
+    "statement": "Interface microbiomes differed between Lingshui and Site F, with distinct inferred methane-, nitrogen-, and sulfur-associated functional profiles.",
+    "scope": "Seven interface-water samples from Site F and Lingshui seeps.",
+    "evidence_type": "inferred",
+    "evidence_basis": "ROV-collected interface water and 16S amplicons compared across seepage and fauna habitats.",
+    "locator": "Abstract; Samples collection and geochemistry measurement",
+    "confidence": "moderate",
+    "confidence_note": "Function predictions from marker genes do not establish the rates or realized occurrence of individual AOM pathways."
+  },
+  {
+    "id": "claim:scs-haima-mercury",
+    "source_id": "src:scs-haima-mercury",
+    "subject": "src:scs-haima-mercury",
+    "predicate": "associated_with",
+    "object": "process:mercury-transformation",
+    "statement": "Upper active-seep sediments contained more Hg and methylmercury than reference sediments, alongside genes associated with mercury transformations.",
+    "scope": "Haima active-seep and reference-area sediment cores.",
+    "evidence_type": "reported",
+    "evidence_basis": "Hg/MeHg concentrations and mercury isotopes integrated with microbial hgcA, merA, and merB gene analyses.",
+    "locator": "Publisher abstract",
+    "confidence": "moderate",
+    "confidence_note": "Gene detection does not measure methylation rate; the paper's global storage extrapolation is not a direct global inventory."
+  },
+  {
+    "id": "claim:scs-haima-water-nitrogen-fixation",
+    "source_id": "src:scs-haima-water-nitrogen-fixation",
+    "subject": "src:scs-haima-water-nitrogen-fixation",
+    "predicate": "associated_with",
+    "object": "process:nitrogen-fixation",
+    "statement": "Nitrogen fixation occurred in Haima water and increased following sulfur-containing organic-matter enrichment; Dechloromonas genomes carried nitrogen-fixation and sulfur-oxidation genes.",
+    "scope": "Water column above Haima cold seep.",
+    "evidence_type": "reported",
+    "evidence_basis": "Nitrogen-fixation rates, nifH communities, DOM amendments, and MAGs used to examine sulfur-associated diazotrophy.",
+    "locator": "Abstract",
+    "confidence": "moderate",
+    "confidence_note": "Amendment responses measure experimental potential; co-encoded genes do not independently establish sulfur oxidation as the in situ energy source."
+  },
+  {
+    "id": "claim:scs-haima-microeukaryote-dna-rna",
+    "source_id": "src:scs-haima-microeukaryote-dna-rna",
+    "subject": "src:scs-haima-microeukaryote-dna-rna",
+    "predicate": "associated_with",
+    "object": "realm:eukaryota",
+    "statement": "Prokaryotes generally had lower diversity in seep sediments than reference sediments, whereas microeukaryotes showed the opposite pattern; DNA/RNA differences were larger for microeukaryotes.",
+    "scope": "Haima seep, less-active seep, and non-seep sediments.",
+    "evidence_type": "reported",
+    "evidence_basis": "ROV sediment cores; paired DNA/RNA profiling for prokaryotes and microeukaryotes with environmental and assembly analyses.",
+    "locator": "Abstract; Sampling collection and measurement of environmental factors",
+    "confidence": "moderate",
+    "confidence_note": "RNA signatures cannot be equated directly with biomass production or organism viability."
+  },
+  {
+    "id": "claim:scs-site-f-water-metabolism",
+    "source_id": "src:scs-site-f-water-metabolism",
+    "subject": "src:scs-site-f-water-metabolism",
+    "predicate": "associated_with",
+    "object": "process:aerobic-methane-oxidation",
+    "statement": "The 377 MAGs supported vertical metabolic differentiation, including methanotrophic populations from bottom-interface water into deeper mesopelagic layers.",
+    "scope": "Site F, roughly 1150 m water depth; surface, mesopelagic, and near-vent water.",
+    "evidence_type": "inferred",
+    "evidence_basis": "ROV interface filtration and Niskin samples at 30–1100 m; 0.22 µm filters, MAG reconstruction, and metabolic models.",
+    "locator": "Abstract; Sample collection; The metabolic potential and interaction of water column microbes",
+    "confidence": "moderate",
+    "confidence_note": "Predicted exchanges and methane-filtration functions are genome/model inferences rather than measured methane removal fluxes."
+  },
+  {
+    "id": "claim:scs-phosphorus-lucapcycle",
+    "source_id": "src:scs-phosphorus-lucapcycle",
+    "subject": "src:scs-phosphorus-lucapcycle",
+    "predicate": "associated_with",
+    "object": "process:phosphorus-cycling",
+    "statement": "LucaPCycle expanded phosphorus-cycling protein detection, revealing archaeal and viral genetic potential and validating selected previously unannotated phosphatases.",
+    "scope": "Sixteen global seep sites, including Haima and Qiongdongnan samples.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Protein-model classification integrated with genomes, transcripts, porewater chemistry, metabolomics, and enzyme validation.",
+    "locator": "Abstract; Metagenomic and metatranscriptomic datasets and processing",
+    "confidence": "moderate",
+    "confidence_note": "Global protein-family totals are not SCS-specific counts; annotations do not establish phosphorus flux for every host."
+  },
+  {
+    "id": "claim:scs-seep-dehalogenation",
+    "source_id": "src:scs-seep-dehalogenation",
+    "subject": "src:scs-seep-dehalogenation",
+    "predicate": "associated_with",
+    "object": "process:reductive-dehalogenation",
+    "statement": "Reductive-dehalogenase-like genes occurred across diverse archaeal and bacterial groups, with complementary chemical and experimental evidence supporting organohalide-transforming potential.",
+    "scope": "Sixteen global seep sites, including Haima, Site F, Shenhu, and other SCS sites.",
+    "evidence_type": "inferred",
+    "evidence_basis": "RdhA-like sequence classification integrated with halogen chemistry, laboratory incubations, transcripts, and metabolomics.",
+    "locator": "Abstract; Metagenomic and metatranscriptomic datasets from cold seep sediments",
+    "confidence": "moderate",
+    "confidence_note": "RdhA-like annotation alone does not verify substrate specificity or field-scale remediation capacity."
+  },
+  {
+    "id": "claim:scs-seep-quorum-sensing",
+    "source_id": "src:scs-seep-quorum-sensing",
+    "subject": "src:scs-seep-quorum-sensing",
+    "predicate": "associated_with",
+    "object": "process:quorum-sensing",
+    "statement": "Multiple signaling systems were detected across seep taxa, and representative LuxI–LuxR pairs showed activity in heterologous tests.",
+    "scope": "Seventeen global seep sites including Haima, Site F, and other SCS regions.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Quorum-sensing genes and transcripts compared with environmental gradients; representative LuxI–LuxR pairs tested by heterologous expression.",
+    "locator": "Abstract; Metagenomic and metatranscriptomic data processing",
+    "confidence": "moderate",
+    "confidence_note": "Presence and experimental function of selected signaling pairs do not demonstrate regulation of every inferred biogeochemical pathway in situ."
+  },
+  {
+    "id": "claim:scs-site-f-sponge-partitioning",
+    "source_id": "src:scs-site-f-sponge-partitioning",
+    "subject": "src:scs-site-f-sponge-partitioning",
+    "predicate": "associated_with",
+    "object": "process:chemosynthetic-symbiosis",
+    "statement": "Sponge microbiomes had distinct composition, lower diversity, and enrichment of specialized sulfur- and methane-associated bacterial groups compared with environmental microbiomes.",
+    "scope": "Site F sponge-associated, seawater, and sediment microbiomes.",
+    "evidence_type": "reported",
+    "evidence_basis": "Six sponge species and environmental metagenomes compared using taxonomic profiles, MAGs, and functional annotations.",
+    "locator": "Abstract; Sample and Data Collections",
+    "confidence": "moderate",
+    "confidence_note": "Different collection years confound direct habitat comparisons; functional gene abundance is not metabolic efficiency."
+  },
+  {
+    "id": "claim:scs-seep-defense-systems",
+    "source_id": "src:scs-seep-defense-systems",
+    "subject": "src:scs-seep-defense-systems",
+    "predicate": "associated_with",
+    "object": "process:viral-defense",
+    "statement": "The comparative catalog revealed extensive defense and anti-defense diversity, and selected candidate microbial systems protected against viral infection in laboratory assays.",
+    "scope": "Seventeen global seep sites; SCS sequences contribute to the comparative catalog.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Microbial defense and viral anti-defense genes compared across genomes; selected candidate defenses experimentally tested.",
+    "locator": "Abstract; Methods: Metagenomic datasets",
+    "confidence": "moderate",
+    "confidence_note": "Laboratory validation covers selected systems; co-occurrence does not establish synergism or infection rates in seep sediment."
+  },
+  {
+    "id": "claim:scs-site-f-water-spatial-2026",
+    "source_id": "src:scs-site-f-water-spatial-2026",
+    "subject": "src:scs-site-f-water-spatial-2026",
+    "predicate": "associated_with",
+    "object": "habitat:seep-water-column",
+    "statement": "Near-seep and deeper-water communities showed greater representation of methane- and sulfur-associated populations and genes, indicating spatially structured metabolic potential.",
+    "scope": "Site F, near-seep sites and a station approximately 1 km away.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Niskin bottles on CTD and ROV; 16S and metagenomic profiles compared across depth and distance.",
+    "locator": "Abstract; Water Samples Collection and Pretreatment",
+    "confidence": "moderate",
+    "confidence_note": "Gene distributions do not quantify the fraction of vented methane removed during upward transport."
+  },
+  {
+    "id": "claim:scs-haima-domains-water-sediment-2026",
+    "source_id": "src:scs-haima-domains-water-sediment-2026",
+    "subject": "src:scs-haima-domains-water-sediment-2026",
+    "predicate": "associated_with",
+    "object": "process:community-assembly",
+    "statement": "Microbial diversity and co-occurrence varied by compartment and habitat; modeled environmental selection differed between prokaryotes and microeukaryotes in water versus sediment.",
+    "scope": "Haima water layers and mussel, anemone, bare seabed, dead-clam, and clam sediment habitats.",
+    "evidence_type": "reported",
+    "evidence_basis": "CTD water profiles and ROV sediment cores to 30 cm; prokaryotic/microeukaryotic community and co-occurrence analyses.",
+    "locator": "Abstract; Sample collection and measurement of environmental factors",
+    "confidence": "moderate",
+    "confidence_note": "Correlations and assembly models indicate ecological patterns, not demonstrated interspecies exchanges."
+  },
+  {
+    "id": "claim:scs-seep-nitrogen-methane-n2o",
+    "source_id": "src:scs-seep-nitrogen-methane-n2o",
+    "subject": "src:scs-seep-nitrogen-methane-n2o",
+    "predicate": "associated_with",
+    "object": "process:nitrogen-methane-coupling",
+    "statement": "Nitrate/nitrite-coupled methane oxidation had a larger potential contribution in early-stage than mature seep sediments, and nitrate/methane amendments increased net N2O production.",
+    "scope": "Early-stage and mature South China Sea seep sediments.",
+    "evidence_type": "reported",
+    "evidence_basis": "14C labeling, omics, and gas-production analyses tested nitrate/nitrite-linked methane oxidation and N2O formation.",
+    "locator": "Abstract; Sample collection and geochemical analysis",
+    "confidence": "moderate",
+    "confidence_note": "Potential rates and amendment responses cannot be treated as continuous natural emissions or global climate offsets."
+  },
+  {
+    "id": "claim:scs-newborn-seep-biofilter",
+    "source_id": "src:scs-newborn-seep-biofilter",
+    "subject": "src:scs-newborn-seep-biofilter",
+    "predicate": "associated_with",
+    "object": "process:methane-biofilter",
+    "statement": "A methane-consuming animal–microbe assemblage developed within approximately one to two years at the monitored newborn seep, with aerobic and anaerobic methanotrophs and bioturbating fauna.",
+    "scope": "Human-induced newborn SCS seep compared with mature seeps and slope references.",
+    "evidence_type": "reported",
+    "evidence_basis": "More than 40 sites around the discharge center; ROV cores, porewater, molecular analyses, and in situ ecosystem observations.",
+    "locator": "Abstract; Sediment and porewater sampling",
+    "confidence": "moderate",
+    "confidence_note": "One induced seep does not establish a universal recovery time or guaranteed mitigation of future methane releases."
+  },
+  {
+    "id": "claim:scs-haima-anme1-hotspots",
+    "source_id": "src:scs-haima-anme1-hotspots",
+    "subject": "src:scs-haima-anme1-hotspots",
+    "predicate": "associated_with",
+    "object": "process:microbial-evolution",
+    "statement": "ANME-1 genomes contained variable hotspots associated with defense, transport, and methane-metabolism genes; heterologous hicAB tests supported toxin–antitoxin function.",
+    "scope": "Haima sediment core at 1435 m water depth; four depth intervals within 30 cm.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Long-read reconstruction of circular MAGs, genomic-hotspot comparisons, and heterologous tests of hicAB operons.",
+    "locator": "Abstract; Sampling, DNA extraction, metagenomic library preparations and sequencing",
+    "confidence": "moderate",
+    "confidence_note": "One core and heterologous assays do not prove the drivers of speciation or stress responses in natural ANME populations."
+  },
+  {
+    "id": "claim:scs-haima-clam-sulfide-2026",
+    "source_id": "src:scs-haima-clam-sulfide-2026",
+    "subject": "src:scs-haima-clam-sulfide-2026",
+    "predicate": "associated_with",
+    "object": "process:chemosynthetic-symbiosis",
+    "statement": "Moderate sulfide shortage preserved symbiont abundance, whereas severe shortage coincided with reduced abundance and altered host lysosomal pathways; sulfur-metabolism responses indicated symbiotic flexibility.",
+    "scope": "Archivesica marissinica and sulfur-oxidizing symbionts at Haima, including HM-2 and HM-3.",
+    "evidence_type": "reported",
+    "evidence_basis": "In situ clam transplantation with host/symbiont molecular profiling under moderate and severe sulfide shortage.",
+    "locator": "Abstract",
+    "confidence": "moderate",
+    "confidence_note": "Molecular associations support a proposed buffering mechanism but do not directly measure symbiont carbon transfer or long-term resilience."
+  },
+  {
+    "id": "claim:scs-site-f-sponge-host-specificity",
+    "source_id": "src:scs-site-f-sponge-host-specificity",
+    "subject": "src:scs-site-f-sponge-host-specificity",
+    "predicate": "associated_with",
+    "object": "habitat:seep-symbiosis",
+    "statement": "The six sponge species hosted distinct bacterial assemblages, with SUP05 prominent in most samples.",
+    "scope": "Six sponge species at the Formosa Ridge cold seep.",
+    "evidence_type": "reported",
+    "evidence_basis": "Sixteen sponge samples analyzed with full-length 16S amplicons and bacterial phylogeny.",
+    "locator": "Abstract; 2.1 Sample collection; 2.3 16S rRNA gene amplicon sequencing and processing",
+    "confidence": "moderate",
+    "confidence_note": "Marker phylogeny does not measure sulfur/methane oxidation or establish the mechanism of host specificity."
   }
 ]

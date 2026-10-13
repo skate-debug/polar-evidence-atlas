@@ -276,6 +276,46 @@ UI_ZH = {
 }
 
 
+UI_EN.update({
+    "site_title": "Earth & Ocean Evidence Atlas", "brand_name": "Earth & Ocean Evidence Atlas",
+    "stat_candidates": "Discovery records",
+    "meta_description": "Polar systems and South China Sea cold-seep literature, with microbial evidence and citation guidance.",
+    "brand_home": "Earth & Ocean Evidence Atlas home", "brand_version": "Polar systems · cold seeps",
+    "hero_title": "Connect evidence across Earth and ocean.",
+    "hero_subtitle": "Explore polar systems and South China Sea cold seeps. Follow microbial communities from water columns to sediments, with every curated claim linked to its study scope and citation limits.",
+    "pole": "Region", "all_poles": "All regions", "layer_pole": "Region",
+    "graph_description": "A layered graph connecting regions, research areas, sources, and study concepts.",
+    "graph_note_overview": "Node counts and edge thickness reflect matching curated sources. Select a region, area, or facet to narrow the corpus; select a paper for its evidence neighborhood.",
+    "command_dialog": "Search curated literature", "collection": "Collection", "compartment": "Compartment", "topic": "Topic", "site": "Study site",
+    "all_collections": "All collections", "all_compartments": "All compartments", "all_topics": "All topics", "all_sites": "All sites",
+    "cold_seep_guide": "Cold-seep guide", "library_title": "South China Sea cold-seep literature", "library_window": "Publication window",
+    "library_note": "Discover studies by sampled compartment, topic, and site. Inventory tags are provisional title/abstract classifications. Open a curated evidence profile for findings checked against the source. Published titles retain their original language for citation.",
+    "library_search": "Title, DOI, author, or topic…", "priority": "Focus", "all_priorities": "All studies", "microbial_priority": "Microbial studies", "context_priority": "Environmental context",
+    "published": "First publication", "paper": "Paper", "source_review": "Source review", "review_pending": "Source review pending", "view_evidence": "View evidence",
+    "library_count": "{count} of {total} inventory records", "library_empty": "No inventory records match these filters.",
+    "download_inventory": "Download inventory ↓", "apa_references": "APA 7 references ↗", "preprint": "Preprint",
+})
+UI_ZH.update({
+    "site_title": "地球与海洋证据图谱", "brand_name": "地球与海洋证据图谱",
+    "stat_candidates": "发现文献记录",
+    "meta_description": "汇集极地系统与南海冷泉文献，提供微生物证据及引用指引。",
+    "brand_home": "返回地球与海洋证据图谱首页", "brand_version": "极地系统 · 南海冷泉",
+    "hero_title": "以证据串联地球与海洋系统",
+    "hero_subtitle": "探索极地系统与南海冷泉，追踪水体和沉积物中的微生物群落。每条精选论断均对应明确的研究范围与引用边界。",
+    "pole": "区域", "all_poles": "全部区域", "layer_pole": "区域",
+    "graph_description": "分层图谱连接区域、研究领域、文献与研究概念。",
+    "graph_note_overview": "节点计数与连线粗细表示符合条件的精选文献数量。选择区域、领域或研究要素可缩小范围；选择论文可查看其证据邻域。",
+    "command_title": "检索证据图谱", "command_dialog": "检索精选研究文献",
+    "collection": "文献专题", "compartment": "采样介质", "topic": "研究主题", "site": "研究站位",
+    "all_collections": "全部专题", "all_compartments": "全部采样介质", "all_topics": "全部主题", "all_sites": "全部站位",
+    "cold_seep_guide": "冷泉文献指南", "library_title": "南海冷泉文献目录", "library_window": "发表时间范围",
+    "library_note": "按采样介质、主题和站位查找文献。目录标签来自标题与摘要的初步分类；已核查的研究发现可在精选证据档案中查看。正式发表的标题保留原始语言，便于准确引用。",
+    "library_search": "输入标题、DOI、作者或主题…", "priority": "研究重点", "all_priorities": "全部研究", "microbial_priority": "微生物研究", "context_priority": "环境背景",
+    "published": "首次发表", "paper": "论文", "source_review": "原文核查", "review_pending": "待核查原文", "view_evidence": "查看证据档案",
+    "library_count": "符合条件：{count} 条，共 {total} 条", "library_empty": "没有符合筛选条件的目录记录。",
+    "download_inventory": "下载文献目录 ↓", "apa_references": "APA 7 参考文献 ↗", "preprint": "预印本",
+})
+
 LABELS_ZH = {
     "domains": {
         "Antarctic prokaryotes": "南极原核生物",
@@ -284,8 +324,13 @@ LABELS_ZH = {
         "Arctic viruses": "北极病毒",
         "Polar Earth system": "极地地球系统",
         "Polar eukaryotes": "极地真核生物",
+        "Cold-seep prokaryotes": "冷泉原核生物",
+        "Cold-seep viruses": "冷泉病毒",
+        "Cold-seep microeukaryotes": "冷泉微型真核生物",
+        "Cold-seep symbioses": "冷泉共生系统",
+        "Cold-seep biogeochemistry": "冷泉生物地球化学",
     },
-    "poles": {"Arctic": "北极", "Antarctic": "南极", "Bipolar": "两极", "Global": "全球"},
+    "poles": {"Arctic": "北极", "Antarctic": "南极", "Bipolar": "两极", "Global": "全球", "South China Sea": "南海"},
     "evidence": {"reported": "实测", "inferred": "推断", "modeled": "模拟", "synthesized": "综合"},
     "confidence": {"high": "高", "moderate": "中等", "low": "低"},
     "predicates": {
@@ -296,7 +341,7 @@ LABELS_ZH = {
         "supports": "支持", "formed_by": "由其形成", "separates": "分隔", "connects": "连接",
         "catalogues": "编目", "projects": "预测", "broader": "上位概念", "covers_pole": "涵盖极区",
         "covers_domain": "涵盖领域", "samples": "采样于", "uses_method": "采用方法",
-        "studies_taxon": "研究类群", "studies_process": "研究过程", "evaluates_driver": "评估驱动因素",
+        "studies_taxon": "研究类群", "studies_process": "研究过程", "evaluates_driver": "评估驱动因素", "covers_region": "涵盖区域",
     },
     "types": {
         "Pole": "极区", "Region": "区域", "WaterMass": "水团或洋流", "Habitat": "生境",
@@ -713,6 +758,20 @@ TERM_MAP = {
     "Amundsen Sea": "阿蒙森海",
 }
 
+
+TERM_MAP.update({
+    "South China Sea": "南海", "cold seep": "冷泉", "cold seeps": "冷泉",
+    "Haima": "海马", "sediment-water interface": "沉积物–水界面", "bottom-water interface": "底层水界面",
+    "bottom water": "底层水", "water column": "水体", "porewater": "孔隙水",
+    "anaerobic oxidation of methane": "厌氧甲烷氧化", "anaerobic methane oxidation": "厌氧甲烷氧化",
+    "aerobic methane oxidation": "好氧甲烷氧化", "sulfate reduction": "硫酸盐还原",
+    "sulfate-methane transition": "硫酸盐–甲烷转换带", "methanotrophy": "甲烷氧化",
+    "methanotrophs": "甲烷氧化微生物", "methanogenesis": "产甲烷作用",
+    "syntrophy": "互营", "quorum sensing": "群体感应", "reductive dehalogenation": "还原脱卤",
+    "gas hydrate": "天然气水合物", "authigenic carbonates": "自生碳酸盐",
+    "microeukaryotes": "微型真核生物", "free-living": "游离型", "particle-attached": "颗粒附着型",
+    "chemosynthetic": "化能合成", "methylmercury": "甲基汞",
+})
 
 def load_json(path: Path):
     return json.loads(path.read_text(encoding="utf-8"))
@@ -1193,6 +1252,37 @@ def main() -> int:
     for claim_id, fields in CLAIM_CONTENT_OVERRIDES_ZH.items():
         if claim_id in translations["claims"]:
             translations["claims"][claim_id].update(fields)
+
+    # Editorial translations for the SCS release retain original published
+    # bibliographic strings while providing readable Chinese evidence text.
+    seep_overrides = ROOT / "config" / "cold_seep_zh.json"
+    if seep_overrides.exists():
+        for slug, fields in load_json(seep_overrides).items():
+            source_id = "src:scs-" + slug
+            claim_id = "claim:scs-" + slug
+            if source_id in translations["sources"]:
+                entry = translations["sources"][source_id]
+                entry["title"] = fields["title"]
+                entry["study_type"] = fields["type"]
+                entry["study_profile"].update({"spatial_scope": fields["space"], "temporal_scope": fields["time"], "sample_design": fields["design"]})
+                entry["key_findings"] = [fields["finding"]]
+                entry["limitations"] = [fields["limit"]]
+                entry["cite_for"] = [fields["type"] + "，适用范围以采样设计为准。", fields["finding"]]
+                entry["do_not_overcite"] = ["不应将证据延伸为未经检验的因果机制、原位速率或更广区域的普遍结论。"]
+                source = next(item for item in sources if item["id"] == source_id)
+                access = source["curation"].get("access_level", "abstract")
+                entry["curation_basis"] = "已独立核查 DOI 出版信息，证据位置见论断记录。核查材料：" + ("可访问的全文摘录与摘要。" if "full_text" in access else "公开摘要。")
+                variable_file = ROOT / "config" / "cold_seep_variables_zh.json"
+                if variable_file.exists():
+                    variable_labels = load_json(variable_file)
+                    entry["study_profile"]["measured_or_derived"] = [variable_labels.get(value, value) for value in source["study_profile"]["measured_or_derived"]]
+            if claim_id in translations["claims"]:
+                translations["claims"][claim_id].update({"statement": fields["finding"], "scope": fields["space"], "evidence_basis": fields["design"], "confidence_note": fields["limit"]})
+    seep_concepts = ROOT / "config" / "cold_seep_concepts_zh.json"
+    if seep_concepts.exists():
+        for concept_id, (label, description) in load_json(seep_concepts).items():
+            if concept_id in translations["concepts"]:
+                translations["concepts"][concept_id].update({"label": label, "description": description})
 
     valid_source_ids = {record["id"] for record in sources}
     valid_claim_ids = {record["id"] for record in claims}

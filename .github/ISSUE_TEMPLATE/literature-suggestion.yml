@@ -1,5 +1,5 @@
 name: Literature suggestion
-description: Suggest a polar paper or correction / 推荐极地文献或勘误
+description: Suggest a polar or SCS cold-seep paper / 推荐极地或南海冷泉文献
 title: "[Literature] "
 labels: [literature]
 body:
@@ -13,13 +13,19 @@ body:
   - type: dropdown
     id: pole
     attributes:
-      label: Polar region / 极区
+      label: Collection and region / 专题与区域
       options:
         - Arctic / 北极
         - Antarctic / 南极
         - Bipolar or comparative / 两极或比较研究
+        - South China Sea cold seeps / 南海冷泉
     validations:
       required: true
+  - type: textarea
+    id: compartment
+    attributes:
+      label: Sample compartment and site / 采样介质与站位
+      description: For seeps, identify water, bottom-water height, sediment depth, host tissue, or carbonate/mat habitat and the named site.
   - type: textarea
     id: relevance
     attributes:

@@ -1,0 +1,11 @@
+{
+  "collection": "scs-cold-seeps",
+  "window_years": 10,
+  "crossref_queries": ["South China Sea cold seep", "Haima cold seep", "Formosa Ridge seep"],
+  "queries": [
+    {"id": "scs_named_seep", "query": "(TITLE_ABS:\"South China Sea\" AND (TITLE_ABS:\"cold seep\" OR TITLE_ABS:\"cold seeps\"))"},
+    {"id": "scs_haima", "query": "TITLE_ABS:Haima AND (TITLE_ABS:seep OR TITLE_ABS:seeps)"},
+    {"id": "scs_site_f", "query": "(TITLE_ABS:\"Site F\" OR TITLE_ABS:\"F-site\" OR TITLE_ABS:\"Formosa Ridge\" OR TITLE_ABS:Jiaolong) AND (TITLE_ABS:seep OR TITLE_ABS:seeps)"},
+    {"id": "scs_hydrate_microbes", "query": "TITLE_ABS:\"South China Sea\" AND (TITLE_ABS:hydrate OR TITLE_ABS:hydrates) AND (TITLE_ABS:microbial OR TITLE_ABS:microbiome OR TITLE_ABS:metagenomic OR TITLE_ABS:archaea)"}
+  ]
+}

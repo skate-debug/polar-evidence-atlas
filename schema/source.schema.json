@@ -15,7 +15,12 @@
     "title": {"type": "string", "minLength": 8},
     "year": {"type": "integer", "minimum": 1900, "maximum": 2100},
     "domains": {"type": "array", "minItems": 1, "items": {"type": "string"}},
-    "poles": {"type": "array", "minItems": 1, "items": {"enum": ["Arctic", "Antarctic", "Bipolar", "Global"]}},
+    "poles": {"type": "array", "items": {"enum": ["Arctic", "Antarctic", "Bipolar", "Global"]}},
+    "collection": {"enum": ["polar", "scs-cold-seeps"]},
+    "regions": {"type": "array", "items": {"type": "string"}},
+    "compartments": {"type": "array", "items": {"type": "string"}},
+    "topics": {"type": "array", "items": {"type": "string"}},
+    "sites": {"type": "array", "items": {"type": "string"}},
     "study_type": {"type": "string"},
     "study_profile": {
       "type": "object",

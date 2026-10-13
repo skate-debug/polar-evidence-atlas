@@ -114,6 +114,8 @@ def source_concept_edges(source: dict) -> list[tuple[str, str, str]]:
         }.get(pole)
         if pole_id:
             values.append((source["id"], pole_id, "covers_pole"))
+    for region in source.get("regions", []):
+        values.append((source["id"], region, "covers_region"))
     for domain in source["domains"]:
         values.append((source["id"], "domain:" + re.sub(r"[^a-z0-9]+", "-", domain.lower()).strip("-"), "covers_domain"))
     for field, predicate in (
@@ -141,6 +143,8 @@ def main() -> int:
     candidate_reviews = load(DATA / "candidate_reviews.json", {"reviews": []})
     candidate_verifications = load(DATA / "candidate_verifications.json", {"records": []})
     translations = load(DATA / "i18n.zh-CN.json", {})
+    taxonomy = load(ROOT / "config" / "collections.json", {})
+    seep_inventory = load(public_fallback("cold_seep_candidates.json"), {"candidates": []})
     current_candidate_ids = {candidate.get("id") for candidate in candidates_payload.get("candidates", [])}
     current_reviews = [
         review for review in candidate_reviews.get("reviews", [])
@@ -172,6 +176,10 @@ def main() -> int:
     bib_records = []
     for source in sources:
         item = dict(source)
+        item["collection"] = source.get("collection", "polar")
+        item["geographic_scopes"] = source["poles"] or (["South China Sea"] if item["collection"] == "scs-cold-seeps" else ["Global"])
+        if item["collection"] == "scs-cold-seeps" and "comparative" in source.get("sites", []):
+            item["geographic_scopes"].append("Global")
         record = metadata_records.get(source["doi"].lower(), {})
         item["bibliographic"] = slim_metadata(source, record)
         item["bibtex"] = bibtex(source, record)
@@ -207,6 +215,11 @@ def main() -> int:
             "domains": source["domains"],
             "poles": source["poles"],
             "doi": source["doi"],
+            "collection": source.get("collection", "polar"),
+            "regions": source.get("regions", []),
+            "compartments": source.get("compartments", []),
+            "topics": source.get("topics", []),
+            "sites": source.get("sites", []),
         }
         for source in sources
     ]
@@ -256,6 +269,19 @@ def main() -> int:
         "nodes": nodes,
         "edges": edges,
         "i18n": translations,
+        "taxonomy": taxonomy,
+        "cold_seep_library": {
+            "since": seep_inventory.get("since", ""),
+            "until": seep_inventory.get("until", ""),
+            "generated_at": seep_inventory.get("generated_at", ""),
+            "papers": [
+                {key: item.get(key, "") for key in (
+                    "id", "title", "authors", "journal", "year", "publication_date", "doi", "pmcid", "url",
+                    "compartments", "topics", "sites", "priority", "classification_basis", "publication_stage",
+                )}
+                for item in seep_inventory.get("candidates", [])
+            ],
+        },
         "candidate_summary": {
             "count": len(candidates_payload.get("candidates", [])),
             "screened": len(current_reviews),
@@ -275,14 +301,16 @@ def main() -> int:
             "pole_counts": dict(sorted(pole_counts.items())),
             "year_counts": dict(sorted(year_counts.items())),
             "evidence_counts": dict(sorted(evidence_counts.items())),
+            "collection_counts": dict(sorted(Counter(item["collection"] for item in enriched_sources).items())),
         },
     }
 
     (DIST / "graph.json").write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     (REFERENCES / "polar-kg.bib").write_text("\n\n".join(bib_records) + "\n", encoding="utf-8")
+    (REFERENCES / "earth-ocean-kg.bib").write_text("\n\n".join(bib_records) + "\n", encoding="utf-8")
 
     with (DIST / "nodes.csv").open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=["id", "type", "label", "description", "year", "domains", "poles", "doi"])
+        writer = csv.DictWriter(handle, fieldnames=["id", "type", "label", "description", "year", "domains", "poles", "doi", "collection", "regions", "compartments", "topics", "sites"])
         writer.writeheader()
         for node in nodes:
             writer.writerow({
@@ -290,6 +318,8 @@ def main() -> int:
                 "label": node.get("label", ""), "description": node.get("description", ""),
                 "year": node.get("year", ""), "domains": "|".join(node.get("domains", [])),
                 "poles": "|".join(node.get("poles", [])), "doi": node.get("doi", ""),
+                "collection": node.get("collection", ""), "regions": "|".join(node.get("regions", [])),
+                "compartments": "|".join(node.get("compartments", [])), "topics": "|".join(node.get("topics", [])), "sites": "|".join(node.get("sites", [])),
             })
     with (DIST / "edges.csv").open("w", newline="", encoding="utf-8") as handle:
         fields = ["id", "source", "target", "predicate", "claim_id", "source_id", "evidence_type", "confidence", "statement"]
@@ -366,6 +396,7 @@ def main() -> int:
     document = template.replace("/*__POLAR_KG_DATA__*/", f"window.POLAR_KG_DATA={compact};")
     document = document.replace("/*__POLAR_KG_APP__*/", app)
     (DIST / "polar-knowledge-graph.html").write_text(document, encoding="utf-8")
+    (DIST / "earth-ocean-evidence-atlas.html").write_text(document, encoding="utf-8")
     print(f"Built {len(nodes)} nodes, {len(edges)} edges, {len(bib_records)} references, and the explorer.")
     return 0
 

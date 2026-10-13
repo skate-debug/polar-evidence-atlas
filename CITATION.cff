@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this atlas, cite the repository and the primary papers supporting the claims."
-title: "Polar Evidence Atlas"
+title: "Earth & Ocean Evidence Atlas"
 type: dataset
 authors:
-  - name: "Polar Evidence Atlas contributors"
-version: 1.0.0
-date-released: 2026-09-13
+  - name: "Earth & Ocean Evidence Atlas contributors"
+version: 2.0.0
+date-released: 2026-10-12
 repository-code: "https://github.com/skate-debug/polar-evidence-atlas"
 url: "https://skate-debug.github.io/polar-evidence-atlas/"
 license: CC-BY-4.0
@@ -18,7 +18,9 @@ keywords:
   - prokaryotes
   - eukaryotes
   - polar science
+  - cold seeps
+  - South China Sea
 abstract: >-
-  A bilingual, citation-first knowledge graph connecting Arctic and Antarctic
-  biological evidence with geography, geology, geochemistry, nutrients, and
-  ocean circulation.
+  A bilingual knowledge graph and literature library connecting polar systems
+  and South China Sea cold seeps, including microbial water-column, sediment,
+  interface, and host-associated evidence.

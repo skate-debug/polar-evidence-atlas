@@ -13,6 +13,9 @@ __pycache__/
 /data/candidate_archive.json
 /data/candidate_metadata.json
 /data/metadata.json
+/data/cold_seep_candidates.json
+/data/cold_seep_metadata.json
+/.research-cache/
 
 # Local draft retained outside the public release
 /Arctic Sea-assessment.docx

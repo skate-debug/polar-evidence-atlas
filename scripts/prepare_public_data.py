@@ -38,12 +38,18 @@ METADATA_FIELDS = {
     "title",
     "type",
     "volume",
+    "article-number",
+    "published-print",
+    "metadata_verification_url",
+    "metadata_verification_basis",
 }
 PUBLIC_NAMES = {
     "candidates.json",
     "candidate_archive.json",
     "metadata.json",
     "candidate_metadata.json",
+    "cold_seep_candidates.json",
+    "cold_seep_metadata.json",
 }
 
 
@@ -92,6 +98,8 @@ def build_snapshots() -> dict[str, dict]:
         "candidate_archive.json": candidate_snapshot,
         "metadata.json": slim_metadata,
         "candidate_metadata.json": slim_metadata,
+        "cold_seep_candidates.json": candidate_snapshot,
+        "cold_seep_metadata.json": slim_metadata,
     }
     for name, transform in sources.items():
         path = DATA / name

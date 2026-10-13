@@ -55,6 +55,14 @@
           "URL": "http://creativecommons.org/licenses/by/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
       "DOI": "10.1016/j.envpol.2026.128242",
       "type": "journal-article",
       "page": "128242",
@@ -124,7 +132,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1016/j.envpol.2026.128242"
+      "URL": "http://dx.doi.org/10.1016/j.envpol.2026.128242",
+      "article-number": "128242"
     },
     "10.1016/j.envpol.2026.128745": {
       "publisher": "Elsevier BV",
@@ -178,6 +187,14 @@
           "URL": "http://creativecommons.org/licenses/by/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
       "DOI": "10.1016/j.envpol.2026.128745",
       "type": "journal-article",
       "page": "128745",
@@ -237,7 +254,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1016/j.envpol.2026.128745"
+      "URL": "http://dx.doi.org/10.1016/j.envpol.2026.128745",
+      "article-number": "128745"
     },
     "10.1016/j.marpolbul.2026.119632": {
       "publisher": "Elsevier BV",
@@ -291,6 +309,14 @@
           "URL": "http://creativecommons.org/licenses/by/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
       "DOI": "10.1016/j.marpolbul.2026.119632",
       "type": "journal-article",
       "page": "119632",
@@ -380,7 +406,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1016/j.marpolbul.2026.119632"
+      "URL": "http://dx.doi.org/10.1016/j.marpolbul.2026.119632",
+      "article-number": "119632"
     },
     "10.1016/j.rse.2026.115511": {
       "publisher": "Elsevier BV",
@@ -434,6 +461,14 @@
           "URL": "http://creativecommons.org/licenses/by/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
       "DOI": "10.1016/j.rse.2026.115511",
       "type": "journal-article",
       "page": "115511",
@@ -571,7 +606,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1016/j.rse.2026.115511"
+      "URL": "http://dx.doi.org/10.1016/j.rse.2026.115511",
+      "article-number": "115511"
     },
     "10.1016/j.scitotenv.2026.182123": {
       "publisher": "Elsevier BV",
@@ -625,6 +661,14 @@
           "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            9
+          ]
+        ]
+      },
       "DOI": "10.1016/j.scitotenv.2026.182123",
       "type": "journal-article",
       "page": "182123",
@@ -740,7 +784,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1016/j.scitotenv.2026.182123"
+      "URL": "http://dx.doi.org/10.1016/j.scitotenv.2026.182123",
+      "article-number": "182123"
     },
     "10.1016/j.syapm.2026.126730": {
       "publisher": "Elsevier BV",
@@ -795,6 +840,14 @@
           "URL": "http://creativecommons.org/licenses/by/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
       "DOI": "10.1016/j.syapm.2026.126730",
       "type": "journal-article",
       "page": "126730",
@@ -932,7 +985,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1016/j.syapm.2026.126730"
+      "URL": "http://dx.doi.org/10.1016/j.syapm.2026.126730",
+      "article-number": "126730"
     },
     "10.1021/acs.est.5c10583": {
       "publisher": "American Chemical Society (ACS)",
@@ -987,6 +1041,15 @@
           "URL": "https://doi.org/10.15223/policy-045"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
       "DOI": "10.1021/acs.est.5c10583",
       "type": "journal-article",
       "page": "20398-20408",
@@ -1356,6 +1419,15 @@
           "URL": "https://creativecommons.org/licenses/by/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            9
+          ]
+        ]
+      },
       "DOI": "10.1073/pnas.2528615123",
       "type": "journal-article",
       "title": "Impacts of future sea level change on Greenland from community knowledge, coastal mapping, and glacial isostatic adjustment models",
@@ -1788,7 +1860,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1073/pnas.2528615123"
+      "URL": "http://dx.doi.org/10.1073/pnas.2528615123",
+      "article-number": "e2528615123"
     },
     "10.1080/22221751.2026.2627076": {
       "publisher": "Informa UK Limited",
@@ -1811,6 +1884,15 @@
           "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            12,
+            31
+          ]
+        ]
+      },
       "DOI": "10.1080/22221751.2026.2627076",
       "type": "journal-article",
       "title": "Investigating high pathogenicity avian influenza virus incursions to remote islands: detection of H5N1 on Gough Island in the South Atlantic Ocean",
@@ -2162,7 +2244,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1080/22221751.2026.2627076"
+      "URL": "http://dx.doi.org/10.1080/22221751.2026.2627076",
+      "article-number": "2627076"
     },
     "10.1093/femsec/fiag060": {
       "publisher": "Oxford University Press (OUP)",
@@ -2185,6 +2268,15 @@
           "URL": "https://creativecommons.org/licenses/by/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            18
+          ]
+        ]
+      },
       "DOI": "10.1093/femsec/fiag060",
       "type": "journal-article",
       "title": "Functional genetic potential of benthic microbial mat communities in Arctic, Antarctic, and sub-Antarctic lakes",
@@ -2341,7 +2433,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1093/femsec/fiag060"
+      "URL": "http://dx.doi.org/10.1093/femsec/fiag060",
+      "article-number": "fiag060"
     },
     "10.1093/femsec/fiag061": {
       "publisher": "Oxford University Press (OUP)",
@@ -2364,6 +2457,15 @@
           "URL": "https://creativecommons.org/licenses/by/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            18
+          ]
+        ]
+      },
       "DOI": "10.1093/femsec/fiag061",
       "type": "journal-article",
       "title": "Giant viruses of the polar regions: diversity, endemism, adaptation and ecological structuring",
@@ -2465,7 +2567,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1093/femsec/fiag061"
+      "URL": "http://dx.doi.org/10.1093/femsec/fiag061",
+      "article-number": "fiag061"
     },
     "10.1093/femsec/fiag073": {
       "publisher": "Oxford University Press (OUP)",
@@ -2488,6 +2591,15 @@
           "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            17
+          ]
+        ]
+      },
       "DOI": "10.1093/femsec/fiag073",
       "type": "journal-article",
       "title": "Genomic adaptations of novel halotolerant bacteria from extreme North Greenland",
@@ -2571,7 +2683,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1093/femsec/fiag073"
+      "URL": "http://dx.doi.org/10.1093/femsec/fiag073",
+      "article-number": "fiag073"
     },
     "10.1093/femsec/fiag077": {
       "publisher": "Oxford University Press (OUP)",
@@ -2594,6 +2707,15 @@
           "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            17
+          ]
+        ]
+      },
       "DOI": "10.1093/femsec/fiag077",
       "type": "journal-article",
       "title": "Viral genetic diversity and functional potential in polar and subarctic sea ice",
@@ -2849,7 +2971,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1093/femsec/fiag077"
+      "URL": "http://dx.doi.org/10.1093/femsec/fiag077",
+      "article-number": "fiag077"
     },
     "10.1093/jambio/lxag182": {
       "publisher": "Oxford University Press (OUP)",
@@ -2872,6 +2995,15 @@
           "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            4
+          ]
+        ]
+      },
       "DOI": "10.1093/jambio/lxag182",
       "type": "journal-article",
       "title": "Metagenome-assembled genomes from northern West Siberia: insights into microbial diversity in permafrost and contemporary soils",
@@ -2948,7 +3080,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1093/jambio/lxag182"
+      "URL": "http://dx.doi.org/10.1093/jambio/lxag182",
+      "article-number": "lxag182"
     },
     "10.1093/nsr/nwag314": {
       "publisher": "Oxford University Press (OUP)",
@@ -2971,6 +3104,15 @@
           "URL": "https://creativecommons.org/licenses/by/4.0/"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            27
+          ]
+        ]
+      },
       "DOI": "10.1093/nsr/nwag314",
       "type": "journal-article",
       "title": "Interdecadal shift in the spring Southern Annular Mode intensifies its lagged influence on Antarctic summer sea ice",
@@ -3059,7 +3201,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1093/nsr/nwag314"
+      "URL": "http://dx.doi.org/10.1093/nsr/nwag314",
+      "article-number": "nwag314"
     },
     "10.1111/gcb.71039": {
       "publisher": "Wiley",
@@ -3098,6 +3241,14 @@
           "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
       "DOI": "10.1111/gcb.71039",
       "type": "journal-article",
       "title": "Pollination Under Pressure: Grazing and Nutrient Enrichment Reshape Arctic Pollinator Communities and Interaction Networks",
@@ -3223,11 +3374,21 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1111/gcb.71039"
+      "URL": "http://dx.doi.org/10.1111/gcb.71039",
+      "article-number": "e71039"
     },
     "10.1126/sciadv.aed1936": {
       "publisher": "American Association for the Advancement of Science (AAAS)",
       "issue": "23",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            5
+          ]
+        ]
+      },
       "DOI": "10.1126/sciadv.aed1936",
       "type": "journal-article",
       "title": "Tropical impacts of the Southern Ocean underestimated by mean-state biases",
@@ -3392,11 +3553,21 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1126/sciadv.aed1936"
+      "URL": "http://dx.doi.org/10.1126/sciadv.aed1936",
+      "article-number": "eaed1936"
     },
     "10.1126/sciadv.aed2633": {
       "publisher": "American Association for the Advancement of Science (AAAS)",
       "issue": "25",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            19
+          ]
+        ]
+      },
       "DOI": "10.1126/sciadv.aed2633",
       "type": "journal-article",
       "title": "Limited impact of Greenland meltwater on abruptness and reversibility of future Atlantic overturning changes",
@@ -3549,11 +3720,21 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1126/sciadv.aed2633"
+      "URL": "http://dx.doi.org/10.1126/sciadv.aed2633",
+      "article-number": "eaed2633"
     },
     "10.1126/sciadv.aef3201": {
       "publisher": "American Association for the Advancement of Science (AAAS)",
       "issue": "32",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            7
+          ]
+        ]
+      },
       "DOI": "10.1126/sciadv.aef3201",
       "type": "journal-article",
       "title": "Glacier retreat shapes organic nutrient availability across lake succession",
@@ -3694,7 +3875,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1126/sciadv.aef3201"
+      "URL": "http://dx.doi.org/10.1126/sciadv.aef3201",
+      "article-number": "eaef3201"
     },
     "10.1128/msystems.00738-25": {
       "publisher": "American Society for Microbiology",
@@ -3733,6 +3915,15 @@
           "URL": "https://journals.asm.org/non-commercial-tdm-license"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            23
+          ]
+        ]
+      },
       "DOI": "10.1128/msystems.00738-25",
       "type": "journal-article",
       "title": "Seasonal thawing of high Arctic soils triggers selective microbial growth and predation",
@@ -4414,7 +4605,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1128/msystems.00738-25"
+      "URL": "http://dx.doi.org/10.1128/msystems.00738-25",
+      "article-number": "e00738-25"
     },
     "10.1128/spectrum.00456-26": {
       "publisher": "American Society for Microbiology",
@@ -4453,6 +4645,15 @@
           "URL": "https://journals.asm.org/non-commercial-tdm-license"
         }
       ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            2
+          ]
+        ]
+      },
       "DOI": "10.1128/spectrum.00456-26",
       "type": "journal-article",
       "title": "Capacity of Arctic fjord sediments to degrade carbohydrates from permafrost active layer",
@@ -4870,7 +5071,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1128/spectrum.00456-26"
+      "URL": "http://dx.doi.org/10.1128/spectrum.00456-26",
+      "article-number": "e00456-26"
     },
     "10.1186/s12915-026-02685-6": {
       "publisher": "Springer Science and Business Media LLC",
@@ -5172,7 +5374,8 @@
           ]
         ]
       },
-      "URL": "http://dx.doi.org/10.1186/s40793-026-00919-2"
+      "URL": "http://dx.doi.org/10.1186/s40793-026-00919-2",
+      "article-number": "93"
     },
     "10.3390/cimb48060639": {
       "publisher": "MDPI AG",

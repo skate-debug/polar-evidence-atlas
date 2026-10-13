@@ -4,10 +4,12 @@
 from __future__ import annotations
 
 import json
+import calendar
 import re
 import sys
 from collections import Counter
 from pathlib import Path
+from datetime import date
 
 from update_zh_translations import claim_payload, concept_payload, digest, source_payload
 
@@ -63,6 +65,7 @@ def main() -> int:
     candidate_reviews = load("candidate_reviews.json")
     candidate_verifications = load("candidate_verifications.json")
     translations = load("i18n.zh-CN.json")
+    taxonomy = json.loads((ROOT / "config" / "collections.json").read_text(encoding="utf-8"))
     errors: list[str] = []
     warnings: list[str] = []
 
@@ -100,8 +103,18 @@ def main() -> int:
             errors.append(f"{sid}: invalid year")
         if not source.get("domains") or not isinstance(source.get("domains"), list):
             errors.append(f"{sid}: domains must be a non-empty list")
-        if not source.get("poles") or not set(source.get("poles", [])) <= POLES:
+        if not set(source.get("poles", [])) <= POLES or (not source.get("poles") and not source.get("regions")):
             errors.append(f"{sid}: invalid pole labels")
+        for region in source.get("regions", []):
+            if region not in concept_ids:
+                errors.append(f"{sid}: unknown region {region}")
+        if source.get("collection") == "scs-cold-seeps":
+            for field in ("compartments", "topics", "sites"):
+                allowed = {item["id"] for item in taxonomy[field]}
+                if not source.get(field) or not set(source[field]) <= allowed:
+                    errors.append(f"{sid}: invalid or missing {field}")
+            if source.get("poles"):
+                errors.append(f"{sid}: SCS source must use regions instead of polar labels")
         profile = source.get("study_profile", {})
         missing_profile = PROFILE_REQUIRED - profile.keys()
         if missing_profile:
@@ -207,6 +220,32 @@ def main() -> int:
             ):
                 errors.append(f"locations.geojson feature {feature_id} has invalid point coordinates")
 
+    seep_inventory = load("cold_seep_candidates.json")
+    seep_records = seep_inventory.get("candidates", [])
+    lower, upper = seep_inventory.get("since", ""), seep_inventory.get("until", "")
+    for field in ("id", "doi"):
+        if duplicate_values([item.get(field) for item in seep_records]):
+            errors.append(f"cold-seep inventory contains duplicate {field}s")
+    for item in seep_records:
+        publication = item.get("publication_date", "")
+        try:
+            parts = [int(part) for part in publication.split("-")]
+            if len(parts) == 3:
+                start = end = date(*parts).isoformat()
+            elif len(parts) == 2:
+                year, month = parts
+                start = date(year, month, 1).isoformat()
+                end = date(year, month, calendar.monthrange(year, month)[1]).isoformat()
+            else:
+                start, end = date(parts[0], 1, 1).isoformat(), date(parts[0], 12, 31).isoformat()
+            if not lower <= start or not end <= upper:
+                errors.append(f"{item.get('id')}: publication date outside SCS window")
+        except (ValueError, IndexError, TypeError):
+            errors.append(f"{item.get('id')}: invalid publication date")
+    curated_seep_dois = {source["doi"] for source in sources if source.get("collection") == "scs-cold-seeps"}
+    if not curated_seep_dois <= {item.get("doi") for item in seep_records}:
+        errors.append("SCS inventory does not contain every curated SCS DOI")
+
     candidates = candidates_payload.get("candidates", [])
     archived_candidates = candidate_archive.get("candidates", [])
     reviews = candidate_reviews.get("reviews", [])
@@ -296,7 +335,8 @@ def main() -> int:
             errors.append(f"{source['id']}: promoted candidate was not full-text checked")
 
     recent = sum(source.get("year", 0) >= 2024 for source in sources)
-    if sources and recent / len(sources) < 0.7:
+    polar_sources = [source for source in sources if source.get("collection", "polar") == "polar"]
+    if polar_sources and sum(source.get("year", 0) >= 2024 for source in polar_sources) / len(polar_sources) < 0.7:
         warnings.append("fewer than 70% of curated sources are from 2024 onward")
 
     for warning in warnings:

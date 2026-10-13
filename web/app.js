@@ -8,6 +8,11 @@
   const root = document.documentElement;
   const byId = new Map([...data.concepts, ...data.nodes].map(item => [item.id, item]));
   const sourceById = new Map(data.sources.map(item => [item.id, item]));
+  const sourceScopes = source => source.geographic_scopes || source.poles || [];
+  const taxonomyLabel = (group, id) => {
+    const entry = (data.taxonomy?.[group] || []).find(item => item.id === id);
+    return entry ? (isChinese() ? entry.zh : entry.label) : id;
+  };
   const claimsBySource = new Map();
   data.claims.forEach(claim => {
     if (!claimsBySource.has(claim.source_id)) claimsBySource.set(claim.source_id, []);
@@ -25,11 +30,12 @@
 
   const ids = [
     "statSources", "statClaims", "statRecent", "statCandidates", "searchInput", "domainFilter",
-    "poleFilter", "yearFilter", "evidenceFilter", "resetFilters", "sourceCount", "sourceList",
+    "poleFilter", "collectionFilter", "compartmentFilter", "topicFilter", "siteFilter", "yearFilter", "evidenceFilter", "resetFilters", "sourceCount", "sourceList",
     "graphSvg", "graphTitle", "graphSubtitle", "graphNote", "overviewButton", "conceptFocus",
     "detailBody", "freshness", "toast", "brandHome", "metaDescription", "activeFilterBar",
     "activeFilterChips", "clearAllFilters", "openCommand", "commandScrim", "commandDialog",
     "commandInput", "commandResults", "commandPreview",
+    "librarySearch", "libraryCompartment", "libraryTopic", "librarySite", "libraryPriority", "libraryCount", "libraryRows", "libraryWindow",
   ];
   const els = Object.fromEntries(ids.map(id => [id, document.getElementById(id)]));
   const themeButtons = [...document.querySelectorAll("[data-theme-choice]")];
@@ -191,13 +197,25 @@
   }
 
   function populateControls() {
+    for (const [control, group, allKey] of [
+      [els.collectionFilter, "collections", "all_collections"],
+      [els.compartmentFilter, "compartments", "all_compartments"],
+      [els.topicFilter, "topics", "all_topics"],
+      [els.siteFilter, "sites", "all_sites"],
+      [els.libraryCompartment, "compartments", "all_compartments"],
+      [els.libraryTopic, "topics", "all_topics"],
+      [els.librarySite, "sites", "all_sites"],
+    ]) {
+      replaceOptions(control, [[t(allKey), ""], ...(data.taxonomy?.[group] || []).map(item => [taxonomyLabel(group, item.id), item.id])]);
+    }
+    replaceOptions(els.libraryPriority, [[t("all_priorities"), ""], [t("microbial_priority"), "microbial"], [t("context_priority"), "context"]]);
     replaceOptions(els.domainFilter, [
       [t("all_areas"), ""],
       ...data.domains.map(domain => [mappedLabel("domains", domain), domain]),
     ]);
     replaceOptions(els.poleFilter, [
       [t("all_poles"), ""],
-      ...["Arctic", "Antarctic", "Bipolar", "Global"].map(pole => [mappedLabel("poles", pole), pole]),
+      ...uniq(data.sources.flatMap(sourceScopes)).map(pole => [mappedLabel("poles", pole), pole]),
     ]);
     replaceOptions(els.yearFilter, [
       [t("all_years"), ""],
@@ -218,7 +236,11 @@
     return data.sources.filter(source => {
       if (query && !sourceText(source).includes(query)) return false;
       if (domain && !source.domains.includes(domain)) return false;
-      if (pole && !source.poles.includes(pole)) return false;
+      if (pole && !sourceScopes(source).includes(pole)) return false;
+      if (els.collectionFilter.value && source.collection !== els.collectionFilter.value) return false;
+      if (els.compartmentFilter.value && !(source.compartments || []).includes(els.compartmentFilter.value)) return false;
+      if (els.topicFilter.value && !(source.topics || []).includes(els.topicFilter.value)) return false;
+      if (els.siteFilter.value && !(source.sites || []).includes(els.siteFilter.value)) return false;
       if (year && String(source.year) !== year) return false;
       if (evidence && !(claimsBySource.get(source.id) || []).some(claim => claim.evidence_type === evidence)) return false;
       if (state.conceptFocus && !sourceConcepts(source).includes(state.conceptFocus)) return false;
@@ -231,7 +253,9 @@
     els.statSources.textContent = sources.length;
     els.statClaims.textContent = data.claims.filter(claim => sourceIds.has(claim.source_id)).length;
     els.statRecent.textContent = sources.filter(source => source.year >= 2024).length;
-    els.statCandidates.textContent = `${data.candidate_summary.promotion_counts?.promoted_to_curated_graph || 0} / ${data.candidate_summary.review_counts?.include || 0}`;
+    const seepCount = data.cold_seep_library?.papers?.length || 0;
+    const polarCount = data.candidate_summary.count || 0;
+    els.statCandidates.textContent = els.collectionFilter.value === "scs-cold-seeps" ? seepCount : els.collectionFilter.value === "polar" ? polarCount : seepCount + polarCount;
   }
 
   function domainClass(domain) {
@@ -271,6 +295,9 @@
     if (els.searchInput.value.trim()) filters.push({kind: "search", label: `“${els.searchInput.value.trim()}”`});
     if (els.domainFilter.value) filters.push({kind: "domain", label: mappedLabel("domains", els.domainFilter.value)});
     if (els.poleFilter.value) filters.push({kind: "pole", label: mappedLabel("poles", els.poleFilter.value)});
+    for (const [kind, control, group] of [["collection", els.collectionFilter, "collections"], ["compartment", els.compartmentFilter, "compartments"], ["topic", els.topicFilter, "topics"], ["site", els.siteFilter, "sites"]]) {
+      if (control.value) filters.push({kind, label: taxonomyLabel(group, control.value)});
+    }
     if (els.yearFilter.value) filters.push({kind: "year", label: els.yearFilter.value});
     if (els.evidenceFilter.value) filters.push({kind: "evidence", label: mappedLabel("evidence", els.evidenceFilter.value)});
     if (state.conceptFocus) filters.push({kind: "concept", label: labelFor(state.conceptFocus)});
@@ -281,6 +308,10 @@
       if (kind === "search") els.searchInput.value = "";
       if (kind === "domain") els.domainFilter.value = "";
       if (kind === "pole") els.poleFilter.value = "";
+      if (kind === "collection") els.collectionFilter.value = "";
+      if (kind === "compartment") els.compartmentFilter.value = "";
+      if (kind === "topic") els.topicFilter.value = "";
+      if (kind === "site") els.siteFilter.value = "";
       if (kind === "year") els.yearFilter.value = "";
       if (kind === "evidence") els.evidenceFilter.value = "";
       if (kind === "concept") state.conceptFocus = null;
@@ -387,11 +418,11 @@
     const poleDomain = new Map();
     const domainFacet = new Map();
     sources.forEach(source => {
-      source.poles.forEach(pole => poleCounts.set(pole, (poleCounts.get(pole) || 0) + 1));
+      sourceScopes(source).forEach(pole => poleCounts.set(pole, (poleCounts.get(pole) || 0) + 1));
       source.domains.forEach(domain => domainCounts.set(domain, (domainCounts.get(domain) || 0) + 1));
       const facets = sourceConcepts(source).filter(id => !id.startsWith("pole:"));
       facets.forEach(id => facetCounts.set(id, (facetCounts.get(id) || 0) + 1));
-      source.poles.forEach(pole => source.domains.forEach(domain => {
+      sourceScopes(source).forEach(pole => source.domains.forEach(domain => {
         const key = `${pole}\u0000${domain}`;
         poleDomain.set(key, (poleDomain.get(key) || 0) + 1);
       }));
@@ -442,7 +473,7 @@
 
   function sourceFacetGroups(source) {
     return [
-      ["pole", source.poles.map(value => ({id: ({Arctic: "pole:arctic", Antarctic: "pole:antarctic", Bipolar: "pole:bipolar"}[value] || value), value, label: mappedLabel("poles", value), kind: "pole"}))],
+      ["pole", sourceScopes(source).map(value => ({id: ({Arctic: "pole:arctic", Antarctic: "pole:antarctic", Bipolar: "pole:bipolar"}[value] || value), value, label: mappedLabel("poles", value), kind: "pole"}))],
       ["area", source.domains.map(value => ({id: `domain:${value.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`, value, label: mappedLabel("domains", value), kind: "domain"}))],
       ["habitat", (source.study_profile.habitats || []).map(id => ({...(byId.get(id) || {id}), label: labelFor(id), kind: "concept"}))],
       ["method", (source.study_profile.methods || []).map(id => ({...(byId.get(id) || {id}), label: labelFor(id), kind: "concept"}))],
@@ -546,6 +577,7 @@
     els.detailBody.innerHTML = `<h2 class="detail-title">${escapeHTML(view.title)}</h2>${originalTitle}
       <p class="citation" lang="en">${escapeHTML(citationText(source))}</p>${translationNote}
       <div class="tags">${source.domains.map(domain => `<span class="tag ${domainClass(domain)}">${escapeHTML(mappedLabel("domains", domain))}</span>`).join("")}${source.poles.map(pole => `<span class="tag">${escapeHTML(mappedLabel("poles", pole))}</span>`).join("")}</div>
+      ${source.collection === "scs-cold-seeps" ? `<dl class="definition-list"><dt>${escapeHTML(t("compartment"))}</dt><dd>${source.compartments.map(id => escapeHTML(taxonomyLabel("compartments", id))).join(" · ")}</dd><dt>${escapeHTML(t("topic"))}</dt><dd>${source.topics.map(id => escapeHTML(taxonomyLabel("topics", id))).join(" · ")}</dd><dt>${escapeHTML(t("site"))}</dt><dd>${source.sites.map(id => escapeHTML(taxonomyLabel("sites", id))).join(" · ")}</dd></dl>` : ""}
       <div class="detail-actions"><a class="link-button" href="https://doi.org/${encodeURIComponent(source.doi)}" target="_blank" rel="noopener">${escapeHTML(t("open_doi"))}</a><button class="button" id="copyKey" type="button">${escapeHTML(t("copy_key"))}</button><button class="button" id="copyBib" type="button">${escapeHTML(t("copy_bibtex"))}</button></div>
       <h3>${escapeHTML(t("study_design"))}</h3><dl class="definition-list">
         <dt>${escapeHTML(t("type"))}</dt><dd>${escapeHTML(view.studyType)}</dd>
@@ -623,15 +655,41 @@
     renderConceptFocus();
     renderDetail(selected);
     renderFreshness();
+    renderLibrary();
     if (selected) renderSourceGraph(selected);
     else renderOverview(sources);
   }
 
   function reset() {
-    [els.searchInput, els.domainFilter, els.poleFilter, els.yearFilter, els.evidenceFilter].forEach(control => { control.value = ""; });
+    [els.searchInput, els.domainFilter, els.poleFilter, els.collectionFilter, els.compartmentFilter, els.topicFilter, els.siteFilter, els.yearFilter, els.evidenceFilter].forEach(control => { control.value = ""; });
     state.selectedSource = null;
     state.conceptFocus = null;
     render();
+  }
+
+  function renderLibrary() {
+    const library = data.cold_seep_library || {papers: []};
+    const query = els.librarySearch.value.trim().toLowerCase();
+    const papers = library.papers.filter(paper => {
+      if (els.libraryCompartment.value && !paper.compartments.includes(els.libraryCompartment.value)) return false;
+      if (els.libraryTopic.value && !paper.topics.includes(els.libraryTopic.value)) return false;
+      if (els.librarySite.value && !paper.sites.includes(els.librarySite.value)) return false;
+      if (els.libraryPriority.value && paper.priority !== els.libraryPriority.value) return false;
+      const translatedTags = ["compartments", "topics", "sites"].flatMap(group => (paper[group] || []).map(id => taxonomyLabel(group, id)));
+      return !query || [paper.title, paper.doi, paper.journal, ...paper.authors, ...translatedTags].join(" ").toLowerCase().includes(query);
+    });
+    els.libraryWindow.textContent = `${library.since} → ${library.until}`;
+    els.libraryCount.textContent = t("library_count", {count: papers.length, total: library.papers.length});
+    els.libraryRows.innerHTML = papers.length ? papers.map(paper => {
+      const curated = data.sources.find(source => source.doi.toLowerCase() === paper.doi.toLowerCase());
+      return `<tr><td>${paper.publication_date || paper.year}${paper.publication_stage === "preprint" ? `<br><span class="tag">${escapeHTML(t("preprint"))}</span>` : ""}</td><td><a href="${escapeHTML(paper.url)}" target="_blank" rel="noopener" lang="en">${escapeHTML(paper.title)}</a><div class="library-meta" lang="en">${escapeHTML(paper.authors[0] || "")} ${paper.authors.length > 1 ? "et al." : ""} · ${escapeHTML(paper.journal)}<br>${escapeHTML(paper.doi)}</div></td><td>${paper.compartments.map(id => escapeHTML(taxonomyLabel("compartments", id))).join("<br>") || "—"}</td><td>${paper.topics.map(id => `<span class="tag">${escapeHTML(taxonomyLabel("topics", id))}</span>`).join(" ")}</td><td>${curated ? `<button class="button" data-library-source="${escapeHTML(curated.id)}">${escapeHTML(t("view_evidence"))}</button>` : `<span class="library-pending">${escapeHTML(t("review_pending"))}</span>`}</td></tr>`;
+    }).join("") : `<tr><td colspan="5">${escapeHTML(t("library_empty"))}</td></tr>`;
+    els.libraryRows.querySelectorAll("[data-library-source]").forEach(button => button.addEventListener("click", () => {
+      reset();
+      state.selectedSource = button.dataset.librarySource;
+      render();
+      document.querySelector(".detail").scrollIntoView({behavior: "smooth", block: "start"});
+    }));
   }
 
   function commandPreview(source) {
@@ -714,7 +772,7 @@
   function selectCommandSource(index) {
     const source = state.commandMatches[index];
     if (!source) return;
-    [els.searchInput, els.domainFilter, els.poleFilter, els.yearFilter, els.evidenceFilter].forEach(control => { control.value = ""; });
+    [els.searchInput, els.domainFilter, els.poleFilter, els.collectionFilter, els.compartmentFilter, els.topicFilter, els.siteFilter, els.yearFilter, els.evidenceFilter].forEach(control => { control.value = ""; });
     state.conceptFocus = null;
     state.selectedSource = source.id;
     closeCommand();
@@ -732,11 +790,14 @@
   systemPreference.addEventListener?.("change", () => {
     if (root.dataset.theme === "system") applyTheme("system", {persist: false});
   });
-  [els.searchInput, els.domainFilter, els.poleFilter, els.yearFilter, els.evidenceFilter].forEach(control => {
+  [els.searchInput, els.domainFilter, els.poleFilter, els.collectionFilter, els.compartmentFilter, els.topicFilter, els.siteFilter, els.yearFilter, els.evidenceFilter].forEach(control => {
     control.addEventListener(control === els.searchInput ? "input" : "change", () => {
       state.selectedSource = null;
       render();
     });
+  });
+  [els.librarySearch, els.libraryCompartment, els.libraryTopic, els.librarySite, els.libraryPriority].forEach(control => {
+    control.addEventListener(control === els.librarySearch ? "input" : "change", renderLibrary);
   });
   els.resetFilters.addEventListener("click", reset);
   els.clearAllFilters.addEventListener("click", reset);
@@ -772,6 +833,8 @@
 
   const startupParameters = new URLSearchParams(location.search);
   const startupSource = startupParameters.get("source");
+  const startupCollection = startupParameters.get("collection");
+  if ((data.taxonomy?.collections || []).some(item => item.id === startupCollection)) els.collectionFilter.value = startupCollection;
   if (startupSource && sourceById.has(startupSource)) state.selectedSource = startupSource;
   render();
   if (startupParameters.get("command") === "1") {

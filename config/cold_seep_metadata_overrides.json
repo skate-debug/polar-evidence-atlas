@@ -1,0 +1,21 @@
+{
+  "doi_records": {
+    "10.6620/zs.2023.62-26": {
+      "DOI": "10.6620/ZS.2023.62-26", "title": "A new Paralepetopsis limpet from a South China Sea seep hints at a paraphyletic Neolepetopsidae",
+      "author": [{"family":"Chen","given":"Chong"},{"family":"Zhong","given":"Zhaoyan"},{"family":"Qiu","given":"Jian-Wen"},{"family":"Sun","given":"Jin"}],
+      "container-title": "Zoological Studies", "volume": "62", "article-number": "26", "issued": {"date-parts":[[2023,5,26]]}, "type": "journal-article",
+      "metadata_verification_url": "https://zoolstud.sinica.edu.tw/issue2.php?Vol=62&no=26", "metadata_verification_basis": "Publisher article page inspected"
+    },
+    "10.6620/zs.2024.63-41": {
+      "DOI": "10.6620/ZS.2024.63-41", "title": "A new species of Natsushima (Annelida: Chrysopetalidae) living in the mantle cavity of a deep-sea solemyid clam",
+      "author": [{"family":"Hui","given":"Fan"},{"family":"Lin","given":"Yi-Tao"},{"family":"Perez","given":"Maeva"},{"family":"Qiu","given":"Jian-Wen"},{"family":"Sun","given":"Yanan"}],
+      "container-title": "Zoological Studies", "volume": "63", "article-number": "41", "issued": {"date-parts":[[2024,12,5]]}, "type": "journal-article",
+      "metadata_verification_url": "https://zoolstud.sinica.edu.tw/Journals/63/63-41.pdf", "metadata_verification_basis": "Publisher PDF first page inspected"
+    }
+  },
+  "Thermodynamics and kinetics of methane hydrate formation in seawater from the South China Sea: Potential application of hydrate-based desalination": {
+    "doi": "10.1016/j.apenergy.2025.125696",
+    "pages": "125696",
+    "verification_url": "https://www.sciencedirect.com/science/article/pii/S030626192500426X"
+  }
+}

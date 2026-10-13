@@ -1,4 +1,4 @@
-# Polar knowledge-graph ontology
+# Earth and ocean knowledge-graph ontology
 
 ## Design principles
 
@@ -16,6 +16,7 @@
 | `Claim` | Atomic evidence statement | summer viral coverage exceeds cellular coverage |
 | `Pole` | High-level polar scope | Arctic, Antarctic, Bipolar |
 | `Region` | Ocean, sea, island, basin, shelf, or named site | Fram Strait, Ross Ice Shelf |
+| Collection and filter taxonomy | Independent browsing axes stored in `config/collections.json` | polar systems; SCS cold seeps; water/sediment; research topic; study site |
 | `Habitat` | Sampled ecological setting | sea ice, permafrost, subglacial lake |
 | `Realm` | Broad biological grouping | Viruses, Bacteria, Archaea, Eukaryota |
 | `Taxon` | Named lineage at any rank | Caudoviricetes, Nitrospira, diatoms |
@@ -66,6 +67,23 @@ Each source profile contains:
 - `curation_basis`: whether the profile was checked against the abstract, full text, data descriptor, or review.
 
 Paraphrases are used instead of copied abstracts. Quantitative values are retained only when citation value justifies them.
+
+## Cold-seep collection
+
+SCS sources use `collection=scs-cold-seeps`, region concept IDs, and an empty
+`poles` array. South China Sea is represented as a region rather than a polar
+class. `compartments`, `topics`, and `sites` are independent, overlapping filters.
+Collection membership does not itself assert a biological relationship.
+
+`data/public/cold_seep_candidates.json` is a discovery inventory. Its automatic
+title/abstract tags remain provisional unless a source has a corresponding
+curated profile. The inventory does not generate scientific claims. Comparative
+global studies are included only when SCS sampling is explicit; global totals
+must not be quoted as SCS totals.
+
+The SCS publication window is a rolling ten years. The release of 12 October
+2026 covers 12 October 2016 through 12 October 2026. Discovery uses first
+publication dates; citations follow the version-of-record bibliographic year.
 
 ## JSON-LD mapping
 
