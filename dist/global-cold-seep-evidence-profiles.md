@@ -322,6 +322,40 @@ Evidence locator / 证据位置：Methods 2.1 Sample Collection and DNA Extracti
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/40005589) · `src:gcs-mediterranean-caspian-hydrocarbons` · Regional comparison / 区域比较
 
+## Faunal communities of Arctic deep-water methane seeps are specialised with links to hydrothermal vents
+
+北极深水甲烷冷泉的特化动物群及其与热液的联系
+
+Eilertsen, M. H., Klemetsdal, M. L., Kongsrud, J. A., Tandberg, A. H. S., Alvestad, T., Esteban Vazquez, B. L., Savini, A., Argentino, C., & Panieri, G. (2025). Faunal communities of Arctic deep-water methane seeps are specialised with links to hydrothermal vents. *Deep Sea Research Part I: Oceanographic Research Papers, 225*, Article 104594. https://doi.org/10.1016/j.dsr.2025.104594
+
+**Study scope / 研究范围**: Vestnesa Ridge at about 1,300 m and Svyatogor Ridge at about 1,900 m.
+
+约 1300 m 的 Vestnesa 海脊和约 1900 m 的 Svyatogor 海脊。
+
+**Design / 研究设计**: Identify fauna by morphology and DNA barcoding and compare them with the sedimented vent Loki's Castle.
+
+用形态和 DNA 条形码鉴定动物，并与沉积物覆盖的热液口 Loki's Castle 比较。
+
+**Finding / 发现**: Both deep seeps had a specialised fauna, and several species were shared with Loki's Castle.
+
+两处深水冷泉都有特化动物群，并有若干物种与 Loki's Castle 共享。
+
+**Citation limits / 引用边界**: Shared species show a connection in this regional dataset; they do not show that shallower Arctic seeps are equally specialised.
+
+共享物种说明该区域数据集中的联系，不能说明较浅的北极冷泉同样特化。
+
+**Discussion use / 讨论用途**: Use for deep Arctic seep–vent faunal overlap, separately from shelf pockmark communities.
+
+用于深水北极冷泉与热液动物的重叠，并与陆架麻坑群落分开。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：OpenAlex abstract: specialised fauna at 1,300 m and 1,900 m and species shared with Loki's Castle.
+
+OpenAlex 摘要：1300 m 与 1900 m 的特化动物群及与 Loki's Castle 共享的物种。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.dsr.2025.104594) · `src:gcs-vestnesa-svyatogor-fauna` · Regional comparison / 区域比较
+
 ## Global Distribution Patterns of Dark Matter Fungi in Cold Seep: A Metagenomic Meta-Analysis
 
 全球冷泉真菌的宏基因组地理分布比较
@@ -564,6 +598,40 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/39269636) · `src:gcs-svalbard-terrestrial-ice-interface` · Habitat context / 生境背景
 
+## Cross-shelf processes of terrigenous organic matter drive mercury speciation on the east siberian shelf in the Arctic Ocean
+
+陆源有机质跨陆架过程与东西伯利亚陆架汞形态
+
+Kim, J., Soerensen, A. L., Jeong, H., Jeong, S., Kim, E., Lee, Y. M., Jin, Y. K., Rhee, T. S., Hong, J. K., & Han, S. (2024). Cross-shelf processes of terrigenous organic matter drive mercury speciation on the East Siberian shelf in the Arctic Ocean. *Environmental Pollution, 343*, Article 123270. https://doi.org/10.1016/j.envpol.2023.123270
+
+**Study scope / 研究范围**: Twelve East Siberian Shelf stations from inner shelf to slope; not a cold-seep transect.
+
+东西伯利亚陆架从内陆架到陆坡的 12 个站位；不是冷泉断面。
+
+**Design / 研究设计**: Measure total mercury, methylmercury, organic and inorganic matter, and the presence of hgcA across four depth zones.
+
+在四个水深带测定总汞、甲基汞、有机和无机物质以及 hgcA 的出现。
+
+**Finding / 发现**: Surface-sediment total mercury increased from the inner shelf toward the slope and, normalized to organic carbon, tracked clay content and chemical weathering, while methylmercury and the sulfur-to-carbon ratio of leached organic matter peaked on the mid-shelf.
+
+表层沉积物总汞从内陆架向陆坡增加，按有机碳归一化后与黏土含量和化学风化程度一致；甲基汞和浸出有机质的硫碳比在中陆架最高。
+
+**Citation limits / 引用边界**: Mid-shelf methylmercury and hgcA suggest sulfate-reducer involvement but do not measure a methylation rate, and the transect is not a seep.
+
+中陆架甲基汞和 hgcA 提示硫酸盐还原菌参与，但没有测定甲基化速率，该断面也不是冷泉。
+
+**Discussion use / 讨论用途**: Use for terrigenous and cross-shelf controls on Arctic sedimentary mercury, explicitly apart from Haima seep enrichment.
+
+用于陆源和跨陆架过程对北极沉积物汞的控制，并明确区别于海马冷泉的富集。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Europe PMC abstract: cross-shelf THg increase, mid-shelf MeHg peak, and hgcA.
+
+Europe PMC 摘要：总汞跨陆架增加、中陆架甲基汞峰值与 hgcA。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.envpol.2023.123270) · `src:gcs-east-siberian-mercury-speciation` · Habitat context / 生境背景
+
 ## Dispersion and fate of methane emissions from cold seeps on Hikurangi Margin, New Zealand
 
 希库朗伊冷泉溶解甲烷羽流的输运与稀释
@@ -597,6 +665,42 @@ Evidence locator / 证据位置：Publisher-deposited Abstract in DOI metadata: 
 DOI 出版信息中提交的摘要：观测与 Gerris／ROMS 结果。
 
 [Inspected source / 核查来源](https://doi.org/10.3389/feart.2024.1354388) · `src:gcs-hikurangi-plume-dilution` · Regional comparison / 区域比较
+
+## Editorial: Natural methane emissions in a changing arctic – implications for climate and environment
+
+变化中的北极自然甲烷排放及其气候与环境意义（社论）
+
+Andreassen, K., Ruppel, C., Liebner, S., Hodson, A., & Knies, J. (2024). Editorial: Natural methane emissions in a changing Arctic – implications for climate and environment. *Frontiers in Earth Science, 12*, Article 1508196. https://doi.org/10.3389/feart.2024.1508196
+
+**Study scope / 研究范围**: Arctic methane in deep water, shallow shelves and fjords, subsea permafrost and hydrate, onshore permafrost, and beneath glaciers and the Greenland Ice Sheet.
+
+北极深水、浅陆架与峡湾、海底冻土与水合物、陆上冻土，以及冰川和格陵兰冰盖之下的甲烷。
+
+**Design / 研究设计**: Introduce the research topic and the settings in which Arctic methane accumulations may respond to warming.
+
+介绍研究专题，以及北极甲烷储库可能响应增温的环境。
+
+**Finding / 发现**: The editorial argues that Arctic warming, described as nearly four times the global rate, makes increased leakage from those methane accumulations more likely, including from deeper gas if permafrost and hydrate degrade.
+
+社论认为，北极增温约为全球速率的四倍，使这些甲烷储库更可能增加泄漏；若冻土和水合物退化，更深的常规气藏也可能泄漏。
+
+**Citation limits / 引用边界**: An editorial is not a flux inventory. The Crossref author list is Andreassen, Ruppel, Liebner, Hodson, and Knies.
+
+社论不是通量清单。Crossref 作者为 Andreassen、Ruppel、Liebner、Hodson 和 Knies。
+
+**Discussion use / 讨论用途**: Cite as the 2024 overview of the CAGE Arctic-methane topic, using the verified author list rather than an editor name that is absent from Crossref.
+
+作为 2024 年 CAGE 北极甲烷专题的概述引用，并使用经核验的作者名单，而不是 Crossref 中没有的编者姓名。
+
+Sampling time / 采样时间：Editorial for work connected to the CAGE conference of 14–16 September 2022. 与 2022 年 9 月 14–16 日 CAGE 会议相关工作的社论。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：OpenAlex abstract: CAGE editorial on Arctic methane accumulations under rapid warming.
+
+OpenAlex 摘要：关于快速增温下北极甲烷储库的 CAGE 社论。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/feart.2024.1508196) · `src:gcs-arctic-methane-editorial` · Regional comparison / 区域比较
 
 ## Methanotroph activity and connectivity between two seep systems north off Svalbard
 
@@ -840,6 +944,40 @@ Evidence locator / 证据位置：Methods 2.1 Field Study and Sampling; Results 
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/36838215) · `src:gcs-laptev-sediment-rate-profiles` · Regional comparison / 区域比较
 
+## Elevated methane alters dissolved organic matter composition in the Arctic Ocean cold seeps
+
+添加甲烷改变北斯瓦尔巴冷泉海水 DOM 组成
+
+Sert, M. F., Schweitzer, H. D., de Groot, T. R., Kekäläinen, T., Jänis, J., Bernstein, H. C., Ferré, B., Gründger, F., Kalenitchenko, D., & Niemann, H. (2023). Elevated methane alters dissolved organic matter composition in the Arctic Ocean cold seeps. *Frontiers in Earth Science, 11*, Article 1290882. https://doi.org/10.3389/feart.2023.1290882
+
+**Study scope / 研究范围**: Seawater from a cold seep at Norskebanken, north of Svalbard, with seep and non-seep incubations.
+
+斯瓦尔巴以北 Norskebanken 冷泉海水，含冷泉与非冷泉培养。
+
+**Design / 研究设计**: Incubate seawater with and without about 1 µM added methane and measure oxidation rates, DOM formulas, and the microbial community.
+
+在添加或不添加约 1 µM 甲烷的条件下培养海水，测定氧化速率、DOM 分子式和微生物群落。
+
+**Finding / 发现**: Methane addition raised aerobic oxidation rates in both seep and non-seep water and increased DOM formula counts by up to 39%, while unamended incubations lost about 20% of formulas.
+
+添加甲烷提高了冷泉和非冷泉水的有氧氧化速率，DOM 分子式数量最多增加 39%；未添加组的分子式大约减少 20%。
+
+**Citation limits / 引用边界**: Ex situ amendment at about 1 µM methane is an experimental potential, not in situ DOM export or transfer into the food web.
+
+约 1 µM 甲烷的离体添加是实验潜力，不是原位 DOM 输出或进入食物网的传递。
+
+**Discussion use / 讨论用途**: Use for a direct test that elevated methane can increase DOM diversity, with the incubation conditions retained.
+
+用于升高甲烷可增加 DOM 多样性的直接实验，引用时保留培养条件。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: 1 µM amendment, up to 39% more formulas, and 20% loss without methane.
+
+Crossref 摘要：1 µM 添加、分子式最多增加 39%，无甲烷时减少 20%。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/feart.2023.1290882) · `src:gcs-norskebanken-methane-dom` · Regional comparison / 区域比较
+
 ## Evolutionary ecology of microbial populations inhabiting deep sea sediments associated with cold seeps
 
 全球冷泉种群进化的跨海区比较
@@ -975,6 +1113,40 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 摘要：研究设计与主要发现。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/37009161) · `src:gcs-pacific-seep-ecotones` · Regional comparison / 区域比较
+
+## Chemosynthetic and photosynthetic trophic support from cold seeps in Arctic benthic communities
+
+北极冷泉对底栖食物网的化能与光合碳贡献
+
+Åström, E. K. L., Bluhm, B. A., & Rasmussen, T. L. (2022). Chemosynthetic and photosynthetic trophic support from cold seeps in Arctic benthic communities. *Frontiers in Marine Science, 9*, Article 910558. https://doi.org/10.3389/fmars.2022.910558
+
+**Study scope / 研究范围**: Shallow and deeper shelf seeps and non-seep areas in the Svalbard–Barents Sea region.
+
+斯瓦尔巴–巴伦支海浅水与较深陆架的冷泉及非冷泉区。
+
+**Design / 研究设计**: Estimate chemosynthesis-based carbon in benthic invertebrates from bulk carbon and nitrogen isotopes.
+
+用总体碳、氮同位素估计底栖无脊椎动物中的化能合成碳。
+
+**Finding / 发现**: Chemosymbiotic siboglinids had δ13C about −51.3 to −32.7‰, and some polychaetes and echinoderms from seeps were about −35.0 to −26.1‰, below the photosynthetic baseline used in the study.
+
+化能共生须腕动物的 δ13C 约为 −51.3‰ 至 −32.7‰；冷泉的部分多毛类和棘皮动物约为 −35.0‰ 至 −26.1‰，低于研究采用的光合基线。
+
+**Citation limits / 引用边界**: The inspected abstract gives these isotope ranges but not a single chemosynthetic-carbon percentage that can be applied to every Arctic benthic species.
+
+所查摘要给出这些同位素范围，但没有一个可套用到所有北极底栖物种的化能碳百分比。
+
+**Discussion use / 讨论用途**: Cite the measured isotope ranges, not an unsupported fraction of chemosynthetic carbon.
+
+引用实测同位素范围，不要使用未经摘要支持的化能碳比例。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: siboglinid and consumer δ13C ranges at Svalbard–Barents seeps.
+
+Crossref 摘要：斯瓦尔巴–巴伦支海冷泉须腕动物与消费者的 δ13C 范围。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/fmars.2022.910558) · `src:gcs-arctic-seep-trophic-isotopes` · Regional comparison / 区域比较
 
 ## Diversity of Anaerobic Methane Oxidizers in the Cold Seep Sediments of the Okinawa Trough
 
@@ -1180,6 +1352,40 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/34728618) · `src:gcs-arctic-methane-states` · Regional comparison / 区域比较
 
+## Dynamic and history of methane seepage in the SW Barents Sea: new insights from Leirdjupet Fault Complex
+
+莱尔丘皮特断裂带甲烷渗漏的气体来源与历史
+
+Argentino, C., Waghorn, K. A., Vadakkepuliyambatta, S., Polteau, S., Bünz, S., & Panieri, G. (2021). Dynamic and history of methane seepage in the SW Barents Sea: New insights from Leirdjupet fault complex. *Scientific Reports, 11*(1), Article 4373. https://doi.org/10.1038/s41598-021-83542-0
+
+**Study scope / 研究范围**: Active seepage at the Leirdjupet Fault Complex, southwest Barents Sea, 295–353 m water depth.
+
+西南巴伦支海 Leirdjupet 断裂带活跃渗漏，水深 295–353 m。
+
+**Design / 研究设计**: Analyze hydrocarbon gas, sediment chemistry, and methane-derived authigenic carbonates.
+
+分析烃类气体、沉积物化学和甲烷来源自生碳酸盐。
+
+**Finding / 发现**: Gas is a microbial–thermogenic mixture from underlying Mesozoic formations, and emission is reconstructed after 14.5 cal ka BP, with carbonates linked to hydrate destabilization during Atlantic-water inflow and isostatic rebound.
+
+气体为来自下伏中生界地层的微生物–热成因混合物；排放被重建为 14.5 cal ka BP 之后，碳酸盐与大西洋水流入和均衡反弹期间的水合物失稳相关。
+
+**Citation limits / 引用边界**: Onset and trigger are specific to this fault complex and are not present-day emission rates for the southwest Barents Sea.
+
+起始时间与触发机制针对该断裂带，不是西南巴伦支海的现今排放速率。
+
+**Discussion use / 讨论用途**: Cite for mixed gas sources and a deglacial onset when comparing Barents seep history.
+
+比较巴伦支海冷泉历史时，用于混合气体来源和冰消期起始时间。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: mixed gas and emissions after 14.5 cal ka BP.
+
+Crossref 摘要：混合气体与 14.5 cal ka BP 之后的排放。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/s41598-021-83542-0) · `src:gcs-leirdjupet-seep-history` · Regional comparison / 区域比较
+
 ## Expanding the repertoire of electron acceptors for the anaerobic oxidation of methane in carbonates in the Atlantic and Pacific Ocean
 
 大西洋与太平洋冷泉碳酸盐中的候选甲烷氧化电子受体
@@ -1282,6 +1488,42 @@ DOI 出版信息中提交的出版方摘要。
 
 [Inspected source / 核查来源](https://doi.org/10.1002/lno.11731) · `src:gcs-arctic-water-seasonal-retention` · Regional comparison / 区域比较
 
+## Compositional Differences in Dissolved Organic Matter Between Arctic Cold Seeps Versus Non-Seep Sites at the Svalbard Continental Margin and the Barents Sea
+
+斯瓦尔巴与巴伦支海冷泉和非冷泉水体 DOM 的差异
+
+Sert, M. F., D’Andrilli, J., Gründger, F., Niemann, H., Granskog, M. A., Pavlov, A. K., Ferré, B., & Silyakova, A. (2020). Compositional differences in dissolved organic matter between Arctic cold seeps versus non-seep sites at the Svalbard continental margin and the Barents Sea. *Frontiers in Earth Science, 8*, Article 552731. https://doi.org/10.3389/feart.2020.552731
+
+**Study scope / 研究范围**: Previously characterized seep and non-seep areas on the Svalbard margin and in the Barents Sea.
+
+斯瓦尔巴陆缘和巴伦支海已描述的冷泉与非冷泉区域。
+
+**Design / 研究设计**: Compare dissolved methane, nutrients, chlorophyll, particulates, methane-oxidation rates, and FT-ICR MS DOM composition.
+
+比较溶解甲烷、营养盐、叶绿素、颗粒物、甲烷氧化速率和 FT-ICR MS 的 DOM 组成。
+
+**Finding / 发现**: DOM diversity was about 3–5% higher and more protein- and lipid-like near seeps, whereas nutrients, chlorophyll, and particulates followed water-column hydrography.
+
+冷泉附近 DOM 多样性约高 3–5%，且更偏蛋白质和脂质类；营养盐、叶绿素和颗粒物则跟随水体水文。
+
+**Citation limits / 引用边界**: A late-spring comparison does not show that seeps set nutrient or chlorophyll fields, and formula counts are not production rates.
+
+春末比较不能说明冷泉决定营养盐或叶绿素，分子式计数也不是产生速率。
+
+**Discussion use / 讨论用途**: Separate seep effects on DOM from hydrographic control of nutrients when comparing Arctic and SCS water columns.
+
+比较北极与南海水体时，把冷泉对 DOM 的影响与水文对营养盐的控制分开。
+
+Sampling time / 采样时间：May and June 2017. 2017 年 5 月至 6 月。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: 3–5% higher DOM diversity at seeps and hydrographic nutrient control.
+
+Crossref 摘要：冷泉 DOM 多样性高 3–5%，营养盐受水文控制。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/feart.2020.552731) · `src:gcs-svalbard-seep-dom` · Regional comparison / 区域比较
+
 ## Genomic and enzymatic evidence of acetogenesis by anaerobic methanotrophic archaea
 
 加的斯湾来源 ANME-2a 富集体系的乙酸生成证据
@@ -1315,6 +1557,42 @@ Evidence locator / 证据位置：Results: A microbial community fueled solely b
 结果：仅由 AOM 供能的微生物群落；方法：连续高压培养与活性分析。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/32770005) · `src:gcs-cadiz-anme-acetogenesis` · Mechanistic precedent / 机制先例
+
+## Mass Budget of Methylmercury in the East Siberian Sea: The Importance of Sediment Sources
+
+东西伯利亚海甲基汞收支与沉积物来源
+
+Kim, J., Soerensen, A. L., Kim, M. S., Eom, S., Rhee, T. S., Jin, Y. K., & Han, S. (2020). Mass budget of methylmercury in the East Siberian Sea: The importance of sediment sources. *Environmental Science & Technology, 54*(16), 9949–9957. https://doi.org/10.1021/acs.est.0c00154
+
+**Study scope / 研究范围**: East Siberian Sea shelf and slope seawater, porewater, and sediment; not a named cold seep.
+
+东西伯利亚海陆架与陆坡的海水、孔隙水和沉积物；不是具名冷泉。
+
+**Design / 研究设计**: Measure methylmercury and construct a shelf water-column budget, then extrapolate benthic diffusion to the Arctic shelf.
+
+测定甲基汞并建立陆架水体收支，再将底栖扩散外推到北极陆架。
+
+**Finding / 发现**: Seawater and porewater methylmercury were higher on the slope than the shelf, while sediment methylmercury was higher on the shelf; benthic diffusion and resuspension exceeded atmospheric deposition and rivers in the budget.
+
+海水和孔隙水甲基汞在陆坡高于陆架，沉积物甲基汞则在陆架更高；收支中底栖扩散和再悬浮超过大气沉降与河流。
+
+**Citation limits / 引用边界**: The pan-Arctic shelf extrapolation, given as about twice previous river discharge, extends beyond the East Siberian stations and is not a seep flux.
+
+对整个北极陆架的外推（约为先前河流输入的两倍）超出了东西伯利亚站位，也不是冷泉通量。
+
+**Discussion use / 讨论用途**: Use for shelf-sediment methylmercury supply, without merging it with the basin-scale surface budget or with seep methylation.
+
+用于陆架沉积物的甲基汞供应，不要把它与海盆尺度表层收支或冷泉甲基化合并。
+
+Sampling time / 采样时间：August–September 2018. 2018 年 8–9 月。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Europe PMC abstract: slope-versus-shelf MeHg and dominance of benthic diffusion and resuspension.
+
+Europe PMC 摘要：陆坡与陆架甲基汞对比，以及底栖扩散和再悬浮占优。
+
+[Inspected source / 核查来源](https://doi.org/10.1021/acs.est.0c00154) · `src:gcs-east-siberian-methylmercury-budget` · Habitat context / 生境背景
 
 ## Metagenomic views of microbial dynamics influenced by hydrocarbon seepage in sediments of the Gulf of Mexico
 
@@ -1350,6 +1628,76 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/32238866) · `src:gcs-gom-seep-background-nitrogen` · Regional comparison / 区域比较
 
+## Multi-proxy approach to unravel methane emission history of an Arctic cold seep
+
+斯托尔峡湾海槽冷泉甲烷排放历史的多指标重建
+
+Yao, H., Niemann, H., & Panieri, G. (2020). Multi-proxy approach to unravel methane emission history of an Arctic cold seep. *Quaternary Science Reviews, 244*, Article 106490. https://doi.org/10.1016/j.quascirev.2020.106490
+
+**Study scope / 研究范围**: Gas-hydrate mounds in Storfjordrenna, south of Svalbard, about 380 m water depth.
+
+斯瓦尔巴以南 Storfjordrenna 气体水合物丘，水深约 380 m。
+
+**Design / 研究设计**: Combine foraminiferal radiocarbon, sediment elemental ratios, carbonate mineralogy and isotopes, and biomarker carbon isotopes.
+
+联合有孔虫放射性碳、沉积物元素比、碳酸盐矿物与同位素以及生物标志物碳同位素。
+
+**Finding / 发现**: Local deglaciation is placed near 20 kyr BP, with major methane venting about 15–17 kyr BP and smaller episodes interpreted as hydrate instability after deglaciation began.
+
+当地冰消开始于约 20 kyr BP；主要甲烷排气约在 15–17 kyr BP，较小阶段被解释为冰消开始后的水合物不稳定。
+
+**Citation limits / 引用边界**: Proxy phases at these mounds are not measured past fluxes and do not date every Arctic seep.
+
+这些丘体的代用指标阶段不是过去通量的直接测量，也不能给所有北极冷泉定年。
+
+**Discussion use / 讨论用途**: Use for a Storfjordrenna deglacial methane chronology beside modern community studies at the same mounds.
+
+与同一丘体现今群落研究并列，用作 Storfjordrenna 冰消期甲烷年代。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：OpenAlex abstract: 20 kyr BP deglaciation and 15–17 kyr BP venting.
+
+OpenAlex 摘要：20 kyr BP 冰消与 15–17 kyr BP 排气。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.quascirev.2020.106490) · `src:gcs-storfjordrenna-emission-history` · Regional comparison / 区域比较
+
+## Reduced methane seepage from Arctic sediments during cold bottom-water conditions
+
+冷底层水期间北极沉积物甲烷渗漏减弱
+
+Ferré, B., Jansson, P. G., Moser, M., Serov, P., Portnov, A., Graves, C. A., Panieri, G., Gründger, F., Berndt, C., Lehmann, M. F., & Niemann, H. (2020). Reduced methane seepage from Arctic sediments during cold bottom-water conditions. *Nature Geoscience, 13*(2), 144–148. https://doi.org/10.1038/s41561-019-0515-3
+
+**Study scope / 研究范围**: Cold seeps along the gas-hydrate stability limit offshore Svalbard.
+
+斯瓦尔巴外海水合物稳定界附近的冷泉。
+
+**Design / 研究设计**: Compare hydroacoustic seep activity and methane release between cold and warm bottom-water seasons.
+
+比较冷、暖底层水季节的水声渗漏活动与甲烷释放。
+
+**Finding / 发现**: Seepage was substantially weaker under cold May 2016 bottom water, with about a 43% reduction in seep count and methane release rate relative to warmer August 2012 conditions.
+
+2016 年 5 月冷底层水下渗漏明显减弱，冷泉数量和甲烷释放速率比 2012 年 8 月暖水条件大约低 43%。
+
+**Citation limits / 引用边界**: Two seasons at this shelf break do not define a universal Arctic annual cycle or a basin-wide flux correction.
+
+该陆架坡折的两个季节不能确定普遍的北极年循环，也不能直接作为全海盆通量校正。
+
+**Discussion use / 讨论用途**: Use when sampling date and bottom-water temperature can change an Arctic seep census.
+
+在采样日期和底层水温会改变北极冷泉统计时引用。
+
+Sampling time / 采样时间：Cold survey in May 2016 compared with warm survey in August 2012. 2016 年 5 月冷水调查与 2012 年 8 月暖水调查比较。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Nature publisher abstract: May 2016 versus August 2012 and the 43% reduction.
+
+《自然》出版方摘要：2016 年 5 月对比 2012 年 8 月及 43% 降幅。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/s41561-019-0515-3) · `src:gcs-svalbard-cold-season-seepage` · Regional comparison / 区域比较
+
 ## Riddles in the cold: Antarctic endemism and microbial succession impact methane cycling in the Southern Ocean
 
 南极新生浅水冷泉的微生物演替与甲烷逸出
@@ -1383,6 +1731,40 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 摘要：研究设计与主要发现。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/32693727) · `src:gcs-antarctic-seep-succession` · Regional comparison / 区域比较
+
+## The Impact of Methane on Microbial Communities at Marine Arctic Gas Hydrate Bearing Sediment
+
+斯瓦尔巴水合物丘甲烷对微生物群落的影响
+
+Carrier, V., Svenning, M. M., Gründger, F., Niemann, H., Dessandier, P.-A., Panieri, G., & Kalenitchenko, D. (2020). The impact of methane on microbial communities at marine Arctic gas hydrate bearing sediment. *Frontiers in Microbiology, 11*, Article 1932. https://doi.org/10.3389/fmicb.2020.01932
+
+**Study scope / 研究范围**: Three gas-hydrate mounds south of Svalbard, sampled from summit toward the outskirts.
+
+斯瓦尔巴以南三座气体水合物丘，自丘顶向外侧采样。
+
+**Design / 研究设计**: Profile prokaryotic 16S and eukaryotic 18S rRNA along distance gradients and compare methane-rich and other sediments.
+
+沿距离梯度分析原核 16S 和真核 18S rRNA，并比较富甲烷与其他沉积物。
+
+**Finding / 发现**: Methane-rich sediments shared similar communities anywhere on the mounds rather than a summit-to-edge gradient, and ANME-1 was the main group linked to anaerobic methane oxidation.
+
+丘体上任何位置的富甲烷沉积物群落相似，而不是丘顶到边缘的梯度；厌氧甲烷氧化主要与 ANME-1 相关。
+
+**Citation limits / 引用边界**: Relative 16S/18S abundances do not measure oxidation rates, and sulfate-reducing groups were abundant without a clear co-occurrence pattern with ANME-1.
+
+16S/18S 相对丰度不是氧化速率；硫酸盐还原类群丰富，但与 ANME-1 没有清晰的共现模式。
+
+**Discussion use / 讨论用途**: Compare seep-versus-background community structure without assuming a monotonic distance gradient.
+
+比较冷泉与背景群落时，不要默认存在单调的距离梯度。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Europe PMC abstract: no summit-to-edge gradient; ANME-1 in methane-rich mound sediments.
+
+Europe PMC 摘要：没有丘顶到边缘的梯度；富甲烷丘体沉积物中的 ANME-1。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/fmicb.2020.01932) · `src:gcs-svalbard-mound-methane-communities` · Regional comparison / 区域比较
 
 ## Thermogenic hydrocarbon biodegradation by diverse depth-stratified microbial populations at a Scotian Basin cold seep
 
@@ -1520,6 +1902,40 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/31000700) · `src:gcs-gom-petroleum-genomes` · Regional comparison / 区域比较
 
+## Methane-fuelled biofilms predominantly composed of methanotrophic ANME-1 in Arctic gas hydrate-related sediments
+
+巴伦支海水合物丘中以 ANME-1 为主的甲烷生物膜
+
+Gründger, F., Carrier, V., Svenning, M. M., Panieri, G., Vonnahme, T. R., Klasek, S., & Niemann, H. (2019). Methane-fuelled biofilms predominantly composed of methanotrophic ANME-1 in Arctic gas hydrate-related sediments. *Scientific Reports, 9*(1), Article 9725. https://doi.org/10.1038/s41598-019-46209-5
+
+**Study scope / 研究范围**: Two gas-hydrate pingos in the northwestern Barents Sea with steady methane fluxes.
+
+西北巴伦支海两处甲烷通量稳定的气体水合物丘。
+
+**Design / 研究设计**: Describe visible biofilms in sulfate–methane transition pockets using 16S rRNA surveys and confocal microscopy.
+
+用 16S rRNA 调查和共聚焦显微观察硫酸盐–甲烷转换带囊袋中的可见生物膜。
+
+**Finding / 发现**: One biofilm contained ANME-1 as its only archaeal taxon, with SEEP-SRB1 relatives and JS1 bacteria loosely associated rather than in tight aggregates.
+
+其中一个生物膜的古菌只有 ANME-1，SEEP-SRB1 近缘类群和 JS1 细菌松散伴生，而不是紧密聚集体。
+
+**Citation limits / 引用边界**: Two biofilms do not establish how widespread this sink is and do not provide a methane or sulfate consumption rate.
+
+两个生物膜不能说明该甲烷汇有多普遍，也没有给出甲烷或硫酸盐消耗速率。
+
+**Discussion use / 讨论用途**: Use as an Arctic example of ANME-1 biofilms that are not organized as classic tight consortia.
+
+作为北极 ANME-1 生物膜并不组织成经典紧密联合体的实例。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: Barents pingo biofilms dominated by ANME-1.
+
+Crossref 摘要：巴伦支海丘体生物膜由 ANME-1 占优。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/s41598-019-46209-5) · `src:gcs-barents-anme1-biofilms` · Regional comparison / 区域比较
+
 ## Decoupling between sulfate reduction and the anaerobic oxidation of methane in the shallow methane seep of the Black sea
 
 黑海浅水冷泉硫酸盐还原与甲烷氧化的脱耦
@@ -1553,6 +1969,74 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 摘要：研究设计与主要发现。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/30252039) · `src:gcs-black-sea-sulfur-decoupling` · Regional comparison / 区域比较
+
+## Gas hydrate dissociation off Svalbard induced by isostatic rebound rather than global warming
+
+斯瓦尔巴水合物分解由均衡反弹而非当代增温驱动
+
+Wallmann, K., Riedel, M., Hong, W. L., Patton, H., Hubbard, A., Pape, T., Hsu, C. W., Schmidt, C., Johnson, J. E., Torres, M. E., Andreassen, K., Berndt, C., & Bohrmann, G. (2018). Gas hydrate dissociation off Svalbard induced by isostatic rebound rather than global warming. *Nature Communications, 9*(1), Article 83. https://doi.org/10.1038/s41467-017-02550-9
+
+**Study scope / 研究范围**: Sediment cores drilled off Prins Karls Forland, western Svalbard.
+
+西斯瓦尔巴普林斯卡尔斯前地外海钻取的沉积物岩芯。
+
+**Design / 研究设计**: Identify freshwater from dissociating hydrate and compare the timing of porewater freshening with isostatic uplift and sea-level rise.
+
+识别水合物分解产生的淡水，并将孔隙水淡化时间与均衡抬升和海平面上升比较。
+
+**Finding / 发现**: Modeled freshening begins near 8 ka BP, when isostatic uplift outpaced eustatic sea-level rise, and the resulting hydrate-derived methane fluxes are smaller than present seepage.
+
+模拟的淡化开始于约 8 ka BP，当时均衡抬升超过全球海平面上升；由此产生的水合物来源甲烷通量小于现今渗漏。
+
+**Citation limits / 引用边界**: The rebound trigger and the interpretation of hydrate as a seal on deeper gas are model results for these cores, not a region-wide exclusion of recent bottom-water warming.
+
+反弹触发以及水合物作为深层气体封盖的解释是这些岩芯的模型结果，不能在整个区域排除近期底层水增温。
+
+**Discussion use / 讨论用途**: Separate postglacial pressure release from anthropogenic bottom-water warming when discussing Svalbard hydrate seepage.
+
+讨论斯瓦尔巴水合物渗漏时，将冰后压力释放与人为底层水增温分开。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Europe PMC abstract: 8 ka BP rebound, freshening, and hydrate flux versus present seepage.
+
+Europe PMC 摘要：8 ka BP 反弹、淡化，以及水合物通量与现今渗漏的比较。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/s41467-017-02550-9) · `src:gcs-svalbard-isostatic-hydrate` · Regional comparison / 区域比较
+
+## Methane cold seeps as biological oases in the high‐Arctic deep sea
+
+高北极深海甲烷冷泉作为底栖生物绿洲
+
+Åström, E. K. L., Carroll, M. L., Ambrose, W. G., Sen, A., Silyakova, A., & Carroll, J. (2018). Methane cold seeps as biological oases in the high‐Arctic deep sea. *Limnology and Oceanography, 63*(S1). https://doi.org/10.1002/lno.10732
+
+**Study scope / 研究范围**: Methane-rich pockmarks at Vestnesa Ridge, Svalbard, 79°N, and a nearby control region.
+
+斯瓦尔巴 Vestnesa 海脊 79°N 富甲烷麻坑及附近对照区。
+
+**Design / 研究设计**: Compare infaunal samples, seafloor photographs, and sediment characteristics inside, at the edge, and outside pockmarks.
+
+比较麻坑内部、边缘和外部的内栖生物样品、海底照片和沉积物特征。
+
+**Finding / 发现**: Infaunal biomass and abundance were about five times higher, richness about 2.5 times higher, and diversity about 1.5 times higher at methane-rich Vestnesa than at the control; mats, siboglinids, and carbonates occupied pockmark interiors.
+
+富甲烷 Vestnesa 的内栖生物量和丰度约为对照的五倍，物种丰富度约 2.5 倍，多样性约 1.5 倍；微生物席、须腕动物和碳酸盐位于麻坑内部。
+
+**Citation limits / 引用边界**: The contrast is with one nearby control and does not measure how much of the biomass is chemosynthetic carbon.
+
+该对比只有一个附近对照，也没有测量生物量中有多少是化能合成碳。
+
+**Discussion use / 讨论用途**: Cite for Vestnesa pockmarks as high-Arctic biological oases, not for a carbon-source partition.
+
+用于说明 Vestnesa 麻坑是高北极生物绿洲，而不是碳源分配。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：OpenAlex abstract: fivefold biomass and pockmark faunal zones at Vestnesa.
+
+OpenAlex 摘要：Vestnesa 五倍生物量及麻坑动物分带。
+
+[Inspected source / 核查来源](https://doi.org/10.1002/lno.10732) · `src:gcs-vestnesa-benthic-oases` · Regional comparison / 区域比较
 
 ## Comparative metagenomics of hydrocarbon and methane seeps of the Gulf of Mexico
 
@@ -1590,6 +2074,76 @@ Evidence locator / 证据位置：Methods: Sample description; Discussion: Hydro
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/29167487) · `src:gcs-gom-fluid-composition` · Regional comparison / 区域比较
 
+## Massive blow-out craters formed by hydrate-controlled methane expulsion from the Arctic seafloor
+
+巴伦支海冰退引发的大规模甲烷炸坑
+
+Andreassen, K., Hubbard, A., Winsborrow, M., Patton, H., Vadakkepuliyambatta, S., Plaza-Faverola, A., Gudlaugsson, E., Serov, P., Deryabin, A., Mattingsdal, R., Mienert, J., & Bünz, S. (2017). Massive blow-out craters formed by hydrate-controlled methane expulsion from the Arctic seafloor. *Science, 356*(6341), 948–953. https://doi.org/10.1126/science.aal4500
+
+**Study scope / 研究范围**: Barents Sea floor craters and mounds associated with methane expulsion.
+
+与甲烷排出相关的巴伦支海海底坑与丘。
+
+**Design / 研究设计**: Document seafloor craters and mounds with geophysical data and interpret them with ice-sheet and gas-hydrate modeling.
+
+用地球物理数据记录海底坑与丘，并结合冰盖与气体水合物模型解释。
+
+**Finding / 发现**: Kilometer-scale Barents Sea craters and mounds are tied to large methane expulsions; the model stores gas as subglacial hydrate during glaciation and releases it abruptly into mounds and craters after ice retreat.
+
+千米级巴伦支海坑与丘与大规模甲烷排出相关；模型认为冰期气体以冰下水合物储存，冰退之后突然释放并形成丘和坑。
+
+**Citation limits / 引用边界**: Extension to other former glaciated petroleum provinces, and the analogy to hydrate under modern ice sheets, is a proposal rather than a measurement at those sites.
+
+推广到其他古冰川油气区和现代冰盖下水合物的类比属于提出的推断，并非那些地点的实测。
+
+**Discussion use / 讨论用途**: Use for postglacial hydrate blowout as a Barents Sea mechanism, not as a measured present-day emissions rate.
+
+用于巴伦支海冰退后水合物爆裂这一机制，而非现今排放速率的实测。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Author abstract via OpenAlex: craters, subglacial hydrate storage, and release after ice retreat.
+
+经 OpenAlex 取得的作者摘要：炸坑、冰下水合物储存及冰退释放。
+
+[Inspected source / 核查来源](https://doi.org/10.1126/science.aal4500) · `src:gcs-barents-blowout-craters` · Regional comparison / 区域比较
+
+## Postglacial response of Arctic Ocean gas hydrates to climatic amelioration
+
+末次冰期以来斯瓦尔巴水合物的储存与释放
+
+Serov, P., Vadakkepuliyambatta, S., Mienert, J., Patton, H., Portnov, A., Silyakova, A., Panieri, G., Carroll, M. L., Carroll, J., Andreassen, K., & Hubbard, A. (2017). Postglacial response of Arctic Ocean gas hydrates to climatic amelioration. *Proceedings of the National Academy of Sciences, 114*(24), 6215–6220. https://doi.org/10.1073/pnas.1619288114
+
+**Study scope / 研究范围**: Offshore Svalbard dome field used to constrain hydrate stability from the last glaciation to the present.
+
+以斯瓦尔巴外海穹丘区约束末次冰期至今的水合物稳定性。
+
+**Design / 研究设计**: Constrain a coupled ice-sheet and gas-hydrate model with geophysical observations.
+
+用地球物理观测约束冰盖与气体水合物耦合模型。
+
+**Finding / 发现**: The model produces subglacial methane storage and later release that formed seafloor domes, with enhanced emissions during the penultimate Heinrich event, the Bølling–Allerød, and the Holocene optimum.
+
+模型给出冰下甲烷储存及随后释放，并形成海底穹丘；排放增强出现在倒数第二次海因里希事件、博令–阿勒罗德间冰段和全新世适宜期。
+
+**Citation limits / 引用边界**: These are modeled episodes of natural climate variability before recent anthropogenic warming, not a measurement of the modern atmospheric methane increase.
+
+这些是近期人为增温之前自然气候变率下的模拟阶段，不是现代大气甲烷增加的实测。
+
+**Discussion use / 讨论用途**: Compare Arctic hydrate history on glacial timescales without treating the model as a present-day seep flux.
+
+在冰川时间尺度上比较北极水合物历史，不要把模型当作现今冷泉通量。
+
+Sampling time / 采样时间：Last glaciation through the present, covering about the last 30,000 years in the inspected abstract. 末次冰期至今；所查摘要覆盖约最近 3 万年。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Author abstract via OpenAlex: Svalbard geophysics, dome field, and pre-anthropogenic emission episodes.
+
+经 OpenAlex 取得的作者摘要：斯瓦尔巴地球物理、穹丘区及人为增温前的排放阶段。
+
+[Inspected source / 核查来源](https://doi.org/10.1073/pnas.1619288114) · `src:gcs-svalbard-postglacial-hydrates` · Regional comparison / 区域比较
+
 ## Relative Abundance and Diversity of Bacterial Methanotrophs at the Oxic–Anoxic Interface of the Congo Deep-Sea Fan
 
 刚果深海扇氧化还原界面的甲烷氧化菌背景比较
@@ -1623,6 +2177,40 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 摘要：研究设计与主要发现。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/28487684) · `src:gcs-congo-fan-interface-context` · Habitat context / 生境背景
+
+## Seepage from an arctic shallow marine gas hydrate reservoir is insensitive to momentary ocean warming
+
+斯托尔峡湾海槽浅水水合物对短期增温不敏感
+
+Hong, W.-L., Torres, M. E., Carroll, J., Crémière, A., Panieri, G., Yao, H., & Serov, P. (2017). Seepage from an Arctic shallow marine gas hydrate reservoir is insensitive to momentary ocean warming. *Nature Communications, 8*(1), Article 15745. https://doi.org/10.1038/ncomms15745
+
+**Study scope / 研究范围**: Storfjordrenna gas-hydrate system south of Spitsbergen, about 380 m water depth.
+
+斯匹次卑尔根以南 Storfjordrenna 气体水合物系统，水深约 380 m。
+
+**Design / 研究设计**: Model non-steady porewater profiles, describe methane-derived authigenic carbonate layers, and test short-term bottom-water warming.
+
+模拟非稳态孔隙水剖面，描述甲烷来源自生碳酸盐层，并检验短期底层水增温。
+
+**Finding / 发现**: Carbonate layers and porewater models indicate centuries to millennia of methane emission, while short-term warming has limited effect on hydrate deeper than a few metres.
+
+碳酸盐层与孔隙水模型表明甲烷排放持续数百年至数千年；短期增温对数米以下水合物的影响有限。
+
+**Citation limits / 引用边界**: The preference for episodic ventilation of deeper reservoirs applies to the investigated shallow site and does not exclude warming effects in the uppermost sediment or at other depths.
+
+偏向深层储库阵发性排气的结论针对所研究浅水站位，不排除最上层沉积物或其他水深的增温效应。
+
+**Discussion use / 讨论用途**: Use as a counterexample to equating every shallow Arctic seep flare with warming-driven hydrate dissociation.
+
+作为反例，说明并非每一处浅水北极冷泉喷发都等于增温驱动的水合物分解。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: centurial to millennial emission and limited deep-hydrate response to short warming.
+
+Crossref 摘要：百年至千年排放，以及短期增温对较深水合物的有限影响。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/ncomms15745) · `src:gcs-storfjordrenna-warming-sensitivity` · Regional comparison / 区域比较
 
 ## Short-chain alkanes fuel mussel and sponge Cycloclasticus symbionts from deep-sea gas and oil seeps
 
@@ -1658,6 +2246,108 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/28628098) · `src:gcs-gom-alkane-symbionts` · Regional comparison / 区域比较
 
+## The interaction of climate change and methane hydrates
+
+气候变化与甲烷水合物的相互作用
+
+Ruppel, C. D., & Kessler, J. D. (2017). The interaction of climate change and methane hydrates. *Reviews of Geophysics, 55*(1), 126–168. https://doi.org/10.1002/2016rg000534
+
+**Study scope / 研究范围**: Marine continental margins, permafrost, global upper slopes, and Arctic Ocean shelves.
+
+海洋陆缘、冻土、全球陆坡上部和北冰洋陆架。
+
+**Design / 研究设计**: Assess observations and models of hydrate dissociation and of methane transfer through sediment, ocean, and atmosphere.
+
+评估水合物分解以及甲烷经沉积物、海洋和大气传输的观测与模型。
+
+**Finding / 发现**: The review considers present dissociation likely on upper continental slopes and on Arctic shelves, while sediment and water-column sinks and bubble dissolution limit direct delivery to the atmosphere.
+
+综述认为陆坡上部和北极陆架目前很可能正在发生分解；沉积物与水体的汇以及气泡溶解限制甲烷直接进入大气。
+
+**Citation limits / 引用边界**: Likely dissociation is not a measured global increase in atmospheric methane, and the review argues against a catastrophic hydrate release that ignores those sinks.
+
+“很可能正在分解”不是大气甲烷全球增加的实测；综述反对忽略这些汇的灾难性水合物释放说法。
+
+**Discussion use / 讨论用途**: Use as the global hydrate–climate synthesis that includes Arctic shelves, not as an Arctic seep census.
+
+作为包含北极陆架的全球水合物–气候综合，而不是北极冷泉普查。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：OpenAlex abstract: likely slope and Arctic-shelf dissociation and limits on atmospheric delivery.
+
+OpenAlex 摘要：陆坡和北极陆架很可能正在分解，以及向大气输送的限制。
+
+[Inspected source / 核查来源](https://doi.org/10.1002/2016rg000534) · `src:gcs-hydrate-climate-review` · Mechanistic precedent / 机制先例
+
+## A mass budget for mercury and methylmercury in the Arctic Ocean
+
+北冰洋汞与甲基汞的质量收支
+
+Soerensen, A. L., Jacob, D. J., Schartup, A. T., Fisher, J. A., Lehnherr, I., St. Louis, V. L., Heimbürger, L., Sonke, J. E., Krabbenhoft, D. P., & Sunderland, E. M. (2016). A mass budget for mercury and methylmercury in the Arctic Ocean. *Global Biogeochemical Cycles, 30*(4), 560–575. https://doi.org/10.1002/2015gb005280
+
+**Study scope / 研究范围**: Arctic Ocean water column, using observations available since 2004; not a cold-seep survey.
+
+基于 2004 年以来观测的北冰洋水体；不是冷泉调查。
+
+**Design / 研究设计**: Assemble a mass budget for mercury species and discuss dimethylmercury exchange with the atmosphere.
+
+建立汞形态的质量收支，并讨论二甲基汞与大气的交换。
+
+**Finding / 发现**: The budget places most net methylmercury production in the subsurface ocean, about 20 Mg per year at 20–200 m, and identifies atmospheric deposition of about 8 Mg per year as the largest net methylmercury source to the productive surface, with rivers about 2.5 Mg per year.
+
+收支把大部分净甲基汞产生放在次表层，20–200 m 约每年 20 Mg；并认为每年约 8 Mg 的大气沉降是对生产性表层最大的净甲基汞来源，河流约每年 2.5 Mg。
+
+**Citation limits / 引用边界**: These are basin-budget estimates, not seep-sediment measurements, and they do not show that cold seeps control Arctic methylmercury.
+
+这些是海盆收支估计，不是冷泉沉积物测量，也不能说明冷泉控制北极甲基汞。
+
+**Discussion use / 讨论用途**: Use as Arctic Ocean mercury context, and keep it distinct from shelf-sediment budgets and from Haima seep mercury.
+
+作为北冰洋汞背景，并与陆架沉积物收支和海马冷泉汞研究区分。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: subsurface MeHg production and surface atmospheric versus river inputs.
+
+Crossref 摘要：次表层甲基汞产生，以及表层的大气与河流输入。
+
+[Inspected source / 核查来源](https://doi.org/10.1002/2015gb005280) · `src:gcs-arctic-mercury-budget` · Habitat context / 生境背景
+
+## Effects of climate change on methane emissions from seafloor sediments in the Arctic Ocean: A review
+
+气候变化对北冰洋海底甲烷排放影响的综述
+
+James, R. H., Bousquet, P., Bussmann, I., Haeckel, M., Kipfer, R., Leifer, I., Niemann, H., Ostrovsky, I., Piskozub, J., Rehder, G., Treude, T., Vielstädte, L., & Greinert, J. (2016). Effects of climate change on methane emissions from seafloor sediments in the Arctic Ocean: A review. *Limnology and Oceanography, 61*(S1). https://doi.org/10.1002/lno.10307
+
+**Study scope / 研究范围**: Shallow Arctic Ocean sediments, hydrate and permafrost reservoirs, the water column, and sea–air exchange.
+
+北冰洋浅层沉积物、水合物与冻土储库、水体及海气交换。
+
+**Design / 研究设计**: Review physical and biogeochemical controls on seabed methane flux, water-column fate, and atmospheric release.
+
+综述海底甲烷通量、水体归宿和向大气释放的物理与生物地球化学控制。
+
+**Finding / 发现**: Present dissolved-methane fluxes are described as substantially moderated by anaerobic and aerobic oxidation, whereas a larger increased flux would escape that sink if transport shifted to advection or free gas.
+
+现今溶解甲烷通量被描述为受到厌氧和有氧氧化的明显削弱；若输送转为平流或游离气体，增加的通量会有更大比例绕过该汇。
+
+**Citation limits / 引用边界**: This is a process review, not a new flux time series; stratification, sea-ice loss, and atmospheric transfer remain conditional scenarios.
+
+这是过程综述，不是新的通量时间序列；层化、海冰损失和大气传输仍是有条件的情景。
+
+**Discussion use / 讨论用途**: Anchor Arctic expedition narrative in the reviewed filters and bypasses, without citing the paper as an observed emissions trend.
+
+用综述中的过滤与旁路来组织北极考察叙述，不要把该文引用成已观测到的排放趋势。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：OpenAlex abstract: oxidation moderates dissolved flux; advection and gas reduce sink efficiency.
+
+OpenAlex 摘要：氧化削弱溶解通量；平流和游离气体降低汇的效率。
+
+[Inspected source / 核查来源](https://doi.org/10.1002/lno.10307) · `src:gcs-arctic-methane-climate-review` · Regional comparison / 区域比较
+
 ## Integrated analysis of bacterial and microeukaryotic communities from differentially active mud volcanoes in the Gulf of Cadiz
 
 加的斯湾不同活动泥火山的细菌与微真核生物
@@ -1691,3 +2381,549 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 摘要：研究设计与主要发现。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/27762306) · `src:gcs-cadiz-bacteria-protist-communities` · Regional comparison / 区域比较
+
+## Role of tectonic stress in seepage evolution along the gas hydrate‐charged Vestnesa Ridge, Fram Strait
+
+构造应力与 Vestnesa 海脊水合物渗漏演化
+
+Plaza‐Faverola, A., Bünz, S., Johnson, J. E., Chand, S., Knies, J., Mienert, J., & Franek, P. (2015). Role of tectonic stress in seepage evolution along the gas hydrate‐charged Vestnesa Ridge, Fram Strait. *Geophysical Research Letters, 42*(3), 733–742. https://doi.org/10.1002/2014gl062474
+
+**Study scope / 研究范围**: Vestnesa Ridge, Fram Strait, about 100 km long, including seepage deeper than 1,000 m.
+
+弗拉姆海峡 Vestnesa 海脊，长约 100 km，包括水深大于 1000 m 的渗漏。
+
+**Design / 研究设计**: Interpret high-resolution P-Cable 3-D seismic images of faults, fractures, and gas chimneys.
+
+解释 P-Cable 高分辨率三维地震中的断层、裂隙与气烟囱。
+
+**Finding / 发现**: Near-vertical faults and fractures only tens of metres wide align with seepage on Vestnesa Ridge, and gas chimneys record repeated events over about the last 2.7 million years together with glaciation and faulting.
+
+仅数十米宽的近直立断层和裂隙与 Vestnesa 海脊渗漏位置一致；气烟囱记录了近约 270 万年以来与冰川作用和断层活动相伴的多次渗漏。
+
+**Citation limits / 引用边界**: Seismic architecture does not quantify present methane flux and does not show that this deep-water system is controlled by the shelf-break ocean warming discussed for shallower seepage.
+
+地震结构不能量化现今甲烷通量，也不能说明该深水系统受限于较浅陆架坡折所讨论的海洋增温。
+
+**Discussion use / 讨论用途**: Cite for tectonic focusing of deep-water Arctic seepage, separately from temperature-controlled shelf-break hydrate loss.
+
+用于说明深水北极渗漏的构造聚焦，并与温度控制的陆架坡折水合物损失分开引用。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: P-Cable 3-D seismic faults and 2.7 Ma seepage record.
+
+Crossref 摘要：P-Cable 三维地震断层与 270 万年渗漏记录。
+
+[Inspected source / 核查来源](https://doi.org/10.1002/2014gl062474) · `src:gcs-vestnesa-tectonic-seepage` · Regional comparison / 区域比较
+
+## Water column methanotrophy controlled by a rapid oceanographic switch
+
+西斯瓦尔巴海流切换对水体甲烷氧化的控制
+
+Steinle, L., Graves, C. A., Treude, T., Ferré, B., Biastoch, A., Bussmann, I., Berndt, C., Krastel, S., James, R. H., Behrens, E., Böning, C. W., Greinert, J., Sapart, C.-J., Scheinert, M., Sommer, S., Lehmann, M. F., & Niemann, H. (2015). Water column methanotrophy controlled by a rapid oceanographic switch. *Nature Geoscience, 8*(5), 378–382. https://doi.org/10.1038/ngeo2420
+
+**Study scope / 研究范围**: Methane seeps west of Svalbard and the West Spitsbergen Current.
+
+西斯瓦尔巴甲烷冷泉与西斯匹次卑尔根海流。
+
+**Design / 研究设计**: Repeat measurements of methanotrophic activity and community size and compare them with water-mass properties and a global ocean/sea-ice model.
+
+重复测量甲烷氧化活性和群落大小，并与水团性质及全球海洋/海冰模型比较。
+
+**Finding / 发现**: Cold bottom water carrying many aerobic methanotrophs was replaced within days by warmer water with a much smaller community, consistent with short-term shifts of the West Spitsbergen Current.
+
+携带大量有氧甲烷氧化菌的冷底层水在数天内被群落小得多的暖水取代，与西斯匹次卑尔根海流的短期摆动一致。
+
+**Citation limits / 引用边界**: A days-long replacement at these seeps does not quantify the annual methane filter or demonstrate the same control in the South China Sea.
+
+这些冷泉数天尺度的水团替换不能量化全年甲烷过滤，也不能证明南海具有同样的控制。
+
+**Discussion use / 讨论用途**: Cite for current-driven changes in Arctic water-column methanotrophy, together with seasonal activity studies.
+
+与季节活性研究一起，用于洋流驱动的北极水体甲烷氧化变化。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Nature publisher abstract: replacement of cold methanotroph-rich water within days west of Svalbard.
+
+《自然》出版方摘要：西斯瓦尔巴冷而富甲烷氧化菌的水体在数天内被替换。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/ngeo2420) · `src:gcs-svalbard-methanotroph-switch` · Regional comparison / 区域比较
+
+## Temporal Constraints on Hydrate-Controlled Methane Seepage off Svalbard
+
+斯瓦尔巴水合物控制甲烷渗漏的时间约束
+
+Berndt, C., Feseker, T., Treude, T., Krastel, S., Liebetrau, V., Niemann, H., Bertics, V. J., Dumke, I., Dünnbier, K., Ferré, B., Graves, C., Gross, F., Hissmann, K., Hühnerbach, V., Krause, S., Lieser, K., Schauer, J., & Steinle, L. (2014). Temporal constraints on hydrate-controlled methane seepage off Svalbard. *Science, 343*(6168), 284–287. https://doi.org/10.1126/science.1246298
+
+**Study scope / 研究范围**: Shallow sediments off Svalbard at the landward limit of gas-hydrate stability.
+
+斯瓦尔巴近岸、气体水合物稳定带向陆边界的浅层沉积物。
+
+**Design / 研究设计**: Combine evidence for ongoing seepage with the history of emission and seasonal bottom-water temperature variation.
+
+将持续渗漏的证据与排放历史及底层水温的季节变化结合。
+
+**Finding / 发现**: Seepage off Svalbard is reported for at least 3,000 years, and seasonal bottom-water changes of about 1–2°C are interpreted as periodically forming and dissociating hydrate at the observed sites.
+
+斯瓦尔巴外海渗漏被报道至少持续 3000 年；约 1–2°C 的季节性底层水温变化被解释为在观测站位周期性形成并分解水合物。
+
+**Citation limits / 引用边界**: The inspected abstract explicitly warns that strong present-day venting does not by itself show faster clathrate breakdown than in the past.
+
+所查摘要明确指出，现今强烈排气本身不能证明笼合物分解快于过去。
+
+**Discussion use / 讨论用途**: Use when separating a long-lived Svalbard seep from a claim of recently accelerated hydrate dissociation.
+
+用于区分斯瓦尔巴长期渗漏与“水合物近期加速分解”的表述。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Author abstract via OpenAlex: 3,000-year seepage and 1–2°C seasonal hydrate cycling.
+
+经 OpenAlex 取得的作者摘要：3000 年渗漏与 1–2°C 季节性水合物循环。
+
+[Inspected source / 核查来源](https://doi.org/10.1126/science.1246298) · `src:gcs-svalbard-seepage-timescale` · Regional comparison / 区域比较
+
+## Seafloor oxygen consumption fuelled by methane from cold seeps
+
+冷泉甲烷驱动的海底耗氧与不完全过滤
+
+Boetius, A., & Wenzhöfer, F. (2013). Seafloor oxygen consumption fuelled by methane from cold seeps. *Nature Geoscience, 6*(9), 725–734. https://doi.org/10.1038/ngeo1926
+
+**Study scope / 研究范围**: Continental-slope cold seeps with a range of fluid-flow rates.
+
+具有不同流体流速的陆坡冷泉。
+
+**Design / 研究设计**: Synthesize oxygen demand and the fraction of methane consumed across seep flow regimes.
+
+综合不同渗漏流速下的耗氧和甲烷消耗比例。
+
+**Finding / 发现**: Seep communities are estimated to use about two orders of magnitude more oxygen per area than non-seep seafloor, and methane consumption ranges from about 80% at slow flow to less than 20% at high flow.
+
+冷泉群落单位面积耗氧估计约为非冷泉海底的两个数量级；慢流速下甲烷消耗约 80%，高流速下低于 20%。
+
+**Citation limits / 引用边界**: An ocean efflux that could reach 0.02 Gt of carbon per year assumes tens of thousands of seeps and is not an Arctic or SCS inventory.
+
+每年可能达到 0.02 Gt 碳的海洋输出假设了数万个冷泉，不是北极或南海的清单。
+
+**Discussion use / 讨论用途**: Use for the flow-dependent efficiency of the benthic methane filter, not for a regional emissions total.
+
+用于底栖甲烷过滤器随流速变化的效率，而不是区域排放总量。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Nature publisher abstract: two-order oxygen demand and 80% to less than 20% methane consumption.
+
+《自然》出版方摘要：两个数量级的耗氧，以及 80% 到低于 20% 的甲烷消耗。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/ngeo1926) · `src:gcs-seep-oxygen-methane-filter` · Mechanistic precedent / 机制先例
+
+## Anaerobic Oxidation of Methane: Progress with an Unknown Process
+
+甲烷厌氧氧化：一个尚未完全认识的过程
+
+Knittel, K., & Boetius, A. (2009). Anaerobic oxidation of methane: Progress with an unknown process. *Annual Review of Microbiology, 63*(1), 311–334. https://doi.org/10.1146/annurev.micro.61.080706.093130
+
+**Study scope / 研究范围**: Global microbial methane production, consumption, and anaerobic oxidation.
+
+全球微生物产甲烷、甲烷消耗与厌氧氧化。
+
+**Design / 研究设计**: Review the organisms and unresolved pathway of anaerobic methane oxidation against better quantified global microbial methane fluxes.
+
+在已有较定量的全球微生物甲烷通量背景下，综述厌氧甲烷氧化的生物和未解决的途径。
+
+**Finding / 发现**: The review treats anaerobic oxidation of methane as microbially important but mechanistically unresolved, while assigning about 85% of annual global methane production and about 60% of its consumption to microbial processes.
+
+综述认为甲烷厌氧氧化在微生物上很重要但机制仍未解决，并把全球每年约 85% 的甲烷产生和约 60% 的消耗归于微生物过程。
+
+**Citation limits / 引用边界**: The global percentages are synthesis figures, not new measurements, and the review does not assign an ANME clade or rate to an SCS or Arctic sample.
+
+这些全球百分比是综合数字，不是新测量，综述也没有为南海或北极样品指定 ANME 支系或速率。
+
+**Discussion use / 讨论用途**: Use as background on why AOM remains process-uncertain even where ANME are detected.
+
+作为背景，说明即使检测到 ANME，AOM 过程仍有不确定性。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: unresolved AOM pathway and microbial shares of global methane production and consumption.
+
+Crossref 摘要：尚未解决的 AOM 途径，以及微生物在全球甲烷产生和消耗中的份额。
+
+[Inspected source / 核查来源](https://doi.org/10.1146/annurev.micro.61.080706.093130) · `src:gcs-aom-process-review` · Mechanistic precedent / 机制先例
+
+## Escape of methane gas from the seabed along the West Spitsbergen continental margin
+
+西斯匹次卑尔根陆缘海底甲烷气泡羽流
+
+Westbrook, G. K., Thatcher, K. E., Rohling, E. J., Piotrowski, A. M., Pälike, H., Osborne, A. H., Nisbet, E. G., Minshull, T. A., Lanoisellé, M., James, R. H., Hühnerbach, V., Green, D., Fisher, R. E., Crocker, A. J., Chabert, A., Bolton, C., Beszczynska‐Möller, A., Berndt, C., & Aquilina, A. (2009). Escape of methane gas from the seabed along the West Spitsbergen continental margin. *Geophysical Research Letters, 36*(15), Article 2009GL039191. https://doi.org/10.1029/2009gl039191
+
+**Study scope / 研究范围**: West Spitsbergen continental margin, bubble plumes at 150–400 m water depth.
+
+西斯匹次卑尔根陆缘，水深 150–400 m 的气泡羽流。
+
+**Design / 研究设计**: Map seabed gas plumes at and above the upper hydrate-stability limit and identify the gas as predominantly methane.
+
+在水合物稳定带上界及其上方测绘海底气体羽流，并确认气体以甲烷为主。
+
+**Finding / 发现**: More than 250 methane-dominated bubble plumes rose from the West Spitsbergen seabed at 150–400 m, and some reached within 50 m of the sea surface.
+
+西斯匹次卑尔根海底 150–400 m 处发现 250 条以上以甲烷为主的气泡羽流，部分到达海面以下 50 m 以内。
+
+**Citation limits / 引用边界**: Linking a 1°C current warming to greater hydrate release, and any estimate of tens of teragrams per year along Arctic margins, is an extrapolation beyond the mapped plumes.
+
+将海流增温 1°C 与水合物释放增强相联系，以及沿北极陆缘每年数十太克的估计，都超出了已测绘羽流本身。
+
+**Discussion use / 讨论用途**: Cite for the existence and depth range of West Spitsbergen methane plumes, not for a pan-Arctic emissions budget.
+
+用于说明西斯匹次卑尔根甲烷羽流的存在与水深范围，而非泛北极排放收支。
+
+Sampling time / 采样时间：The inspected abstract does not give cruise dates; it compares the West Spitsbergen Current with the preceding thirty years. 所查摘要未给出航次日期，并将西斯匹次卑尔根海流与此前三十年比较。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Publisher abstract: plume counts, depth range, and methane composition.
+
+出版方摘要：羽流数量、水深范围与甲烷组成。
+
+[Inspected source / 核查来源](https://doi.org/10.1029/2009gl039191) · `src:gcs-west-spitsbergen-methane-plumes` · Regional comparison / 区域比较
+
+## Endosymbioses between bacteria and deep‐sea siboglinid tubeworms from an Arctic Cold Seep (Haakon Mosby Mud Volcano, Barents Sea)
+
+哈康莫斯比泥火山须腕动物与硫氧化内共生菌
+
+Lösekann, T., Robador, A., Niemann, H., Knittel, K., Boetius, A., & Dubilier, N. (2008). Endosymbioses between bacteria and deep‐sea siboglinid tubeworms from an Arctic cold seep (Haakon Mosby mud volcano, Barents Sea). *Environmental Microbiology, 10*(12), 3237–3254. https://doi.org/10.1111/j.1462-2920.2008.01712.x
+
+**Study scope / 研究范围**: Oligobrachia haakonmosbiensis and Sclerolinum contortum at Haakon Mosby Mud Volcano.
+
+哈康莫斯比泥火山的 Oligobrachia haakonmosbiensis 与 Sclerolinum contortum。
+
+**Design / 研究设计**: Compare host 18S rRNA with symbiont 16S rRNA from the two co-occurring siboglinids.
+
+比较两种共栖须腕动物的宿主 18S rRNA 与共生菌 16S rRNA。
+
+**Finding / 发现**: Sclerolinum contortum symbionts grouped with sulfur-oxidizing gammaproteobacteria of vestimentiferans, and Oligobrachia haakonmosbiensis symbionts grouped with the O. mashikoi symbiont, with host and symbiont phylogenies congruent in both cases.
+
+Sclerolinum contortum 的共生菌与前庭动物的硫氧化 γ-变形菌归在一起，Oligobrachia haakonmosbiensis 的共生菌与 O. mashikoi 的共生菌归在一起，两者的宿主和共生菌系统发育都一致。
+
+**Citation limits / 引用边界**: Phylogenetic placement does not quantify sulfide or methane use and does not demonstrate a methanotrophic endosymbiont.
+
+系统发育位置不能量化硫化物或甲烷的利用，也不能证明存在甲烷氧化内共生菌。
+
+**Discussion use / 讨论用途**: Pair with later Arctic Oligobrachia studies when distinguishing sulfur-oxidizing endosymbionts from methanotrophic symbiosis.
+
+与后来的北极 Oligobrachia 研究对照，以区分硫氧化内共生和甲烷氧化共生。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: congruent host–symbiont phylogeny of two HMMV siboglinids.
+
+Crossref 摘要：哈康莫斯比两种须腕动物宿主与共生菌系统发育一致。
+
+[Inspected source / 核查来源](https://doi.org/10.1111/j.1462-2920.2008.01712.x) · `src:gcs-haakon-mosby-tubeworms` · Regional comparison / 区域比较
+
+## Oceanic Methane Biogeochemistry
+
+海洋甲烷生物地球化学综述
+
+Reeburgh, W. S. (2007). Oceanic methane biogeochemistry. *Chemical Reviews, 107*(2), 486–513. https://doi.org/10.1021/cr050362v
+
+**Study scope / 研究范围**: Open-ocean water column, coasts, seeps, vents, hydrates, and mud volcanoes.
+
+开阔大洋水体、海岸、冷泉、热液、水合物和泥火山。
+
+**Design / 研究设计**: Review thermodynamic and kinetic constraints, methane sources, and the scarcity of direct oxidation-rate measurements.
+
+综述热力学与动力学约束、甲烷来源，以及直接氧化速率测量的不足。
+
+**Finding / 发现**: Open-ocean methanogenesis is strongly constrained, and the review assigns most oceanic methane to coastal runoff, seeps, vents, decomposing hydrates, and mud volcanoes, with oxidation in the ocean as the main fate.
+
+开阔大洋的产甲烷作用受到强烈约束；综述认为海洋甲烷主要来自海岸径流、冷泉、热液、分解中的水合物和泥火山，并主要在海洋内被氧化。
+
+**Citation limits / 引用边界**: The review states that water-column sources, sinks, and oxidation kinetics were poorly quantified, so it is not a current global seep inventory.
+
+综述指出水体来源、汇和氧化动力学定量不足，因此它不是当前的全球冷泉清单。
+
+**Discussion use / 讨论用途**: Use for the distinction between open-ocean methanogenesis and methane added at seeps, not for a numeric global flux.
+
+用于区分开阔大洋产甲烷与冷泉输入的甲烷，而不是一个全球通量数字。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：OpenAlex abstract: constrained open-ocean methanogenesis and seep, vent, hydrate, and mud-volcano sources.
+
+OpenAlex 摘要：开阔大洋产甲烷受限，以及冷泉、热液、水合物和泥火山来源。
+
+[Inspected source / 核查来源](https://doi.org/10.1021/cr050362v) · `src:gcs-oceanic-methane-review` · Mechanistic precedent / 机制先例
+
+## Novel microbial communities of the Haakon Mosby mud volcano and their role as a methane sink
+
+哈康莫斯比泥火山的甲烷氧化群落与甲烷汇
+
+Niemann, H., Lösekann, T., de Beer, D., Elvert, M., Nadalig, T., Knittel, K., Amann, R., Sauter, E. J., Schlüter, M., Klages, M., Foucher, J. P., & Boetius, A. (2006). Novel microbial communities of the Haakon Mosby mud volcano and their role as a methane sink. *Nature, 443*(7113), 854–858. https://doi.org/10.1038/nature05227
+
+**Study scope / 研究范围**: Haakon Mosby Mud Volcano, Barents Sea, 72°N, 14°44′E, 1,250 m water depth.
+
+巴伦支海哈康莫斯比泥火山，72°N、14°44′E，水深 1250 m。
+
+**Design / 研究设计**: Relate the composition, distribution, and activity of methanotrophs to gas emission and upward fluid flow.
+
+将甲烷氧化菌的组成、分布和活性与气体排放及向上流体流动联系起来。
+
+**Finding / 发现**: The volcano hosted aerobic Methylococcales, ANME-2 beneath siboglinid tubeworms, and a then-undescribed ANME-3 clade with bacterial mats; sulfate- and oxygen-free rising fluids limited the electron acceptors available to those sinks.
+
+该泥火山存在有氧 Methylococcales、管虫之下的 ANME-2，以及与细菌席相伴、当时尚未描述的 ANME-3；缺乏硫酸盐和氧气的上升流体限制了这些甲烷汇可利用的电子受体。
+
+**Citation limits / 引用边界**: The retrieved abstract identifies the three communities and the fluid-flow constraint but does not include a numeric oxidation efficiency to transfer to other seeps.
+
+所检索摘要确定了三类群落和流体约束，但没有给出可转移到其他冷泉的氧化效率数值。
+
+**Discussion use / 讨论用途**: Use as the primary Arctic mud-volcano example of coexisting aerobic and anaerobic methane sinks.
+
+作为北极泥火山中有氧与厌氧甲烷汇共存的主要实例。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Europe PMC abstract: HMMV Methylococcales, ANME-2, ANME-3, and acceptor limitation.
+
+Europe PMC 摘要：哈康莫斯比的 Methylococcales、ANME-2、ANME-3 及电子受体限制。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/nature05227) · `src:gcs-haakon-mosby-methane-sink` · Regional comparison / 区域比较
+
+## Diversity and Distribution of Methanotrophic Archaea at Cold Seeps
+
+冷泉甲烷氧化古菌的多样性与分布
+
+Knittel, K., Lösekann, T., Boetius, A., Kort, R., & Amann, R. (2005). Diversity and distribution of methanotrophic archaea at cold seeps. *Applied and Environmental Microbiology, 71*(1), 467–479. https://doi.org/10.1128/aem.71.1.467-479.2005
+
+**Study scope / 研究范围**: Hydrate Ridge sediments on the Cascadia margin and microbial mats on carbonate reefs in the Crimean Black Sea.
+
+卡斯卡迪亚陆缘 Hydrate Ridge 沉积物，以及克里米亚黑海碳酸盐礁上的微生物席。
+
+**Design / 研究设计**: Compare 16S rRNA diversity and FISH biomass of ANME groups.
+
+比较 ANME 类群的 16S rRNA 多样性与 FISH 生物量。
+
+**Finding / 发现**: ANME-2 aggregates dominated Hydrate Ridge surface sediments, ANME-1 dominated the Black Sea mats, and the survey also defined ANME-3 related to Methanococcoides.
+
+Hydrate Ridge 表层沉积物以 ANME-2 聚集体占优，黑海微生物席以 ANME-1 占优；调查还定义了与 Methanococcoides 相关的 ANME-3。
+
+**Citation limits / 引用边界**: Two habitats do not map global ANME biogeography, and FISH biomass is not a methane-oxidation rate.
+
+两种生境不能代表全球 ANME 生物地理，FISH 生物量也不是甲烷氧化速率。
+
+**Discussion use / 讨论用途**: Use for habitat-specific ANME dominance and the ANME-3 definition before interpreting Arctic ANME surveys.
+
+在解释北极 ANME 调查之前，用于生境特异的 ANME 优势和 ANME-3 的定义。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: Hydrate Ridge ANME-2, Black Sea ANME-1, and ANME-3.
+
+Crossref 摘要：Hydrate Ridge 的 ANME-2、黑海的 ANME-1 以及 ANME-3。
+
+[Inspected source / 核查来源](https://doi.org/10.1128/aem.71.1.467-479.2005) · `src:gcs-anme-seep-distribution` · Mechanistic precedent / 机制先例
+
+## Ecology of Cold Seep Sediments
+
+冷泉沉积物生态学：动物与流体、化学及微生物的相互作用
+
+Levin, L. (2005). Ecology of cold seep sediments. *Oceanography and Marine Biology - An Annual Review*, 1–46. https://doi.org/10.1201/9781420037449.ch1
+
+**Study scope / 研究范围**: Cold-seep sediment ecology as defined by the verified chapter title and subtitle.
+
+以经核验的章节标题和副标题所定义的冷泉沉积物生态学。
+
+**Design / 研究设计**: Review chapter on interactions of fauna with flow, chemistry, and microbes; no abstract was retrieved.
+
+综述动物与流体、化学和微生物的相互作用；未检索到摘要。
+
+**Finding / 发现**: The verified title and subtitle present the chapter as a synthesis of how cold-seep fauna interact with fluid flow, sediment chemistry, and microbes.
+
+经核验的标题和副标题表明，该章综述冷泉动物如何与流体、沉积物化学和微生物相互作用。
+
+**Citation limits / 引用边界**: No abstract was available, so this profile cannot support particular successional stages, diversity metrics, or flux thresholds from the chapter.
+
+没有可用摘要，因此本档案不能支持该章中的特定演替阶段、多样性指标或通量阈值。
+
+**Discussion use / 讨论用途**: Use only as a bibliographic pointer to the fauna–flow–microbe synthesis, not as a substitute for the chapter's data.
+
+仅作为动物–流体–微生物综述的书目指向，不能代替章节中的数据。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref title and subtitle; no abstract retrieved.
+
+Crossref 标题与副标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1201/9781420037449.ch1) · `src:gcs-seep-fauna-flow-review` · Mechanistic precedent / 机制先例
+
+## Multiple archaeal groups mediate methane oxidation in anoxic cold seep sediments
+
+冷泉沉积物中多个古菌群介导甲烷氧化
+
+Orphan, V. J., House, C. H., Hinrichs, K.-U., McKeegan, K. D., & DeLong, E. F. (2002). Multiple archaeal groups mediate methane oxidation in anoxic cold seep sediments. *Proceedings of the National Academy of Sciences, 99*(11), 7663–7668. https://doi.org/10.1073/pnas.072210299
+
+**Study scope / 研究范围**: Anoxic marine methane-seep sediments; the inspected abstract does not name the basin.
+
+缺氧海洋甲烷渗漏沉积物；所查摘要未给出海盆名称。
+
+**Design / 研究设计**: Combine FISH with secondary ion mass spectrometry to test which archaeal cells assimilated methane-derived carbon.
+
+联合 FISH 与二次离子质谱，检验哪些古菌细胞同化了甲烷来源碳。
+
+**Finding / 发现**: Both ANME-1 and ANME-2 were isotopically active, including ANME-1 as single cells and monospecific aggregates, so tight ANME-2/Desulfosarcina consortia were not the only active form.
+
+ANME-1 和 ANME-2 都有同位素活性，包括单细胞和单种类 ANME-1 聚集体，因此紧密的 ANME-2/Desulfosarcina 联合体不是唯一活性形式。
+
+**Citation limits / 引用边界**: Cell-specific activity in the analyzed sediments does not identify the electron-transfer route or show how common partner-free AOM is elsewhere.
+
+所分析沉积物的单细胞活性不能确定电子传递途径，也不能说明无伙伴 AOM 在其他地方有多常见。
+
+**Discussion use / 讨论用途**: Cite when a seep study equates AOM only with tight ANME–SRB aggregates.
+
+当冷泉研究把 AOM 仅等同于紧密 ANME–SRB 聚集体时引用。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: FISH-SIMS activity of ANME-1 and ANME-2, including monospecific ANME-1.
+
+Crossref 摘要：ANME-1 与 ANME-2 的 FISH-SIMS 活性，包括单种类 ANME-1。
+
+[Inspected source / 核查来源](https://doi.org/10.1073/pnas.072210299) · `src:gcs-anme-fish-sims` · Mechanistic precedent / 机制先例
+
+## Comparative Analysis of Methane-Oxidizing Archaea and Sulfate-Reducing Bacteria in Anoxic Marine Sediments
+
+加利福尼亚陆缘甲烷渗漏沉积物中的 ANME 与硫酸盐还原菌
+
+Orphan, V. J., Hinrichs, K.-U., Ussler, W., Paull, C. K., Taylor, L. T., Sylva, S. P., Hayes, J. M., & Delong, E. F. (2001). Comparative analysis of methane-oxidizing archaea and sulfate-reducing bacteria in anoxic marine sediments. *Applied and Environmental Microbiology, 67*(4), 1922–1934. https://doi.org/10.1128/aem.67.4.1922-1934.2001
+
+**Study scope / 研究范围**: Several methane-seep sites on the California continental margin and nearby control sediments.
+
+加利福尼亚陆缘多处甲烷渗漏站及附近对照沉积物。
+
+**Design / 研究设计**: Compare archaeal and bacterial rRNA genes, lipid carbon isotopes, and FISH.
+
+比较古菌和细菌 rRNA 基因、脂质碳同位素和 FISH。
+
+**Finding / 发现**: ANME-1 and ANME-2 and 13C-depleted archaeal lipids were consistent seep signatures and absent in controls; FISH showed ANME-2 aggregated with Desulfosarcina and Desulfococcus relatives.
+
+ANME-1、ANME-2 和贫 13C 古菌脂质是稳定的渗漏特征，并在对照中缺失；FISH 显示 ANME-2 与 Desulfosarcina 和 Desulfococcus 近缘类群聚集成团。
+
+**Citation limits / 引用边界**: Association of lipids and aggregates implicates these groups in AOM but does not exclude other partners or measure the rate at each site.
+
+脂质与聚集体的关联表明这些类群参与 AOM，但不排除其他伙伴，也未测定各站速率。
+
+**Discussion use / 讨论用途**: Use for the original ANME-1/ANME-2 and seep sulfate-reducer association, which comes from the California margin rather than the Arctic.
+
+用于 ANME-1/ANME-2 及渗漏硫酸盐还原菌关联的原始描述；该证据来自加利福尼亚陆缘而非北极。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref abstract: California-margin ANME-1/ANME-2, depleted lipids, and FISH aggregates.
+
+Crossref 摘要：加利福尼亚陆缘 ANME-1/ANME-2、贫化脂质与 FISH 聚集体。
+
+[Inspected source / 核查来源](https://doi.org/10.1128/aem.67.4.1922-1934.2001) · `src:gcs-california-anme-groups` · Mechanistic precedent / 机制先例
+
+## A marine microbial consortium apparently mediating anaerobic oxidation of methane
+
+介导海洋甲烷厌氧氧化的古菌–硫酸盐还原菌联合体
+
+Boetius, A., Ravenschlag, K., Schubert, C. J., Rickert, D., Widdel, F., Gieseke, A., Amann, R., Jørgensen, B. B., Witte, U., & Pfannkuche, O. (2000). A marine microbial consortium apparently mediating anaerobic oxidation of methane. *Nature, 407*(6804), 623–626. https://doi.org/10.1038/35036572
+
+**Study scope / 研究范围**: Gas-hydrate-rich marine sediments; the inspected abstract does not name the locality.
+
+富气体水合物的海洋沉积物；所查摘要未给出地名。
+
+**Design / 研究设计**: Use 16S rRNA FISH probes to image archaea and sulfate-reducing bacteria in sediments with high methane-based sulfate reduction.
+
+在甲烷驱动硫酸盐还原速率很高的沉积物中，用 16S rRNA FISH 探针观察古菌和硫酸盐还原菌。
+
+**Finding / 发现**: Archaea grew in aggregates of about 100 cells surrounded by sulfate-reducing bacteria, providing microscopic evidence for a structured consortium in those hydrate-rich sediments.
+
+古菌形成约 100 个细胞的聚集体并被硫酸盐还原菌包围，为这些富水合物沉积物中的有结构联合体提供显微证据。
+
+**Citation limits / 引用边界**: One consortium morphology does not prove that every ANME cell requires a bacterial partner or supply a rate for SCS or Arctic sediments.
+
+一种联合体形态不能证明每个 ANME 细胞都需要细菌伙伴，也不能为南海或北极沉积物提供速率。
+
+**Discussion use / 讨论用途**: Cite as the classic microscopic ANME–SRB consortium, retaining the hydrate-rich sediment context.
+
+作为经典的 ANME–SRB 显微联合体引用，并保留富水合物沉积物这一背景。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Europe PMC abstract: FISH aggregates of about 100 archaeal cells surrounded by sulfate reducers.
+
+Europe PMC 摘要：FISH 显示约 100 个古菌细胞的聚集体被硫酸盐还原菌包围。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/35036572) · `src:gcs-anme-srb-consortium` · Mechanistic precedent / 机制先例
+
+## Methane-consuming archaebacteria in marine sediments
+
+海洋沉积物中消耗甲烷的古菌
+
+Hinrichs, K.-U., Hayes, J. M., Sylva, S. P., Brewer, P. G., & DeLong, E. F. (1999). Methane-consuming archaebacteria in marine sediments. *Nature, 398*(6730), 802–805. https://doi.org/10.1038/19751
+
+**Study scope / 研究范围**: Marine sediments related to a decomposing methane hydrate; the inspected abstract does not name the station.
+
+与分解中的甲烷水合物相关的海洋沉积物；所查摘要未给出站名。
+
+**Design / 研究设计**: Compare archaeal lipid carbon isotopes with small-subunit rRNA gene surveys.
+
+比较古菌脂质碳同位素与小亚基 rRNA 基因调查。
+
+**Finding / 发现**: Archaeal lipids are sufficiently depleted in carbon-13 to require methane as carbon source, and the dominant new archaeal group is phylogenetically distinct from known methanogens, near Methanomicrobiales and Methanosarcinales.
+
+古菌脂质的碳-13 贫化程度表明甲烷是碳源；占优的新古菌群与已知产甲烷菌不同，位于甲烷微菌目和甲烷八叠球菌目附近。
+
+**Citation limits / 引用边界**: Biomarkers and gene surveys do not cultivate the organism or measure its in situ rate, and the sampling locality is not named in the inspected abstract.
+
+生物标志物和基因调查未培养该生物，也未测定原位速率；所查摘要未给出采样地点。
+
+**Discussion use / 讨论用途**: Use as the early biomarker and 16S precedent for anaerobic methanotrophs, without assigning the result to an unnamed modern seep.
+
+作为厌氧甲烷氧化菌早期生物标志物和 16S 先例，不要把结果安到摘要未指明的现代冷泉。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Europe PMC abstract: 13C-depleted archaeal lipids and a new archaeal group.
+
+Europe PMC 摘要：贫 13C 古菌脂质与一个新的古菌群。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/19751) · `src:gcs-hydrate-archaeal-methanotrophy` · Mechanistic precedent / 机制先例
+
+## Biogeography, biodiversity and fluid dependence of deep-sea cold-seep communities at active and passive margins
+
+主动与被动陆缘深海冷泉群落的生物地理与流体依赖
+
+Sibuet, M., & Olu, K. (1998). Biogeography, biodiversity and fluid dependence of deep-sea cold-seep communities at active and passive margins. *Deep Sea Research Part II: Topical Studies in Oceanography, 45*(1-3), 517–567. https://doi.org/10.1016/s0967-0645(97)00074-x
+
+**Study scope / 研究范围**: Deep-sea cold seeps on active and passive margins, as scoped by the verified chapter title.
+
+核查标题所涵盖的主动与被动陆缘深海冷泉。
+
+**Design / 研究设计**: Review of biogeography, biodiversity, and fluid dependence; no abstract was available from Crossref, Europe PMC, or OpenAlex.
+
+综述生物地理、生物多样性与流体依赖；Crossref、Europe PMC 与 OpenAlex 均未返回摘要。
+
+**Finding / 发现**: The bibliographic record frames deep-sea cold-seep biogeography and biodiversity at active and passive margins as dependent on fluid supply.
+
+书目记录将主动与被动陆缘深海冷泉的生物地理和生物多样性表述为依赖流体供应。
+
+**Citation limits / 引用边界**: Without a retrieved abstract, this profile cannot support site-level diversity counts, fluid-flux thresholds, or a direct Arctic-versus-SCS comparison.
+
+未检索到摘要，本档案不能支持站位多样性计数、流体通量阈值或北极与南海的直接比较。
+
+**Discussion use / 讨论用途**: Use only as a global biogeographic frame, and do not transfer quantitative claims that were not in the inspected record.
+
+仅作全球生物地理背景，不要转引核查记录中没有的定量结论。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-04.
+
+Evidence locator / 证据位置：Crossref bibliographic record and title; no abstract retrieved.
+
+Crossref 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/s0967-0645(97)00074-x) · `src:gcs-seep-margin-biogeography` · Mechanistic precedent / 机制先例

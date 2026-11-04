@@ -113,8 +113,8 @@ def main() -> int:
                 allowed = {item["id"] for item in taxonomy[field]}
                 if not source.get(field) or not set(source[field]) <= allowed:
                     errors.append(f"{sid}: invalid or missing {field}")
-            if source.get("poles"):
-                errors.append(f"{sid}: SCS source must use regions instead of polar labels")
+            if source.get("collection") == "scs-cold-seeps" and source.get("poles"):
+                errors.append(f"{sid}: SCS source must use an empty poles array and region concepts")
         profile = source.get("study_profile", {})
         missing_profile = PROFILE_REQUIRED - profile.keys()
         if missing_profile:

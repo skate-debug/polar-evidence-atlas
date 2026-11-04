@@ -34,9 +34,16 @@ def main():
     curated.extend(item[0] + "\n" for item in curated_refs)
     (ROOT / "references/global-cold-seep-curated-apa7.md").write_text("\n".join(curated), encoding="utf-8")
     counts = Counter(reviews.get(item["doi"], {}).get("status", "awaiting_source_review") for item in inventory["candidates"])
-    access = Counter("full_text_extracts" if "full_text" in packet.get("access", "abstract") else "abstract" for packet in packets)
+    def access_bucket(packet):
+        access = packet.get("access", "abstract")
+        if "full_text" in access:
+            return "full_text_extracts"
+        if access == "bibliographic_record":
+            return "bibliographic_record"
+        return "abstract"
+    access = Counter(access_bucket(packet) for packet in packets)
     summary = ["# International seep review queue / 国际冷泉核查队列", "", f"Window: {inventory['since']}–{inventory['until']}. {active_count} active DOI records; {len(packets)} persistent curated comparisons; {len(archive['candidates'])} archived records.", "",
-        f"Access: {access['abstract']} abstract-scoped, {access['full_text_extracts']} inspected full-text passages. / 核查材料：{access['abstract']} 篇限于摘要，{access['full_text_extracts']} 篇已核查相关全文段落。", "",
+        f"Access: {access['abstract']} abstract-scoped, {access['bibliographic_record']} bibliographic-record only, {access['full_text_extracts']} inspected full-text passages. / 核查材料：{access['abstract']} 篇限于摘要，{access['bibliographic_record']} 篇仅有经核验书目记录，{access['full_text_extracts']} 篇已核查相关全文段落。", "",
         "Shared DOI sources are counted once in the atlas, even when they appear in multiple collections. Candidates have no scientific claim until inspected. / 跨专题共享 DOI 在全图谱仅计一次；候选文献经核查后才产生科学论断。", "",
         "| Status / 状态 | Records / 记录数 |", "|---|---:|"]
     summary += [f"| {status} | {count} |" for status, count in sorted(counts.items())]

@@ -1,6 +1,793 @@
 {
-  "generated_at": "2026-10-13T14:41:24.099083+00:00",
+  "generated_at": "2026-11-04T16:42:44.779167+00:00",
   "policy": "Records aging out of the rolling window retain source and review joins; no scientific claim is removed by discovery",
-  "candidates": [],
+  "candidates": [
+    {
+      "id": "global-seep-candidate:10-1002-2014gl062474",
+      "doi": "10.1002/2014gl062474",
+      "title": "Role of tectonic stress in seepage evolution along the gas hydrate‐charged Vestnesa Ridge, Fram Strait",
+      "publication_date": "2015-02-03",
+      "year": 2015,
+      "authors": [
+        "A. Plaza‐Faverola",
+        "S. Bünz",
+        "J. E. Johnson",
+        "S. Chand",
+        "J. Knies",
+        "J. Mienert",
+        "P. Franek"
+      ],
+      "journal": "Geophysical Research Letters",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1002/2014gl062474",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "unspecified"
+      ],
+      "topics": [
+        "genomes",
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1002-2015gb005280",
+      "doi": "10.1002/2015gb005280",
+      "title": "A mass budget for mercury and methylmercury in the Arctic Ocean",
+      "publication_date": "2016-04",
+      "year": 2016,
+      "authors": [
+        "Anne L. Soerensen",
+        "Daniel J. Jacob",
+        "Amina T. Schartup",
+        "Jenny A. Fisher",
+        "Igor Lehnherr",
+        "Vincent L. St. Louis",
+        "Lars‐Eric Heimbürger",
+        "Jeroen E. Sonke",
+        "David P. Krabbenhoft",
+        "Elsie M. Sunderland"
+      ],
+      "journal": "Global Biogeochemical Cycles",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1002/2015gb005280",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "water-column",
+        "sediment"
+      ],
+      "topics": [
+        "mercury",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1002-lno-10307",
+      "doi": "10.1002/lno.10307",
+      "title": "Effects of climate change on methane emissions from seafloor sediments in the Arctic Ocean: A review",
+      "publication_date": "2016-05-17",
+      "year": 2016,
+      "authors": [
+        "Rachael H. James",
+        "Philippe Bousquet",
+        "Ingeborg Bussmann",
+        "Matthias Haeckel",
+        "Rolf Kipfer",
+        "Ira Leifer",
+        "Helge Niemann",
+        "Ilia Ostrovsky",
+        "Jacek Piskozub",
+        "Gregor Rehder",
+        "Tina Treude",
+        "Lisa Vielstädte",
+        "Jens Greinert"
+      ],
+      "journal": "Limnology and Oceanography",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1002/lno.10307",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "water-column",
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1016-s0967-0645-97-00074-x",
+      "doi": "10.1016/s0967-0645(97)00074-x",
+      "title": "Biogeography, biodiversity and fluid dependence of deep-sea cold-seep communities at active and passive margins",
+      "publication_date": "1998-01",
+      "year": 1998,
+      "authors": [
+        "Myriam Sibuet",
+        "Karine Olu"
+      ],
+      "journal": "Deep Sea Research Part II: Topical Studies in Oceanography",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/s0967-0645(97)00074-x",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "unspecified"
+      ],
+      "topics": [
+        "community"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "context",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1021-cr050362v",
+      "doi": "10.1021/cr050362v",
+      "title": "Oceanic Methane Biogeochemistry",
+      "publication_date": "2007-01-30",
+      "year": 2007,
+      "authors": [
+        "William S. Reeburgh"
+      ],
+      "journal": "Chemical Reviews",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1021/cr050362v",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "unspecified"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "context",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1029-2009gl039191",
+      "doi": "10.1029/2009gl039191",
+      "title": "Escape of methane gas from the seabed along the West Spitsbergen continental margin",
+      "publication_date": "2009-08-06",
+      "year": 2009,
+      "authors": [
+        "Graham K. Westbrook",
+        "Kate E. Thatcher",
+        "Eelco J. Rohling",
+        "Alexander M. Piotrowski",
+        "Heiko Pälike",
+        "Anne H. Osborne",
+        "Euan G. Nisbet",
+        "Tim A. Minshull",
+        "Mathias Lanoisellé",
+        "Rachael H. James",
+        "Veit Hühnerbach",
+        "Darryl Green",
+        "Rebecca E. Fisher",
+        "Anya J. Crocker",
+        "Anne Chabert",
+        "Clara Bolton",
+        "Agnieszka Beszczynska‐Möller",
+        "Christian Berndt",
+        "Alfred Aquilina"
+      ],
+      "journal": "Geophysical Research Letters",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1029/2009gl039191",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "bottom-water"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1038-19751",
+      "doi": "10.1038/19751",
+      "title": "Methane-consuming archaebacteria in marine sediments",
+      "publication_date": "1999-04",
+      "year": 1999,
+      "authors": [
+        "Kai-Uwe Hinrichs",
+        "John M. Hayes",
+        "Sean P. Sylva",
+        "Peter G. Brewer",
+        "Edward F. DeLong"
+      ],
+      "journal": "Nature",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1038/19751",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1038-35036572",
+      "doi": "10.1038/35036572",
+      "title": "A marine microbial consortium apparently mediating anaerobic oxidation of methane",
+      "publication_date": "2000-10",
+      "year": 2000,
+      "authors": [
+        "Antje Boetius",
+        "Katrin Ravenschlag",
+        "Carsten J. Schubert",
+        "Dirk Rickert",
+        "Friedrich Widdel",
+        "Armin Gieseke",
+        "Rudolf Amann",
+        "Bo Barker Jørgensen",
+        "Ursula Witte",
+        "Olaf Pfannkuche"
+      ],
+      "journal": "Nature",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1038/35036572",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "unspecified"
+      ],
+      "topics": [
+        "methane"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1038-nature05227",
+      "doi": "10.1038/nature05227",
+      "title": "Novel microbial communities of the Haakon Mosby mud volcano and their role as a methane sink",
+      "publication_date": "2006-10",
+      "year": 2006,
+      "authors": [
+        "Helge Niemann",
+        "Tina Lösekann",
+        "Dirk de Beer",
+        "Marcus Elvert",
+        "Thierry Nadalig",
+        "Katrin Knittel",
+        "Rudolf Amann",
+        "Eberhard J. Sauter",
+        "Michael Schlüter",
+        "Michael Klages",
+        "Jean Paul Foucher",
+        "Antje Boetius"
+      ],
+      "journal": "Nature",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1038/nature05227",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "unspecified"
+      ],
+      "topics": [
+        "community",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1038-ngeo1926",
+      "doi": "10.1038/ngeo1926",
+      "title": "Seafloor oxygen consumption fuelled by methane from cold seeps",
+      "publication_date": "2013-08-29",
+      "year": 2013,
+      "authors": [
+        "Antje Boetius",
+        "Frank Wenzhöfer"
+      ],
+      "journal": "Nature Geoscience",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1038/ngeo1926",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "unspecified"
+      ],
+      "topics": [
+        "methane"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "context",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1038-ngeo2420",
+      "doi": "10.1038/ngeo2420",
+      "title": "Water column methanotrophy controlled by a rapid oceanographic switch",
+      "publication_date": "2015-04-20",
+      "year": 2015,
+      "authors": [
+        "Lea Steinle",
+        "Carolyn A. Graves",
+        "Tina Treude",
+        "Bénédicte Ferré",
+        "Arne Biastoch",
+        "Ingeborg Bussmann",
+        "Christian Berndt",
+        "Sebastian Krastel",
+        "Rachael H. James",
+        "Erik Behrens",
+        "Claus W. Böning",
+        "Jens Greinert",
+        "Célia-Julia Sapart",
+        "Markus Scheinert",
+        "Stefan Sommer",
+        "Moritz F. Lehmann",
+        "Helge Niemann"
+      ],
+      "journal": "Nature Geoscience",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1038/ngeo2420",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "water-column"
+      ],
+      "topics": [
+        "methane"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1073-pnas-072210299",
+      "doi": "10.1073/pnas.072210299",
+      "title": "Multiple archaeal groups mediate methane oxidation in anoxic cold seep sediments",
+      "publication_date": "2002-05-14",
+      "year": 2002,
+      "authors": [
+        "Victoria J. Orphan",
+        "Christopher H. House",
+        "Kai-Uwe Hinrichs",
+        "Kevin D. McKeegan",
+        "Edward F. DeLong"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1073/pnas.072210299",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "sulfur",
+        "cultivation",
+        "geochemistry",
+        "methods"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1111-j-1462-2920-2008-01712-x",
+      "doi": "10.1111/j.1462-2920.2008.01712.x",
+      "title": "Endosymbioses between bacteria and deep‐sea siboglinid tubeworms from an Arctic Cold Seep (Haakon Mosby Mud Volcano, Barents Sea)",
+      "publication_date": "2008-11-07",
+      "year": 2008,
+      "authors": [
+        "Tina Lösekann",
+        "Alberto Robador",
+        "Helge Niemann",
+        "Katrin Knittel",
+        "Antje Boetius",
+        "Nicole Dubilier"
+      ],
+      "journal": "Environmental Microbiology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1111/j.1462-2920.2008.01712.x",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "symbiosis"
+      ],
+      "topics": [
+        "methane",
+        "sulfur",
+        "symbioses",
+        "geochemistry",
+        "methods"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1126-science-1246298",
+      "doi": "10.1126/science.1246298",
+      "title": "Temporal Constraints on Hydrate-Controlled Methane Seepage off Svalbard",
+      "publication_date": "2014-01-17",
+      "year": 2014,
+      "authors": [
+        "C. Berndt",
+        "T. Feseker",
+        "T. Treude",
+        "S. Krastel",
+        "V. Liebetrau",
+        "H. Niemann",
+        "V. J. Bertics",
+        "I. Dumke",
+        "K. Dünnbier",
+        "B. Ferré",
+        "C. Graves",
+        "F. Gross",
+        "K. Hissmann",
+        "V. Hühnerbach",
+        "S. Krause",
+        "K. Lieser",
+        "J. Schauer",
+        "L. Steinle"
+      ],
+      "journal": "Science",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1126/science.1246298",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "bottom-water",
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1128-aem-67-4-1922-1934-2001",
+      "doi": "10.1128/aem.67.4.1922-1934.2001",
+      "title": "Comparative Analysis of Methane-Oxidizing Archaea and Sulfate-Reducing Bacteria in Anoxic Marine Sediments",
+      "publication_date": "2001-04",
+      "year": 2001,
+      "authors": [
+        "V. J. Orphan",
+        "K.-U. Hinrichs",
+        "W. Ussler",
+        "C. K. Paull",
+        "L. T. Taylor",
+        "S. P. Sylva",
+        "J. M. Hayes",
+        "E. F. Delong"
+      ],
+      "journal": "Applied and Environmental Microbiology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1128/aem.67.4.1922-1934.2001",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "sulfur",
+        "phosphorus",
+        "methods"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1128-aem-71-1-467-479-2005",
+      "doi": "10.1128/aem.71.1.467-479.2005",
+      "title": "Diversity and Distribution of Methanotrophic Archaea at Cold Seeps",
+      "publication_date": "2005-01",
+      "year": 2005,
+      "authors": [
+        "Katrin Knittel",
+        "Tina Lösekann",
+        "Antje Boetius",
+        "Renate Kort",
+        "Rudolf Amann"
+      ],
+      "journal": "Applied and Environmental Microbiology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1128/aem.71.1.467-479.2005",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment",
+        "carbonate"
+      ],
+      "topics": [
+        "methane",
+        "sulfur",
+        "phosphorus",
+        "geochemistry",
+        "methods"
+      ],
+      "sites": [
+        "northeast-pacific",
+        "black-sea"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1146-annurev-micro-61-080706-093130",
+      "doi": "10.1146/annurev.micro.61.080706.093130",
+      "title": "Anaerobic Oxidation of Methane: Progress with an Unknown Process",
+      "publication_date": "2009-10-01",
+      "year": 2009,
+      "authors": [
+        "Katrin Knittel",
+        "Antje Boetius"
+      ],
+      "journal": "Annual Review of Microbiology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1146/annurev.micro.61.080706.093130",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "unspecified"
+      ],
+      "topics": [
+        "methane",
+        "sulfur",
+        "carbon",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1201-9781420037449-ch1",
+      "doi": "10.1201/9781420037449.ch1",
+      "title": "Ecology of Cold Seep Sediments",
+      "publication_date": "2005-06-24",
+      "year": 2005,
+      "authors": [
+        "Lisa Levin"
+      ],
+      "journal": "Oceanography and Marine Biology - An Annual Review",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1201/9781420037449.ch1",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "context",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
+      "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
+      "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    }
+  ],
   "public_snapshot_policy": "Discovery metadata and review joins only; publisher-supplied abstracts and full text are omitted."
 }
