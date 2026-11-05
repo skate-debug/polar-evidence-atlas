@@ -9336,6 +9336,1626 @@
       ],
       "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
       "_source_hash": "ef8ebe1bd18eea32"
+    },
+    "src:gcs-laptev-iron-nitrate-aom": {
+      "title": "拉普捷夫海甲烷冷泉沉积物中铁与硝酸盐驱动的厌氧甲烷氧化",
+      "study_type": "拉普捷夫冷泉铁与硝酸盐耦合 AOM 研究",
+      "study_profile": {
+        "spatial_scope": "经核验标题所指的拉普捷夫海甲烷冷泉沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的铁与硝酸盐耦合 AOM"
+        ]
+      },
+      "key_findings": [
+        "标题报道拉普捷夫海甲烷冷泉沉积物中铁与硝酸盐驱动的厌氧甲烷氧化。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "作为东西伯利亚铁与硝酸盐耦合 AOM 的比较，不要引用未检索到的速率。",
+        "标题报道拉普捷夫海甲烷冷泉沉积物中铁与硝酸盐驱动的厌氧甲烷氧化。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "2cd9caba44545412"
+    },
+    "src:gcs-esas-aerobic-methane-biomarkers": {
+      "title": "东西伯利亚北极外陆架强甲烷渗漏区的有氧甲烷氧化生物标志物",
+      "study_type": "东西伯利亚陆架有氧甲烷生物标志物研究",
+      "study_profile": {
+        "spatial_scope": "东西伯利亚北极外陆架的强甲烷渗漏区。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的有氧甲烷生物标志物证据"
+        ]
+      },
+      "key_findings": [
+        "标题报道该外陆架渗漏区存在有氧甲烷氧化的生物标志物证据。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "与拉普捷夫藿烷工作对照时，只停留在有氧甲烷生物标志物证据，不要共用速率。",
+        "标题报道该外陆架渗漏区存在有氧甲烷氧化的生物标志物证据。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "77b319f9513f3ff5"
+    },
+    "src:gcs-laptev-seep-clays": {
+      "title": "拉普捷夫海甲烷冷泉沉积物中黏土矿物的成岩转化与缓冲",
+      "study_type": "拉普捷夫冷泉黏土矿物研究",
+      "study_profile": {
+        "spatial_scope": "拉普捷夫海甲烷冷泉沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的黏土成岩与缓冲"
+        ]
+      },
+      "key_findings": [
+        "标题报道这些冷泉沉积物中黏土矿物的成岩转化和缓冲作用。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "用于拉普捷夫冷泉的矿物缓冲，不要把标题当成已测甲烷通量。",
+        "标题报道这些冷泉沉积物中黏土矿物的成岩转化和缓冲作用。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "413f82071379824c"
+    },
+    "src:gcs-vestnesa-monothalamid-barcodes": {
+      "title": "Vestnesa 与 Svyatogor 海脊单室有孔虫 DNA 条形码及三新种",
+      "study_type": "北极单室有孔虫条形码研究",
+      "study_profile": {
+        "spatial_scope": "北冰洋 Vestnesa 与 Svyatogor 海脊。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的条形码与新种"
+        ]
+      },
+      "key_findings": [
+        "标题报道这两处海脊单室有孔虫的 DNA 条形码，并包含三个新描述物种。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "与 eDNA 特有性研究一起用于北极冷泉有孔虫分类，不要引用未检索到的出现次数。",
+        "标题报道这两处海脊单室有孔虫的 DNA 条形码，并包含三个新描述物种。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "ba968b6e2e1d32ff"
+    },
+    "src:gcs-arctic-seep-frigidoalvania": {
+      "title": "北极冷泉特有新种 Frigidoalvania 及其系统发育关系",
+      "study_type": "北极冷泉腹足类描述",
+      "study_profile": {
+        "spatial_scope": "经核验标题所指的北极冷泉。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的特有新种"
+        ]
+      },
+      "key_findings": [
+        "标题报道北极冷泉一种特有新种 Frigidoalvania 及其系统发育关系。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "用于物种描述层面的北极冷泉特有性，而不是全群落多样性普查。",
+        "标题报道北极冷泉一种特有新种 Frigidoalvania 及其系统发育关系。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "0fcbdcfd9c27f7f0"
+    },
+    "src:gcs-laptev-carbonate-thorium-ages": {
+      "title": "拉普捷夫海冷泉自生碳酸盐的钍铀年代与流体来源",
+      "study_type": "拉普捷夫冷泉碳酸盐年代学",
+      "study_profile": {
+        "spatial_scope": "拉普捷夫海冷泉站位。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的碳酸盐年代与流体来源"
+        ]
+      },
+      "key_findings": [
+        "标题报道拉普捷夫冷泉自生碳酸盐的 230Th/U 年代以及对流体来源的约束。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "用于东西伯利亚冷泉年代，不要把未检索到的年龄转用于其他北极冷泉。",
+        "标题报道拉普捷夫冷泉自生碳酸盐的 230Th/U 年代以及对流体来源的约束。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "0369abd7c5ebcd45"
+    },
+    "src:gcs-laptev-pyrite-morphology": {
+      "title": "甲烷渗漏下拉普捷夫海自生黄铁矿的形态与地球化学",
+      "study_type": "拉普捷夫冷泉黄铁矿研究",
+      "study_profile": {
+        "spatial_scope": "受甲烷渗漏影响的拉普捷夫海沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的黄铁矿形态与地球化学"
+        ]
+      },
+      "key_findings": [
+        "标题报道拉普捷夫海甲烷渗漏条件下形成的自生黄铁矿的形态与地球化学。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "作为拉普捷夫成岩矿物比较，并与后来的陆坡黄铁矿记录区分。",
+        "标题报道拉普捷夫海甲烷渗漏条件下形成的自生黄铁矿的形态与地球化学。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "1c971f5d0e0ffd04"
+    },
+    "src:gcs-seep-observatory-perspective": {
+      "title": "冷泉海底观测站对“慢车道生命”观念的修正",
+      "study_type": "海底观测站述评",
+      "study_profile": {
+        "spatial_scope": "经核验标题所讨论的冷泉海底观测站。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的观测站述评"
+        ]
+      },
+      "key_findings": [
+        "标题指出冷泉海底观测站修正了“慢车道生命”这一观念。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "作为观测站述评使用，而不是北极或南海某站的新速率测量。",
+        "标题指出冷泉海底观测站修正了“慢车道生命”这一观念。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "6cc24666bbbd1ee1"
+    },
+    "src:gcs-seep-hydroxy-gdgt-methanogenesis": {
+      "title": "海洋甲烷冷泉中羟基化 GDGT-0 作为古菌产甲烷的候选指标",
+      "study_type": "冷泉 GDGT 生物标志物研究",
+      "study_profile": {
+        "spatial_scope": "经核验标题所指的海洋甲烷冷泉环境。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的羟基化 GDGT-0 指标"
+        ]
+      },
+      "key_findings": [
+        "标题提出羟基化 GDGT-0 可作为海洋甲烷冷泉中古菌产甲烷的候选指标。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "将该指标视为候选。检索记录没有标明样品来自哪一处冷泉。",
+        "标题提出羟基化 GDGT-0 可作为海洋甲烷冷泉中古菌产甲烷的候选指标。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "44811aa2b639ea3e"
+    },
+    "src:gcs-seep-carbonate-factory-review": {
+      "title": "冷泉碳酸盐工厂：形成机制、地球化学指标与全球碳循环",
+      "study_type": "冷泉碳酸盐工厂综述",
+      "study_profile": {
+        "spatial_scope": "经核验综述标题所涵盖的冷泉碳酸盐形成。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的碳酸盐工厂综述"
+        ]
+      },
+      "key_findings": [
+        "标题综述冷泉碳酸盐工厂的形成机制、地球化学指标及其对全球碳循环的意义。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "作为冷泉碳酸盐的叙述性综述，而不是站位清单或新的碳收支测量。",
+        "标题综述冷泉碳酸盐工厂的形成机制、地球化学指标及其对全球碳循环的意义。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "5f3749504193ff1f"
+    },
+    "src:gcs-vestnesa-hoenir-seep-field": {
+      "title": "弗拉姆海峡 Vestnesa 海脊西北侧新发现的深海甲烷冷泉场",
+      "study_type": "新北极冷泉场底栖调查",
+      "study_profile": {
+        "spatial_scope": "弗拉姆海峡 Vestnesa 海脊西北侧、水深 1,200–1,375 m 的 Hœnir 冷泉场。",
+        "temporal_scope": "2020 年 MSM95，随后为 PS136、MSM108 与 PS143/1。",
+        "sample_design": "2020 年 MSM95 之后的摄像、ROV 与拖网调查，结合原位影像及部分生物的 COI 条形码。",
+        "measured_or_derived": [
+          "大型底栖类群与局地密度"
+        ]
+      },
+      "key_findings": [
+        "该活跃冷泉场有 47 个大型底栖类群。专性冷泉类群指示活跃渗漏；Ophiocten 在不活跃区可达约每平方米 80 只，而在微生物席或管虫林数米内缺失。"
+      ],
+      "limitations": [
+        "影像计数和条形码描述的是受测冷泉场，不能测量甲烷通量，也不能证明与东翼共有类群存在遗传连通。"
+      ],
+      "cite_for": [
+        "用于把弗拉姆海峡冷泉地理扩展到经典东翼麻坑之外。",
+        "该活跃冷泉场有 47 个大型底栖类群。专性冷泉类群指示活跃渗漏；Ophiocten 在不活跃区可达约每平方米 80 只，而在微生物席或管虫林数米内缺失。"
+      ],
+      "do_not_overcite": [
+        "影像计数和条形码描述的是受测冷泉场，不能测量甲烷通量，也不能证明与东翼共有类群存在遗传连通。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "0ee275b23022853b"
+    },
+    "src:gcs-vesteralen-coral-aom": {
+      "title": "挪威北部 Vesterålen 冷水珊瑚区的化能生境与 AOM 沉积物微生物",
+      "study_type": "冷泉–珊瑚生境与微生物组研究",
+      "study_profile": {
+        "spatial_scope": "挪威北部 Vesterålen 沿岸兼有冷泉的冷水珊瑚区。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "沉积物与孔隙水地球化学、有孔虫、海底生境图，以及上部 10 cm 的 16S rRNA 剖面。",
+        "measured_or_derived": [
+          "孔隙水化学、碳酸盐生境与 16S 剖面"
+        ]
+      },
+      "key_findings": [
+        "碳酸盐边缘的微生物席对应浅至 5 cm 的硫酸盐–甲烷转换带和贫 13C 的溶解无机碳。白色生物膜层 δ13C 低至 −43.4‰，群落转向被归为 ANME-1b 的 Halobacterota ASV。"
+      ],
+      "limitations": [
+        "标记与同位素模式支持所采岩芯中正在进行 AOM，但不能说明渗漏造成了珊瑚分布。"
+      ],
+      "cite_for": [
+        "用于北欧陆缘冷泉与冷水珊瑚的耦合，以及浅层 ANME-1b 生物膜。",
+        "碳酸盐边缘的微生物席对应浅至 5 cm 的硫酸盐–甲烷转换带和贫 13C 的溶解无机碳。白色生物膜层 δ13C 低至 −43.4‰，群落转向被归为 ANME-1b 的 Halobacterota ASV。"
+      ],
+      "do_not_overcite": [
+        "标记与同位素模式支持所采岩芯中正在进行 AOM，但不能说明渗漏造成了珊瑚分布。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "8e78297583a75272"
+    },
+    "src:gcs-svalbard-fjord-sgd-macrofauna": {
+      "title": "斯瓦尔巴峡湾海底地下水排放与一处冷泉的大型底栖动物",
+      "study_type": "峡湾地下水排放与冷泉大型底栖比较",
+      "study_profile": {
+        "spatial_scope": "三处斯瓦尔巴峡湾海底地下水排放点和一处斯瓦尔巴陆架冷泉，水深约 40–117 m。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "比较地下水排放点与陆架冷泉的大型底栖动物及沉积物化学。",
+        "measured_or_derived": [
+          "大型底栖动物、孔隙水甲烷与硫化物"
+        ]
+      },
+      "key_findings": [
+        "峡湾地下水排放点并不像所采冷泉：孔隙水测不到甲烷，游离硫化物低，多样性和丰度极低。"
+      ],
+      "limitations": [
+        "差异限于所采站位，不能说明未来冻土融化会使地下水排放在生态上等同于冷泉。"
+      ],
+      "cite_for": [
+        "讨论沿岸北极底栖生物时，把峡湾地下水排放与陆架冷泉分开。",
+        "峡湾地下水排放点并不像所采冷泉：孔隙水测不到甲烷，游离硫化物低，多样性和丰度极低。"
+      ],
+      "do_not_overcite": [
+        "差异限于所采站位，不能说明未来冻土融化会使地下水排放在生态上等同于冷泉。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "cc081399a323cb93"
+    },
+    "src:gcs-saglek-seep-corals": {
+      "title": "加拿大北极 Saglek 浅滩滑坡冷泉与冷水珊瑚的空间关系",
+      "study_type": "滑坡冷泉与珊瑚调查",
+      "study_profile": {
+        "spatial_scope": "拉布拉多陆架北缘东北 Saglek 浅滩，水深 605–818 m。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "多波束调查，以及在长 4.5 km 的滑坡凹地内外进行四次 ROV 下潜。",
+        "measured_or_derived": [
+          "珊瑚密度、砾石、微生物席与碳酸盐"
+        ]
+      },
+      "key_findings": [
+        "微生物席和自生碳酸盐只出现在冷泉。珊瑚密度与砾石密度的关系强于与碳酸盐的关系，Primnoa resedaeformis 与冷泉的关联较弱并被解释为巧合。"
+      ],
+      "limitations": [
+        "一处热点的比较不能说明冷泉普遍促进 Primnoa 生境。"
+      ],
+      "cite_for": [
+        "把北极冷泉地理延伸到加拿大北极东部，同时不要把珊瑚重叠当成因果关系。",
+        "微生物席和自生碳酸盐只出现在冷泉。珊瑚密度与砾石密度的关系强于与碳酸盐的关系，Primnoa resedaeformis 与冷泉的关联较弱并被解释为巧合。"
+      ],
+      "do_not_overcite": [
+        "一处热点的比较不能说明冷泉普遍促进 Primnoa 生境。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "b99d2af3860bfa37"
+    },
+    "src:gcs-svalbard-seep-substrate-imagery": {
+      "title": "北极冷泉区海底影像中底质对底栖群落结构的作用",
+      "study_type": "冷泉高分辨率海底影像研究",
+      "study_profile": {
+        "spatial_scope": "斯瓦尔巴北部外海约 150 m 水深处的渗漏区，两幅正射镶嵌约 2,261 m2。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "ROV 视频摄影测量、表栖生物标注，以及四类底质的面向对象分类。",
+        "measured_or_derived": [
+          "底质类型与表栖生物定殖"
+        ]
+      },
+      "key_findings": [
+        "与冷泉相关的底质塑造了底栖群落结构，甲烷来源自生碳酸盐进一步放大了这一效应，但它与粗或细沉积物的关系仍不清楚。"
+      ],
+      "limitations": [
+        "影像给出的是空间关联，不是已测甲烷通量，也不是普遍的底质规律。"
+      ],
+      "cite_for": [
+        "用于正射镶嵌尺度上底质对北极冷泉表栖生物的控制。",
+        "与冷泉相关的底质塑造了底栖群落结构，甲烷来源自生碳酸盐进一步放大了这一效应，但它与粗或细沉积物的关系仍不清楚。"
+      ],
+      "do_not_overcite": [
+        "影像给出的是空间关联，不是已测甲烷通量，也不是普遍的底质规律。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "14d989a2d318a497"
+    },
+    "src:gcs-laptev-hopanoid-methane": {
+      "title": "拉普捷夫海藿烷碳同位素指示的有氧甲烷氧化",
+      "study_type": "拉普捷夫藿烷甲烷氧化研究",
+      "study_profile": {
+        "spatial_scope": "拉普捷夫海陆架表层沉积物，包括外陆架、中陆架和勒拿河三角洲附近。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "表层沉积物中 C30 藿烷的 δ13C，并结合 16S rRNA 剖面解释。",
+        "measured_or_derived": [
+          "藿烷 δ13C 与 16S 群落"
+        ]
+      },
+      "key_findings": [
+        "23 个样品的 C30 藿烯 δ13C 为 −57.5‰ 至 −37.1‰，指示包括中陆架在内的拉普捷夫陆架存在有氧甲烷氧化。勒拿河三角洲附近信号偏重，归因更困难。"
+      ],
+      "limitations": [
+        "藿烷同位素是时间积分代用指标，不等于海水甲烷浓度或氧化速率。"
+      ],
+      "cite_for": [
+        "用于海水甲烷分布不均时，拉普捷夫有氧甲烷氧化的时间积分证据。",
+        "23 个样品的 C30 藿烯 δ13C 为 −57.5‰ 至 −37.1‰，指示包括中陆架在内的拉普捷夫陆架存在有氧甲烷氧化。勒拿河三角洲附近信号偏重，归因更困难。"
+      ],
+      "do_not_overcite": [
+        "藿烷同位素是时间积分代用指标，不等于海水甲烷浓度或氧化速率。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "7391f23608247e96"
+    },
+    "src:gcs-haakon-mosby-gypsum": {
+      "title": "哈肯莫斯比泥火山水合物沉积物中的非蒸发成因石膏",
+      "study_type": "哈肯莫斯比石膏成岩研究",
+      "study_profile": {
+        "spatial_scope": "西南巴伦支海哈肯莫斯比泥火山的含水合物冷泉沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "岩芯扫描、显微镜和扫描电镜分析自生矿物。",
+        "measured_or_derived": [
+          "黄铁矿–石膏深度与古转换带层位"
+        ]
+      },
+      "key_findings": [
+        "黄铁矿与石膏标出 7–10、13–18 和 19–21 cm 的三个古硫酸盐–甲烷转换带，位于约 50 cm 的现代转换带之上。石膏被解释为转换带下移、早期黄铁矿氧化后形成。"
+      ],
+      "limitations": [
+        "形成途径是对矿物共现的解释，不能量化现今甲烷通量。"
+      ],
+      "cite_for": [
+        "作为北极泥火山的成岩标志，而不是蒸发石膏的证据。",
+        "黄铁矿与石膏标出 7–10、13–18 和 19–21 cm 的三个古硫酸盐–甲烷转换带，位于约 50 cm 的现代转换带之上。石膏被解释为转换带下移、早期黄铁矿氧化后形成。"
+      ],
+      "do_not_overcite": [
+        "形成途径是对矿物共现的解释，不能量化现今甲烷通量。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "49818d21a53c2744"
+    },
+    "src:gcs-nyegga-seep-habitats": {
+      "title": "Nyegga 甲烷冷泉的地质驱动与生境复杂性",
+      "study_type": "Nyegga 冷泉生境调查",
+      "study_profile": {
+        "spatial_scope": "中挪威陆缘 Storegga 滑坡北翼的 Nyegga 冷泉区。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "ROV 调查、高分辨率地形和微生物 16S rRNA 基因分析。",
+        "measured_or_derived": [
+          "微生境与 16S 组合"
+        ]
+      },
+      "key_findings": [
+        "区分出四类微生境：管虫和微生物席覆盖的水合物丘、碳酸盐块间的隐蔽空间、滤食生物栖居的碳酸盐凸檐，以及鱼类利用的沉积物洼地。微生物组合含 Polaribacter 和 Psychrobacter 等耐冷类群。"
+      ],
+      "limitations": [
+        "生境描述和 16S 剖面不能测量甲烷通量，也不能证明 Colossendeis 的共生关系。"
+      ],
+      "cite_for": [
+        "用于北极门户区北欧陆缘的生境复杂性。",
+        "区分出四类微生境：管虫和微生物席覆盖的水合物丘、碳酸盐块间的隐蔽空间、滤食生物栖居的碳酸盐凸檐，以及鱼类利用的沉积物洼地。微生物组合含 Polaribacter 和 Psychrobacter 等耐冷类群。"
+      ],
+      "do_not_overcite": [
+        "生境描述和 16S 剖面不能测量甲烷通量，也不能证明 Colossendeis 的共生关系。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "781dc22096743a4a"
+    },
+    "src:gcs-svalbard-sw-slope-seeps": {
+      "title": "斯瓦尔巴西南陆坡新发现的活跃甲烷冷泉",
+      "study_type": "斯瓦尔巴陆坡新冷泉测绘",
+      "study_profile": {
+        "spatial_scope": "斯瓦尔巴西南陆坡约 800 m 处，位于 Storfjorden 与 Hornsund 槽口扇之间。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "在两条与陆坡平行的构造上测绘微生物席、碳酸盐、丘体和气泡。",
+        "measured_or_derived": [
+          "微生物席、碳酸盐壳、气泡与宿主构造"
+        ]
+      },
+      "key_findings": [
+        "细菌席、碳酸盐壳、西伯加虫和游离气泡标示活跃甲烷渗漏。厚碳酸盐壳被当作长期渗漏的证据，气源可能为中新世或古新世。"
+      ],
+      "limitations": [
+        "烃源岩时代是解释。气泡观测不能量化通量。"
+      ],
+      "cite_for": [
+        "把已测绘的活跃渗漏扩展到 Storfjordrenna 以外的斯瓦尔巴西南侧。",
+        "细菌席、碳酸盐壳、西伯加虫和游离气泡标示活跃甲烷渗漏。厚碳酸盐壳被当作长期渗漏的证据，气源可能为中新世或古新世。"
+      ],
+      "do_not_overcite": [
+        "烃源岩时代是解释。气泡观测不能量化通量。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "48e35cd5bee9030a"
+    },
+    "src:gcs-svyatogor-ridge-methane": {
+      "title": "超慢速扩张北极中脊 Svyatogor 海脊的甲烷渗漏地球化学",
+      "study_type": "Svyatogor 海脊冷泉地球化学",
+      "study_profile": {
+        "spatial_scope": "斯瓦尔巴以西、北极中脊沉积物覆盖转换断层上的 Svyatogor 海脊。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "对甲烷渗漏环境做沉积物和有孔虫地球化学分析。",
+        "measured_or_derived": [
+          "沉积物与有孔虫甲烷代用指标"
+        ]
+      },
+      "key_findings": [
+        "该海脊存在浅层微生物甲烷循环，厌氧氧化维持海底化能群落。过去通量被推断更高，且没有证据表明甲烷到达海面。"
+      ],
+      "limitations": [
+        "单条海脊不能改写所有超慢速扩张脊的甲烷收支，过去通量的推断也不是实测速率。"
+      ],
+      "cite_for": [
+        "作为超慢速北极中脊已报道的甲烷冷泉案例。",
+        "该海脊存在浅层微生物甲烷循环，厌氧氧化维持海底化能群落。过去通量被推断更高，且没有证据表明甲烷到达海面。"
+      ],
+      "do_not_overcite": [
+        "单条海脊不能改写所有超慢速扩张脊的甲烷收支，过去通量的推断也不是实测速率。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "1dd2aae2e09db392"
+    },
+    "src:gcs-esas-methane-acidification": {
+      "title": "东西伯利亚北极陆架甲烷渗漏对水体酸化的模型分析",
+      "study_type": "东西伯利亚陆架甲烷氧化酸化模型",
+      "study_profile": {
+        "spatial_scope": "东西伯利亚北极陆架强甲烷渗漏区的水体。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "带碳酸盐体系和气泡归宿模块的二维底栖–水体模型。",
+        "measured_or_derived": [
+          "模型 pH、溶解氧与文石饱和度"
+        ]
+      },
+      "key_findings": [
+        "模型中渗漏甲烷的有氧氧化产生了与观测相符的 pH 和溶解氧异常；作者推测文石饱和度可降到 1 以下。"
+      ],
+      "limitations": [
+        "饱和度低于 1 是模拟渗漏区的模型假说，不是全陆架实测收支。"
+      ],
+      "cite_for": [
+        "在把东西伯利亚冷泉甲烷与水体酸化相联系时使用，并保留模型假设。",
+        "模型中渗漏甲烷的有氧氧化产生了与观测相符的 pH 和溶解氧异常；作者推测文石饱和度可降到 1 以下。"
+      ],
+      "do_not_overcite": [
+        "饱和度低于 1 是模拟渗漏区的模型假说，不是全陆架实测收支。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "f3554bf34772ae86"
+    },
+    "src:gcs-molloy-hydrate-mounds": {
+      "title": "格陵兰海 Molloy 海脊 3640 米处的水合物丘与化能生物",
+      "study_type": "深水北极水合物丘发现",
+      "study_profile": {
+        "spatial_scope": "格陵兰海 Molloy 海脊，水深 3,640 m。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "海底观测、气和油采样，以及水合物与生物的同位素分析。",
+        "measured_or_derived": [
+          "水合物气体、气泡上升与冷泉生物"
+        ]
+      },
+      "key_findings": [
+        "在 3,640 m 发现带冷泉生物的水合物丘。气泡升至海面 300 m 以内，水合物含热成因气，科级生物组成更接近同等深度的北极热液，而不是附近较浅的冷泉。"
+      ],
+      "limitations": [
+        "科级相似不能证明种群连通，一条海脊也不能改写所有北极水合物的深度范围。"
+      ],
+      "cite_for": [
+        "用于目前报道最深的北极水合物丘，以及冷泉与热液生物的重叠。",
+        "在 3,640 m 发现带冷泉生物的水合物丘。气泡升至海面 300 m 以内，水合物含热成因气，科级生物组成更接近同等深度的北极热液，而不是附近较浅的冷泉。"
+      ],
+      "do_not_overcite": [
+        "科级相似不能证明种群连通，一条海脊也不能改写所有北极水合物的深度范围。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "f7fbb9263f152317"
+    },
+    "src:gcs-borealis-mud-volcano": {
+      "title": "Borealis 泥火山作为脆弱北极物种的庇护所",
+      "study_type": "Borealis 泥火山生境研究",
+      "study_profile": {
+        "spatial_scope": "极地北大西洋的 Borealis 泥火山。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "用 ROV 观察喷口、碳酸盐及相关生物。",
+        "measured_or_derived": [
+          "喷口温度、甲烷流体与碳酸盐生境"
+        ]
+      },
+      "key_findings": [
+        "喷口释放 11.5°C 的新近纪沉积物和富甲烷流体。不规则碳酸盐为固着生物提供避开拖网的遮蔽，并可能是受威胁鱼类的育幼场所。"
+      ],
+      "limitations": [
+        "育幼是对所观察到遮蔽作用的一种可能功能，不是实测的补充率。"
+      ],
+      "cite_for": [
+        "作为极地北大西洋泥火山庇护所，并与陆架冷泉清单区分。",
+        "喷口释放 11.5°C 的新近纪沉积物和富甲烷流体。不规则碳酸盐为固着生物提供避开拖网的遮蔽，并可能是受威胁鱼类的育幼场所。"
+      ],
+      "do_not_overcite": [
+        "育幼是对所观察到遮蔽作用的一种可能功能，不是实测的补充率。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "06175dfc114cff4c"
+    },
+    "src:gcs-hornsund-shallow-seep-fauna": {
+      "title": "动态水团下的浅水北极冷泉底栖动物",
+      "study_type": "浅水北极冷泉底栖调查",
+      "study_profile": {
+        "spatial_scope": "斯瓦尔巴南部 Hornsund 外海陆架的浅水冷泉。",
+        "temporal_scope": "所查摘要未给出航次日期。",
+        "sample_design": "基于影像的表栖大型底栖生物，并与 CTD 水团数据比较。",
+        "measured_or_derived": [
+          "表栖大型底栖生物与水团性质"
+        ]
+      },
+      "key_findings": [
+        "尽管处于较冷的北极水，冷泉仍缺少化能共生的西伯加虫。CTD 盐度指示变性大西洋水，生物组成更接近北极冷泉的背景类群而不是专性冷泉宿主。"
+      ],
+      "limitations": [
+        "水团控制是对一处浅水区的解释，不能说明大西洋水在所有北极冷泉都排除西伯加虫。"
+      ],
+      "cite_for": [
+        "用于动态水团下的斯瓦尔巴浅水冷泉生物。",
+        "尽管处于较冷的北极水，冷泉仍缺少化能共生的西伯加虫。CTD 盐度指示变性大西洋水，生物组成更接近北极冷泉的背景类群而不是专性冷泉宿主。"
+      ],
+      "do_not_overcite": [
+        "水团控制是对一处浅水区的解释，不能说明大西洋水在所有北极冷泉都排除西伯加虫。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "c72623b20ee13079"
+    },
+    "src:gcs-beaufort-mud-volcano-methane": {
+      "title": "波弗特海泥火山的冰冻圈淡化与甲烷来源转变",
+      "study_type": "波弗特泥火山流体与气体研究",
+      "study_profile": {
+        "spatial_scope": "两处波弗特海泥火山。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "孔隙水与气体地球化学，包括氯、水同位素和烃同位素。",
+        "measured_or_derived": [
+          "孔隙水淡化与烃同位素"
+        ]
+      },
+      "key_findings": [
+        "中心站持续淡化，氯亏损超过 69%，边缘仍接近海水。作者推断冰冻圈来源的淡水改变了微生物甲烷与热成因甲烷的平衡。"
+      ],
+      "limitations": [
+        "甲烷来源转变是根据流体和气体指纹作出的推断，不是大气通量的实测变化。"
+      ],
+      "cite_for": [
+        "把北极泥火山地球化学扩展到波弗特海。",
+        "中心站持续淡化，氯亏损超过 69%，边缘仍接近海水。作者推断冰冻圈来源的淡水改变了微生物甲烷与热成因甲烷的平衡。"
+      ],
+      "do_not_overcite": [
+        "甲烷来源转变是根据流体和气体指纹作出的推断，不是大气通量的实测变化。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "217b20167a790efb"
+    },
+    "src:gcs-barents-active-seep-inventory": {
+      "title": "挪威北部巴伦支海约 21700 个活跃甲烷冷泉的地质与冰川控制",
+      "study_type": "北部巴伦支海冷泉清单",
+      "study_profile": {
+        "spatial_scope": "挪威北部巴伦支海约 5,000 km2。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "多波束回声数据和 P-cable 高分辨率地震测线。",
+        "measured_or_derived": [
+          "冷泉数量与构造高地背景"
+        ]
+      },
+      "key_findings": [
+        "在被剥露、断裂且遭受不同程度侵蚀的构造高地上标出约 21,700 个天然气冷泉。每个受调查的高地都对应海底释放热点。"
+      ],
+      "limitations": [
+        "冷泉数量是调查区内的声学检出，不是通量，也不能说明每个北极陆架都有同样的密度。"
+      ],
+      "cite_for": [
+        "作为具有冰川和构造控制的巴伦支海陆架尺度冷泉清单。",
+        "在被剥露、断裂且遭受不同程度侵蚀的构造高地上标出约 21,700 个天然气冷泉。每个受调查的高地都对应海底释放热点。"
+      ],
+      "do_not_overcite": [
+        "冷泉数量是调查区内的声学检出，不是通量，也不能说明每个北极陆架都有同样的密度。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "d44984d2514e4004"
+    },
+    "src:gcs-vestnesa-glacial-seepage": {
+      "title": "冰川–间冰期沉积对 Vestnesa 海脊气体渗漏的控制",
+      "study_type": "Vestnesa 冰期–间冰期渗漏研究",
+      "study_profile": {
+        "spatial_scope": "斯瓦尔巴西北外海 Vestnesa 海脊，包括甲烷冷泉站。",
+        "temporal_scope": "最近 6 万年的细节最多；记录延伸约 13 万年。",
+        "sample_design": "43 根沉积物岩芯和 1,430 km 浅层地震测线，覆盖约最近 13 万年。",
+        "measured_or_derived": [
+          "渗漏时间与冰期阶段的关系"
+        ]
+      },
+      "key_findings": [
+        "全新世细泥堆积后，渗漏在约 10–9 ka 减弱。海因里希冰阶 1 和新仙女木期为低到中等，博令–阿勒罗德期和早全新世最高。"
+      ],
+      "limitations": [
+        "时间序列与该海脊的沉积作用相联系，不能替代构造控制，也不给出现今通量。"
+      ],
+      "cite_for": [
+        "把冰期–间冰期沉积与 Vestnesa 渗漏的构造解释放在一起。",
+        "全新世细泥堆积后，渗漏在约 10–9 ka 减弱。海因里希冰阶 1 和新仙女木期为低到中等，博令–阿勒罗德期和早全新世最高。"
+      ],
+      "do_not_overcite": [
+        "时间序列与该海脊的沉积作用相联系，不能替代构造控制，也不给出现今通量。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "1c492830da0cfa96"
+    },
+    "src:gcs-barents-carbonate-uth-ages": {
+      "title": "铀钍定年显示巴伦支海冰后期持续的烃类渗漏",
+      "study_type": "巴伦支冷泉碳酸盐铀钍研究",
+      "study_profile": {
+        "spatial_scope": "三处活跃冷泉，水深 156–383 m：Storfjordrenna、Storbanken 高地和 Loppa 高地。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "ROV 采集冷泉碳酸盐并做铀–钍定年。",
+        "measured_or_derived": [
+          "碳酸盐铀钍年龄"
+        ]
+      },
+      "key_findings": [
+        "铀钍年龄为 13.5 至 1.2 ka，显示晚更新世到全新世的幕式碳酸盐形成。Storfjordrenna 与水合物相关的碳酸盐形成于约 6 至 1.2 ka。"
+      ],
+      "limitations": [
+        "碳酸盐年龄给出的是三处冷泉的沉淀时间，不能测量有多少甲烷进入大气。"
+      ],
+      "cite_for": [
+        "与其他渗漏历史记录一起，用于巴伦支海冰后期持续渗漏。",
+        "铀钍年龄为 13.5 至 1.2 ka，显示晚更新世到全新世的幕式碳酸盐形成。Storfjordrenna 与水合物相关的碳酸盐形成于约 6 至 1.2 ka。"
+      ],
+      "do_not_overcite": [
+        "碳酸盐年龄给出的是三处冷泉的沉淀时间，不能测量有多少甲烷进入大气。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "237f3a16a321ebcf"
+    },
+    "src:gcs-svalbard-fjord-hydrate-om": {
+      "title": "海底地下水与水合物分解供给斯瓦尔巴峡湾沉积物有机质",
+      "study_type": "斯瓦尔巴峡湾地下水与水合物研究",
+      "study_profile": {
+        "spatial_scope": "西斯匹次卑尔根 Hornsund、Isfjorden 和 Kongsfjorden–Krossfjorden 的 24 个站位。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "将沉积物有机质同位素与孔隙水氯和水同位素比较。",
+        "measured_or_derived": [
+          "孔隙水淡化与有机质同位素"
+        ]
+      },
+      "key_findings": [
+        "Hornsund 和 Tempelfjorden 的孔隙水淡化具有大气降水特征，符合海底地下水排放；Ekmanfjorden 则符合天然气水合物分解。异常低的有机 δ13C 和 δ15N 被部分归因于微生物对甲烷的利用。"
+      ],
+      "limitations": [
+        "微生物利用甲烷是对同位素值的一种解释，不是实测氧化速率。"
+      ],
+      "cite_for": [
+        "把峡湾水合物和地下水有机质与另一项峡湾冷泉生物比较配合使用。",
+        "Hornsund 和 Tempelfjorden 的孔隙水淡化具有大气降水特征，符合海底地下水排放；Ekmanfjorden 则符合天然气水合物分解。异常低的有机 δ13C 和 δ15N 被部分归因于微生物对甲烷的利用。"
+      ],
+      "do_not_overcite": [
+        "微生物利用甲烷是对同位素值的一种解释，不是实测氧化速率。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "989551ed030c87be"
+    },
+    "src:gcs-mackenzie-uav-seep-methane": {
+      "title": "用无人机量化北极地质渗漏点的甲烷排放",
+      "study_type": "北极渗漏点的无人机甲烷通量方法",
+      "study_profile": {
+        "spatial_scope": "加拿大麦肯齐河三角洲外缘一处已知地质甲烷渗漏点。",
+        "temporal_scope": "2025 年 7 月作业。",
+        "sample_design": "两个无人机平台用开路和闭路甲烷传感器飞行垂直通量截面。",
+        "measured_or_derived": [
+          "无人机甲烷浓度截面"
+        ]
+      },
+      "key_findings": [
+        "2025 年 7 月，无人机在该地质渗漏点采集下风向浓度截面，以替代固定通量塔和小面积通量箱。"
+      ],
+      "limitations": [
+        "检索到的摘要评估的是方法，没有给出量化后的排放率，也不能确定该三角洲渗漏是海底冷泉。"
+      ],
+      "cite_for": [
+        "作为北极地质点源的方法使用，并与海底冷泉清单区分。",
+        "2025 年 7 月，无人机在该地质渗漏点采集下风向浓度截面，以替代固定通量塔和小面积通量箱。"
+      ],
+      "do_not_overcite": [
+        "检索到的摘要评估的是方法，没有给出量化后的排放率，也不能确定该三角洲渗漏是海底冷泉。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "e31d9a00f847cb8f"
+    },
+    "src:gcs-prins-karls-forland-oil-seep": {
+      "title": "从卫星到海底调查的一处北极天然油苗",
+      "study_type": "斯瓦尔巴天然油苗调查",
+      "study_profile": {
+        "spatial_scope": "西斯瓦尔巴 Prins Karls Forland，水深 80–100 m，海底范围约 30,000 m2。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "卫星、航空、海面和水下观测，生物标志物，以及碳酸盐的铀钍定年。",
+        "measured_or_derived": [
+          "油类生物标志物、渗漏面积与碳酸盐年代"
+        ]
+      },
+      "key_findings": [
+        "该渗漏排出来自第三纪或更年轻烃源岩的油。海面油膜与海底油同源，碳酸盐年代显示晚更新世以来持续渗出，浸油沉积物中也有内栖生物定居。"
+      ],
+      "limitations": [
+        "一处浅水油苗是基线站位，不能代表只渗甲烷的北极冷泉，也不是人为溢油。"
+      ],
+      "cite_for": [
+        "用于从卫星到海底识别北极天然油苗。",
+        "该渗漏排出来自第三纪或更年轻烃源岩的油。海面油膜与海底油同源，碳酸盐年代显示晚更新世以来持续渗出，浸油沉积物中也有内栖生物定居。"
+      ],
+      "do_not_overcite": [
+        "一处浅水油苗是基线站位，不能代表只渗甲烷的北极冷泉，也不是人为溢油。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "5810e2905a23bc76"
+    },
+    "src:gcs-barents-polaris-mud-volcanoes": {
+      "title": "西南巴伦支海埋藏巨型滑坡形成的泥火山群",
+      "study_type": "巴伦支泥火山发现",
+      "study_profile": {
+        "spatial_scope": "西南巴伦支海，水深 440–480 m。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "测绘平顶丘及其地下烟囱的海底和地震结构。",
+        "measured_or_derived": [
+          "泥火山数量、水深与滑坡根部"
+        ]
+      },
+      "key_findings": [
+        "在原先只知道两座的地方发现十座北极泥火山。它们根植于埋藏的更新世巨型滑坡充填物中，至少自晚魏克塞尔冰消期以来活动。作者非正式地将该区称为 Polaris 泥火山复合体。"
+      ],
+      "limitations": [
+        "摘要在活动性陈述处截断。不要添加检索文本中没有的甲烷收支数字。"
+      ],
+      "cite_for": [
+        "把 Polaris 复合体加入巴伦支海泥火山地理。",
+        "在原先只知道两座的地方发现十座北极泥火山。它们根植于埋藏的更新世巨型滑坡充填物中，至少自晚魏克塞尔冰消期以来活动。作者非正式地将该区称为 Polaris 泥火山复合体。"
+      ],
+      "do_not_overcite": [
+        "摘要在活动性陈述处截断。不要添加检索文本中没有的甲烷收支数字。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "8faecda76d54e0e3"
+    },
+    "src:gcs-laptev-om-isotope-curves": {
+      "title": "拉普捷夫海冷泉区沉积有机质的碳同位素类型曲线",
+      "study_type": "拉普捷夫冷泉有机质同位素研究",
+      "study_profile": {
+        "spatial_scope": "拉普捷夫海冷泉区沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "按极性把沉积有机质分成五个溶剂组分并比较 δ13C。",
+        "measured_or_derived": [
+          "组分 δ13C 与聚类差值"
+        ]
+      },
+      "key_findings": [
+        "在冷泉中，沥青质分解使苯–甲醇组分富集与上升甲烷流相关的细菌生物量、且贫 13C 的物质。苯组分 δ13C 把近 10 cm 的表层聚类与更深聚类分开约 2–3‰。"
+      ],
+      "limitations": [
+        "组分同位素追踪的是所采岩芯中的有机质变化，不是甲烷氧化速率。"
+      ],
+      "cite_for": [
+        "用于拉普捷夫冷泉有机质的同位素模式。",
+        "在冷泉中，沥青质分解使苯–甲醇组分富集与上升甲烷流相关的细菌生物量、且贫 13C 的物质。苯组分 δ13C 把近 10 cm 的表层聚类与更深聚类分开约 2–3‰。"
+      ],
+      "do_not_overcite": [
+        "组分同位素追踪的是所采岩芯中的有机质变化，不是甲烷氧化速率。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "1d554d01e0ea98f5"
+    },
+    "src:gcs-laptev-element-speciation": {
+      "title": "拉普捷夫海陆架冷甲烷渗漏沉积物的元素赋存形态",
+      "study_type": "拉普捷夫冷泉连续提取研究",
+      "study_profile": {
+        "spatial_scope": "拉普捷夫外陆架–陆坡的一处冷泉站和两个背景站；三个层位共九个样品。",
+        "temporal_scope": "2020 年秋季，“阿卡德米克·姆斯基斯拉夫·克尔德什”号 AMK-82 航次。",
+        "sample_design": "BCR 连续提取和 ICP-MS，并对残余有机质做热解。",
+        "measured_or_derived": [
+          "连续提取的元素形态"
+        ]
+      },
+      "key_findings": [
+        "2020 年 AMK-82 航次中，冷泉处元素活动性增加，并被归因于自生碳酸盐和硫化物的形成。作者将 U、Ni、Zn 和 Co 与碳酸盐联系，将 Co、Mn 和 W 与硫化物联系。"
+      ],
+      "limitations": [
+        "这是九个样品的关联，不能证明每种元素都有特定自生矿物，也不是甲烷通量。"
+      ],
+      "cite_for": [
+        "用于拉普捷夫冷泉的氧化还原和微量元素响应，而不是区域污染收支。",
+        "2020 年 AMK-82 航次中，冷泉处元素活动性增加，并被归因于自生碳酸盐和硫化物的形成。作者将 U、Ni、Zn 和 Co 与碳酸盐联系，将 Co、Mn 和 W 与硫化物联系。"
+      ],
+      "do_not_overcite": [
+        "这是九个样品的关联，不能证明每种元素都有特定自生矿物，也不是甲烷通量。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "28be331b8cad6fdc"
+    },
+    "src:gcs-laptev-slope-authigenic-pyrite": {
+      "title": "拉普捷夫海陆坡自生黄铁矿对甲烷渗漏的记录",
+      "study_type": "拉普捷夫陆坡黄铁矿研究",
+      "study_profile": {
+        "spatial_scope": "拉普捷夫海陆坡一处甲烷渗漏站的沉积物和碳酸盐壳。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "电子显微镜、显微断层和激光剥蚀微量元素分析黄铁矿。",
+        "measured_or_derived": [
+          "黄铁矿结构与微量元素"
+        ]
+      },
+      "key_findings": [
+        "沉积物与碳酸盐中的黄铁矿结构不同。与甲烷来源碳酸盐的共生被用来说明硫酸盐驱动的厌氧甲烷氧化主导了硫化物形成，且相对已发表的有机质硫酸盐还原黄铁矿，该黄铁矿富集氧化还原敏感微量元素。"
+      ],
+      "limitations": [
+        "微量元素富集是相对于已发表对比，不是普遍的 AOM 指纹，研究也没有给出速率。"
+      ],
+      "cite_for": [
+        "作为拉普捷夫陆坡记录甲烷渗漏活动的矿物指标。",
+        "沉积物与碳酸盐中的黄铁矿结构不同。与甲烷来源碳酸盐的共生被用来说明硫酸盐驱动的厌氧甲烷氧化主导了硫化物形成，且相对已发表的有机质硫酸盐还原黄铁矿，该黄铁矿富集氧化还原敏感微量元素。"
+      ],
+      "do_not_overcite": [
+        "微量元素富集是相对于已发表对比，不是普遍的 AOM 指纹，研究也没有给出速率。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "c2eb6b65953e4e8a"
+    },
+    "src:gcs-cold-seep-climate-services": {
+      "title": "冷泉的气候相关性与人为影响",
+      "study_type": "冷泉气候与人为影响综述",
+      "study_profile": {
+        "spatial_scope": "作为地质碳通道和蓝碳系统的冷泉。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "综述水合物与碳酸盐储碳、甲烷氧化、生物碳循环以及人为压力。",
+        "measured_or_derived": [
+          "综述的碳功能与压力因素"
+        ]
+      },
+      "key_findings": [
+        "该文把冷泉描述为碳储库、部分排放过滤器和生物碳循环者，并认为拖网、工程和气候驱动的变化可能损害这些功能。"
+      ],
+      "limitations": [
+        "这是一篇观点文章，不是新的通量清单。服务功能的表述不能被引用成已测的碳信用。"
+      ],
+      "cite_for": [
+        "作为 2026 年关于气候相关性和人类压力的叙述框架，并与较早的北极甲烷综述并列。",
+        "该文把冷泉描述为碳储库、部分排放过滤器和生物碳循环者，并认为拖网、工程和气候驱动的变化可能损害这些功能。"
+      ],
+      "do_not_overcite": [
+        "这是一篇观点文章，不是新的通量清单。服务功能的表述不能被引用成已测的碳信用。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "29bf5483e47019a4"
+    },
+    "src:gcs-anme-lipid-inorganic-carbon": {
+      "title": "冷泉 ANME-2／SRB 联合体的脂质生物量来自无机碳",
+      "study_type": "ANME-2／SRB 联合体的脂质稳定同位素探测",
+      "study_profile": {
+        "spatial_scope": "以 ANME-2／SRB 联合体为主的 Astoria 峡谷冷泉沉积物。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "用 13C 甲烷或 13C 标记溶解无机碳进行 30 天脂质稳定同位素探测。",
+        "measured_or_derived": [
+          "来自甲烷与无机碳的脂质 δ13C"
+        ]
+      },
+      "key_findings": [
+        "脂质从溶解无机碳获得的 13C 多于从甲烷获得的。30 天后，SRB 脂肪酸约达 +417‰，ANME-2 类异戊二烯脂质约达 +126‰，SRB 脂质的无机碳同化约为 ANME 脂质的八倍。"
+      ],
+      "limitations": [
+        "培养富集不能给出原位生物量产量，ANME 的额外碳源也仍未确定。"
+      ],
+      "cite_for": [
+        "作为 ANME-2／SRB 脂质碳流的机制更新，而不是北极速率。",
+        "脂质从溶解无机碳获得的 13C 多于从甲烷获得的。30 天后，SRB 脂肪酸约达 +417‰，ANME-2 类异戊二烯脂质约达 +126‰，SRB 脂质的无机碳同化约为 ANME 脂质的八倍。"
+      ],
+      "do_not_overcite": [
+        "培养富集不能给出原位生物量产量，ANME 的额外碳源也仍未确定。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "a09982ecf1b2e330"
+    },
+    "src:gcs-seep-bottom-water-diazotrophs": {
+      "title": "深海冷泉底层水中的化能自养固氮菌",
+      "study_type": "冷泉底层水固氮菌研究",
+      "study_profile": {
+        "spatial_scope": "深海冷泉底层水，并与冷泉上层水和非冷泉底层水比较。所查摘要没有给出海域名称。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "对固氮菌做多组学分析，包括一个宏基因组组装基因组和原位转录本。",
+        "measured_or_derived": [
+          "固氮菌丰度、nif 转录本与一碳途径"
+        ]
+      },
+      "key_findings": [
+        "固氮菌相对丰度在冷泉底层水最高，那里超过 98% 的固氮菌宏转录组读段比对到 Sagittula。其基因组 Seep-BW-D1 编码 nifHDK、转录 nifH，并具有一碳化合物和硫代硫酸盐途径。"
+      ],
+      "limitations": [
+        "基因组潜力和转录本不能测量固氮速率，未点名的站位也不应当成海马或北极冷泉。"
+      ],
+      "cite_for": [
+        "在采样海域未说明时，用于冷泉底层水的化能固氮。",
+        "固氮菌相对丰度在冷泉底层水最高，那里超过 98% 的固氮菌宏转录组读段比对到 Sagittula。其基因组 Seep-BW-D1 编码 nifHDK、转录 nifH，并具有一碳化合物和硫代硫酸盐途径。"
+      ],
+      "do_not_overcite": [
+        "基因组潜力和转录本不能测量固氮速率，未点名的站位也不应当成海马或北极冷泉。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "637b61af106cb836"
+    },
+    "src:gcs-seep-sponge-oxidizer-mags": {
+      "title": "冷泉海绵场硫氧化与甲烷氧化细菌的宏基因组分箱",
+      "study_type": "冷泉海绵共生菌宏基因组",
+      "study_profile": {
+        "spatial_scope": "同一冷泉的六种海绵。所查摘要没有给出站位名称。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "对海绵相关的硫氧化和甲烷氧化细菌做宏基因组分箱。",
+        "measured_or_derived": [
+          "海绵相关的硫氧化与甲烷氧化 MAG"
+        ]
+      },
+      "key_findings": [
+        "变形菌门硫氧化菌，尤其是 PS1 目，以及甲基球菌目在不同宿主纲和食性中占优势；MAG 系统发育和丰度仍显示宿主特异的菌株选择。"
+      ],
+      "limitations": [
+        "功能相似不能说明每种海绵都以相同速率氧化甲烷或硫化物，站位也没有被确定。"
+      ],
+      "cite_for": [
+        "用于共享化能共生类群内部的宿主特异选择。",
+        "变形菌门硫氧化菌，尤其是 PS1 目，以及甲基球菌目在不同宿主纲和食性中占优势；MAG 系统发育和丰度仍显示宿主特异的菌株选择。"
+      ],
+      "do_not_overcite": [
+        "功能相似不能说明每种海绵都以相同速率氧化甲烷或硫化物，站位也没有被确定。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "fa6ab697c9cb0034"
+    },
+    "src:gcs-seep-carbonate-magnesium": {
+      "title": "海洋冷泉自生碳酸盐的镁地球化学",
+      "study_type": "冷泉碳酸盐镁地球化学综述",
+      "study_profile": {
+        "spatial_scope": "综述已发表样品中的海洋冷泉自生碳酸盐。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "总结冷泉碳酸盐的镁地球化学以及有限的镁同位素数据。",
+        "measured_or_derived": [
+          "汇总的镁同位素与白云石化控制因素"
+        ]
+      },
+      "key_findings": [
+        "所综述的冷泉碳酸盐镁同位素范围为 −3.46‰ 至 −2.36‰。快速沉淀与水相配体的竞争被提出为主要动力学控制，厌氧甲烷氧化产生的硫化物被认为促进白云石化。"
+      ],
+      "limitations": [
+        "该同位素范围是对稀疏数据的汇总，不是能把每一种白云石都鉴定为冷泉成因的标定。"
+      ],
+      "cite_for": [
+        "作为南海和北极冷泉碳酸盐的镁背景，并把动力学解释与新的测量分开。",
+        "所综述的冷泉碳酸盐镁同位素范围为 −3.46‰ 至 −2.36‰。快速沉淀与水相配体的竞争被提出为主要动力学控制，厌氧甲烷氧化产生的硫化物被认为促进白云石化。"
+      ],
+      "do_not_overcite": [
+        "该同位素范围是对稀疏数据的汇总，不是能把每一种白云石都鉴定为冷泉成因的标定。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "ce6307c77c953d0a"
+    },
+    "src:gcs-aom-seep-rock-nmr": {
+      "title": "固体核磁共振追踪冷泉岩石中 AOM 过程的有机与无机物质",
+      "study_type": "AOM 冷泉岩石的固体核磁共振",
+      "study_profile": {
+        "spatial_scope": "不同年龄的自生冷泉岩石。所查摘要没有给出站位。",
+        "temporal_scope": "所核查材料未提取采样日期。",
+        "sample_design": "用 1H、13C、31P 和 1H–31P 固体核磁共振分析有机和无机组分。",
+        "measured_or_derived": [
+          "核磁共振有机产物、磷酸盐形态与岩石年龄"
+        ]
+      },
+      "key_findings": [
+        "羧酸被归因于甲烷的不完全氧化。脂肪族酯随岩石年龄增加，正磷酸盐是主要磷形态，磷酸单酯在最老、约 2 万年的物质中更高。"
+      ],
+      "limitations": [
+        "未标明地点的岩石核磁共振产物不能给出原位氧化速率，也不能直接与海马或拉普捷夫海比较。"
+      ],
+      "cite_for": [
+        "用于冷泉碳酸盐中 AOM 期间有机和无机物质的过程变化。",
+        "羧酸被归因于甲烷的不完全氧化。脂肪族酯随岩石年龄增加，正磷酸盐是主要磷形态，磷酸单酯在最老、约 2 万年的物质中更高。"
+      ],
+      "do_not_overcite": [
+        "未标明地点的岩石核磁共振产物不能给出原位氧化速率，也不能直接与海马或拉普捷夫海比较。"
+      ],
+      "curation_basis": "已核查国际比较文献；发现限于摘要支持的范围。",
+      "_source_hash": "0cca86dc658c5059"
+    },
+    "src:scs-haima-dic-flux": {
+      "title": "海马冷泉区表层沉积物溶解无机碳通量",
+      "study_type": "海马表层沉积物 DIC 通量研究",
+      "study_profile": {
+        "spatial_scope": "南海北部海马冷泉区表层沉积物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的溶解无机碳通量"
+        ]
+      },
+      "key_findings": [
+        "标题报道对海马表层沉积物溶解无机碳通量的量化。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "海马表层沉积物 DIC 通量研究，适用范围以采样设计为准。",
+        "标题报道对海马表层沉积物溶解无机碳通量的量化。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "7b2c37ef3bb68427"
+    },
+    "src:scs-haima-carbonate-ca-isotopes": {
+      "title": "海马冷泉自生碳酸盐沉淀过程中的钙同位素分馏",
+      "study_type": "海马碳酸盐钙同位素研究",
+      "study_profile": {
+        "spatial_scope": "南海北部海马冷泉的自生碳酸盐。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的钙同位素分馏"
+        ]
+      },
+      "key_findings": [
+        "标题报道海马自生碳酸盐沉淀过程中的钙同位素分馏。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "海马碳酸盐钙同位素研究，适用范围以采样设计为准。",
+        "标题报道海马自生碳酸盐沉淀过程中的钙同位素分馏。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "88a6e34b13d7723d"
+    },
+    "src:scs-haima-macrofauna-edna": {
+      "title": "利用环境 DNA 估计海马冷泉大型底栖生物多样性",
+      "study_type": "海马大型底栖生物 eDNA 研究",
+      "study_profile": {
+        "spatial_scope": "海马冷泉。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的大型底栖生物 eDNA 多样性"
+        ]
+      },
+      "key_findings": [
+        "标题报道利用环境 DNA 估计海马冷泉大型底栖生物多样性。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "海马大型底栖生物 eDNA 研究，适用范围以采样设计为准。",
+        "标题报道利用环境 DNA 估计海马冷泉大型底栖生物多样性。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "81e032153d47107f"
+    },
+    "src:scs-haima-bubble-plume-monitoring": {
+      "title": "海马冷泉深海气泡羽流的光学与声学联合监测",
+      "study_type": "海马气泡羽流监测研究",
+      "study_profile": {
+        "spatial_scope": "海马冷泉的一处气泡羽流。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的光学与声学羽流监测"
+        ]
+      },
+      "key_findings": [
+        "标题报道对海马深海气泡羽流的光学与声学联合监测。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "海马气泡羽流监测研究，适用范围以采样设计为准。",
+        "标题报道对海马深海气泡羽流的光学与声学联合监测。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "6a94103012da492e"
+    },
+    "src:scs-shenhu-multibeam-gas-flux": {
+      "title": "神狐海域多波束水体数据量化深海冷泉气体通量",
+      "study_type": "神狐多波束气体通量研究",
+      "study_profile": {
+        "spatial_scope": "南海神狐海域。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的多波束气体通量"
+        ]
+      },
+      "key_findings": [
+        "标题报道利用多波束水体数据量化神狐深海冷泉气体通量。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "神狐多波束气体通量研究，适用范围以采样设计为准。",
+        "标题报道利用多波束水体数据量化神狐深海冷泉气体通量。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "aa76ce45ca302919"
+    },
+    "src:scs-qiongdongnan-pipe-carbonate": {
+      "title": "琼东南盆地管状冷泉碳酸盐的多期形成与地球化学响应",
+      "study_type": "琼东南管状碳酸盐研究",
+      "study_profile": {
+        "spatial_scope": "南海北部琼东南盆地的管状冷泉碳酸盐。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的多期管状碳酸盐"
+        ]
+      },
+      "key_findings": [
+        "标题报道该管状冷泉碳酸盐的多期形成与地球化学响应。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "琼东南管状碳酸盐研究，适用范围以采样设计为准。",
+        "标题报道该管状冷泉碳酸盐的多期形成与地球化学响应。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "618348d5ed195f0f"
+    },
+    "src:scs-qiongdongnan-seep-system": {
+      "title": "多源观测刻画琼东南盆地冷泉系统特征",
+      "study_type": "琼东南冷泉系统刻画",
+      "study_profile": {
+        "spatial_scope": "琼东南盆地冷泉系统。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的多源冷泉刻画"
+        ]
+      },
+      "key_findings": [
+        "标题报道用多种观测刻画该冷泉系统的特征。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "琼东南冷泉系统刻画，适用范围以采样设计为准。",
+        "标题报道用多种观测刻画该冷泉系统的特征。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "3fd2dd207a20da20"
+    },
+    "src:scs-qiongdongnan-shelf-carbonate": {
+      "title": "琼东南陆架冷泉碳酸盐的过程与形态",
+      "study_type": "琼东南陆架碳酸盐研究",
+      "study_profile": {
+        "spatial_scope": "南海琼东南陆架的冷泉相关碳酸盐。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的陆架碳酸盐过程与形态"
+        ]
+      },
+      "key_findings": [
+        "标题报道该陆架冷泉碳酸盐特有的形成过程与形态。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "琼东南陆架碳酸盐研究，适用范围以采样设计为准。",
+        "标题报道该陆架冷泉碳酸盐特有的形成过程与形态。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "8415df71d24c8bbd"
+    },
+    "src:scs-scs-margin-mercury-isotopes": {
+      "title": "汞同位素异常显示陆源侵蚀对南海陆缘冷泉形成的作用",
+      "study_type": "南海陆缘汞同位素研究",
+      "study_profile": {
+        "spatial_scope": "南海陆缘冷泉。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的汞同位素与陆源侵蚀"
+        ]
+      },
+      "key_findings": [
+        "标题报道异常的汞同位素组成凸显了陆源侵蚀在这些冷泉形成中的作用。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "南海陆缘汞同位素研究，适用范围以采样设计为准。",
+        "标题报道异常的汞同位素组成凸显了陆源侵蚀在这些冷泉形成中的作用。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "0bc6294557667b09"
+    },
+    "src:scs-qiongdongnan-hydrate-hydrocarbons": {
+      "title": "冷泉系统中地下天然气水合物对重烃的缓冲",
+      "study_type": "琼东南水合物重烃缓冲研究",
+      "study_profile": {
+        "spatial_scope": "二次复核文献页将该 DOI 标为琼东南盆地冷泉系统。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内水合物对重烃的缓冲"
+        ]
+      },
+      "key_findings": [
+        "标题报道冷泉系统中地下天然气水合物对重烃的缓冲。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "琼东南水合物重烃缓冲研究，适用范围以采样设计为准。",
+        "标题报道冷泉系统中地下天然气水合物对重烃的缓冲。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "2ba26582454c19b1"
+    },
+    "src:scs-scs-carbonate-clumped-isotopes": {
+      "title": "冷泉碳酸盐团簇同位素揭示变暖诱发的天然气水合物分解",
+      "study_type": "南海冷泉碳酸盐团簇同位素研究",
+      "study_profile": {
+        "spatial_scope": "文献页将其标为南海水合物记录的冷泉碳酸盐。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的团簇同位素水合物分解"
+        ]
+      },
+      "key_findings": [
+        "标题报道冷泉碳酸盐团簇同位素揭示海洋变暖诱发的天然气水合物分解。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "南海冷泉碳酸盐团簇同位素研究，适用范围以采样设计为准。",
+        "标题报道冷泉碳酸盐团簇同位素揭示海洋变暖诱发的天然气水合物分解。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "b1f766a9aff961ff"
+    },
+    "src:scs-haima-mussel-scaleworm-trophic": {
+      "title": "不同渗漏强度下海马冷泉贻贝与鳞沙蚕的营养关系",
+      "study_type": "海马贻贝与鳞沙蚕营养关系研究",
+      "study_profile": {
+        "spatial_scope": "不同渗漏强度下海马冷泉的贻贝与鳞沙蚕。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+        "measured_or_derived": [
+          "标题范围内的同位素与 C:N:P 化学计量"
+        ]
+      },
+      "key_findings": [
+        "标题报道用碳氮稳定同位素和 C:N:P 化学计量比较不同渗漏强度下的营养关系。"
+      ],
+      "limitations": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "cite_for": [
+        "海马贻贝与鳞沙蚕营养关系研究，适用范围以采样设计为准。",
+        "标题报道用碳氮稳定同位素和 C:N:P 化学计量比较不同渗漏强度下的营养关系。"
+      ],
+      "do_not_overcite": [
+        "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。"
+      ],
+      "curation_basis": "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。",
+      "_source_hash": "25eeadc32ca8b63c"
+    },
+    "src:scs-haima-foraminifera-edna": {
+      "title": "海马冷泉有孔虫环境 DNA 的生态格局",
+      "study_type": "海马有孔虫 eDNA 研究",
+      "study_profile": {
+        "spatial_scope": "沿海马渗漏梯度的表层沉积物，以及放射性碳定年岩芯 SY186-3。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "对表层沉积物和一根全新世岩芯做有孔虫 eDNA 宏条形码，并注释细菌功能。",
+        "measured_or_derived": [
+          "有孔虫 eDNA 多样性与硫代谢细菌"
+        ]
+      },
+      "key_findings": [
+        "读段丰度向冷泉中心降低，而香农和 Margalef 多样性升高。冷泉附近硫代谢细菌富集；岩芯显示有孔虫早期增加，之后出现千年尺度波动。"
+      ],
+      "limitations": [
+        "eDNA 读段丰度不是活体壳体普查，细菌功能是注释而不是实测硫通量。"
+      ],
+      "cite_for": [
+        "海马有孔虫 eDNA 研究，适用范围以采样设计为准。",
+        "读段丰度向冷泉中心降低，而香农和 Margalef 多样性升高。冷泉附近硫代谢细菌富集；岩芯显示有孔虫早期增加，之后出现千年尺度波动。"
+      ],
+      "do_not_overcite": [
+        "eDNA 读段丰度不是活体壳体普查，细菌功能是注释而不是实测硫通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "f7717b27cd123462"
+    },
+    "src:scs-haima-fish-edna-trawl": {
+      "title": "环境 DNA 与拖网显示海马冷泉鱼类多样性及功能冗余",
+      "study_type": "海马鱼类 eDNA 与拖网调查",
+      "study_profile": {
+        "spatial_scope": "南海海马冷泉、邻近区域和一个非冷泉对照区。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "用 eDNA 宏条形码结合拖网，评估鱼类的分类、功能和系统发育多样性。",
+        "measured_or_derived": [
+          "鱼类多样性、功能丰富度与冗余"
+        ]
+      },
+      "key_findings": [
+        "冷泉及邻近区的香农多样性、功能丰富度和系统发育多样性高于对照。平均功能丰富度为 0.137，对照为 0.028；冷泉 87 个功能实体中有 65 个仅由单一物种代表。"
+      ],
+      "limitations": [
+        "eDNA 读段占比低不等于丰度低，多样性高且冗余低也不等于保护状态。"
+      ],
+      "cite_for": [
+        "海马鱼类 eDNA 与拖网调查，适用范围以采样设计为准。",
+        "冷泉及邻近区的香农多样性、功能丰富度和系统发育多样性高于对照。平均功能丰富度为 0.137，对照为 0.028；冷泉 87 个功能实体中有 65 个仅由单一物种代表。"
+      ],
+      "do_not_overcite": [
+        "eDNA 读段占比低不等于丰度低，多样性高且冗余低也不等于保护状态。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "75b4a44c1d380471"
+    },
+    "src:scs-shenhu-plume-velocity": {
+      "title": "用叠前联合弹性阻抗反演连续刻画冷泉羽流的水体速度",
+      "study_type": "神狐羽流水体速度反演",
+      "study_profile": {
+        "spatial_scope": "南海北部神狐冷泉羽流上方的水体。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "用 CTD 约束的双角度联合弹性阻抗反演处理叠前地震数据。",
+        "measured_or_derived": [
+          "反演水体速度"
+        ]
+      },
+      "key_findings": [
+        "反演水体速度为 1,460–1,560 m/s，垂向变化强于横向变化。在 0–1,800 ms 内，与 CTD 速度的均方根差为 18.19 m/s。"
+      ],
+      "limitations": [
+        "与 CTD 的速度一致性是方法检验，不是甲烷通量或气泡溶解速率。"
+      ],
+      "cite_for": [
+        "神狐羽流水体速度反演，适用范围以采样设计为准。",
+        "反演水体速度为 1,460–1,560 m/s，垂向变化强于横向变化。在 0–1,800 ms 内，与 CTD 速度的均方根差为 18.19 m/s。"
+      ],
+      "do_not_overcite": [
+        "与 CTD 的速度一致性是方法检验，不是甲烷通量或气泡溶解速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "dca1bc8d93420bfa"
+    },
+    "src:scs-scs-tubular-carbonate": {
+      "title": "南海管状冷泉碳酸盐的矿物学与地球化学形成过程",
+      "study_type": "南海管状冷泉碳酸盐研究",
+      "study_profile": {
+        "spatial_scope": "来自南海的管状冷泉碳酸盐 SQW-65。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "从外缘到核心分析矿物、碳氧同位素、稀土元素和铀富集。",
+        "measured_or_derived": [
+          "δ13C、δ18O、铈异常与铀富集"
+        ]
+      },
+      "key_findings": [
+        "显著负的 δ13C 和正的 δ18O 被解释为天然气水合物分解。无明显铈异常且铀富集，指示缺氧形成；随着通道变窄，硫酸盐驱动的 AOM 被推断增强。"
+      ],
+      "limitations": [
+        "一件管状样品不能确定区域性水合物分解事件，AOM 增强也是根据从外缘到核心的趋势推断的。"
+      ],
+      "cite_for": [
+        "南海管状冷泉碳酸盐研究，适用范围以采样设计为准。",
+        "显著负的 δ13C 和正的 δ18O 被解释为天然气水合物分解。无明显铈异常且铀富集，指示缺氧形成；随着通道变窄，硫酸盐驱动的 AOM 被推断增强。"
+      ],
+      "do_not_overcite": [
+        "一件管状样品不能确定区域性水合物分解事件，AOM 增强也是根据从外缘到核心的趋势推断的。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "5677a07e3b72b2c3"
+    },
+    "src:scs-seep-carbonate-molybdenum": {
+      "title": "冷泉碳酸盐中微生物硫酸盐还原的钼同位素指纹",
+      "study_type": "冷泉碳酸盐钼同位素研究",
+      "study_profile": {
+        "spatial_scope": "冷泉碳酸盐岩；文献页指出其中包括南海 F 站。所查摘要没有列出全部地点。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "测定全岩、碳酸盐、黄铁矿和有机质组分的钼含量与 δ98Mo。",
+        "measured_or_derived": [
+          "碳酸盐各组分之间的 δ98Mo 差值"
+        ]
+      },
+      "key_findings": [
+        "碳酸盐与有机质的 δ98Mo 差值为 0.72‰ 至 1.01‰，并与碳同位素、有机碳、钼和黄铁矿同步变化。作者将其解释为硫酸盐还原期间轻钼同位素被有机质吸附。"
+      ],
+      "limitations": [
+        "该差值是对所研究岩石提出的强度指标，不能单独测量 F 站的硫酸盐还原速率。"
+      ],
+      "cite_for": [
+        "冷泉碳酸盐钼同位素研究，适用范围以采样设计为准。",
+        "碳酸盐与有机质的 δ98Mo 差值为 0.72‰ 至 1.01‰，并与碳同位素、有机碳、钼和黄铁矿同步变化。作者将其解释为硫酸盐还原期间轻钼同位素被有机质吸附。"
+      ],
+      "do_not_overcite": [
+        "该差值是对所研究岩石提出的强度指标，不能单独测量 F 站的硫酸盐还原速率。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "f9585e9a90f42845"
+    },
+    "src:scs-shenhu-hydrate-pyrite": {
+      "title": "神狐含水合物层自生黄铁矿的硫同位素约束",
+      "study_type": "神狐水合物层黄铁矿研究",
+      "study_profile": {
+        "spatial_scope": "南海北部神狐钻探岩芯中含水合物层的自生黄铁矿。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "对莓状和半自形黄铁矿做原位元素和硫同位素分析。",
+        "measured_or_derived": [
+          "黄铁矿形态与 δ34S"
+        ]
+      },
+      "key_findings": [
+        "莓状黄铁矿 δ34S 为 −24.5‰ 至 −7.1‰，微量元素较高；半自形黄铁矿 δ34S 为 2.7‰ 至 41.4‰。作者把这一序列与封闭的含水合物体系中硫酸盐驱动的厌氧甲烷氧化相联系。"
+      ],
+      "limitations": [
+        "黄铁矿化学可以指示过去与水合物相关的成岩作用，不能说明水合物仍然存在，也不提供甲烷通量。"
+      ],
+      "cite_for": [
+        "神狐水合物层黄铁矿研究，适用范围以采样设计为准。",
+        "莓状黄铁矿 δ34S 为 −24.5‰ 至 −7.1‰，微量元素较高；半自形黄铁矿 δ34S 为 2.7‰ 至 41.4‰。作者把这一序列与封闭的含水合物体系中硫酸盐驱动的厌氧甲烷氧化相联系。"
+      ],
+      "do_not_overcite": [
+        "黄铁矿化学可以指示过去与水合物相关的成岩作用，不能说明水合物仍然存在，也不提供甲烷通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "058ff5b68bf13ba5"
+    },
+    "src:scs-scs-dissolved-methane-sensor": {
+      "title": "用于深海冷泉溶解甲烷原位测量的双波长 OA-ICOS",
+      "study_type": "双波长溶解甲烷传感器",
+      "study_profile": {
+        "spatial_scope": "在南海北部由载人潜水器部署。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "1,651 与 1,658 nm 附近的双波长离轴积分腔光谱，并用膜提取溶解甲烷。",
+        "measured_or_derived": [
+          "溶解甲烷标定与现场热点"
+        ]
+      },
+      "key_findings": [
+        "两个通道的气相标定线性 R2 均高于 0.999。南海北部部署分辨出近底层富集、快速的垂向降低，以及超过 250 ppm 的局部热点。"
+      ],
+      "limitations": [
+        "一次方法演示和一次部署不能提供区域甲烷清单。热点浓度不是海气通量。"
+      ],
+      "cite_for": [
+        "双波长溶解甲烷传感器，适用范围以采样设计为准。",
+        "两个通道的气相标定线性 R2 均高于 0.999。南海北部部署分辨出近底层富集、快速的垂向降低，以及超过 250 ppm 的局部热点。"
+      ],
+      "do_not_overcite": [
+        "一次方法演示和一次部署不能提供区域甲烷清单。热点浓度不是海气通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "d6019a9b68504003"
     }
   },
   "claims": {
@@ -11994,6 +13614,486 @@
       "locator": "Europe PMC 摘要：总汞跨陆架增加、中陆架甲基汞峰值与 hgcA。",
       "confidence_note": "中陆架甲基汞和 hgcA 提示硫酸盐还原菌参与，但没有测定甲基化速率，该断面也不是冷泉。",
       "_source_hash": "7239a17d234a7964"
+    },
+    "claim:gcs-laptev-iron-nitrate-aom": {
+      "statement": "标题报道拉普捷夫海甲烷冷泉沉积物中铁与硝酸盐驱动的厌氧甲烷氧化。",
+      "scope": "经核验标题所指的拉普捷夫海甲烷冷泉沉积物。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "72e1c560f30a1ec7"
+    },
+    "claim:gcs-esas-aerobic-methane-biomarkers": {
+      "statement": "标题报道该外陆架渗漏区存在有氧甲烷氧化的生物标志物证据。",
+      "scope": "东西伯利亚北极外陆架的强甲烷渗漏区。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "2bc2d2cca32754d0"
+    },
+    "claim:gcs-laptev-seep-clays": {
+      "statement": "标题报道这些冷泉沉积物中黏土矿物的成岩转化和缓冲作用。",
+      "scope": "拉普捷夫海甲烷冷泉沉积物。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "10c6f4850e7f46c7"
+    },
+    "claim:gcs-vestnesa-monothalamid-barcodes": {
+      "statement": "标题报道这两处海脊单室有孔虫的 DNA 条形码，并包含三个新描述物种。",
+      "scope": "北冰洋 Vestnesa 与 Svyatogor 海脊。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "8941b2ceecc7fb3e"
+    },
+    "claim:gcs-arctic-seep-frigidoalvania": {
+      "statement": "标题报道北极冷泉一种特有新种 Frigidoalvania 及其系统发育关系。",
+      "scope": "经核验标题所指的北极冷泉。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "5eb22a77e6540dc1"
+    },
+    "claim:gcs-laptev-carbonate-thorium-ages": {
+      "statement": "标题报道拉普捷夫冷泉自生碳酸盐的 230Th/U 年代以及对流体来源的约束。",
+      "scope": "拉普捷夫海冷泉站位。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "dddadf156d163569"
+    },
+    "claim:gcs-laptev-pyrite-morphology": {
+      "statement": "标题报道拉普捷夫海甲烷渗漏条件下形成的自生黄铁矿的形态与地球化学。",
+      "scope": "受甲烷渗漏影响的拉普捷夫海沉积物。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "6cfd08a7137fd5b3"
+    },
+    "claim:gcs-seep-observatory-perspective": {
+      "statement": "标题指出冷泉海底观测站修正了“慢车道生命”这一观念。",
+      "scope": "经核验标题所讨论的冷泉海底观测站。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "a22cd21ccdbf6210"
+    },
+    "claim:gcs-seep-hydroxy-gdgt-methanogenesis": {
+      "statement": "标题提出羟基化 GDGT-0 可作为海洋甲烷冷泉中古菌产甲烷的候选指标。",
+      "scope": "经核验标题所指的海洋甲烷冷泉环境。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "ff42c657f660dbed"
+    },
+    "claim:gcs-seep-carbonate-factory-review": {
+      "statement": "标题综述冷泉碳酸盐工厂的形成机制、地球化学指标及其对全球碳循环的意义。",
+      "scope": "经核验综述标题所涵盖的冷泉碳酸盐形成。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "8f200e3809c7c325"
+    },
+    "claim:gcs-vestnesa-hoenir-seep-field": {
+      "statement": "该活跃冷泉场有 47 个大型底栖类群。专性冷泉类群指示活跃渗漏；Ophiocten 在不活跃区可达约每平方米 80 只，而在微生物席或管虫林数米内缺失。",
+      "scope": "弗拉姆海峡 Vestnesa 海脊西北侧、水深 1,200–1,375 m 的 Hœnir 冷泉场。",
+      "evidence_basis": "2020 年 MSM95 之后的摄像、ROV 与拖网调查，结合原位影像及部分生物的 COI 条形码。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "影像计数和条形码描述的是受测冷泉场，不能测量甲烷通量，也不能证明与东翼共有类群存在遗传连通。",
+      "_source_hash": "afa1fe76fb75fe2b"
+    },
+    "claim:gcs-vesteralen-coral-aom": {
+      "statement": "碳酸盐边缘的微生物席对应浅至 5 cm 的硫酸盐–甲烷转换带和贫 13C 的溶解无机碳。白色生物膜层 δ13C 低至 −43.4‰，群落转向被归为 ANME-1b 的 Halobacterota ASV。",
+      "scope": "挪威北部 Vesterålen 沿岸兼有冷泉的冷水珊瑚区。",
+      "evidence_basis": "沉积物与孔隙水地球化学、有孔虫、海底生境图，以及上部 10 cm 的 16S rRNA 剖面。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "标记与同位素模式支持所采岩芯中正在进行 AOM，但不能说明渗漏造成了珊瑚分布。",
+      "_source_hash": "00444267e99d1998"
+    },
+    "claim:gcs-svalbard-fjord-sgd-macrofauna": {
+      "statement": "峡湾地下水排放点并不像所采冷泉：孔隙水测不到甲烷，游离硫化物低，多样性和丰度极低。",
+      "scope": "三处斯瓦尔巴峡湾海底地下水排放点和一处斯瓦尔巴陆架冷泉，水深约 40–117 m。",
+      "evidence_basis": "比较地下水排放点与陆架冷泉的大型底栖动物及沉积物化学。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "差异限于所采站位，不能说明未来冻土融化会使地下水排放在生态上等同于冷泉。",
+      "_source_hash": "3845672d0ca7198b"
+    },
+    "claim:gcs-saglek-seep-corals": {
+      "statement": "微生物席和自生碳酸盐只出现在冷泉。珊瑚密度与砾石密度的关系强于与碳酸盐的关系，Primnoa resedaeformis 与冷泉的关联较弱并被解释为巧合。",
+      "scope": "拉布拉多陆架北缘东北 Saglek 浅滩，水深 605–818 m。",
+      "evidence_basis": "多波束调查，以及在长 4.5 km 的滑坡凹地内外进行四次 ROV 下潜。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "一处热点的比较不能说明冷泉普遍促进 Primnoa 生境。",
+      "_source_hash": "29ebd2f2317143b3"
+    },
+    "claim:gcs-svalbard-seep-substrate-imagery": {
+      "statement": "与冷泉相关的底质塑造了底栖群落结构，甲烷来源自生碳酸盐进一步放大了这一效应，但它与粗或细沉积物的关系仍不清楚。",
+      "scope": "斯瓦尔巴北部外海约 150 m 水深处的渗漏区，两幅正射镶嵌约 2,261 m2。",
+      "evidence_basis": "ROV 视频摄影测量、表栖生物标注，以及四类底质的面向对象分类。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "影像给出的是空间关联，不是已测甲烷通量，也不是普遍的底质规律。",
+      "_source_hash": "9fbf8c6cf6dffc7d"
+    },
+    "claim:gcs-laptev-hopanoid-methane": {
+      "statement": "23 个样品的 C30 藿烯 δ13C 为 −57.5‰ 至 −37.1‰，指示包括中陆架在内的拉普捷夫陆架存在有氧甲烷氧化。勒拿河三角洲附近信号偏重，归因更困难。",
+      "scope": "拉普捷夫海陆架表层沉积物，包括外陆架、中陆架和勒拿河三角洲附近。",
+      "evidence_basis": "表层沉积物中 C30 藿烷的 δ13C，并结合 16S rRNA 剖面解释。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "藿烷同位素是时间积分代用指标，不等于海水甲烷浓度或氧化速率。",
+      "_source_hash": "3282c651f7bf1b77"
+    },
+    "claim:gcs-haakon-mosby-gypsum": {
+      "statement": "黄铁矿与石膏标出 7–10、13–18 和 19–21 cm 的三个古硫酸盐–甲烷转换带，位于约 50 cm 的现代转换带之上。石膏被解释为转换带下移、早期黄铁矿氧化后形成。",
+      "scope": "西南巴伦支海哈肯莫斯比泥火山的含水合物冷泉沉积物。",
+      "evidence_basis": "岩芯扫描、显微镜和扫描电镜分析自生矿物。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "形成途径是对矿物共现的解释，不能量化现今甲烷通量。",
+      "_source_hash": "bb0b4932ea54e1f3"
+    },
+    "claim:gcs-nyegga-seep-habitats": {
+      "statement": "区分出四类微生境：管虫和微生物席覆盖的水合物丘、碳酸盐块间的隐蔽空间、滤食生物栖居的碳酸盐凸檐，以及鱼类利用的沉积物洼地。微生物组合含 Polaribacter 和 Psychrobacter 等耐冷类群。",
+      "scope": "中挪威陆缘 Storegga 滑坡北翼的 Nyegga 冷泉区。",
+      "evidence_basis": "ROV 调查、高分辨率地形和微生物 16S rRNA 基因分析。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "生境描述和 16S 剖面不能测量甲烷通量，也不能证明 Colossendeis 的共生关系。",
+      "_source_hash": "0a0f6d34bb7ef9c6"
+    },
+    "claim:gcs-svalbard-sw-slope-seeps": {
+      "statement": "细菌席、碳酸盐壳、西伯加虫和游离气泡标示活跃甲烷渗漏。厚碳酸盐壳被当作长期渗漏的证据，气源可能为中新世或古新世。",
+      "scope": "斯瓦尔巴西南陆坡约 800 m 处，位于 Storfjorden 与 Hornsund 槽口扇之间。",
+      "evidence_basis": "在两条与陆坡平行的构造上测绘微生物席、碳酸盐、丘体和气泡。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "烃源岩时代是解释。气泡观测不能量化通量。",
+      "_source_hash": "23c15d8ffb2864ce"
+    },
+    "claim:gcs-svyatogor-ridge-methane": {
+      "statement": "该海脊存在浅层微生物甲烷循环，厌氧氧化维持海底化能群落。过去通量被推断更高，且没有证据表明甲烷到达海面。",
+      "scope": "斯瓦尔巴以西、北极中脊沉积物覆盖转换断层上的 Svyatogor 海脊。",
+      "evidence_basis": "对甲烷渗漏环境做沉积物和有孔虫地球化学分析。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "单条海脊不能改写所有超慢速扩张脊的甲烷收支，过去通量的推断也不是实测速率。",
+      "_source_hash": "7a7f882d928b3996"
+    },
+    "claim:gcs-esas-methane-acidification": {
+      "statement": "模型中渗漏甲烷的有氧氧化产生了与观测相符的 pH 和溶解氧异常；作者推测文石饱和度可降到 1 以下。",
+      "scope": "东西伯利亚北极陆架强甲烷渗漏区的水体。",
+      "evidence_basis": "带碳酸盐体系和气泡归宿模块的二维底栖–水体模型。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "饱和度低于 1 是模拟渗漏区的模型假说，不是全陆架实测收支。",
+      "_source_hash": "56e70588de978604"
+    },
+    "claim:gcs-molloy-hydrate-mounds": {
+      "statement": "在 3,640 m 发现带冷泉生物的水合物丘。气泡升至海面 300 m 以内，水合物含热成因气，科级生物组成更接近同等深度的北极热液，而不是附近较浅的冷泉。",
+      "scope": "格陵兰海 Molloy 海脊，水深 3,640 m。",
+      "evidence_basis": "海底观测、气和油采样，以及水合物与生物的同位素分析。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "科级相似不能证明种群连通，一条海脊也不能改写所有北极水合物的深度范围。",
+      "_source_hash": "3c74e531b8da7f57"
+    },
+    "claim:gcs-borealis-mud-volcano": {
+      "statement": "喷口释放 11.5°C 的新近纪沉积物和富甲烷流体。不规则碳酸盐为固着生物提供避开拖网的遮蔽，并可能是受威胁鱼类的育幼场所。",
+      "scope": "极地北大西洋的 Borealis 泥火山。",
+      "evidence_basis": "用 ROV 观察喷口、碳酸盐及相关生物。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "育幼是对所观察到遮蔽作用的一种可能功能，不是实测的补充率。",
+      "_source_hash": "8fe787d225d05900"
+    },
+    "claim:gcs-hornsund-shallow-seep-fauna": {
+      "statement": "尽管处于较冷的北极水，冷泉仍缺少化能共生的西伯加虫。CTD 盐度指示变性大西洋水，生物组成更接近北极冷泉的背景类群而不是专性冷泉宿主。",
+      "scope": "斯瓦尔巴南部 Hornsund 外海陆架的浅水冷泉。",
+      "evidence_basis": "基于影像的表栖大型底栖生物，并与 CTD 水团数据比较。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "水团控制是对一处浅水区的解释，不能说明大西洋水在所有北极冷泉都排除西伯加虫。",
+      "_source_hash": "1e90ca746e974582"
+    },
+    "claim:gcs-beaufort-mud-volcano-methane": {
+      "statement": "中心站持续淡化，氯亏损超过 69%，边缘仍接近海水。作者推断冰冻圈来源的淡水改变了微生物甲烷与热成因甲烷的平衡。",
+      "scope": "两处波弗特海泥火山。",
+      "evidence_basis": "孔隙水与气体地球化学，包括氯、水同位素和烃同位素。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "甲烷来源转变是根据流体和气体指纹作出的推断，不是大气通量的实测变化。",
+      "_source_hash": "9ac82a08ea3f07e1"
+    },
+    "claim:gcs-barents-active-seep-inventory": {
+      "statement": "在被剥露、断裂且遭受不同程度侵蚀的构造高地上标出约 21,700 个天然气冷泉。每个受调查的高地都对应海底释放热点。",
+      "scope": "挪威北部巴伦支海约 5,000 km2。",
+      "evidence_basis": "多波束回声数据和 P-cable 高分辨率地震测线。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "冷泉数量是调查区内的声学检出，不是通量，也不能说明每个北极陆架都有同样的密度。",
+      "_source_hash": "a8ee03e6f3a58576"
+    },
+    "claim:gcs-vestnesa-glacial-seepage": {
+      "statement": "全新世细泥堆积后，渗漏在约 10–9 ka 减弱。海因里希冰阶 1 和新仙女木期为低到中等，博令–阿勒罗德期和早全新世最高。",
+      "scope": "斯瓦尔巴西北外海 Vestnesa 海脊，包括甲烷冷泉站。",
+      "evidence_basis": "43 根沉积物岩芯和 1,430 km 浅层地震测线，覆盖约最近 13 万年。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "时间序列与该海脊的沉积作用相联系，不能替代构造控制，也不给出现今通量。",
+      "_source_hash": "2366bf871c3e2cd9"
+    },
+    "claim:gcs-barents-carbonate-uth-ages": {
+      "statement": "铀钍年龄为 13.5 至 1.2 ka，显示晚更新世到全新世的幕式碳酸盐形成。Storfjordrenna 与水合物相关的碳酸盐形成于约 6 至 1.2 ka。",
+      "scope": "三处活跃冷泉，水深 156–383 m：Storfjordrenna、Storbanken 高地和 Loppa 高地。",
+      "evidence_basis": "ROV 采集冷泉碳酸盐并做铀–钍定年。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "碳酸盐年龄给出的是三处冷泉的沉淀时间，不能测量有多少甲烷进入大气。",
+      "_source_hash": "cd482f131e8c761f"
+    },
+    "claim:gcs-svalbard-fjord-hydrate-om": {
+      "statement": "Hornsund 和 Tempelfjorden 的孔隙水淡化具有大气降水特征，符合海底地下水排放；Ekmanfjorden 则符合天然气水合物分解。异常低的有机 δ13C 和 δ15N 被部分归因于微生物对甲烷的利用。",
+      "scope": "西斯匹次卑尔根 Hornsund、Isfjorden 和 Kongsfjorden–Krossfjorden 的 24 个站位。",
+      "evidence_basis": "将沉积物有机质同位素与孔隙水氯和水同位素比较。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "微生物利用甲烷是对同位素值的一种解释，不是实测氧化速率。",
+      "_source_hash": "a32d5c57ae6e8ab5"
+    },
+    "claim:gcs-mackenzie-uav-seep-methane": {
+      "statement": "2025 年 7 月，无人机在该地质渗漏点采集下风向浓度截面，以替代固定通量塔和小面积通量箱。",
+      "scope": "加拿大麦肯齐河三角洲外缘一处已知地质甲烷渗漏点。",
+      "evidence_basis": "两个无人机平台用开路和闭路甲烷传感器飞行垂直通量截面。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "检索到的摘要评估的是方法，没有给出量化后的排放率，也不能确定该三角洲渗漏是海底冷泉。",
+      "_source_hash": "0ea83a5673867f56"
+    },
+    "claim:gcs-prins-karls-forland-oil-seep": {
+      "statement": "该渗漏排出来自第三纪或更年轻烃源岩的油。海面油膜与海底油同源，碳酸盐年代显示晚更新世以来持续渗出，浸油沉积物中也有内栖生物定居。",
+      "scope": "西斯瓦尔巴 Prins Karls Forland，水深 80–100 m，海底范围约 30,000 m2。",
+      "evidence_basis": "卫星、航空、海面和水下观测，生物标志物，以及碳酸盐的铀钍定年。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "一处浅水油苗是基线站位，不能代表只渗甲烷的北极冷泉，也不是人为溢油。",
+      "_source_hash": "1c73544d78f16d43"
+    },
+    "claim:gcs-barents-polaris-mud-volcanoes": {
+      "statement": "在原先只知道两座的地方发现十座北极泥火山。它们根植于埋藏的更新世巨型滑坡充填物中，至少自晚魏克塞尔冰消期以来活动。作者非正式地将该区称为 Polaris 泥火山复合体。",
+      "scope": "西南巴伦支海，水深 440–480 m。",
+      "evidence_basis": "测绘平顶丘及其地下烟囱的海底和地震结构。",
+      "locator": "摘要：十座泥火山的发现及埋藏巨型滑坡。",
+      "confidence_note": "摘要在活动性陈述处截断。不要添加检索文本中没有的甲烷收支数字。",
+      "_source_hash": "4fb9091a4056cb7c"
+    },
+    "claim:gcs-laptev-om-isotope-curves": {
+      "statement": "在冷泉中，沥青质分解使苯–甲醇组分富集与上升甲烷流相关的细菌生物量、且贫 13C 的物质。苯组分 δ13C 把近 10 cm 的表层聚类与更深聚类分开约 2–3‰。",
+      "scope": "拉普捷夫海冷泉区沉积物。",
+      "evidence_basis": "按极性把沉积有机质分成五个溶剂组分并比较 δ13C。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "组分同位素追踪的是所采岩芯中的有机质变化，不是甲烷氧化速率。",
+      "_source_hash": "3ff018fbbd3531fe"
+    },
+    "claim:gcs-laptev-element-speciation": {
+      "statement": "2020 年 AMK-82 航次中，冷泉处元素活动性增加，并被归因于自生碳酸盐和硫化物的形成。作者将 U、Ni、Zn 和 Co 与碳酸盐联系，将 Co、Mn 和 W 与硫化物联系。",
+      "scope": "拉普捷夫外陆架–陆坡的一处冷泉站和两个背景站；三个层位共九个样品。",
+      "evidence_basis": "BCR 连续提取和 ICP-MS，并对残余有机质做热解。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "这是九个样品的关联，不能证明每种元素都有特定自生矿物，也不是甲烷通量。",
+      "_source_hash": "3f50c051e13e9b8f"
+    },
+    "claim:gcs-laptev-slope-authigenic-pyrite": {
+      "statement": "沉积物与碳酸盐中的黄铁矿结构不同。与甲烷来源碳酸盐的共生被用来说明硫酸盐驱动的厌氧甲烷氧化主导了硫化物形成，且相对已发表的有机质硫酸盐还原黄铁矿，该黄铁矿富集氧化还原敏感微量元素。",
+      "scope": "拉普捷夫海陆坡一处甲烷渗漏站的沉积物和碳酸盐壳。",
+      "evidence_basis": "电子显微镜、显微断层和激光剥蚀微量元素分析黄铁矿。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "微量元素富集是相对于已发表对比，不是普遍的 AOM 指纹，研究也没有给出速率。",
+      "_source_hash": "b40b83a1adc2dff5"
+    },
+    "claim:gcs-cold-seep-climate-services": {
+      "statement": "该文把冷泉描述为碳储库、部分排放过滤器和生物碳循环者，并认为拖网、工程和气候驱动的变化可能损害这些功能。",
+      "scope": "作为地质碳通道和蓝碳系统的冷泉。",
+      "evidence_basis": "综述水合物与碳酸盐储碳、甲烷氧化、生物碳循环以及人为压力。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "这是一篇观点文章，不是新的通量清单。服务功能的表述不能被引用成已测的碳信用。",
+      "_source_hash": "ea447e181b162706"
+    },
+    "claim:gcs-anme-lipid-inorganic-carbon": {
+      "statement": "脂质从溶解无机碳获得的 13C 多于从甲烷获得的。30 天后，SRB 脂肪酸约达 +417‰，ANME-2 类异戊二烯脂质约达 +126‰，SRB 脂质的无机碳同化约为 ANME 脂质的八倍。",
+      "scope": "以 ANME-2／SRB 联合体为主的 Astoria 峡谷冷泉沉积物。",
+      "evidence_basis": "用 13C 甲烷或 13C 标记溶解无机碳进行 30 天脂质稳定同位素探测。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "培养富集不能给出原位生物量产量，ANME 的额外碳源也仍未确定。",
+      "_source_hash": "354044ec17da6402"
+    },
+    "claim:gcs-seep-bottom-water-diazotrophs": {
+      "statement": "固氮菌相对丰度在冷泉底层水最高，那里超过 98% 的固氮菌宏转录组读段比对到 Sagittula。其基因组 Seep-BW-D1 编码 nifHDK、转录 nifH，并具有一碳化合物和硫代硫酸盐途径。",
+      "scope": "深海冷泉底层水，并与冷泉上层水和非冷泉底层水比较。所查摘要没有给出海域名称。",
+      "evidence_basis": "对固氮菌做多组学分析，包括一个宏基因组组装基因组和原位转录本。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "基因组潜力和转录本不能测量固氮速率，未点名的站位也不应当成海马或北极冷泉。",
+      "_source_hash": "97686a1e1be078a7"
+    },
+    "claim:gcs-seep-sponge-oxidizer-mags": {
+      "statement": "变形菌门硫氧化菌，尤其是 PS1 目，以及甲基球菌目在不同宿主纲和食性中占优势；MAG 系统发育和丰度仍显示宿主特异的菌株选择。",
+      "scope": "同一冷泉的六种海绵。所查摘要没有给出站位名称。",
+      "evidence_basis": "对海绵相关的硫氧化和甲烷氧化细菌做宏基因组分箱。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "功能相似不能说明每种海绵都以相同速率氧化甲烷或硫化物，站位也没有被确定。",
+      "_source_hash": "0e76ce83bf27a223"
+    },
+    "claim:gcs-seep-carbonate-magnesium": {
+      "statement": "所综述的冷泉碳酸盐镁同位素范围为 −3.46‰ 至 −2.36‰。快速沉淀与水相配体的竞争被提出为主要动力学控制，厌氧甲烷氧化产生的硫化物被认为促进白云石化。",
+      "scope": "综述已发表样品中的海洋冷泉自生碳酸盐。",
+      "evidence_basis": "总结冷泉碳酸盐的镁地球化学以及有限的镁同位素数据。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "该同位素范围是对稀疏数据的汇总，不是能把每一种白云石都鉴定为冷泉成因的标定。",
+      "_source_hash": "79529891b98f3637"
+    },
+    "claim:gcs-aom-seep-rock-nmr": {
+      "statement": "羧酸被归因于甲烷的不完全氧化。脂肪族酯随岩石年龄增加，正磷酸盐是主要磷形态，磷酸单酯在最老、约 2 万年的物质中更高。",
+      "scope": "不同年龄的自生冷泉岩石。所查摘要没有给出站位。",
+      "evidence_basis": "用 1H、13C、31P 和 1H–31P 固体核磁共振分析有机和无机组分。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "未标明地点的岩石核磁共振产物不能给出原位氧化速率，也不能直接与海马或拉普捷夫海比较。",
+      "_source_hash": "119f354e9417088a"
+    },
+    "claim:scs-haima-dic-flux": {
+      "statement": "标题报道对海马表层沉积物溶解无机碳通量的量化。",
+      "scope": "南海北部海马冷泉区表层沉积物。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "112aa820447d04ff"
+    },
+    "claim:scs-haima-carbonate-ca-isotopes": {
+      "statement": "标题报道海马自生碳酸盐沉淀过程中的钙同位素分馏。",
+      "scope": "南海北部海马冷泉的自生碳酸盐。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "6ce9e2c9d2da24f6"
+    },
+    "claim:scs-haima-macrofauna-edna": {
+      "statement": "标题报道利用环境 DNA 估计海马冷泉大型底栖生物多样性。",
+      "scope": "海马冷泉。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "a0ed4c0978c777c7"
+    },
+    "claim:scs-haima-bubble-plume-monitoring": {
+      "statement": "标题报道对海马深海气泡羽流的光学与声学联合监测。",
+      "scope": "海马冷泉的一处气泡羽流。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "57312acb4f3cd2c0"
+    },
+    "claim:scs-shenhu-multibeam-gas-flux": {
+      "statement": "标题报道利用多波束水体数据量化神狐深海冷泉气体通量。",
+      "scope": "南海神狐海域。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "389d8bf1eaa2607e"
+    },
+    "claim:scs-qiongdongnan-pipe-carbonate": {
+      "statement": "标题报道该管状冷泉碳酸盐的多期形成与地球化学响应。",
+      "scope": "南海北部琼东南盆地的管状冷泉碳酸盐。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "5547179d5e1e75b4"
+    },
+    "claim:scs-qiongdongnan-seep-system": {
+      "statement": "标题报道用多种观测刻画该冷泉系统的特征。",
+      "scope": "琼东南盆地冷泉系统。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "b708e2597ce1a1d5"
+    },
+    "claim:scs-qiongdongnan-shelf-carbonate": {
+      "statement": "标题报道该陆架冷泉碳酸盐特有的形成过程与形态。",
+      "scope": "南海琼东南陆架的冷泉相关碳酸盐。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "a8a853843c0820ce"
+    },
+    "claim:scs-scs-margin-mercury-isotopes": {
+      "statement": "标题报道异常的汞同位素组成凸显了陆源侵蚀在这些冷泉形成中的作用。",
+      "scope": "南海陆缘冷泉。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "f3439c994fc2972b"
+    },
+    "claim:scs-qiongdongnan-hydrate-hydrocarbons": {
+      "statement": "标题报道冷泉系统中地下天然气水合物对重烃的缓冲。",
+      "scope": "二次复核文献页将该 DOI 标为琼东南盆地冷泉系统。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "d7cefef49f70a02d"
+    },
+    "claim:scs-scs-carbonate-clumped-isotopes": {
+      "statement": "标题报道冷泉碳酸盐团簇同位素揭示海洋变暖诱发的天然气水合物分解。",
+      "scope": "文献页将其标为南海水合物记录的冷泉碳酸盐。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "2889624489781e2c"
+    },
+    "claim:scs-haima-mussel-scaleworm-trophic": {
+      "statement": "标题报道用碳氮稳定同位素和 C:N:P 化学计量比较不同渗漏强度下的营养关系。",
+      "scope": "不同渗漏强度下海马冷泉的贻贝与鳞沙蚕。",
+      "evidence_basis": "仅有书目记录；检索到的出版信息中没有采样设计和分析方法。",
+      "locator": "经核验的 DOI 书目记录与标题；未检索到摘要。",
+      "confidence_note": "Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。",
+      "_source_hash": "f367e9925a455024"
+    },
+    "claim:scs-haima-foraminifera-edna": {
+      "statement": "读段丰度向冷泉中心降低，而香农和 Margalef 多样性升高。冷泉附近硫代谢细菌富集；岩芯显示有孔虫早期增加，之后出现千年尺度波动。",
+      "scope": "沿海马渗漏梯度的表层沉积物，以及放射性碳定年岩芯 SY186-3。",
+      "evidence_basis": "对表层沉积物和一根全新世岩芯做有孔虫 eDNA 宏条形码，并注释细菌功能。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "eDNA 读段丰度不是活体壳体普查，细菌功能是注释而不是实测硫通量。",
+      "_source_hash": "3935d5f092f71f98"
+    },
+    "claim:scs-haima-fish-edna-trawl": {
+      "statement": "冷泉及邻近区的香农多样性、功能丰富度和系统发育多样性高于对照。平均功能丰富度为 0.137，对照为 0.028；冷泉 87 个功能实体中有 65 个仅由单一物种代表。",
+      "scope": "南海海马冷泉、邻近区域和一个非冷泉对照区。",
+      "evidence_basis": "用 eDNA 宏条形码结合拖网，评估鱼类的分类、功能和系统发育多样性。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "eDNA 读段占比低不等于丰度低，多样性高且冗余低也不等于保护状态。",
+      "_source_hash": "a1eb3a595b006577"
+    },
+    "claim:scs-shenhu-plume-velocity": {
+      "statement": "反演水体速度为 1,460–1,560 m/s，垂向变化强于横向变化。在 0–1,800 ms 内，与 CTD 速度的均方根差为 18.19 m/s。",
+      "scope": "南海北部神狐冷泉羽流上方的水体。",
+      "evidence_basis": "用 CTD 约束的双角度联合弹性阻抗反演处理叠前地震数据。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "与 CTD 的速度一致性是方法检验，不是甲烷通量或气泡溶解速率。",
+      "_source_hash": "c96365acff3e2c67"
+    },
+    "claim:scs-scs-tubular-carbonate": {
+      "statement": "显著负的 δ13C 和正的 δ18O 被解释为天然气水合物分解。无明显铈异常且铀富集，指示缺氧形成；随着通道变窄，硫酸盐驱动的 AOM 被推断增强。",
+      "scope": "来自南海的管状冷泉碳酸盐 SQW-65。",
+      "evidence_basis": "从外缘到核心分析矿物、碳氧同位素、稀土元素和铀富集。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "一件管状样品不能确定区域性水合物分解事件，AOM 增强也是根据从外缘到核心的趋势推断的。",
+      "_source_hash": "14c851821b9315af"
+    },
+    "claim:scs-seep-carbonate-molybdenum": {
+      "statement": "碳酸盐与有机质的 δ98Mo 差值为 0.72‰ 至 1.01‰，并与碳同位素、有机碳、钼和黄铁矿同步变化。作者将其解释为硫酸盐还原期间轻钼同位素被有机质吸附。",
+      "scope": "冷泉碳酸盐岩；文献页指出其中包括南海 F 站。所查摘要没有列出全部地点。",
+      "evidence_basis": "测定全岩、碳酸盐、黄铁矿和有机质组分的钼含量与 δ98Mo。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "该差值是对所研究岩石提出的强度指标，不能单独测量 F 站的硫酸盐还原速率。",
+      "_source_hash": "2e5eb1f9e70bffa0"
+    },
+    "claim:scs-shenhu-hydrate-pyrite": {
+      "statement": "莓状黄铁矿 δ34S 为 −24.5‰ 至 −7.1‰，微量元素较高；半自形黄铁矿 δ34S 为 2.7‰ 至 41.4‰。作者把这一序列与封闭的含水合物体系中硫酸盐驱动的厌氧甲烷氧化相联系。",
+      "scope": "南海北部神狐钻探岩芯中含水合物层的自生黄铁矿。",
+      "evidence_basis": "对莓状和半自形黄铁矿做原位元素和硫同位素分析。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "黄铁矿化学可以指示过去与水合物相关的成岩作用，不能说明水合物仍然存在，也不提供甲烷通量。",
+      "_source_hash": "4bf46bfdb86b9ae6"
+    },
+    "claim:scs-scs-dissolved-methane-sensor": {
+      "statement": "两个通道的气相标定线性 R2 均高于 0.999。南海北部部署分辨出近底层富集、快速的垂向降低，以及超过 250 ppm 的局部热点。",
+      "scope": "在南海北部由载人潜水器部署。",
+      "evidence_basis": "1,651 与 1,658 nm 附近的双波长离轴积分腔光谱，并用膜提取溶解甲烷。",
+      "locator": "摘要：研究设计与主要发现。",
+      "confidence_note": "一次方法演示和一次部署不能提供区域甲烷清单。热点浓度不是海气通量。",
+      "_source_hash": "21157068f4069067"
     }
   },
   "concepts": {
@@ -14049,6 +16149,6 @@
       "Concept": "概念"
     }
   },
-  "generated_at": "2026-11-04T16:43:56.169770+00:00",
+  "generated_at": "2026-11-05T02:44:24.740885+00:00",
   "translation_note": "Terminology-normalized Simplified-Chinese reading translation; English evidence records remain canonical."
 }

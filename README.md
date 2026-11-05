@@ -48,22 +48,22 @@ The repository deliberately separates **curated evidence** from **automatically 
 - `dist/global-cold-seep-literature.csv` and `dist/global-cold-seep-review-summary.md` — international discovery inventory and remaining review work.
 - `article/cold-seep-discussion-comparisons.md` — thematic SCS/international comparison guide with sampling and citation limits.
 
-The polar collection prioritizes 2024–2026 literature and retains older mechanistic baselines. The SCS collection covers a rolling ten years: 12 October 2016 through 12 October 2026 for this release. Discovery uses first publication date; citations use the version-of-record bibliographic year. Global comparison studies enter the SCS collection only when SCS sampling is documented.
+The polar collection prioritizes 2024–2026 literature and retains older mechanistic baselines. The SCS collection covers a rolling ten-year window whose start remains 12 October 2016; this release extends the end to 5 November 2026 so papers first released after 12 October 2026 stay inside. Discovery uses first publication date; citations use the version-of-record bibliographic year. Global comparison studies enter the SCS collection only when SCS sampling is documented.
 
 ## Current snapshot
 
-Source-review update: **4 November 2026** for the Arctic cold-seep bibliography. SCS discovery window: **12 October 2016–12 October 2026**; international discovery window: **13 October 2016–13 October 2026**.
+Source-review update: **5 November 2026** for the follow-on cold-seep bibliography. SCS discovery window: **12 October 2016–5 November 2026**; international discovery window: **13 October 2016–5 November 2026**.
 
-- 313 unique curated source profiles: 72 polar papers, 160 SCS studies and 81 international comparison sources
-- 332 evidence claims, with every curated paper represented
+- 373 unique curated source profiles: 72 polar papers, 179 SCS studies and 122 international comparison sources
+- 392 evidence claims, with every curated paper represented
 - 328 controlled concepts; exact generated node and edge totals are available in `dist/graph.json`
-- 301 unique SCS inventory DOI records with independently retrieved bibliographic metadata, including 9 labeled preprints and 3 correction notices; DOI records are not a count of independent studies
-- All 301 inventory records have a screening or review decision: 160 curated, 49 awaiting supporting source text, 70 screened as context, 12 excluded, 3 linked correction notices, and 7 awaiting publication-version checks
-- Of the 160 curated SCS profiles, 122 are limited to abstract evidence and 38 draw on inspected full-text passages; full-text passages do not imply every figure or supplement was reviewed
-- The international view contains 85 curated comparisons: 81 international sources and four shared SCS/global sources. Sixty are limited to an abstract, two pre-2016 classics use only the verified bibliographic record, and 23 use inspected full-text passages
-- 472 active international inventory DOI records, plus 18 archived historical baselines outside the rolling window: 67 curated in the active inventory, 349 awaiting source review, 55 awaiting version checks and one withdrawn preprint excluded from evidence
-- SCS/international active-inventory overlap is 17 DOIs: 301 + 472 − 17 = 756 unique active cold-seep inventory DOI records, with 18 additional archived baselines. This includes preprints and notices and is not an independent-study total
-- 155 inventory records have a provisional microbial-priority tag; thematic tags overlap and are not additive paper counts
+- 311 unique SCS inventory DOI records with independently retrieved bibliographic metadata, including 9 labeled preprints and 3 correction notices; DOI records are not a count of independent studies
+- All 311 inventory records have a screening or review decision: 179 curated, 42 awaiting supporting source text, 68 screened as context, 12 excluded, 3 linked correction notices, and 7 awaiting publication-version checks
+- Of the 179 curated SCS profiles, 129 are limited to abstract evidence, 12 use only the verified bibliographic record, and 38 draw on inspected full-text passages; full-text passages do not imply every figure or supplement was reviewed
+- The international view contains 126 curated comparisons: 122 international sources and four shared SCS/global sources. Ninety-one are limited to an abstract, 12 use only the verified bibliographic record, and 23 use inspected full-text passages
+- 500 active international inventory DOI records, plus 18 archived historical baselines outside the rolling window: 108 curated in the active inventory, 336 awaiting source review, 55 awaiting version checks and one withdrawn preprint excluded from evidence
+- SCS/international active-inventory overlap is 17 DOIs: 311 + 500 − 17 = 794 unique active cold-seep inventory DOI records, with 18 additional archived baselines. This includes preprints and notices and is not an independent-study total
+- 165 inventory records have a provisional microbial-priority tag; thematic tags overlap and are not additive paper counts
 - Nine compartment labels, including explicit categories for unreported sampling medium, wood/organic substrates and terrestrial seep water/ice, and fifteen microbial/environmental themes, including mercury and methylmercury
 - The original polar queue remains separate: 161 screened current candidates, with 12 retained for verification, 10 background/methods references, 12 deferred, and 127 excluded
 - Across the polar current-and-archived review ledger, 27 retained candidates have verification packets: 14 full-text checked and promoted, 1 publisher page checked, and 12 DOI/abstract checked

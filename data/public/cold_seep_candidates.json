@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-10-13T04:23:57.759838+00:00",
   "since": "2016-10-12",
-  "until": "2026-10-12",
+  "until": "2026-11-05",
   "collection": "scs-cold-seeps",
   "policy": "Title/abstract discovery inventory. Tags are provisional. Only curated source profiles supply graph claims.",
   "queries": [
@@ -45,6 +45,79 @@
     "seep-candidate:10-21203-rs-3-rs-9618667-v1"
   ],
   "candidates": [
+    {
+      "id": "seep-candidate:10-1016-j-marenvres-2026-108507",
+      "doi": "10.1016/j.marenvres.2026.108507",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Integrating eDNA and trawl surveys reveals fish diversity and functional redundancy in the Haima cold seep area",
+      "publication_date": "2026-10-27",
+      "publication_date_precision": "day",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Peiwen Jiang",
+        "Shuai Zhang",
+        "Zuozhi Chen",
+        "Jun Zhang",
+        "Yancong Cai",
+        "Chang Pan",
+        "Min Li"
+      ],
+      "author_records": [
+        {
+          "firstName": "Peiwen",
+          "lastName": "Jiang"
+        },
+        {
+          "firstName": "Shuai",
+          "lastName": "Zhang"
+        },
+        {
+          "firstName": "Zuozhi",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Jun",
+          "lastName": "Zhang"
+        },
+        {
+          "firstName": "Yancong",
+          "lastName": "Cai"
+        },
+        {
+          "firstName": "Chang",
+          "lastName": "Pan"
+        },
+        {
+          "firstName": "Min",
+          "lastName": "Li"
+        }
+      ],
+      "journal": "Marine Environmental Research",
+      "volume": "223",
+      "issue": "",
+      "pages": "108507",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1016/j.marenvres.2026.108507",
+      "compartments": [],
+      "topics": [
+        "community",
+        "phosphorus"
+      ],
+      "sites": [
+        "haima"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
+    },
     {
       "id": "seep-candidate:10-3390-jmse14201881",
       "collection": "scs-cold-seeps",
@@ -393,6 +466,228 @@
         "Journal Article"
       ],
       "publication_stage": "journal_record"
+    },
+    {
+      "id": "seep-candidate:10-1016-j-gloplacha-2026-105633",
+      "doi": "10.1016/j.gloplacha.2026.105633",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Heavy hydrocarbons buffering by subsurface gas hydrate in cold seep systems",
+      "publication_date": "2026-10",
+      "publication_date_precision": "month",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Zice Jia",
+        "Hongfei Lai",
+        "Na Cui",
+        "Yinan Deng",
+        "Xun Sun",
+        "Jinfeng Ren",
+        "Wei Deng",
+        "Yunxin Fang",
+        "Jun Cao",
+        "Fang Chen",
+        "Zenggui Kuang"
+      ],
+      "author_records": [
+        {
+          "firstName": "Zice",
+          "lastName": "Jia"
+        },
+        {
+          "firstName": "Hongfei",
+          "lastName": "Lai"
+        },
+        {
+          "firstName": "Na",
+          "lastName": "Cui"
+        },
+        {
+          "firstName": "Yinan",
+          "lastName": "Deng"
+        },
+        {
+          "firstName": "Xun",
+          "lastName": "Sun"
+        },
+        {
+          "firstName": "Jinfeng",
+          "lastName": "Ren"
+        },
+        {
+          "firstName": "Wei",
+          "lastName": "Deng"
+        },
+        {
+          "firstName": "Yunxin",
+          "lastName": "Fang"
+        },
+        {
+          "firstName": "Jun",
+          "lastName": "Cao"
+        },
+        {
+          "firstName": "Fang",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Zenggui",
+          "lastName": "Kuang"
+        }
+      ],
+      "journal": "Global and Planetary Change",
+      "volume": "265",
+      "issue": "",
+      "pages": "105633",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1016/j.gloplacha.2026.105633",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "carbon",
+        "geochemistry"
+      ],
+      "sites": [
+        "regional"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
+    },
+    {
+      "id": "seep-candidate:10-1016-j-chemgeo-2026-123625",
+      "doi": "10.1016/j.chemgeo.2026.123625",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Ca isotope fractionation during precipitation of authigenic carbonates: A case study from the Haima cold seep, northern South China Sea",
+      "publication_date": "2026-10",
+      "publication_date_precision": "month",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Jingya Cao",
+        "Junming Zhou",
+        "Junxi Feng",
+        "Jun Tao",
+        "Jie Xuan",
+        "Shengxiong Yang"
+      ],
+      "author_records": [
+        {
+          "firstName": "Jingya",
+          "lastName": "Cao"
+        },
+        {
+          "firstName": "Junming",
+          "lastName": "Zhou"
+        },
+        {
+          "firstName": "Junxi",
+          "lastName": "Feng"
+        },
+        {
+          "firstName": "Jun",
+          "lastName": "Tao"
+        },
+        {
+          "firstName": "Jie",
+          "lastName": "Xuan"
+        },
+        {
+          "firstName": "Shengxiong",
+          "lastName": "Yang"
+        }
+      ],
+      "journal": "Chemical Geology",
+      "volume": "721",
+      "issue": "",
+      "pages": "123625",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1016/j.chemgeo.2026.123625",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry"
+      ],
+      "sites": [
+        "haima"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
+    },
+    {
+      "id": "seep-candidate:10-1016-j-jseaes-2026-107253",
+      "doi": "10.1016/j.jseaes.2026.107253",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Anomalous mercury isotopic composition highlights the essential role of terrestrial erosion in forming cold seeps in the continental margin of the South China Sea",
+      "publication_date": "2026-10",
+      "publication_date_precision": "month",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Xiaoming Sun",
+        "Ruichen Jia",
+        "Runsheng Yin",
+        "Xin Yang"
+      ],
+      "author_records": [
+        {
+          "firstName": "Xiaoming",
+          "lastName": "Sun"
+        },
+        {
+          "firstName": "Ruichen",
+          "lastName": "Jia"
+        },
+        {
+          "firstName": "Runsheng",
+          "lastName": "Yin"
+        },
+        {
+          "firstName": "Xin",
+          "lastName": "Yang"
+        }
+      ],
+      "journal": "Journal of Asian Earth Sciences",
+      "volume": "310",
+      "issue": "",
+      "pages": "107253",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1016/j.jseaes.2026.107253",
+      "compartments": [],
+      "topics": [
+        "mercury",
+        "geochemistry"
+      ],
+      "sites": [
+        "regional"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
     },
     {
       "id": "seep-candidate:10-21203-rs-3-rs-10913137-v1",
@@ -777,6 +1072,172 @@
         "Journal Article"
       ],
       "publication_stage": "journal_record"
+    },
+    {
+      "id": "seep-candidate:10-3390-jmse14181699",
+      "doi": "10.3390/jmse14181699",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Continuous Characterization of Water-Column Velocity in Cold Seep Plumes Using Pre-Stack Allied Elastic Impedance Inversion",
+      "publication_date": "2026-09-12",
+      "publication_date_precision": "day",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Canping Li",
+        "Miantao Ma",
+        "Rui Wang",
+        "Hairong Zhang",
+        "Yilin Liu",
+        "Liang Chang",
+        "Jinqiang Liang",
+        "Fengying Chen",
+        "Binghuang Bao"
+      ],
+      "author_records": [
+        {
+          "firstName": "Canping",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Miantao",
+          "lastName": "Ma"
+        },
+        {
+          "firstName": "Rui",
+          "lastName": "Wang"
+        },
+        {
+          "firstName": "Hairong",
+          "lastName": "Zhang"
+        },
+        {
+          "firstName": "Yilin",
+          "lastName": "Liu"
+        },
+        {
+          "firstName": "Liang",
+          "lastName": "Chang"
+        },
+        {
+          "firstName": "Jinqiang",
+          "lastName": "Liang"
+        },
+        {
+          "firstName": "Fengying",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Binghuang",
+          "lastName": "Bao"
+        }
+      ],
+      "journal": "Journal of Marine Science and Engineering",
+      "volume": "14",
+      "issue": "18",
+      "pages": "1699",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.3390/jmse14181699",
+      "compartments": [
+        "water-column",
+        "bottom-water"
+      ],
+      "topics": [
+        "geochemistry",
+        "methods"
+      ],
+      "sites": [
+        "shenhu"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
+    },
+    {
+      "id": "seep-candidate:10-1021-acs-analchem-6c04761",
+      "doi": "10.1021/acs.analchem.6c04761",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Dual-Wavelength OA-ICOS for Sensitive and Wide-Range In Situ Measurement of Dissolved Methane in Deep-Sea Cold Seeps",
+      "publication_date": "2026-09-08",
+      "publication_date_precision": "day",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Mingsi Gu",
+        "Jingru Chen",
+        "Jiajin Chen",
+        "Jiaoxu Mei",
+        "Guishi Wang",
+        "Tu Tan",
+        "Kun Liu",
+        "Xiaoming Gao"
+      ],
+      "author_records": [
+        {
+          "firstName": "Mingsi",
+          "lastName": "Gu"
+        },
+        {
+          "firstName": "Jingru",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Jiajin",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Jiaoxu",
+          "lastName": "Mei"
+        },
+        {
+          "firstName": "Guishi",
+          "lastName": "Wang"
+        },
+        {
+          "firstName": "Tu",
+          "lastName": "Tan"
+        },
+        {
+          "firstName": "Kun",
+          "lastName": "Liu"
+        },
+        {
+          "firstName": "Xiaoming",
+          "lastName": "Gao"
+        }
+      ],
+      "journal": "Analytical Chemistry",
+      "volume": "98",
+      "issue": "37",
+      "pages": "27668-27678",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1021/acs.analchem.6c04761",
+      "compartments": [],
+      "topics": [
+        "methane",
+        "phosphorus",
+        "geochemistry",
+        "methods"
+      ],
+      "sites": [
+        "regional"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
     },
     {
       "id": "seep-candidate:10-20944-preprints202609-0451-v1",
@@ -12168,6 +12629,103 @@
       "publication_stage": "journal_record"
     },
     {
+      "id": "seep-candidate:10-2343-geochemj-gj25004",
+      "doi": "10.2343/geochemj.gj25004",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Formation of the authigenic pyrite in the gas hydrate-bearing layer of the Shenhu region, northern South China Sea: Constraints from geochemical and sulfur isotope compositions",
+      "publication_date": "2025",
+      "publication_date_precision": "year",
+      "year": 2025,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Jingya Cao",
+        "Xin Liu",
+        "Junxi Feng",
+        "Yutian Deng",
+        "Junming Zhou",
+        "Dongmei Tian",
+        "Yuanheng Li",
+        "Guang Hu",
+        "Shengxiong Yang",
+        "Hongfeng Lu",
+        "Jianhou Zhou"
+      ],
+      "author_records": [
+        {
+          "firstName": "Jingya",
+          "lastName": "Cao"
+        },
+        {
+          "firstName": "Xin",
+          "lastName": "Liu"
+        },
+        {
+          "firstName": "Junxi",
+          "lastName": "Feng"
+        },
+        {
+          "firstName": "Yutian",
+          "lastName": "Deng"
+        },
+        {
+          "firstName": "Junming",
+          "lastName": "Zhou"
+        },
+        {
+          "firstName": "Dongmei",
+          "lastName": "Tian"
+        },
+        {
+          "firstName": "Yuanheng",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Guang",
+          "lastName": "Hu"
+        },
+        {
+          "firstName": "Shengxiong",
+          "lastName": "Yang"
+        },
+        {
+          "firstName": "Hongfeng",
+          "lastName": "Lu"
+        },
+        {
+          "firstName": "Jianhou",
+          "lastName": "Zhou"
+        }
+      ],
+      "journal": "GEOCHEMICAL JOURNAL",
+      "volume": "59",
+      "issue": "3",
+      "pages": "84-95",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.2343/geochemj.gj25004",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "sulfur",
+        "geochemistry",
+        "methods"
+      ],
+      "sites": [
+        "shenhu"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
+    },
+    {
       "id": "seep-candidate:10-59717-j-xinn-geo-2024-100123",
       "doi": "10.59717/j.xinn-geo.2024.100123",
       "collection": "scs-cold-seeps",
@@ -13974,6 +14532,103 @@
       "publication_stage": "journal_record"
     },
     {
+      "id": "seep-candidate:10-3389-fmars-2024-1451624",
+      "doi": "10.3389/fmars.2024.1451624",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "The formation of tubular seep carbonate deciphered from mineralogical and geochemical characteristics: an example from the South China Sea",
+      "publication_date": "2024-08-26",
+      "publication_date_precision": "day",
+      "year": 2024,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Jiangong Wei",
+        "Xiaoming Miao",
+        "Kailong Gan",
+        "Jiangtao Li",
+        "Jiwei Li",
+        "Xiting Liu",
+        "Hengchao Xu",
+        "Shun Chen",
+        "Kaiwen Ta",
+        "Zhifeng Wan",
+        "Tingting Wu"
+      ],
+      "author_records": [
+        {
+          "firstName": "Jiangong",
+          "lastName": "Wei"
+        },
+        {
+          "firstName": "Xiaoming",
+          "lastName": "Miao"
+        },
+        {
+          "firstName": "Kailong",
+          "lastName": "Gan"
+        },
+        {
+          "firstName": "Jiangtao",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Jiwei",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Xiting",
+          "lastName": "Liu"
+        },
+        {
+          "firstName": "Hengchao",
+          "lastName": "Xu"
+        },
+        {
+          "firstName": "Shun",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Kaiwen",
+          "lastName": "Ta"
+        },
+        {
+          "firstName": "Zhifeng",
+          "lastName": "Wan"
+        },
+        {
+          "firstName": "Tingting",
+          "lastName": "Wu"
+        }
+      ],
+      "journal": "Frontiers in Marine Science",
+      "volume": "11",
+      "issue": "",
+      "pages": "",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.3389/fmars.2024.1451624",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "methane",
+        "sulfur",
+        "phosphorus",
+        "geochemistry"
+      ],
+      "sites": [
+        "regional"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
+    },
+    {
       "id": "seep-candidate:10-1128-spectrum-00536-24",
       "collection": "scs-cold-seeps",
       "status": "candidate",
@@ -15339,6 +15994,80 @@
       "publication_stage": "journal_record"
     },
     {
+      "id": "seep-candidate:10-1016-j-gloplacha-2024-104439",
+      "doi": "10.1016/j.gloplacha.2024.104439",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Seep carbonate clumped isotopes revealing ocean warming-induced gas hydrate dissociation",
+      "publication_date": "2024-06",
+      "publication_date_precision": "month",
+      "year": 2024,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Lei Liu",
+        "Hongxiang Guan",
+        "Nengyou Wu",
+        "Biao Chang",
+        "Fang Chen",
+        "Dong Feng",
+        "Sanzhong Li"
+      ],
+      "author_records": [
+        {
+          "firstName": "Lei",
+          "lastName": "Liu"
+        },
+        {
+          "firstName": "Hongxiang",
+          "lastName": "Guan"
+        },
+        {
+          "firstName": "Nengyou",
+          "lastName": "Wu"
+        },
+        {
+          "firstName": "Biao",
+          "lastName": "Chang"
+        },
+        {
+          "firstName": "Fang",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Dong",
+          "lastName": "Feng"
+        },
+        {
+          "firstName": "Sanzhong",
+          "lastName": "Li"
+        }
+      ],
+      "journal": "Global and Planetary Change",
+      "volume": "237",
+      "issue": "",
+      "pages": "104439",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1016/j.gloplacha.2024.104439",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry"
+      ],
+      "sites": [
+        "regional"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
+    },
+    {
       "id": "seep-candidate:10-1016-j-marpetgeo-2024-106829",
       "collection": "scs-cold-seeps",
       "status": "candidate",
@@ -16221,6 +16950,98 @@
         "Journal Article"
       ],
       "publication_stage": "journal_record"
+    },
+    {
+      "id": "seep-candidate:10-1029-2023gc011379",
+      "doi": "10.1029/2023gc011379",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Molybdenum Isotope Fingerprinting of Microbial Sulfate Reduction in Seep Carbonate Rocks",
+      "publication_date": "2024-03",
+      "publication_date_precision": "month",
+      "year": 2024,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Zice Jia",
+        "Yu Hu",
+        "Germain Bayon",
+        "Jörn Peckmann",
+        "Xudong Wang",
+        "Shanggui Gong",
+        "Jie Li",
+        "Harry H. Roberts",
+        "Duofu Chen",
+        "Dong Feng"
+      ],
+      "author_records": [
+        {
+          "firstName": "Zice",
+          "lastName": "Jia"
+        },
+        {
+          "firstName": "Yu",
+          "lastName": "Hu"
+        },
+        {
+          "firstName": "Germain",
+          "lastName": "Bayon"
+        },
+        {
+          "firstName": "Jörn",
+          "lastName": "Peckmann"
+        },
+        {
+          "firstName": "Xudong",
+          "lastName": "Wang"
+        },
+        {
+          "firstName": "Shanggui",
+          "lastName": "Gong"
+        },
+        {
+          "firstName": "Jie",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Harry H.",
+          "lastName": "Roberts"
+        },
+        {
+          "firstName": "Duofu",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Dong",
+          "lastName": "Feng"
+        }
+      ],
+      "journal": "Geochemistry, Geophysics, Geosystems",
+      "volume": "25",
+      "issue": "3",
+      "pages": "",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1029/2023gc011379",
+      "compartments": [
+        "sediment",
+        "carbonate"
+      ],
+      "topics": [
+        "sulfur",
+        "carbon",
+        "geochemistry"
+      ],
+      "sites": [
+        "regional"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
     },
     {
       "id": "seep-candidate:10-3390-md22030117",

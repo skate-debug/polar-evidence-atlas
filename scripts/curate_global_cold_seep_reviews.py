@@ -135,6 +135,8 @@ def main():
             claims.append(claim)
             translations["claims"][cid] = {"statement": finding[1], "scope": scope[1], "evidence_basis": design[1], "locator": locator[1], "confidence_note": limit[1], "_source_hash": digest(claim_payload(claim))}
         metadata["records"][doi] = record
+        if old_reviews.get(doi, {}).get("status") == "curated":
+            continue
         old_reviews[doi] = {"doi": doi, "candidate_id": candidate["id"], "source_id": sid, "status": "curated", "reviewed_at": review_date,
             "metadata_status": "verified", "support_status": "supported_after_narrowing", "access_level": access, "evidence_url": source_url, "locator": locator[0],
             "reason": packet["discussion"][0], "reason_zh": packet["discussion"][1], "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons." if "full_text" not in access else "Add further figure-specific comparisons when relevant.",

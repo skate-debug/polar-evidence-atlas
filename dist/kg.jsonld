@@ -4720,6 +4720,486 @@
       "schema:sameAs": "https://doi.org/10.1016/j.envpol.2023.123270"
     },
     {
+      "@id": "src:gcs-laptev-iron-nitrate-aom",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Iron and nitrate-driven anaerobic methane oxidation in methane seep sediments of the Laptev Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.chemgeo.2025.123170",
+      "schema:sameAs": "https://doi.org/10.1016/j.chemgeo.2025.123170"
+    },
+    {
+      "@id": "src:gcs-esas-aerobic-methane-biomarkers",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Intensive methane seep region on the outer East Siberian Arctic Shelf shows biomarker evidence for aerobic oxidation of methane",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.orggeochem.2026.105171",
+      "schema:sameAs": "https://doi.org/10.1016/j.orggeochem.2026.105171"
+    },
+    {
+      "@id": "src:gcs-laptev-seep-clays",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Clay minerals in methane seep sediments of the Laptev Sea (Arctic): diagenetic transformations and buffering functions",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.clay.2025.108092",
+      "schema:sameAs": "https://doi.org/10.1016/j.clay.2025.108092"
+    },
+    {
+      "@id": "src:gcs-vestnesa-monothalamid-barcodes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "DNA barcoding of monothalamid foraminifera from Vestnesa and Svyatogor Ridge, Arctic Ocean, including the description of 3 new species",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1007/s00300-024-03320-2",
+      "schema:sameAs": "https://doi.org/10.1007/s00300-024-03320-2"
+    },
+    {
+      "@id": "src:gcs-arctic-seep-frigidoalvania",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "A hot encounter at a cold seep: a new endemic Frigidoalvania Warén, 1974 (Mollusca: Caenogastropoda: Rissoidae) from the Arctic and its phylogenetic ties",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.jmarsys.2026.104262",
+      "schema:sameAs": "https://doi.org/10.1016/j.jmarsys.2026.104262"
+    },
+    {
+      "@id": "src:gcs-laptev-carbonate-thorium-ages",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Authigenic carbonates from cold seep sites in the Laptev Sea: 230Th/U chronology and insights into fluid sources",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.marger.2026.207714",
+      "schema:sameAs": "https://doi.org/10.1016/j.marger.2026.207714"
+    },
+    {
+      "@id": "src:gcs-laptev-pyrite-morphology",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The morphology and geochemistry of authigenic pyrite formed under methane seepage: Insights from the Laptev Sea",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.margeo.2025.107558",
+      "schema:sameAs": "https://doi.org/10.1016/j.margeo.2025.107558"
+    },
+    {
+      "@id": "src:gcs-seep-observatory-perspective",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Cold seep seafloor observatories revise the notion of ‘life in the slow lane’",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1093/nsr/nwag267",
+      "schema:sameAs": "https://doi.org/10.1093/nsr/nwag267"
+    },
+    {
+      "@id": "src:gcs-seep-hydroxy-gdgt-methanogenesis",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Hydroxylated GDGTs-0 in marine methane seep environments: A putative indicator for archaeal methanogenesis",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1016/j.orggeochem.2024.104862",
+      "schema:sameAs": "https://doi.org/10.1016/j.orggeochem.2024.104862"
+    },
+    {
+      "@id": "src:gcs-seep-carbonate-factory-review",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Cold-Seep Carbonate Factory: Formation Mechanisms, Geochemical Proxies, and Implications for Global Carbon Cycling",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1007/s11802-026-6261-4",
+      "schema:sameAs": "https://doi.org/10.1007/s11802-026-6261-4"
+    },
+    {
+      "@id": "src:gcs-vestnesa-hoenir-seep-field",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Discovery of a bathyal methane seep field at the north-western Vestnesa Ridge, Fram Strait",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.dsr2.2026.105620",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr2.2026.105620"
+    },
+    {
+      "@id": "src:gcs-vesteralen-coral-aom",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Seafloor chemosynthetic habitats and AOM-influenced sediment microbiome at a cold-water coral site off the Vesterålen coast, northern Norway",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.5194/bg-23-3139-2026",
+      "schema:sameAs": "https://doi.org/10.5194/bg-23-3139-2026"
+    },
+    {
+      "@id": "src:gcs-svalbard-fjord-sgd-macrofauna",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Macrofauna Associated With Submarine Groundwater Discharge Sites and a Cold Seep in Svalbard Fjords",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1002/ece3.74597",
+      "schema:sameAs": "https://doi.org/10.1002/ece3.74597"
+    },
+    {
+      "@id": "src:gcs-saglek-seep-corals",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Evaluating the relationship between cold-water corals and a cold seep in a submarine slope failure at the Northeast Saglek Bank cold-water coral hotspot, Eastern Canadian Arctic",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1139/as-2026-0033",
+      "schema:sameAs": "https://doi.org/10.1139/as-2026-0033"
+    },
+    {
+      "@id": "src:gcs-svalbard-seep-substrate-imagery",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Seafloor‐image analysis techniques to highlight the role of substrate as a driver of benthic community structure in Arctic cold seep areas",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1002/lno.70312",
+      "schema:sameAs": "https://doi.org/10.1002/lno.70312"
+    },
+    {
+      "@id": "src:gcs-laptev-hopanoid-methane",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Enhanced methane cycling across the Laptev Sea signaled by time-integrated biomarkers of aerobic methane oxidation",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.5194/bg-23-1459-2026",
+      "schema:sameAs": "https://doi.org/10.5194/bg-23-1459-2026"
+    },
+    {
+      "@id": "src:gcs-haakon-mosby-gypsum",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Formation of non-evaporitic gypsum in gas hydrate-bearing sediments at Håkon Mosby mud volcano, SW Barents sea",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1016/j.marpetgeo.2024.106875",
+      "schema:sameAs": "https://doi.org/10.1016/j.marpetgeo.2024.106875"
+    },
+    {
+      "@id": "src:gcs-nyegga-seep-habitats",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Geological drivers and biological responses at methane seeps: Habitat complexity at the Nyegga seep site (NE Atlantic)",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.margeo.2026.107819",
+      "schema:sameAs": "https://doi.org/10.1016/j.margeo.2026.107819"
+    },
+    {
+      "@id": "src:gcs-svalbard-sw-slope-seeps",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "New cold seep sites on the continental slope southwest to Svalbard",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.3389/feart.2024.1328357",
+      "schema:sameAs": "https://doi.org/10.3389/feart.2024.1328357"
+    },
+    {
+      "@id": "src:gcs-svyatogor-ridge-methane",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Biogeochemical investigations of methane seepage at the ultraslow-spreading Arctic mid-ocean ridge: Svyatogor ridge, Fram Strait",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1016/j.marpetgeo.2024.106761",
+      "schema:sameAs": "https://doi.org/10.1016/j.marpetgeo.2024.106761"
+    },
+    {
+      "@id": "src:gcs-esas-methane-acidification",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Model based analysis of the methane seeping influence on the acidification in the East Siberian Arctic Shelf waters",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.3389/fmars.2025.1497616",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2025.1497616"
+    },
+    {
+      "@id": "src:gcs-molloy-hydrate-mounds",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Deep-sea gas hydrate mounds and chemosynthetic fauna discovered at 3640 m on the Molloy Ridge, Greenland Sea",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41467-025-67165-x",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-025-67165-x"
+    },
+    {
+      "@id": "src:gcs-borealis-mud-volcano",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Sanctuary for vulnerable Arctic species at the Borealis Mud Volcano",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41467-024-55712-x",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-024-55712-x"
+    },
+    {
+      "@id": "src:gcs-hornsund-shallow-seep-fauna",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Fauna of shallow water Arctic seep related to dynamic water masses",
+      "schema:datePublished": 2027,
+      "schema:identifier": "10.1016/j.marenvres.2026.108522",
+      "schema:sameAs": "https://doi.org/10.1016/j.marenvres.2026.108522"
+    },
+    {
+      "@id": "src:gcs-beaufort-mud-volcano-methane",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Cryosphere-driven freshening and methane source shift at Beaufort Sea mud volcanoes",
+      "schema:datePublished": 2027,
+      "schema:identifier": "10.1016/j.gsf.2026.102451",
+      "schema:sameAs": "https://doi.org/10.1016/j.gsf.2026.102451"
+    },
+    {
+      "@id": "src:gcs-barents-active-seep-inventory",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Geological and glaciological controls of 21,700 active methane seeps in the northern Norwegian Barents sea",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.3389/feart.2024.1404027",
+      "schema:sameAs": "https://doi.org/10.3389/feart.2024.1404027"
+    },
+    {
+      "@id": "src:gcs-vestnesa-glacial-seepage",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Glacial-interglacial sedimentation control on gas seepage exemplified by Vestnesa Ridge off NW Svalbard margin",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.3389/feart.2024.1356341",
+      "schema:sameAs": "https://doi.org/10.3389/feart.2024.1356341"
+    },
+    {
+      "@id": "src:gcs-barents-carbonate-uth-ages",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Protracted post-glacial hydrocarbon seepage in the Barents Sea revealed by U–Th dating of seep carbonates",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.3389/feart.2024.1355621",
+      "schema:sameAs": "https://doi.org/10.3389/feart.2024.1355621"
+    },
+    {
+      "@id": "src:gcs-svalbard-fjord-hydrate-om",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Submarine groundwater discharge and gas hydrate dissociation fuel organic matter formation in Arctic fjord sediments",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.marchem.2025.104570",
+      "schema:sameAs": "https://doi.org/10.1016/j.marchem.2025.104570"
+    },
+    {
+      "@id": "src:gcs-mackenzie-uav-seep-methane",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Application of UAV-based methods for quantifying methane point source emissions over an Arctic geological seep",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.5194/amt-19-3983-2026",
+      "schema:sameAs": "https://doi.org/10.5194/amt-19-3983-2026"
+    },
+    {
+      "@id": "src:gcs-prins-karls-forland-oil-seep",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "An Arctic natural oil seep investigated from space to the seafloor",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1016/j.scitotenv.2023.167788",
+      "schema:sameAs": "https://doi.org/10.1016/j.scitotenv.2023.167788"
+    },
+    {
+      "@id": "src:gcs-barents-polaris-mud-volcanoes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "A constellation of mud volcanoes originated from a buried Arctic mega-slide, Southwestern Barents Sea",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1038/s41598-025-99578-5",
+      "schema:sameAs": "https://doi.org/10.1038/s41598-025-99578-5"
+    },
+    {
+      "@id": "src:gcs-laptev-om-isotope-curves",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Carbon Isotope Type-Curves of Organic Matter in Sediments of the Laptev Sea (Seep Area)",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1134/s0016702924700903",
+      "schema:sameAs": "https://doi.org/10.1134/s0016702924700903"
+    },
+    {
+      "@id": "src:gcs-laptev-element-speciation",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Elemental speciation of the sediments from cold methane seeps on the Laptev Sea shelf",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.18799/24131830/2024/3/4511",
+      "schema:sameAs": "https://doi.org/10.18799/24131830/2024/3/4511"
+    },
+    {
+      "@id": "src:gcs-laptev-slope-authigenic-pyrite",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Authigenic pyrite from the Laptev Sea continental slope: the impact of methane seepage activity",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.18799/24131830/2025/5/5051",
+      "schema:sameAs": "https://doi.org/10.18799/24131830/2025/5/5051"
+    },
+    {
+      "@id": "src:gcs-cold-seep-climate-services",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Cold seeps: climate relevance and anthropogenic impacts",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3389/fmars.2026.1819754",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2026.1819754"
+    },
+    {
+      "@id": "src:gcs-anme-lipid-inorganic-carbon",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Marine Cold Seep ANME ‐2/ SRB Consortia Produce Their Lipid Biomass From Inorganic Carbon",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1111/1462-2920.70213",
+      "schema:sameAs": "https://doi.org/10.1111/1462-2920.70213"
+    },
+    {
+      "@id": "src:gcs-seep-bottom-water-diazotrophs",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Chemosynthetic alphaproteobacterial diazotrophs reside in deep-sea cold-seep bottom waters",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1128/msystems.00176-24",
+      "schema:sameAs": "https://doi.org/10.1128/msystems.00176-24"
+    },
+    {
+      "@id": "src:gcs-seep-sponge-oxidizer-mags",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Metagenomic binning reveals community and functional characteristics of sulfur- and methane-oxidizing bacteria in cold seep sponge ground",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1186/s40793-025-00777-4",
+      "schema:sameAs": "https://doi.org/10.1186/s40793-025-00777-4"
+    },
+    {
+      "@id": "src:gcs-seep-carbonate-magnesium",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Magnesium geochemistry of authigenic carbonate at marine cold seep",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.3389/fmars.2024.1463328",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2024.1463328"
+    },
+    {
+      "@id": "src:gcs-aom-seep-rock-nmr",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Progression of organic and inorganic matter in cold seep rocks during anaerobic oxidation of methane studied by solid-state NMR",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.ssnmr.2026.102124",
+      "schema:sameAs": "https://doi.org/10.1016/j.ssnmr.2026.102124"
+    },
+    {
+      "@id": "src:scs-haima-dic-flux",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Quantifying the flux of dissolved inorganic carbon in surface sediments of the Haima cold seep area, northern South China Sea",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.jseaes.2024.106454",
+      "schema:sameAs": "https://doi.org/10.1016/j.jseaes.2024.106454"
+    },
+    {
+      "@id": "src:scs-haima-carbonate-ca-isotopes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Ca isotope fractionation during precipitation of authigenic carbonates: A case study from the Haima cold seep, northern South China Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.chemgeo.2026.123625",
+      "schema:sameAs": "https://doi.org/10.1016/j.chemgeo.2026.123625"
+    },
+    {
+      "@id": "src:scs-haima-macrofauna-edna",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Unlocking deep sea cold seep biodiversity: Leveraging environmental DNA for macrofauna diversity estimation in Haima cold seep",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.dsr.2026.104675",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr.2026.104675"
+    },
+    {
+      "@id": "src:scs-haima-bubble-plume-monitoring",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Integrated optical and acoustic monitoring of deep-sea bubble plume – A case study in Haima cold seep",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.dsr.2025.104603",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr.2025.104603"
+    },
+    {
+      "@id": "src:scs-shenhu-multibeam-gas-flux",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Quantifying the deep-sea cold seep gas flux using multibeam water column data: A case study in the Shenhu area of the South China sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.dsr.2025.104644",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr.2025.104644"
+    },
+    {
+      "@id": "src:scs-qiongdongnan-pipe-carbonate",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Multistage formation and geochemical response of pipe-morphology cold seep carbonate in the Qiongdongnan Basin, northern South China Sea",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.chemgeo.2024.122524",
+      "schema:sameAs": "https://doi.org/10.1016/j.chemgeo.2024.122524"
+    },
+    {
+      "@id": "src:scs-qiongdongnan-seep-system",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Multiple observations to delineate the characteristics of cold seep system in the Qiongdongnan Basin",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.marpetgeo.2025.107522",
+      "schema:sameAs": "https://doi.org/10.1016/j.marpetgeo.2025.107522"
+    },
+    {
+      "@id": "src:scs-qiongdongnan-shelf-carbonate",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Seep-related carbonates on continental shelves: Distinctive processes and morphologies revealed by the Qiongdongnan Shelf, South China Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.margeo.2026.107772",
+      "schema:sameAs": "https://doi.org/10.1016/j.margeo.2026.107772"
+    },
+    {
+      "@id": "src:scs-scs-margin-mercury-isotopes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Anomalous mercury isotopic composition highlights the essential role of terrestrial erosion in forming cold seeps in the continental margin of the South China Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.jseaes.2026.107253",
+      "schema:sameAs": "https://doi.org/10.1016/j.jseaes.2026.107253"
+    },
+    {
+      "@id": "src:scs-qiongdongnan-hydrate-hydrocarbons",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Heavy hydrocarbons buffering by subsurface gas hydrate in cold seep systems",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.gloplacha.2026.105633",
+      "schema:sameAs": "https://doi.org/10.1016/j.gloplacha.2026.105633"
+    },
+    {
+      "@id": "src:scs-scs-carbonate-clumped-isotopes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Seep carbonate clumped isotopes revealing ocean warming-induced gas hydrate dissociation",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1016/j.gloplacha.2024.104439",
+      "schema:sameAs": "https://doi.org/10.1016/j.gloplacha.2024.104439"
+    },
+    {
+      "@id": "src:scs-haima-mussel-scaleworm-trophic",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Trophic relationship between mussels and scale worms under various seepage intensities in the haima cold seep: Insights from stable isotopes (δ13C and δ15N) and C:N:P stoichiometry",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1016/j.dsr.2024.104264",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr.2024.104264"
+    },
+    {
+      "@id": "src:scs-haima-foraminifera-edna",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Foraminiferal eDNA reveals ecological dynamics of a deep-sea cold seep ecosystem: Evidence from the “Haima” seep, South China Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.seares.2026.102725",
+      "schema:sameAs": "https://doi.org/10.1016/j.seares.2026.102725"
+    },
+    {
+      "@id": "src:scs-haima-fish-edna-trawl",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Integrating eDNA and trawl surveys reveals fish diversity and functional redundancy in the Haima cold seep area",
+      "schema:datePublished": 2027,
+      "schema:identifier": "10.1016/j.marenvres.2026.108507",
+      "schema:sameAs": "https://doi.org/10.1016/j.marenvres.2026.108507"
+    },
+    {
+      "@id": "src:scs-shenhu-plume-velocity",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Continuous Characterization of Water-Column Velocity in Cold Seep Plumes Using Pre-Stack Allied Elastic Impedance Inversion",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3390/jmse14181699",
+      "schema:sameAs": "https://doi.org/10.3390/jmse14181699"
+    },
+    {
+      "@id": "src:scs-scs-tubular-carbonate",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The formation of tubular seep carbonate deciphered from mineralogical and geochemical characteristics: an example from the South China Sea",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.3389/fmars.2024.1451624",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2024.1451624"
+    },
+    {
+      "@id": "src:scs-seep-carbonate-molybdenum",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Molybdenum Isotope Fingerprinting of Microbial Sulfate Reduction in Seep Carbonate Rocks",
+      "schema:datePublished": 2024,
+      "schema:identifier": "10.1029/2023gc011379",
+      "schema:sameAs": "https://doi.org/10.1029/2023gc011379"
+    },
+    {
+      "@id": "src:scs-shenhu-hydrate-pyrite",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Formation of the authigenic pyrite in the gas hydrate-bearing layer of the Shenhu region, northern South China Sea: Constraints from geochemical and sulfur isotope compositions",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.2343/geochemj.gj25004",
+      "schema:sameAs": "https://doi.org/10.2343/geochemj.gj25004"
+    },
+    {
+      "@id": "src:scs-scs-dissolved-methane-sensor",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Dual-Wavelength OA-ICOS for Sensitive and Wide-Range In Situ Measurement of Dissolved Methane in Deep-Sea Cold Seeps",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1021/acs.analchem.6c04761",
+      "schema:sameAs": "https://doi.org/10.1021/acs.analchem.6c04761"
+    },
+    {
       "@id": "claim:001-rothera-viral-novelty",
       "@type": "pkg:Claim",
       "schema:text": "The Rothera coastal time series yielded 7,957 mid- to high-quality vOTUs, about 75% of which lacked species-level representation in the comparison ocean-virus catalogues.",
@@ -10361,6 +10841,1026 @@
         "@id": "src:gcs-east-siberian-mercury-speciation"
       },
       "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-laptev-iron-nitrate-aom",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports iron- and nitrate-driven anaerobic methane oxidation in Laptev Sea methane-seep sediments.",
+      "pkg:subject": {
+        "@id": "src:gcs-laptev-iron-nitrate-aom"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:metal-dependent-aom"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-laptev-iron-nitrate-aom"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-esas-aerobic-methane-biomarkers",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports biomarker evidence for aerobic oxidation of methane in that outer-shelf seep region.",
+      "pkg:subject": {
+        "@id": "src:gcs-esas-aerobic-methane-biomarkers"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-esas-aerobic-methane-biomarkers"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-laptev-seep-clays",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports diagenetic transformations and buffering functions of clay minerals in those seep sediments.",
+      "pkg:subject": {
+        "@id": "src:gcs-laptev-seep-clays"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-laptev-seep-clays"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-vestnesa-monothalamid-barcodes",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports DNA barcodes of monothalamid foraminifera from those ridges, including three newly described species.",
+      "pkg:subject": {
+        "@id": "src:gcs-vestnesa-monothalamid-barcodes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-vestnesa-monothalamid-barcodes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-arctic-seep-frigidoalvania",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports a new endemic Frigidoalvania from an Arctic cold seep and its phylogenetic ties.",
+      "pkg:subject": {
+        "@id": "src:gcs-arctic-seep-frigidoalvania"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-arctic-seep-frigidoalvania"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-laptev-carbonate-thorium-ages",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports 230Th/U chronology of authigenic carbonates from Laptev cold seeps and constraints on fluid sources.",
+      "pkg:subject": {
+        "@id": "src:gcs-laptev-carbonate-thorium-ages"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-laptev-carbonate-thorium-ages"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-laptev-pyrite-morphology",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports morphology and geochemistry of authigenic pyrite formed under methane seepage in the Laptev Sea.",
+      "pkg:subject": {
+        "@id": "src:gcs-laptev-pyrite-morphology"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:sulfur-reduction"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-laptev-pyrite-morphology"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-seep-observatory-perspective",
+      "@type": "pkg:Claim",
+      "schema:text": "The title states that cold-seep seafloor observatories revise the notion of life in the slow lane.",
+      "pkg:subject": {
+        "@id": "src:gcs-seep-observatory-perspective"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "method:in-situ-monitoring"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-seep-observatory-perspective"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-seep-hydroxy-gdgt-methanogenesis",
+      "@type": "pkg:Claim",
+      "schema:text": "The title proposes hydroxylated GDGTs-0 as a putative indicator of archaeal methanogenesis in marine methane seeps.",
+      "pkg:subject": {
+        "@id": "src:gcs-seep-hydroxy-gdgt-methanogenesis"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:methanogenesis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-seep-hydroxy-gdgt-methanogenesis"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-seep-carbonate-factory-review",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reviews formation mechanisms and geochemical proxies of the cold-seep carbonate factory and their implications for global carbon cycling.",
+      "pkg:subject": {
+        "@id": "src:gcs-seep-carbonate-factory-review"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-seep-carbonate-factory-review"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-vestnesa-hoenir-seep-field",
+      "@type": "pkg:Claim",
+      "schema:text": "The active field had 47 megafaunal taxa. Obligate seep taxa marked active seepage, while Ophiocten reached about 80 individuals per square metre in inactive areas and was absent within a few metres of mats or tubeworms.",
+      "pkg:subject": {
+        "@id": "src:gcs-vestnesa-hoenir-seep-field"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-vestnesa-hoenir-seep-field"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-vesteralen-coral-aom",
+      "@type": "pkg:Claim",
+      "schema:text": "Microbial mats along carbonate edges coincided with sulfate–methane transitions as shallow as 5 cm and 13C-depleted DIC. A white biofilm interval reached δ13C as low as −43.4‰ and shifted toward Halobacterota ASVs assigned to ANME-1b.",
+      "pkg:subject": {
+        "@id": "src:gcs-vesteralen-coral-aom"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-vesteralen-coral-aom"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-svalbard-fjord-sgd-macrofauna",
+      "@type": "pkg:Claim",
+      "schema:text": "The fjord SGD sites did not resemble the sampled cold seep: porewater methane was undetectable, free sulfide was low, and diversity and abundance were extremely low.",
+      "pkg:subject": {
+        "@id": "src:gcs-svalbard-fjord-sgd-macrofauna"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-svalbard-fjord-sgd-macrofauna"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-saglek-seep-corals",
+      "@type": "pkg:Claim",
+      "schema:text": "Microbial mats and authigenic carbonate occurred only at the seep. Coral density tracked boulder density more than carbonate, and the association between Primnoa resedaeformis and the seep was weak and interpreted as coincidental.",
+      "pkg:subject": {
+        "@id": "src:gcs-saglek-seep-corals"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-saglek-seep-corals"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-svalbard-seep-substrate-imagery",
+      "@type": "pkg:Claim",
+      "schema:text": "Seep-associated substrates structured the benthic community, and methane-derived authigenic carbonate further amplified that effect, although its tie to coarse or fine sediment remained unclear.",
+      "pkg:subject": {
+        "@id": "src:gcs-svalbard-seep-substrate-imagery"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-svalbard-seep-substrate-imagery"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-laptev-hopanoid-methane",
+      "@type": "pkg:Claim",
+      "schema:text": "δ13C of C30 hopenes from −57.5‰ to −37.1‰ (n = 23) indicated aerobic methane oxidation across the Laptev shelf, including the mid-shelf. Near the Lena delta the signal was heavier and harder to attribute.",
+      "pkg:subject": {
+        "@id": "src:gcs-laptev-hopanoid-methane"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-laptev-hopanoid-methane"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-haakon-mosby-gypsum",
+      "@type": "pkg:Claim",
+      "schema:text": "Pyrite and gypsum marked three paleo sulfate–methane transitions at 7–10, 13–18 and 19–21 cm, above a modern transition near 50 cm. Gypsum was interpreted as forming when a descending transition oxidized earlier pyrite.",
+      "pkg:subject": {
+        "@id": "src:gcs-haakon-mosby-gypsum"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:sulfur-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-haakon-mosby-gypsum"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-nyegga-seep-habitats",
+      "@type": "pkg:Claim",
+      "schema:text": "Four microhabitats were distinguished, from tubeworm- and mat-covered hydrate pingos to carbonate rooms, suspension-feeder ledges and fish-used sediment pools. Microbial assemblages included cold-adapted taxa such as Polaribacter and Psychrobacter.",
+      "pkg:subject": {
+        "@id": "src:gcs-nyegga-seep-habitats"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-nyegga-seep-habitats"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-svalbard-sw-slope-seeps",
+      "@type": "pkg:Claim",
+      "schema:text": "Bacterial mats, carbonate crusts, siboglinids and free-gas bubbles marked active methane seepage. Thick crusts were taken as evidence of a long seepage history, with likely Miocene or Paleocene sources.",
+      "pkg:subject": {
+        "@id": "src:gcs-svalbard-sw-slope-seeps"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-svalbard-sw-slope-seeps"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-svyatogor-ridge-methane",
+      "@type": "pkg:Claim",
+      "schema:text": "The ridge hosts a shallow microbial-methane cycle with anaerobic oxidation that sustains seafloor chemosynthetic communities. Past fluxes were inferred to have been higher, and methane was not shown to reach the sea surface.",
+      "pkg:subject": {
+        "@id": "src:gcs-svyatogor-ridge-methane"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-svyatogor-ridge-methane"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-esas-methane-acidification",
+      "@type": "pkg:Claim",
+      "schema:text": "Modeled aerobic oxidation of seep methane produced pH and oxygen anomalies consistent with observations, and the authors hypothesize aragonite saturation falling below 1.",
+      "pkg:subject": {
+        "@id": "src:gcs-esas-methane-acidification"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-esas-methane-acidification"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-molloy-hydrate-mounds",
+      "@type": "pkg:Claim",
+      "schema:text": "Hydrate mounds with seep fauna were found at 3,640 m. Bubbles rose to within 300 m of the surface, hydrates contained thermogenic gas, and family-level fauna resembled deep Arctic vents more than shallower nearby seeps.",
+      "pkg:subject": {
+        "@id": "src:gcs-molloy-hydrate-mounds"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-molloy-hydrate-mounds"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-borealis-mud-volcano",
+      "@type": "pkg:Claim",
+      "schema:text": "A gryphon released warm 11.5°C Neogene sediment and methane-rich fluid. Irregular carbonates sheltered sessile fauna from trawling and may serve as nursery habitat for threatened fishes.",
+      "pkg:subject": {
+        "@id": "src:gcs-borealis-mud-volcano"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-borealis-mud-volcano"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-hornsund-shallow-seep-fauna",
+      "@type": "pkg:Claim",
+      "schema:text": "Despite colder Arctic water, the seeps lacked chemosymbiotic siboglinids. CTD salinity indicated transformed Atlantic water, and the fauna resembled background Arctic seep taxa rather than obligate seep hosts.",
+      "pkg:subject": {
+        "@id": "src:gcs-hornsund-shallow-seep-fauna"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-interface"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-hornsund-shallow-seep-fauna"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-beaufort-mud-volcano-methane",
+      "@type": "pkg:Claim",
+      "schema:text": "Central sites stayed fresh, with chloride depletion below 69 percent, while margins remained seawater-like. The authors infer that cryosphere-derived freshwater shifts the balance between microbial and thermogenic methane.",
+      "pkg:subject": {
+        "@id": "src:gcs-beaufort-mud-volcano-methane"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-beaufort-mud-volcano-methane"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-barents-active-seep-inventory",
+      "@type": "pkg:Claim",
+      "schema:text": "About 21,700 natural-gas seeps were mapped from exhumed, faulted and variably eroded structural highs. Every investigated high fueled a seabed release hotspot.",
+      "pkg:subject": {
+        "@id": "src:gcs-barents-active-seep-inventory"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-bottom-water"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-barents-active-seep-inventory"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-vestnesa-glacial-seepage",
+      "@type": "pkg:Claim",
+      "schema:text": "Seepage decreased at about 10–9 ka as fine Holocene mud accumulated. It was low to moderate in Heinrich stadial 1 and the Younger Dryas, and highest in the Bølling–Allerød and early Holocene.",
+      "pkg:subject": {
+        "@id": "src:gcs-vestnesa-glacial-seepage"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-vestnesa-glacial-seepage"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-barents-carbonate-uth-ages",
+      "@type": "pkg:Claim",
+      "schema:text": "U–Th dates from 13.5 to 1.2 ka show episodic carbonate formation from the late Pleistocene through the Holocene. Storfjordrenna hydrate-related carbonate formed between about 6 and 1.2 ka.",
+      "pkg:subject": {
+        "@id": "src:gcs-barents-carbonate-uth-ages"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-barents-carbonate-uth-ages"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-svalbard-fjord-hydrate-om",
+      "@type": "pkg:Claim",
+      "schema:text": "Porewater freshening was meteoric, consistent with submarine groundwater discharge, in Hornsund and Tempelfjorden, and consistent with gas-hydrate dissociation in Ekmanfjorden. Unusually low organic δ13C and δ15N were attributed partly to microbial methane use.",
+      "pkg:subject": {
+        "@id": "src:gcs-svalbard-fjord-hydrate-om"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-svalbard-fjord-hydrate-om"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-mackenzie-uav-seep-methane",
+      "@type": "pkg:Claim",
+      "schema:text": "In July 2025 the UAVs sampled downwind concentration planes at the geological seep, as an alternative to stationary towers and small flux chambers.",
+      "pkg:subject": {
+        "@id": "src:gcs-mackenzie-uav-seep-methane"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:aerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-mackenzie-uav-seep-methane"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-prins-karls-forland-oil-seep",
+      "@type": "pkg:Claim",
+      "schema:text": "The seep discharges oil from Tertiary or younger source rocks. Surface slicks and seafloor oil share an origin, carbonate dates indicate emanation since the Late Pleistocene, and oil-stained sediments were colonized by infauna.",
+      "pkg:subject": {
+        "@id": "src:gcs-prins-karls-forland-oil-seep"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-prins-karls-forland-oil-seep"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-barents-polaris-mud-volcanoes",
+      "@type": "pkg:Claim",
+      "schema:text": "Ten Arctic mud volcanoes were found where only two had been known. They root in the fill of a buried Pleistocene mega-slide and have been active at least since Late Weichselian deglaciation. The authors informally name the area the Polaris Mud Volcano Complex.",
+      "pkg:subject": {
+        "@id": "src:gcs-barents-polaris-mud-volcanoes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-barents-polaris-mud-volcanoes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-laptev-om-isotope-curves",
+      "@type": "pkg:Claim",
+      "schema:text": "In the seep, asphaltene breakdown enriched the benzene–methanol fraction in 13C-depleted material linked to bacterial biomass along upward methane flow. Benzene-fraction δ13C separated a surface cluster near 10 cm from a deeper cluster by 2–3‰.",
+      "pkg:subject": {
+        "@id": "src:gcs-laptev-om-isotope-curves"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-laptev-om-isotope-curves"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-laptev-element-speciation",
+      "@type": "pkg:Claim",
+      "schema:text": "Element mobility increased at the seep and was attributed to authigenic carbonate and sulfide formation during the 2020 AMK-82 cruise. The authors associate U, Ni, Zn and Co with carbonates and Co, Mn and W with sulfides.",
+      "pkg:subject": {
+        "@id": "src:gcs-laptev-element-speciation"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-laptev-element-speciation"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-laptev-slope-authigenic-pyrite",
+      "@type": "pkg:Claim",
+      "schema:text": "Pyrite textures differed between sediment and carbonate. Association with methane-derived carbonate was used to argue that sulfate-driven anaerobic methane oxidation dominated sulfide formation, and the pyrite was enriched in redox-sensitive trace elements relative to published organoclastic pyrite.",
+      "pkg:subject": {
+        "@id": "src:gcs-laptev-slope-authigenic-pyrite"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-laptev-slope-authigenic-pyrite"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-cold-seep-climate-services",
+      "@type": "pkg:Claim",
+      "schema:text": "The perspective frames seeps as carbon reservoirs, partial emission filters, and biological carbon recyclers, and argues that trawling, engineering and climate-driven change can damage those services.",
+      "pkg:subject": {
+        "@id": "src:gcs-cold-seep-climate-services"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:methane-biofilter"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-cold-seep-climate-services"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-anme-lipid-inorganic-carbon",
+      "@type": "pkg:Claim",
+      "schema:text": "Lipids incorporated more 13C from dissolved inorganic carbon than from methane. After 30 days, SRB fatty acids reached about +417‰ and ANME-2 isoprenoid lipids about +126‰, and inorganic-carbon assimilation into SRB lipids was about eight times that into ANME lipids.",
+      "pkg:subject": {
+        "@id": "src:gcs-anme-lipid-inorganic-carbon"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-anme-lipid-inorganic-carbon"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-seep-bottom-water-diazotrophs",
+      "@type": "pkg:Claim",
+      "schema:text": "Diazotrophs were relatively most abundant in cold-seep bottom water, and more than 98 percent of diazotroph metatranscriptomic reads there mapped to Sagittula. Its genome Seep-BW-D1 encoded nifHDK, transcribed nifH, and pathways for C1 compounds and thiosulfate.",
+      "pkg:subject": {
+        "@id": "src:gcs-seep-bottom-water-diazotrophs"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:nitrogen-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-seep-bottom-water-diazotrophs"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-seep-sponge-oxidizer-mags",
+      "@type": "pkg:Claim",
+      "schema:text": "Proteobacterial sulfur oxidizers, especially order PS1, and Methylococcales dominated across host classes and diets, while MAG phylogeny and abundance still showed host-specific strain selection.",
+      "pkg:subject": {
+        "@id": "src:gcs-seep-sponge-oxidizer-mags"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-seep-sponge-oxidizer-mags"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-seep-carbonate-magnesium",
+      "@type": "pkg:Claim",
+      "schema:text": "The summarized seep-carbonate magnesium isotopes span −3.46‰ to −2.36‰. Rapid precipitation versus aqueous ligands is proposed as the main kinetic control, and sulfide from anaerobic methane oxidation is argued to promote dolomitization.",
+      "pkg:subject": {
+        "@id": "src:gcs-seep-carbonate-magnesium"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-seep-carbonate-magnesium"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-aom-seep-rock-nmr",
+      "@type": "pkg:Claim",
+      "schema:text": "Carboxylic acid was attributed to incomplete methane oxidation. Aliphatic esters increased with rock age, orthophosphate dominated phosphorus, and phosphate monoester was higher in the oldest material, about 20,000 years.",
+      "pkg:subject": {
+        "@id": "src:gcs-aom-seep-rock-nmr"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-aom-seep-rock-nmr"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-dic-flux",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports a quantification of dissolved-inorganic-carbon flux in Haima surface sediments.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-dic-flux"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:carbon-export"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-dic-flux"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-carbonate-ca-isotopes",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports calcium-isotope fractionation during precipitation of Haima authigenic carbonates.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-carbonate-ca-isotopes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-carbonate-ca-isotopes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-macrofauna-edna",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports use of environmental DNA to estimate macrofauna diversity at Haima.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-macrofauna-edna"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-macrofauna-edna"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-bubble-plume-monitoring",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports integrated optical and acoustic monitoring of a deep-sea bubble plume at Haima.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-bubble-plume-monitoring"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-bottom-water"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-bubble-plume-monitoring"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-multibeam-gas-flux",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports quantification of deep-sea cold-seep gas flux from multibeam water-column data at Shenhu.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-multibeam-gas-flux"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-bottom-water"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-multibeam-gas-flux"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-qiongdongnan-pipe-carbonate",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports multistage formation and geochemical response of that pipe-morphology carbonate.",
+      "pkg:subject": {
+        "@id": "src:scs-qiongdongnan-pipe-carbonate"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-qiongdongnan-pipe-carbonate"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-qiongdongnan-seep-system",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports multiple observations used to delineate characteristics of that cold-seep system.",
+      "pkg:subject": {
+        "@id": "src:scs-qiongdongnan-seep-system"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-qiongdongnan-seep-system"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-qiongdongnan-shelf-carbonate",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports distinctive processes and morphologies of seep-related carbonates on that shelf.",
+      "pkg:subject": {
+        "@id": "src:scs-qiongdongnan-shelf-carbonate"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-qiongdongnan-shelf-carbonate"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-margin-mercury-isotopes",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports that anomalous mercury isotopic composition highlights a role for terrestrial erosion in forming those cold seeps.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-margin-mercury-isotopes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:mercury-transformation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-margin-mercury-isotopes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-qiongdongnan-hydrate-hydrocarbons",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports buffering of heavy hydrocarbons by subsurface gas hydrate in cold-seep systems.",
+      "pkg:subject": {
+        "@id": "src:scs-qiongdongnan-hydrate-hydrocarbons"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-qiongdongnan-hydrate-hydrocarbons"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-carbonate-clumped-isotopes",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports that seep-carbonate clumped isotopes reveal gas-hydrate dissociation induced by ocean warming.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-carbonate-clumped-isotopes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-carbonate-clumped-isotopes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-mussel-scaleworm-trophic",
+      "@type": "pkg:Claim",
+      "schema:text": "The title reports trophic relationships from stable carbon and nitrogen isotopes and C:N:P stoichiometry across seepage intensities.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-mussel-scaleworm-trophic"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-mussel-scaleworm-trophic"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-foraminifera-edna",
+      "@type": "pkg:Claim",
+      "schema:text": "Read abundance declined toward the seep center while Shannon and Margalef diversity increased. Sulfur-metabolizing bacteria were enriched near the seep, and the core showed an early rise in foraminifera followed by millennial-scale swings.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-foraminifera-edna"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-foraminifera-edna"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-fish-edna-trawl",
+      "@type": "pkg:Claim",
+      "schema:text": "Shannon diversity, functional richness and phylogenetic diversity were higher at the seep and adjacent area than at the control. Mean functional richness was 0.137 versus 0.028, and 65 of 87 seep functional entities were single-species.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-fish-edna-trawl"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-water-column"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-fish-edna-trawl"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-plume-velocity",
+      "@type": "pkg:Claim",
+      "schema:text": "Inverted water-column velocity was 1,460–1,560 m/s, with stronger vertical than lateral change. Within 0–1,800 ms the root-mean-square difference from CTD velocity was 18.19 m/s.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-plume-velocity"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-water-column"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-plume-velocity"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-tubular-carbonate",
+      "@type": "pkg:Claim",
+      "schema:text": "Strongly negative δ13C and positive δ18O were taken as gas-hydrate dissociation. Lack of a cerium anomaly and uranium enrichment indicated anoxic formation, and sulfate-driven AOM was inferred to intensify as the conduit narrowed.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-tubular-carbonate"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-tubular-carbonate"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-seep-carbonate-molybdenum",
+      "@type": "pkg:Claim",
+      "schema:text": "The carbonate-minus-organic-matter δ98Mo offset ranged from 0.72‰ to 1.01‰ and tracked carbon isotopes, organic carbon, molybdenum and pyrite. The authors interpret this as adsorption of isotopically light molybdenum onto organic matter during sulfate reduction.",
+      "pkg:subject": {
+        "@id": "src:scs-seep-carbonate-molybdenum"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:sulfur-reduction"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-seep-carbonate-molybdenum"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-hydrate-pyrite",
+      "@type": "pkg:Claim",
+      "schema:text": "Framboidal pyrite had negative δ34S from −24.5‰ to −7.1‰ and higher trace-element contents, whereas subhedral pyrite had positive δ34S from 2.7‰ to 41.4‰. The authors link the sequence to sulfate-driven anaerobic methane oxidation in a closed hydrate-bearing system.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-hydrate-pyrite"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-hydrate-pyrite"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-scs-dissolved-methane-sensor",
+      "@type": "pkg:Claim",
+      "schema:text": "Gas-phase calibration was linear above R2 0.999 on both channels. The northern South China Sea deployment resolved near-bottom enrichment, rapid vertical loss, and local hotspots above 250 ppm.",
+      "pkg:subject": {
+        "@id": "src:scs-scs-dissolved-methane-sensor"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-bottom-water"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-scs-dissolved-methane-sensor"
+      },
+      "pkg:evidenceType": "reported",
       "pkg:confidence": "moderate"
     }
   ]

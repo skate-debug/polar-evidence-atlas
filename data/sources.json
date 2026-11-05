@@ -22618,5 +22618,4110 @@
       "evidence_url": "https://doi.org/10.1016/j.envpol.2023.123270",
       "review_packet": "config/global_cold_seep_reviewed.json"
     }
+  },
+  {
+    "id": "src:gcs-laptev-iron-nitrate-aom",
+    "citation_key": "GCSLaptevIronNitrateAom",
+    "doi": "10.1016/j.chemgeo.2025.123170",
+    "title": "Iron and nitrate-driven anaerobic methane oxidation in methane seep sediments of the Laptev Sea",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry",
+      "Cold-seep prokaryotes"
+    ],
+    "study_type": "Laptev seep iron- and nitrate-AOM study",
+    "study_profile": {
+      "spatial_scope": "Methane-seep sediments of the Laptev Sea, as named in the verified title.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped iron- and nitrate-linked AOM"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:metal-dependent-aom",
+        "process:anaerobic-methane-oxidation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports iron- and nitrate-driven anaerobic methane oxidation in Laptev Sea methane-seep sediments."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Use as an East Siberian comparison for metal- and nitrate-linked AOM, without citing unretrieved rates.",
+      "The title reports iron- and nitrate-driven anaerobic methane oxidation in Laptev Sea methane-seep sediments."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.chemgeo.2025.123170",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-esas-aerobic-methane-biomarkers",
+    "citation_key": "GCSEsasAerobicMethaneBiomarkers",
+    "doi": "10.1016/j.orggeochem.2026.105171",
+    "title": "Intensive methane seep region on the outer East Siberian Arctic Shelf shows biomarker evidence for aerobic oxidation of methane",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "East Siberian Shelf aerobic-methane biomarker study",
+    "study_profile": {
+      "spatial_scope": "An intensive methane-seep region on the outer East Siberian Arctic Shelf.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:lipid-biomarker-analysis"
+      ],
+      "measured_or_derived": [
+        "title-scoped aerobic-methane biomarker evidence"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:aerobic-methane-oxidation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports biomarker evidence for aerobic oxidation of methane in that outer-shelf seep region."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Pair with Laptev hopanoid work only at the level of aerobic-methane biomarker evidence, not shared rates.",
+      "The title reports biomarker evidence for aerobic oxidation of methane in that outer-shelf seep region."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.orggeochem.2026.105171",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-laptev-seep-clays",
+    "citation_key": "GCSLaptevSeepClays",
+    "doi": "10.1016/j.clay.2025.108092",
+    "title": "Clay minerals in methane seep sediments of the Laptev Sea (Arctic): diagenetic transformations and buffering functions",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Laptev seep clay-mineral study",
+    "study_profile": {
+      "spatial_scope": "Methane-seep sediments of the Laptev Sea.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped clay diagenesis and buffering"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports diagenetic transformations and buffering functions of clay minerals in those seep sediments."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Use for Laptev seep mineral buffering, without treating the title as a measured methane-flux result.",
+      "The title reports diagenetic transformations and buffering functions of clay minerals in those seep sediments."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.clay.2025.108092",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-vestnesa-monothalamid-barcodes",
+    "citation_key": "GCSVestnesaMonothalamidBarcodes",
+    "doi": "10.1007/s00300-024-03320-2",
+    "title": "DNA barcoding of monothalamid foraminifera from Vestnesa and Svyatogor Ridge, Arctic Ocean, including the description of 3 new species",
+    "year": 2025,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "microeukaryotes",
+      "community"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "Arctic monothalamid barcoding study",
+    "study_profile": {
+      "spatial_scope": "Vestnesa and Svyatogor Ridge, Arctic Ocean.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:edna-metabarcoding",
+        "method:phylogenetics"
+      ],
+      "measured_or_derived": [
+        "title-scoped barcodes and new species"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports DNA barcodes of monothalamid foraminifera from those ridges, including three newly described species."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Use for Arctic seep foraminiferal taxonomy alongside eDNA endemism studies, without citing unretrieved occurrence counts.",
+      "The title reports DNA barcodes of monothalamid foraminifera from those ridges, including three newly described species."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1007/s00300-024-03320-2",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-arctic-seep-frigidoalvania",
+    "citation_key": "GCSArcticSeepFrigidoalvania",
+    "doi": "10.1016/j.jmarsys.2026.104262",
+    "title": "A hot encounter at a cold seep: a new endemic Frigidoalvania Warén, 1974 (Mollusca: Caenogastropoda: Rissoidae) from the Arctic and its phylogenetic ties",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "community"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "Arctic seep gastropod description",
+    "study_profile": {
+      "spatial_scope": "An Arctic cold seep, as named in the verified title.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:phylogenetics"
+      ],
+      "measured_or_derived": [
+        "title-scoped new endemic rissoid"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports a new endemic Frigidoalvania from an Arctic cold seep and its phylogenetic ties."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Use for Arctic seep endemism at the species-description level, not as a community-wide diversity census.",
+      "The title reports a new endemic Frigidoalvania from an Arctic cold seep and its phylogenetic ties."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.jmarsys.2026.104262",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-laptev-carbonate-thorium-ages",
+    "citation_key": "GCSLaptevCarbonateThoriumAges",
+    "doi": "10.1016/j.marger.2026.207714",
+    "title": "Authigenic carbonates from cold seep sites in the Laptev Sea: 230Th/U chronology and insights into fluid sources",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Laptev seep-carbonate chronology",
+    "study_profile": {
+      "spatial_scope": "Cold-seep sites in the Laptev Sea.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped carbonate ages and fluid sources"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports 230Th/U chronology of authigenic carbonates from Laptev cold seeps and constraints on fluid sources."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Use for East Siberian seep chronology, without transferring unretrieved ages to other Arctic seeps.",
+      "The title reports 230Th/U chronology of authigenic carbonates from Laptev cold seeps and constraints on fluid sources."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.marger.2026.207714",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-laptev-pyrite-morphology",
+    "citation_key": "GCSLaptevPyriteMorphology",
+    "doi": "10.1016/j.margeo.2025.107558",
+    "title": "The morphology and geochemistry of authigenic pyrite formed under methane seepage: Insights from the Laptev Sea",
+    "year": 2025,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane",
+      "sulfur"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Laptev seep pyrite study",
+    "study_profile": {
+      "spatial_scope": "Laptev Sea sediments affected by methane seepage.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped pyrite morphology and geochemistry"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:sulfur-reduction",
+        "process:anaerobic-methane-oxidation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports morphology and geochemistry of authigenic pyrite formed under methane seepage in the Laptev Sea."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Use as a Laptev diagenetic-mineral comparison, distinct from the later continental-slope pyrite note.",
+      "The title reports morphology and geochemistry of authigenic pyrite formed under methane seepage in the Laptev Sea."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.margeo.2025.107558",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-seep-observatory-perspective",
+    "citation_key": "GCSSeepObservatoryPerspective",
+    "doi": "10.1093/nsr/nwag267",
+    "title": "Cold seep seafloor observatories revise the notion of ‘life in the slow lane’",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "community",
+      "methods"
+    ],
+    "sites": [
+      "global-comparison"
+    ],
+    "domains": [
+      "Cold-seep prokaryotes",
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Seafloor-observatory perspective",
+    "study_profile": {
+      "spatial_scope": "Cold-seep seafloor observatories, as framed by the verified title.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:review-synthesis",
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "title-scoped observatory perspective"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:microbial-growth"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title states that cold-seep seafloor observatories revise the notion of life in the slow lane."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Use as an observatory perspective, not as a new rate measurement for an Arctic or SCS site.",
+      "The title states that cold-seep seafloor observatories revise the notion of life in the slow lane."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1093/nsr/nwag267",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-seep-hydroxy-gdgt-methanogenesis",
+    "citation_key": "GCSSeepHydroxyGdgtMethanogenesis",
+    "doi": "10.1016/j.orggeochem.2024.104862",
+    "title": "Hydroxylated GDGTs-0 in marine methane seep environments: A putative indicator for archaeal methanogenesis",
+    "year": 2024,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "global-unspecified"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Seep GDGT biomarker study",
+    "study_profile": {
+      "spatial_scope": "Marine methane-seep environments named in the verified title.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:lipid-biomarker-analysis"
+      ],
+      "measured_or_derived": [
+        "title-scoped hydroxylated GDGT-0 indicator"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:methanogenesis"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title proposes hydroxylated GDGTs-0 as a putative indicator of archaeal methanogenesis in marine methane seeps."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Treat the indicator as putative. The retrieved record does not identify which seep supplied the samples.",
+      "The title proposes hydroxylated GDGTs-0 as a putative indicator of archaeal methanogenesis in marine methane seeps."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.orggeochem.2024.104862",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-seep-carbonate-factory-review",
+    "citation_key": "GCSSeepCarbonateFactoryReview",
+    "doi": "10.1007/s11802-026-6261-4",
+    "title": "Cold-Seep Carbonate Factory: Formation Mechanisms, Geochemical Proxies, and Implications for Global Carbon Cycling",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "global-comparison"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Cold-seep carbonate-factory review",
+    "study_profile": {
+      "spatial_scope": "Cold-seep carbonate formation as framed by the verified review title.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:review-synthesis",
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped carbonate-factory review"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reviews formation mechanisms and geochemical proxies of the cold-seep carbonate factory and their implications for global carbon cycling."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Use as a narrative review of seep carbonates, not as a site inventory or a new carbon-budget measurement.",
+      "The title reviews formation mechanisms and geochemical proxies of the cold-seep carbonate factory and their implications for global carbon cycling."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1007/s11802-026-6261-4",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-vestnesa-hoenir-seep-field",
+    "citation_key": "GCSVestnesaHoenirSeepField",
+    "doi": "10.1016/j.dsr2.2026.105620",
+    "title": "Discovery of a bathyal methane seep field at the north-western Vestnesa Ridge, Fram Strait",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment",
+      "interface"
+    ],
+    "topics": [
+      "community",
+      "methane"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "New Arctic seep-field faunal survey",
+    "study_profile": {
+      "spatial_scope": "North-western Vestnesa Ridge, Fram Strait, at 1,200–1,375 m, the Hœnir seep field.",
+      "temporal_scope": "MSM95 in 2020, followed by PS136, MSM108 and PS143/1.",
+      "sample_design": "Camera, ROV and trawl surveys after MSM95 in 2020, with in-situ images and COI barcodes of selected fauna.",
+      "habitats": [
+        "habitat:seep-sediment",
+        "habitat:seep-interface"
+      ],
+      "methods": [
+        "method:in-situ-monitoring",
+        "method:phylogenetics"
+      ],
+      "measured_or_derived": [
+        "megafaunal taxa and local densities"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The active field had 47 megafaunal taxa. Obligate seep taxa marked active seepage, while Ophiocten reached about 80 individuals per square metre in inactive areas and was absent within a few metres of mats or tubeworms."
+    ],
+    "limitations": [
+      "Image counts and barcodes describe the surveyed field. They do not measure methane flux or prove that shared taxa with the eastern flank are genetically connected."
+    ],
+    "cite_for": [
+      "Use to extend Fram Strait seep geography beyond the classic eastern pockmarks.",
+      "The active field had 47 megafaunal taxa. Obligate seep taxa marked active seepage, while Ophiocten reached about 80 individuals per square metre in inactive areas and was absent within a few metres of mats or tubeworms."
+    ],
+    "do_not_overcite": [
+      "Image counts and barcodes describe the surveyed field. They do not measure methane flux or prove that shared taxa with the eastern flank are genetically connected."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.dsr2.2026.105620",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-vesteralen-coral-aom",
+    "citation_key": "GCSVesteralenCoralAom",
+    "doi": "10.5194/bg-23-3139-2026",
+    "title": "Seafloor chemosynthetic habitats and AOM-influenced sediment microbiome at a cold-water coral site off the Vesterålen coast, northern Norway",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment",
+      "carbonate"
+    ],
+    "topics": [
+      "methane",
+      "community",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep prokaryotes",
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Seep–coral habitat and microbiome study",
+    "study_profile": {
+      "spatial_scope": "A cold-water coral site with seeps off the Vesterålen coast, northern Norway.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Sediment and pore-fluid geochemistry, foraminifera, seafloor habitat maps, and 16S rRNA profiles of the upper 10 cm.",
+      "habitats": [
+        "habitat:seep-sediment",
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:amplicon-sequencing",
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "pore-fluid chemistry, carbonate habitats and 16S profiles"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Microbial mats along carbonate edges coincided with sulfate–methane transitions as shallow as 5 cm and 13C-depleted DIC. A white biofilm interval reached δ13C as low as −43.4‰ and shifted toward Halobacterota ASVs assigned to ANME-1b."
+    ],
+    "limitations": [
+      "Marker and isotope patterns support ongoing AOM in the sampled core. They do not show that seepage caused the coral distribution."
+    ],
+    "cite_for": [
+      "Use for Nordic-margin seep–coral coupling and a shallow ANME-1b biofilm.",
+      "Microbial mats along carbonate edges coincided with sulfate–methane transitions as shallow as 5 cm and 13C-depleted DIC. A white biofilm interval reached δ13C as low as −43.4‰ and shifted toward Halobacterota ASVs assigned to ANME-1b."
+    ],
+    "do_not_overcite": [
+      "Marker and isotope patterns support ongoing AOM in the sampled core. They do not show that seepage caused the coral distribution."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.5194/bg-23-3139-2026",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-svalbard-fjord-sgd-macrofauna",
+    "citation_key": "GCSSvalbardFjordSgdMacrofauna",
+    "doi": "10.1002/ece3.74597",
+    "title": "Macrofauna Associated With Submarine Groundwater Discharge Sites and a Cold Seep in Svalbard Fjords",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "community",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes",
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Fjord SGD versus seep macrofauna comparison",
+    "study_profile": {
+      "spatial_scope": "Three Svalbard fjord submarine-groundwater sites and one Svalbard shelf cold seep, at about 40–117 m.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Compare macrobenthos with sediment chemistry at SGD sites and at a shelf seep.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "macrobenthos, porewater methane and sulfide"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The fjord SGD sites did not resemble the sampled cold seep: porewater methane was undetectable, free sulfide was low, and diversity and abundance were extremely low."
+    ],
+    "limitations": [
+      "The contrast is among the sampled sites. It does not show that future permafrost thaw will make SGD ecologically equivalent to seeps."
+    ],
+    "cite_for": [
+      "Keep fjord groundwater discharge distinct from the shelf cold seep when discussing coastal Arctic benthos.",
+      "The fjord SGD sites did not resemble the sampled cold seep: porewater methane was undetectable, free sulfide was low, and diversity and abundance were extremely low."
+    ],
+    "do_not_overcite": [
+      "The contrast is among the sampled sites. It does not show that future permafrost thaw will make SGD ecologically equivalent to seeps."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1002/ece3.74597",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-saglek-seep-corals",
+    "citation_key": "GCSSaglekSeepCorals",
+    "doi": "10.1139/as-2026-0033",
+    "title": "Evaluating the relationship between cold-water corals and a cold seep in a submarine slope failure at the Northeast Saglek Bank cold-water coral hotspot, Eastern Canadian Arctic",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "carbonate",
+      "sediment"
+    ],
+    "topics": [
+      "community",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes",
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Slope-failure seep and coral survey",
+    "study_profile": {
+      "spatial_scope": "Northeast Saglek Bank, northern Labrador Shelf edge, at 605–818 m.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Multibeam surveys and four ROV dives inside and outside a 4.5 km slope-failure scar.",
+      "habitats": [
+        "habitat:seep-carbonate",
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:multibeam-bathymetry",
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "coral density, boulders, mats and carbonate"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Microbial mats and authigenic carbonate occurred only at the seep. Coral density tracked boulder density more than carbonate, and the association between Primnoa resedaeformis and the seep was weak and interpreted as coincidental."
+    ],
+    "limitations": [
+      "A local hotspot comparison does not show that cold seeps generally enhance Primnoa habitat."
+    ],
+    "cite_for": [
+      "Extend Arctic seep geography to the Eastern Canadian Arctic without treating the coral overlap as causation.",
+      "Microbial mats and authigenic carbonate occurred only at the seep. Coral density tracked boulder density more than carbonate, and the association between Primnoa resedaeformis and the seep was weak and interpreted as coincidental."
+    ],
+    "do_not_overcite": [
+      "A local hotspot comparison does not show that cold seeps generally enhance Primnoa habitat."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1139/as-2026-0033",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-svalbard-seep-substrate-imagery",
+    "citation_key": "GCSSvalbardSeepSubstrateImagery",
+    "doi": "10.1002/lno.70312",
+    "title": "Seafloor‐image analysis techniques to highlight the role of substrate as a driver of benthic community structure in Arctic cold seep areas",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "interface",
+      "carbonate"
+    ],
+    "topics": [
+      "community",
+      "geochemistry",
+      "methods"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes",
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "High-resolution seep seafloor-imagery study",
+    "study_profile": {
+      "spatial_scope": "A seepage area offshore northern Svalbard at about 150 m, covering two orthomosaics of about 2,261 m2.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "ROV video photogrammetry, epifaunal annotation, and object-based classification of four substrate classes.",
+      "habitats": [
+        "habitat:seep-interface",
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "substrate classes and epifaunal colonization"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Seep-associated substrates structured the benthic community, and methane-derived authigenic carbonate further amplified that effect, although its tie to coarse or fine sediment remained unclear."
+    ],
+    "limitations": [
+      "Imagery shows spatial association, not a measured methane flux or a universal substrate rule."
+    ],
+    "cite_for": [
+      "Use for substrate control of Arctic seep epifauna at the scale of the orthomosaics.",
+      "Seep-associated substrates structured the benthic community, and methane-derived authigenic carbonate further amplified that effect, although its tie to coarse or fine sediment remained unclear."
+    ],
+    "do_not_overcite": [
+      "Imagery shows spatial association, not a measured methane flux or a universal substrate rule."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1002/lno.70312",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-laptev-hopanoid-methane",
+    "citation_key": "GCSLaptevHopanoidMethane",
+    "doi": "10.5194/bg-23-1459-2026",
+    "title": "Enhanced methane cycling across the Laptev Sea signaled by time-integrated biomarkers of aerobic methane oxidation",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Laptev hopanoid methane-oxidation study",
+    "study_profile": {
+      "spatial_scope": "Surface sediments across the Laptev Sea shelf, including the outer shelf, mid-shelf and Lena delta vicinity.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "δ13C of C30 hopanoids in surface sediments, interpreted with 16S rRNA profiles.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:lipid-biomarker-analysis",
+        "method:amplicon-sequencing"
+      ],
+      "measured_or_derived": [
+        "hopanoid δ13C and 16S communities"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "δ13C of C30 hopenes from −57.5‰ to −37.1‰ (n = 23) indicated aerobic methane oxidation across the Laptev shelf, including the mid-shelf. Near the Lena delta the signal was heavier and harder to attribute."
+    ],
+    "limitations": [
+      "Hopanoid isotopes are time-integrated proxies. They do not equal a seawater methane concentration or an oxidation rate."
+    ],
+    "cite_for": [
+      "Use for time-integrated aerobic methane oxidation where Laptev seawater methane is patchy.",
+      "δ13C of C30 hopenes from −57.5‰ to −37.1‰ (n = 23) indicated aerobic methane oxidation across the Laptev shelf, including the mid-shelf. Near the Lena delta the signal was heavier and harder to attribute."
+    ],
+    "do_not_overcite": [
+      "Hopanoid isotopes are time-integrated proxies. They do not equal a seawater methane concentration or an oxidation rate."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.5194/bg-23-1459-2026",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-haakon-mosby-gypsum",
+    "citation_key": "GCSHaakonMosbyGypsum",
+    "doi": "10.1016/j.marpetgeo.2024.106875",
+    "title": "Formation of non-evaporitic gypsum in gas hydrate-bearing sediments at Håkon Mosby mud volcano, SW Barents sea",
+    "year": 2024,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane",
+      "sulfur"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Haakon Mosby gypsum diagenesis study",
+    "study_profile": {
+      "spatial_scope": "Hydrate-bearing seep sediments at Håkon Mosby Mud Volcano, SW Barents Sea.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Core logging, microscopy and scanning electron microscopy of authigenic minerals.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "pyrite–gypsum depths and paleo-SMTZ intervals"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Pyrite and gypsum marked three paleo sulfate–methane transitions at 7–10, 13–18 and 19–21 cm, above a modern transition near 50 cm. Gypsum was interpreted as forming when a descending transition oxidized earlier pyrite."
+    ],
+    "limitations": [
+      "The formation pathway is an interpretation of mineral co-occurrence. It does not quantify present methane flux."
+    ],
+    "cite_for": [
+      "Use as a diagenetic marker at an Arctic mud volcano, not as proof of evaporative gypsum.",
+      "Pyrite and gypsum marked three paleo sulfate–methane transitions at 7–10, 13–18 and 19–21 cm, above a modern transition near 50 cm. Gypsum was interpreted as forming when a descending transition oxidized earlier pyrite."
+    ],
+    "do_not_overcite": [
+      "The formation pathway is an interpretation of mineral co-occurrence. It does not quantify present methane flux."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.marpetgeo.2024.106875",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-nyegga-seep-habitats",
+    "citation_key": "GCSNyeggaSeepHabitats",
+    "doi": "10.1016/j.margeo.2026.107819",
+    "title": "Geological drivers and biological responses at methane seeps: Habitat complexity at the Nyegga seep site (NE Atlantic)",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "carbonate",
+      "sediment",
+      "symbiosis"
+    ],
+    "topics": [
+      "community",
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes",
+      "Cold-seep prokaryotes"
+    ],
+    "study_type": "Nyegga seep habitat survey",
+    "study_profile": {
+      "spatial_scope": "Nyegga seep province on the northern flank of the Storegga Slide, mid-Norwegian margin.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "ROV surveys, high-resolution bathymetry and microbial 16S rRNA gene analyses.",
+      "habitats": [
+        "habitat:seep-carbonate",
+        "habitat:seep-sediment",
+        "habitat:seep-symbiosis"
+      ],
+      "methods": [
+        "method:in-situ-monitoring",
+        "method:amplicon-sequencing",
+        "method:multibeam-bathymetry"
+      ],
+      "measured_or_derived": [
+        "microhabitats and 16S assemblages"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Four microhabitats were distinguished, from tubeworm- and mat-covered hydrate pingos to carbonate rooms, suspension-feeder ledges and fish-used sediment pools. Microbial assemblages included cold-adapted taxa such as Polaribacter and Psychrobacter."
+    ],
+    "limitations": [
+      "Habitat descriptions and 16S profiles do not measure methane flux or prove symbiosis in Colossendeis."
+    ],
+    "cite_for": [
+      "Use for habitat complexity on the Nordic margin in the Arctic gateway region.",
+      "Four microhabitats were distinguished, from tubeworm- and mat-covered hydrate pingos to carbonate rooms, suspension-feeder ledges and fish-used sediment pools. Microbial assemblages included cold-adapted taxa such as Polaribacter and Psychrobacter."
+    ],
+    "do_not_overcite": [
+      "Habitat descriptions and 16S profiles do not measure methane flux or prove symbiosis in Colossendeis."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.margeo.2026.107819",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-svalbard-sw-slope-seeps",
+    "citation_key": "GCSSvalbardSwSlopeSeeps",
+    "doi": "10.3389/feart.2024.1328357",
+    "title": "New cold seep sites on the continental slope southwest to Svalbard",
+    "year": 2024,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "carbonate",
+      "sediment",
+      "bottom-water"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "New Svalbard-slope seep mapping",
+    "study_profile": {
+      "spatial_scope": "Continental slope southwest of Svalbard, at about 800 m, between the Storfjorden and Hornsund trough-mouth fans.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Seafloor mapping of mats, carbonates, mounds and gas bubbles on two slope-parallel structures.",
+      "habitats": [
+        "habitat:seep-carbonate",
+        "habitat:seep-sediment",
+        "habitat:seep-bottom-water"
+      ],
+      "methods": [
+        "method:marine-geophysics",
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "mats, crusts, bubbles and host structures"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Bacterial mats, carbonate crusts, siboglinids and free-gas bubbles marked active methane seepage. Thick crusts were taken as evidence of a long seepage history, with likely Miocene or Paleocene sources."
+    ],
+    "limitations": [
+      "Source-rock ages are interpretations. Bubble observations do not quantify flux."
+    ],
+    "cite_for": [
+      "Extend mapped active seepage southwest of Svalbard beyond Storfjordrenna.",
+      "Bacterial mats, carbonate crusts, siboglinids and free-gas bubbles marked active methane seepage. Thick crusts were taken as evidence of a long seepage history, with likely Miocene or Paleocene sources."
+    ],
+    "do_not_overcite": [
+      "Source-rock ages are interpretations. Bubble observations do not quantify flux."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.3389/feart.2024.1328357",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-svyatogor-ridge-methane",
+    "citation_key": "GCSSvyatogorRidgeMethane",
+    "doi": "10.1016/j.marpetgeo.2024.106761",
+    "title": "Biogeochemical investigations of methane seepage at the ultraslow-spreading Arctic mid-ocean ridge: Svyatogor ridge, Fram Strait",
+    "year": 2024,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry",
+      "community"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Svyatogor Ridge seep geochemistry",
+    "study_profile": {
+      "spatial_scope": "Svyatogor Ridge, a sediment-covered transform on the Arctic mid-ocean ridge west of Svalbard.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Sediment and foraminiferal geochemistry of a methane-seepage setting.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "sediment and foraminiferal methane proxies"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The ridge hosts a shallow microbial-methane cycle with anaerobic oxidation that sustains seafloor chemosynthetic communities. Past fluxes were inferred to have been higher, and methane was not shown to reach the sea surface."
+    ],
+    "limitations": [
+      "A single ridge does not reassign the methane budget of all ultraslow ridges, and past-flux inferences are not measured rates."
+    ],
+    "cite_for": [
+      "Use as the reported methane-seep case from the ultraslow Arctic mid-ocean ridge.",
+      "The ridge hosts a shallow microbial-methane cycle with anaerobic oxidation that sustains seafloor chemosynthetic communities. Past fluxes were inferred to have been higher, and methane was not shown to reach the sea surface."
+    ],
+    "do_not_overcite": [
+      "A single ridge does not reassign the methane budget of all ultraslow ridges, and past-flux inferences are not measured rates."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.marpetgeo.2024.106761",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-esas-methane-acidification",
+    "citation_key": "GCSEsasMethaneAcidification",
+    "doi": "10.3389/fmars.2025.1497616",
+    "title": "Model based analysis of the methane seeping influence on the acidification in the East Siberian Arctic Shelf waters",
+    "year": 2025,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "water-column",
+      "bottom-water"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "ESAS methane-oxidation acidification model",
+    "study_profile": {
+      "spatial_scope": "An intensive methane-seepage area of the East Siberian Arctic Shelf water column.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "A two-dimensional benthic–pelagic model with carbonate chemistry and a bubble-fate module.",
+      "habitats": [
+        "habitat:seep-water-column",
+        "habitat:seep-bottom-water"
+      ],
+      "methods": [
+        "method:ocean-biogeochemical-model"
+      ],
+      "measured_or_derived": [
+        "modeled pH, oxygen and aragonite saturation"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Modeled aerobic oxidation of seep methane produced pH and oxygen anomalies consistent with observations, and the authors hypothesize aragonite saturation falling below 1."
+    ],
+    "limitations": [
+      "Saturation below 1 is a model hypothesis for the simulated seepage area, not a shelf-wide measured budget."
+    ],
+    "cite_for": [
+      "Use when linking East Siberian seep methane to water-column acidification, and keep the model assumptions visible.",
+      "Modeled aerobic oxidation of seep methane produced pH and oxygen anomalies consistent with observations, and the authors hypothesize aragonite saturation falling below 1."
+    ],
+    "do_not_overcite": [
+      "Saturation below 1 is a model hypothesis for the simulated seepage area, not a shelf-wide measured budget."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.3389/fmars.2025.1497616",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-molloy-hydrate-mounds",
+    "citation_key": "GCSMolloyHydrateMounds",
+    "doi": "10.1038/s41467-025-67165-x",
+    "title": "Deep-sea gas hydrate mounds and chemosynthetic fauna discovered at 3640 m on the Molloy Ridge, Greenland Sea",
+    "year": 2025,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment",
+      "bottom-water"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry",
+      "community"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry",
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "Deep Arctic hydrate-mound discovery",
+    "study_profile": {
+      "spatial_scope": "Molloy Ridge, Greenland Sea, at 3,640 m.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Seafloor observations, gas and oil sampling, and isotopic analysis of hydrates and fauna.",
+      "habitats": [
+        "habitat:seep-sediment",
+        "habitat:seep-bottom-water"
+      ],
+      "methods": [
+        "method:geochemistry",
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "hydrate gas, bubble rise and seep fauna"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Hydrate mounds with seep fauna were found at 3,640 m. Bubbles rose to within 300 m of the surface, hydrates contained thermogenic gas, and family-level fauna resembled deep Arctic vents more than shallower nearby seeps."
+    ],
+    "limitations": [
+      "Family-level similarity is not proof of population connectivity, and one ridge does not reset the depth range of all Arctic hydrates."
+    ],
+    "cite_for": [
+      "Use for the deepest reported Arctic hydrate mounds and seep–vent faunal overlap.",
+      "Hydrate mounds with seep fauna were found at 3,640 m. Bubbles rose to within 300 m of the surface, hydrates contained thermogenic gas, and family-level fauna resembled deep Arctic vents more than shallower nearby seeps."
+    ],
+    "do_not_overcite": [
+      "Family-level similarity is not proof of population connectivity, and one ridge does not reset the depth range of all Arctic hydrates."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://europepmc.org/article/MED/41408043",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-borealis-mud-volcano",
+    "citation_key": "GCSBorealisMudVolcano",
+    "doi": "10.1038/s41467-024-55712-x",
+    "title": "Sanctuary for vulnerable Arctic species at the Borealis Mud Volcano",
+    "year": 2025,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "carbonate",
+      "sediment"
+    ],
+    "topics": [
+      "community",
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes",
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Borealis mud-volcano habitat study",
+    "study_profile": {
+      "spatial_scope": "Borealis mud volcano in the Polar North Atlantic.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "ROV observations of a gryphon, carbonates, and associated fauna.",
+      "habitats": [
+        "habitat:seep-carbonate",
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:in-situ-monitoring",
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "gryphon temperature, methane fluid and carbonate habitat"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "A gryphon released warm 11.5°C Neogene sediment and methane-rich fluid. Irregular carbonates sheltered sessile fauna from trawling and may serve as nursery habitat for threatened fishes."
+    ],
+    "limitations": [
+      "Nursery use is a possible function of the observed shelter, not a measured recruitment rate."
+    ],
+    "cite_for": [
+      "Use as a Polar North Atlantic mud-volcano refuge, distinct from shelf seep inventories.",
+      "A gryphon released warm 11.5°C Neogene sediment and methane-rich fluid. Irregular carbonates sheltered sessile fauna from trawling and may serve as nursery habitat for threatened fishes."
+    ],
+    "do_not_overcite": [
+      "Nursery use is a possible function of the observed shelter, not a measured recruitment rate."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://europepmc.org/article/MED/39870611",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-hornsund-shallow-seep-fauna",
+    "citation_key": "GCSHornsundShallowSeepFauna",
+    "doi": "10.1016/j.marenvres.2026.108522",
+    "title": "Fauna of shallow water Arctic seep related to dynamic water masses",
+    "year": 2027,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "interface"
+    ],
+    "topics": [
+      "community"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "Shallow Arctic seep faunal survey",
+    "study_profile": {
+      "spatial_scope": "Shallow seeps on the shelf off Hornsund, southern Svalbard.",
+      "temporal_scope": "The inspected abstract does not give cruise dates.",
+      "sample_design": "Image-based epimegabenthos compared with CTD water-mass data.",
+      "habitats": [
+        "habitat:seep-interface"
+      ],
+      "methods": [
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "epimegabenthos and water-mass properties"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Despite colder Arctic water, the seeps lacked chemosymbiotic siboglinids. CTD salinity indicated transformed Atlantic water, and the fauna resembled background Arctic seep taxa rather than obligate seep hosts."
+    ],
+    "limitations": [
+      "Water-mass control is an interpretation of one shallow area. It does not show that Atlantic water excludes siboglinids at every Arctic seep."
+    ],
+    "cite_for": [
+      "Use for shallow Svalbard seep fauna under dynamic water masses.",
+      "Despite colder Arctic water, the seeps lacked chemosymbiotic siboglinids. CTD salinity indicated transformed Atlantic water, and the fauna resembled background Arctic seep taxa rather than obligate seep hosts."
+    ],
+    "do_not_overcite": [
+      "Water-mass control is an interpretation of one shallow area. It does not show that Atlantic water excludes siboglinids at every Arctic seep."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.marenvres.2026.108522",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-beaufort-mud-volcano-methane",
+    "citation_key": "GCSBeaufortMudVolcanoMethane",
+    "doi": "10.1016/j.gsf.2026.102451",
+    "title": "Cryosphere-driven freshening and methane source shift at Beaufort Sea mud volcanoes",
+    "year": 2027,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Beaufort mud-volcano fluid and gas study",
+    "study_profile": {
+      "spatial_scope": "Two Beaufort Sea mud volcanoes.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Pore-fluid and gas geochemistry, including chloride, water and hydrocarbon isotopes.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "pore-fluid freshness and hydrocarbon isotopes"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Central sites stayed fresh, with chloride depletion below 69 percent, while margins remained seawater-like. The authors infer that cryosphere-derived freshwater shifts the balance between microbial and thermogenic methane."
+    ],
+    "limitations": [
+      "The methane-source shift is an inference from fluid and gas fingerprints, not a measured change in atmospheric flux."
+    ],
+    "cite_for": [
+      "Extend Arctic mud-volcano geochemistry to the Beaufort Sea.",
+      "Central sites stayed fresh, with chloride depletion below 69 percent, while margins remained seawater-like. The authors infer that cryosphere-derived freshwater shifts the balance between microbial and thermogenic methane."
+    ],
+    "do_not_overcite": [
+      "The methane-source shift is an inference from fluid and gas fingerprints, not a measured change in atmospheric flux."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.gsf.2026.102451",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-barents-active-seep-inventory",
+    "citation_key": "GCSBarentsActiveSeepInventory",
+    "doi": "10.3389/feart.2024.1404027",
+    "title": "Geological and glaciological controls of 21,700 active methane seeps in the northern Norwegian Barents sea",
+    "year": 2024,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "bottom-water",
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Northern Barents seep inventory",
+    "study_profile": {
+      "spatial_scope": "About 5,000 km2 of the northern Norwegian Barents Sea.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Multibeam echosounder data and high-resolution P-cable seismic lines.",
+      "habitats": [
+        "habitat:seep-bottom-water",
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:multibeam-bathymetry",
+        "method:marine-geophysics"
+      ],
+      "measured_or_derived": [
+        "seep counts and structural-high setting"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "About 21,700 natural-gas seeps were mapped from exhumed, faulted and variably eroded structural highs. Every investigated high fueled a seabed release hotspot."
+    ],
+    "limitations": [
+      "Seep counts are acoustic detections in the surveyed area. They are not a flux, and they do not show that every Arctic shelf has the same density."
+    ],
+    "cite_for": [
+      "Use as a shelf-scale Barents seep inventory with glacial and tectonic controls.",
+      "About 21,700 natural-gas seeps were mapped from exhumed, faulted and variably eroded structural highs. Every investigated high fueled a seabed release hotspot."
+    ],
+    "do_not_overcite": [
+      "Seep counts are acoustic detections in the surveyed area. They are not a flux, and they do not show that every Arctic shelf has the same density."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.3389/feart.2024.1404027",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-vestnesa-glacial-seepage",
+    "citation_key": "GCSVestnesaGlacialSeepage",
+    "doi": "10.3389/feart.2024.1356341",
+    "title": "Glacial-interglacial sedimentation control on gas seepage exemplified by Vestnesa Ridge off NW Svalbard margin",
+    "year": 2024,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Vestnesa glacial–interglacial seepage study",
+    "study_profile": {
+      "spatial_scope": "Vestnesa Ridge off northwest Svalbard, including methane-seep sites.",
+      "temporal_scope": "Most detail for the last 60,000 years; record extends about 130,000 years.",
+      "sample_design": "Forty-three sediment cores and 1,430 km of shallow seismic lines spanning about the last 130,000 years.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:marine-geophysics",
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "seepage timing relative to glacial stages"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Seepage decreased at about 10–9 ka as fine Holocene mud accumulated. It was low to moderate in Heinrich stadial 1 and the Younger Dryas, and highest in the Bølling–Allerød and early Holocene."
+    ],
+    "limitations": [
+      "The timing is tied to this ridge's sedimentation. It does not replace tectonic control or give a present-day flux."
+    ],
+    "cite_for": [
+      "Pair glacial–interglacial sedimentation with tectonic explanations of Vestnesa seepage.",
+      "Seepage decreased at about 10–9 ka as fine Holocene mud accumulated. It was low to moderate in Heinrich stadial 1 and the Younger Dryas, and highest in the Bølling–Allerød and early Holocene."
+    ],
+    "do_not_overcite": [
+      "The timing is tied to this ridge's sedimentation. It does not replace tectonic control or give a present-day flux."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.3389/feart.2024.1356341",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-barents-carbonate-uth-ages",
+    "citation_key": "GCSBarentsCarbonateUthAges",
+    "doi": "10.3389/feart.2024.1355621",
+    "title": "Protracted post-glacial hydrocarbon seepage in the Barents Sea revealed by U–Th dating of seep carbonates",
+    "year": 2024,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Barents seep-carbonate U–Th study",
+    "study_profile": {
+      "spatial_scope": "Three active seeps at 156–383 m: Storfjordrenna, Storbanken High and Loppa High.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "ROV sampling and uranium–thorium dating of seep carbonates.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "U–Th carbonate ages"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "U–Th dates from 13.5 to 1.2 ka show episodic carbonate formation from the late Pleistocene through the Holocene. Storfjordrenna hydrate-related carbonate formed between about 6 and 1.2 ka."
+    ],
+    "limitations": [
+      "Carbonate ages date precipitation at three seeps. They do not measure how much methane reached the atmosphere."
+    ],
+    "cite_for": [
+      "Use for protracted post-glacial Barents seepage beside other seep-history records.",
+      "U–Th dates from 13.5 to 1.2 ka show episodic carbonate formation from the late Pleistocene through the Holocene. Storfjordrenna hydrate-related carbonate formed between about 6 and 1.2 ka."
+    ],
+    "do_not_overcite": [
+      "Carbonate ages date precipitation at three seeps. They do not measure how much methane reached the atmosphere."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.3389/feart.2024.1355621",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-svalbard-fjord-hydrate-om",
+    "citation_key": "GCSSvalbardFjordHydrateOm",
+    "doi": "10.1016/j.marchem.2025.104570",
+    "title": "Submarine groundwater discharge and gas hydrate dissociation fuel organic matter formation in Arctic fjord sediments",
+    "year": 2025,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "carbon",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Svalbard fjord groundwater and hydrate study",
+    "study_profile": {
+      "spatial_scope": "Twenty-four stations in Hornsund, Isfjorden and Kongsfjorden–Krossfjorden, West Spitsbergen.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Sediment organic-matter isotopes compared with porewater chloride and water isotopes.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "porewater freshness and organic-matter isotopes"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Porewater freshening was meteoric, consistent with submarine groundwater discharge, in Hornsund and Tempelfjorden, and consistent with gas-hydrate dissociation in Ekmanfjorden. Unusually low organic δ13C and δ15N were attributed partly to microbial methane use."
+    ],
+    "limitations": [
+      "Microbial methane use is a proposed explanation of isotope values, not a measured oxidation rate."
+    ],
+    "cite_for": [
+      "Pair fjord hydrate and groundwater organic matter with the separate fjord seep-fauna comparison.",
+      "Porewater freshening was meteoric, consistent with submarine groundwater discharge, in Hornsund and Tempelfjorden, and consistent with gas-hydrate dissociation in Ekmanfjorden. Unusually low organic δ13C and δ15N were attributed partly to microbial methane use."
+    ],
+    "do_not_overcite": [
+      "Microbial methane use is a proposed explanation of isotope values, not a measured oxidation rate."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.marchem.2025.104570",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-mackenzie-uav-seep-methane",
+    "citation_key": "GCSMackenzieUavSeepMethane",
+    "doi": "10.5194/amt-19-3983-2026",
+    "title": "Application of UAV-based methods for quantifying methane point source emissions over an Arctic geological seep",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "terrestrial-seep"
+    ],
+    "topics": [
+      "methane",
+      "methods"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "UAV methane-flux method at an Arctic seep",
+    "study_profile": {
+      "spatial_scope": "A known geological methane seep on the outer Mackenzie River delta, Canada.",
+      "temporal_scope": "July 2025 deployment.",
+      "sample_design": "Two UAV platforms flew vertical flux-plane curtains with open-path and closed-path methane sensors.",
+      "habitats": [
+        "habitat:terrestrial-methane-seep"
+      ],
+      "methods": [
+        "method:remote-sensing",
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "UAV methane concentration planes"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "In July 2025 the UAVs sampled downwind concentration planes at the geological seep, as an alternative to stationary towers and small flux chambers."
+    ],
+    "limitations": [
+      "The retrieved abstract evaluates the method and does not include the quantified emission rate. It also does not establish that this delta seep is a submarine cold seep."
+    ],
+    "cite_for": [
+      "Use as an Arctic geological point-source method, and keep it distinct from submarine seep inventories.",
+      "In July 2025 the UAVs sampled downwind concentration planes at the geological seep, as an alternative to stationary towers and small flux chambers."
+    ],
+    "do_not_overcite": [
+      "The retrieved abstract evaluates the method and does not include the quantified emission rate. It also does not establish that this delta seep is a submarine cold seep."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.5194/amt-19-3983-2026",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-prins-karls-forland-oil-seep",
+    "citation_key": "GCSPrinsKarlsForlandOilSeep",
+    "doi": "10.1016/j.scitotenv.2023.167788",
+    "title": "An Arctic natural oil seep investigated from space to the seafloor",
+    "year": 2024,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment",
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "carbon",
+      "community"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry",
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "Svalbard natural oil-seep survey",
+    "study_profile": {
+      "spatial_scope": "Prins Karls Forland, western Svalbard, at 80–100 m, covering about 30,000 m2 of seafloor.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Satellite, aerial, surface and underwater observations, biomarkers, and uranium–thorium dating of carbonates.",
+      "habitats": [
+        "habitat:seep-sediment",
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:remote-sensing",
+        "method:geochemistry",
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "oil biomarkers, seep area and carbonate ages"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The seep discharges oil from Tertiary or younger source rocks. Surface slicks and seafloor oil share an origin, carbonate dates indicate emanation since the Late Pleistocene, and oil-stained sediments were colonized by infauna."
+    ],
+    "limitations": [
+      "One shallow oil seep is a baseline site. It does not represent methane-only Arctic seeps or an anthropogenic spill."
+    ],
+    "cite_for": [
+      "Use for satellite-to-seafloor detection of an Arctic natural oil seep.",
+      "The seep discharges oil from Tertiary or younger source rocks. Surface slicks and seafloor oil share an origin, carbonate dates indicate emanation since the Late Pleistocene, and oil-stained sediments were colonized by infauna."
+    ],
+    "do_not_overcite": [
+      "One shallow oil seep is a baseline site. It does not represent methane-only Arctic seeps or an anthropogenic spill."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://europepmc.org/article/MED/37865252",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-barents-polaris-mud-volcanoes",
+    "citation_key": "GCSBarentsPolarisMudVolcanoes",
+    "doi": "10.1038/s41598-025-99578-5",
+    "title": "A constellation of mud volcanoes originated from a buried Arctic mega-slide, Southwestern Barents Sea",
+    "year": 2025,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Barents mud-volcano discovery",
+    "study_profile": {
+      "spatial_scope": "Southwestern Barents Sea at 440–480 m.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Seafloor and seismic mapping of flat-topped mounds and their subsurface chimneys.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:marine-geophysics"
+      ],
+      "measured_or_derived": [
+        "mud-volcano count, depth and slide root"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Ten Arctic mud volcanoes were found where only two had been known. They root in the fill of a buried Pleistocene mega-slide and have been active at least since Late Weichselian deglaciation. The authors informally name the area the Polaris Mud Volcano Complex."
+    ],
+    "limitations": [
+      "The abstract cuts off during the activity statement. Do not add methane-budget numbers that were not in the retrieved text."
+    ],
+    "cite_for": [
+      "Add the Polaris complex to Barents mud-volcano geography.",
+      "Ten Arctic mud volcanoes were found where only two had been known. They root in the fill of a buried Pleistocene mega-slide and have been active at least since Late Weichselian deglaciation. The authors informally name the area the Polaris Mud Volcano Complex."
+    ],
+    "do_not_overcite": [
+      "The abstract cuts off during the activity statement. Do not add methane-budget numbers that were not in the retrieved text."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1038/s41598-025-99578-5",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-laptev-om-isotope-curves",
+    "citation_key": "GCSLaptevOmIsotopeCurves",
+    "doi": "10.1134/s0016702924700903",
+    "title": "Carbon Isotope Type-Curves of Organic Matter in Sediments of the Laptev Sea (Seep Area)",
+    "year": 2025,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "carbon",
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Laptev seep organic-matter isotope study",
+    "study_profile": {
+      "spatial_scope": "Seep-area sediments of the Laptev Sea.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Solvent separation of sedimentary organic matter into five polarity fractions and δ13C comparison.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "fraction δ13C and cluster offsets"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "In the seep, asphaltene breakdown enriched the benzene–methanol fraction in 13C-depleted material linked to bacterial biomass along upward methane flow. Benzene-fraction δ13C separated a surface cluster near 10 cm from a deeper cluster by 2–3‰."
+    ],
+    "limitations": [
+      "Fraction isotopes trace organic-matter alteration in the sampled cores. They are not a methane oxidation rate."
+    ],
+    "cite_for": [
+      "Use for Laptev seep organic-matter isotope patterns.",
+      "In the seep, asphaltene breakdown enriched the benzene–methanol fraction in 13C-depleted material linked to bacterial biomass along upward methane flow. Benzene-fraction δ13C separated a surface cluster near 10 cm from a deeper cluster by 2–3‰."
+    ],
+    "do_not_overcite": [
+      "Fraction isotopes trace organic-matter alteration in the sampled cores. They are not a methane oxidation rate."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1134/s0016702924700903",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-laptev-element-speciation",
+    "citation_key": "GCSLaptevElementSpeciation",
+    "doi": "10.18799/24131830/2024/3/4511",
+    "title": "Elemental speciation of the sediments from cold methane seeps on the Laptev Sea shelf",
+    "year": 2024,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "geochemistry",
+      "phosphorus"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Laptev seep sequential-extraction study",
+    "study_profile": {
+      "spatial_scope": "One cold-seep station and two background stations on the outer Laptev shelf and slope; nine samples from three horizons.",
+      "temporal_scope": "Autumn 2020, AMK-82 on R/V Akademik Mstislav Keldysh.",
+      "sample_design": "BCR sequential extraction and ICP-MS, with pyrolysis of residual organic matter.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry",
+        "method:trace-metal-analysis"
+      ],
+      "measured_or_derived": [
+        "sequential-extraction element fractions"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Element mobility increased at the seep and was attributed to authigenic carbonate and sulfide formation during the 2020 AMK-82 cruise. The authors associate U, Ni, Zn and Co with carbonates and Co, Mn and W with sulfides."
+    ],
+    "limitations": [
+      "These are associations from nine samples. They do not prove a specific authigenic mineral for every element or a methane flux."
+    ],
+    "cite_for": [
+      "Use for Laptev seep redox and trace-element response, not as a regional contamination budget.",
+      "Element mobility increased at the seep and was attributed to authigenic carbonate and sulfide formation during the 2020 AMK-82 cruise. The authors associate U, Ni, Zn and Co with carbonates and Co, Mn and W with sulfides."
+    ],
+    "do_not_overcite": [
+      "These are associations from nine samples. They do not prove a specific authigenic mineral for every element or a methane flux."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.18799/24131830/2024/3/4511",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-laptev-slope-authigenic-pyrite",
+    "citation_key": "GCSLaptevSlopeAuthigenicPyrite",
+    "doi": "10.18799/24131830/2025/5/5051",
+    "title": "Authigenic pyrite from the Laptev Sea continental slope: the impact of methane seepage activity",
+    "year": 2025,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "sediment",
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane",
+      "sulfur"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Laptev slope pyrite study",
+    "study_profile": {
+      "spatial_scope": "Laptev Sea continental-slope sediment and carbonate crusts at a methane-seepage site.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Electron microscopy, microtomography and laser-ablation trace-element analysis of pyrite.",
+      "habitats": [
+        "habitat:seep-sediment",
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "pyrite texture and trace elements"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Pyrite textures differed between sediment and carbonate. Association with methane-derived carbonate was used to argue that sulfate-driven anaerobic methane oxidation dominated sulfide formation, and the pyrite was enriched in redox-sensitive trace elements relative to published organoclastic pyrite."
+    ],
+    "limitations": [
+      "Trace-element enrichment is relative to published comparisons, not a universal AOM fingerprint, and the study does not report a rate."
+    ],
+    "cite_for": [
+      "Use as a Laptev slope mineral proxy for methane-seepage activity.",
+      "Pyrite textures differed between sediment and carbonate. Association with methane-derived carbonate was used to argue that sulfate-driven anaerobic methane oxidation dominated sulfide formation, and the pyrite was enriched in redox-sensitive trace elements relative to published organoclastic pyrite."
+    ],
+    "do_not_overcite": [
+      "Trace-element enrichment is relative to published comparisons, not a universal AOM fingerprint, and the study does not report a rate."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.18799/24131830/2025/5/5051",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-cold-seep-climate-services",
+    "citation_key": "GCSColdSeepClimateServices",
+    "doi": "10.3389/fmars.2026.1819754",
+    "title": "Cold seeps: climate relevance and anthropogenic impacts",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "sediment",
+      "carbonate",
+      "water-column"
+    ],
+    "topics": [
+      "methane",
+      "carbon",
+      "disturbance"
+    ],
+    "sites": [
+      "global-comparison"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Cold-seep climate and impact review",
+    "study_profile": {
+      "spatial_scope": "Cold seeps as geologic carbon conduits and blue-carbon systems.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Perspective synthesizing hydrate and carbonate storage, methane oxidation, biological carbon recycling, and anthropogenic stressors.",
+      "habitats": [
+        "habitat:seep-sediment",
+        "habitat:seep-carbonate",
+        "habitat:seep-water-column"
+      ],
+      "methods": [
+        "method:review-synthesis"
+      ],
+      "measured_or_derived": [
+        "reviewed carbon services and stressors"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The perspective frames seeps as carbon reservoirs, partial emission filters, and biological carbon recyclers, and argues that trawling, engineering and climate-driven change can damage those services."
+    ],
+    "limitations": [
+      "This is a perspective, not a new flux inventory. Service language should not be cited as measured carbon credits."
+    ],
+    "cite_for": [
+      "Use as a 2026 narrative frame for climate relevance and human pressure, beside older Arctic methane reviews.",
+      "The perspective frames seeps as carbon reservoirs, partial emission filters, and biological carbon recyclers, and argues that trawling, engineering and climate-driven change can damage those services."
+    ],
+    "do_not_overcite": [
+      "This is a perspective, not a new flux inventory. Service language should not be cited as measured carbon credits."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.3389/fmars.2026.1819754",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-anme-lipid-inorganic-carbon",
+    "citation_key": "GCSAnmeLipidInorganicCarbon",
+    "doi": "10.1111/1462-2920.70213",
+    "title": "Marine Cold Seep ANME ‐2/ SRB Consortia Produce Their Lipid Biomass From Inorganic Carbon",
+    "year": 2025,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:northeast-pacific-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "carbon",
+      "sulfur"
+    ],
+    "sites": [
+      "northeast-pacific"
+    ],
+    "domains": [
+      "Cold-seep prokaryotes"
+    ],
+    "study_type": "Lipid-SIP of ANME-2/SRB consortia",
+    "study_profile": {
+      "spatial_scope": "Astoria Canyon seep sediments dominated by ANME-2/SRB consortia.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Thirty-day lipid stable-isotope probing with 13C-methane or 13C-labeled dissolved inorganic carbon.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:stable-isotope-probing",
+        "method:lipid-biomarker-analysis",
+        "method:laboratory-incubation"
+      ],
+      "measured_or_derived": [
+        "lipid δ13C from methane versus inorganic carbon"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Lipids incorporated more 13C from dissolved inorganic carbon than from methane. After 30 days, SRB fatty acids reached about +417‰ and ANME-2 isoprenoid lipids about +126‰, and inorganic-carbon assimilation into SRB lipids was about eight times that into ANME lipids."
+    ],
+    "limitations": [
+      "Incubation enrichment does not give in-situ biomass production, and the additional ANME carbon source remains unidentified."
+    ],
+    "cite_for": [
+      "Use as a mechanistic update on carbon flow into ANME-2/SRB lipids, not as an Arctic rate.",
+      "Lipids incorporated more 13C from dissolved inorganic carbon than from methane. After 30 days, SRB fatty acids reached about +417‰ and ANME-2 isoprenoid lipids about +126‰, and inorganic-carbon assimilation into SRB lipids was about eight times that into ANME lipids."
+    ],
+    "do_not_overcite": [
+      "Incubation enrichment does not give in-situ biomass production, and the additional ANME carbon source remains unidentified."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://europepmc.org/article/MED/41327581",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-seep-bottom-water-diazotrophs",
+    "citation_key": "GCSSeepBottomWaterDiazotrophs",
+    "doi": "10.1128/msystems.00176-24",
+    "title": "Chemosynthetic alphaproteobacterial diazotrophs reside in deep-sea cold-seep bottom waters",
+    "year": 2024,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "bottom-water"
+    ],
+    "topics": [
+      "nitrogen",
+      "methane",
+      "genomes"
+    ],
+    "sites": [
+      "global-unspecified"
+    ],
+    "domains": [
+      "Cold-seep prokaryotes"
+    ],
+    "study_type": "Cold-seep bottom-water diazotroph study",
+    "study_profile": {
+      "spatial_scope": "Deep-sea cold-seep bottom water compared with upper seep water and non-seep bottom water. The inspected abstract does not name the ocean.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Multi-omics of diazotrophs, including a metagenome-assembled genome and in-situ transcripts.",
+      "habitats": [
+        "habitat:seep-bottom-water"
+      ],
+      "methods": [
+        "method:shotgun-metagenomics",
+        "method:metatranscriptomics",
+        "method:genome-resolved-analysis"
+      ],
+      "measured_or_derived": [
+        "diazotroph abundance, nif transcripts and C1 pathways"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Diazotrophs were relatively most abundant in cold-seep bottom water, and more than 98 percent of diazotroph metatranscriptomic reads there mapped to Sagittula. Its genome Seep-BW-D1 encoded nifHDK, transcribed nifH, and pathways for C1 compounds and thiosulfate."
+    ],
+    "limitations": [
+      "Genome potential and transcripts do not measure a nitrogen-fixation rate, and the unnamed site should not be treated as Haima or an Arctic seep."
+    ],
+    "cite_for": [
+      "Use for chemosynthetic diazotrophy in seep bottom water when the sampling region is left unspecified.",
+      "Diazotrophs were relatively most abundant in cold-seep bottom water, and more than 98 percent of diazotroph metatranscriptomic reads there mapped to Sagittula. Its genome Seep-BW-D1 encoded nifHDK, transcribed nifH, and pathways for C1 compounds and thiosulfate."
+    ],
+    "do_not_overcite": [
+      "Genome potential and transcripts do not measure a nitrogen-fixation rate, and the unnamed site should not be treated as Haima or an Arctic seep."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://europepmc.org/article/MED/39105582",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-seep-sponge-oxidizer-mags",
+    "citation_key": "GCSSeepSpongeOxidizerMags",
+    "doi": "10.1186/s40793-025-00777-4",
+    "title": "Metagenomic binning reveals community and functional characteristics of sulfur- and methane-oxidizing bacteria in cold seep sponge ground",
+    "year": 2025,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "symbiosis"
+    ],
+    "topics": [
+      "symbioses",
+      "methane",
+      "sulfur",
+      "genomes"
+    ],
+    "sites": [
+      "global-unspecified"
+    ],
+    "domains": [
+      "Cold-seep prokaryotes",
+      "Cold-seep symbioses"
+    ],
+    "study_type": "Cold-seep sponge symbiont metagenomes",
+    "study_profile": {
+      "spatial_scope": "Six sponge species from one cold seep. The inspected abstract does not name the site.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Metagenomic binning of sponge-associated sulfur- and methane-oxidizing bacteria.",
+      "habitats": [
+        "habitat:seep-symbiosis"
+      ],
+      "methods": [
+        "method:shotgun-metagenomics",
+        "method:genome-resolved-analysis"
+      ],
+      "measured_or_derived": [
+        "sponge-associated SOB and MOB MAGs"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Proteobacterial sulfur oxidizers, especially order PS1, and Methylococcales dominated across host classes and diets, while MAG phylogeny and abundance still showed host-specific strain selection."
+    ],
+    "limitations": [
+      "Functional similarity is not evidence that every sponge oxidizes methane or sulfide at the same rate, and the site is not identified."
+    ],
+    "cite_for": [
+      "Use for host-specific selection within shared chemosynthetic symbiont groups.",
+      "Proteobacterial sulfur oxidizers, especially order PS1, and Methylococcales dominated across host classes and diets, while MAG phylogeny and abundance still showed host-specific strain selection."
+    ],
+    "do_not_overcite": [
+      "Functional similarity is not evidence that every sponge oxidizes methane or sulfide at the same rate, and the site is not identified."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://europepmc.org/article/MED/41024212",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-seep-carbonate-magnesium",
+    "citation_key": "GCSSeepCarbonateMagnesium",
+    "doi": "10.3389/fmars.2024.1463328",
+    "title": "Magnesium geochemistry of authigenic carbonate at marine cold seep",
+    "year": 2024,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "global-comparison"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Seep-carbonate magnesium review",
+    "study_profile": {
+      "spatial_scope": "Authigenic carbonates at marine cold seeps, summarized across published samples.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Summarize magnesium geochemistry and the limited magnesium-isotope data for seep carbonates.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:review-synthesis",
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "summarized magnesium isotopes and dolomitization controls"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The summarized seep-carbonate magnesium isotopes span −3.46‰ to −2.36‰. Rapid precipitation versus aqueous ligands is proposed as the main kinetic control, and sulfide from anaerobic methane oxidation is argued to promote dolomitization."
+    ],
+    "limitations": [
+      "The isotope range is a summary of sparse data. It is not a calibration that identifies every dolomite as seep-related."
+    ],
+    "cite_for": [
+      "Use as magnesium context for both SCS and Arctic seep carbonates, with the kinetic interpretation kept separate from new measurements.",
+      "The summarized seep-carbonate magnesium isotopes span −3.46‰ to −2.36‰. Rapid precipitation versus aqueous ligands is proposed as the main kinetic control, and sulfide from anaerobic methane oxidation is argued to promote dolomitization."
+    ],
+    "do_not_overcite": [
+      "The isotope range is a summary of sparse data. It is not a calibration that identifies every dolomite as seep-related."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.3389/fmars.2024.1463328",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-aom-seep-rock-nmr",
+    "citation_key": "GCSAomSeepRockNmr",
+    "doi": "10.1016/j.ssnmr.2026.102124",
+    "title": "Progression of organic and inorganic matter in cold seep rocks during anaerobic oxidation of methane studied by solid-state NMR",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "methane",
+      "carbon",
+      "phosphorus"
+    ],
+    "sites": [
+      "global-unspecified"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Solid-state NMR of AOM seep rocks",
+    "study_profile": {
+      "spatial_scope": "Authigenic seep rocks of different ages. The inspected abstract does not name the site.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "1H, 13C, 31P and 1H–31P solid-state NMR of organic and inorganic fractions.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "NMR organic products, phosphate species and rock age"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Carboxylic acid was attributed to incomplete methane oxidation. Aliphatic esters increased with rock age, orthophosphate dominated phosphorus, and phosphate monoester was higher in the oldest material, about 20,000 years."
+    ],
+    "limitations": [
+      "NMR products from unnamed rocks do not give an in-situ oxidation rate or a location that can be compared directly with Haima or the Laptev Sea."
+    ],
+    "cite_for": [
+      "Use for process-level organic and inorganic change during AOM in seep carbonate.",
+      "Carboxylic acid was attributed to incomplete methane oxidation. Aliphatic esters increased with rock age, orthophosphate dominated phosphorus, and phosphate monoester was higher in the oldest material, about 20,000 years."
+    ],
+    "do_not_overcite": [
+      "NMR products from unnamed rocks do not give an in-situ oxidation rate or a location that can be compared directly with Haima or the Laptev Sea."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.ssnmr.2026.102124",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-dic-flux",
+    "citation_key": "SCSHaimaDicFlux",
+    "doi": "10.1016/j.jseaes.2024.106454",
+    "title": "Quantifying the flux of dissolved inorganic carbon in surface sediments of the Haima cold seep area, northern South China Sea",
+    "year": 2025,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "carbon",
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Haima surface-sediment DIC-flux study",
+    "study_profile": {
+      "spatial_scope": "Surface sediments of the Haima cold seep, northern South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped DIC flux"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:carbon-export"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports a quantification of dissolved-inorganic-carbon flux in Haima surface sediments."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Haima surface-sediment DIC-flux study within the stated study scope.",
+      "The title reports a quantification of dissolved-inorganic-carbon flux in Haima surface sediments."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.jseaes.2024.106454",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-carbonate-ca-isotopes",
+    "citation_key": "SCSHaimaCarbonateCaIsotopes",
+    "doi": "10.1016/j.chemgeo.2026.123625",
+    "title": "Ca isotope fractionation during precipitation of authigenic carbonates: A case study from the Haima cold seep, northern South China Sea",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Haima carbonate calcium-isotope study",
+    "study_profile": {
+      "spatial_scope": "Authigenic carbonates at the Haima cold seep, northern South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped calcium-isotope fractionation"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports calcium-isotope fractionation during precipitation of Haima authigenic carbonates."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Haima carbonate calcium-isotope study within the stated study scope.",
+      "The title reports calcium-isotope fractionation during precipitation of Haima authigenic carbonates."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.chemgeo.2026.123625",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-macrofauna-edna",
+    "citation_key": "SCSHaimaMacrofaunaEdna",
+    "doi": "10.1016/j.dsr.2026.104675",
+    "title": "Unlocking deep sea cold seep biodiversity: Leveraging environmental DNA for macrofauna diversity estimation in Haima cold seep",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "community",
+      "methods"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "Haima macrofauna eDNA study",
+    "study_profile": {
+      "spatial_scope": "The Haima cold seep.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:edna-metabarcoding"
+      ],
+      "measured_or_derived": [
+        "title-scoped macrofauna eDNA diversity"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports use of environmental DNA to estimate macrofauna diversity at Haima."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Haima macrofauna eDNA study within the stated study scope.",
+      "The title reports use of environmental DNA to estimate macrofauna diversity at Haima."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.dsr.2026.104675",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-bubble-plume-monitoring",
+    "citation_key": "SCSHaimaBubblePlumeMonitoring",
+    "doi": "10.1016/j.dsr.2025.104603",
+    "title": "Integrated optical and acoustic monitoring of deep-sea bubble plume – A case study in Haima cold seep",
+    "year": 2025,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "bottom-water",
+      "water-column"
+    ],
+    "topics": [
+      "methane",
+      "methods"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Haima bubble-plume monitoring study",
+    "study_profile": {
+      "spatial_scope": "A bubble plume at the Haima cold seep.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-bottom-water",
+        "habitat:seep-water-column"
+      ],
+      "methods": [
+        "method:in-situ-monitoring",
+        "method:multibeam-bathymetry"
+      ],
+      "measured_or_derived": [
+        "title-scoped optical and acoustic plume monitoring"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports integrated optical and acoustic monitoring of a deep-sea bubble plume at Haima."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Haima bubble-plume monitoring study within the stated study scope.",
+      "The title reports integrated optical and acoustic monitoring of a deep-sea bubble plume at Haima."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.dsr.2025.104603",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-shenhu-multibeam-gas-flux",
+    "citation_key": "SCSShenhuMultibeamGasFlux",
+    "doi": "10.1016/j.dsr.2025.104644",
+    "title": "Quantifying the deep-sea cold seep gas flux using multibeam water column data: A case study in the Shenhu area of the South China sea",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:shenhu"
+    ],
+    "compartments": [
+      "bottom-water",
+      "water-column"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry",
+      "methods"
+    ],
+    "sites": [
+      "shenhu"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Shenhu multibeam gas-flux study",
+    "study_profile": {
+      "spatial_scope": "The Shenhu area of the South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-bottom-water",
+        "habitat:seep-water-column"
+      ],
+      "methods": [
+        "method:multibeam-bathymetry"
+      ],
+      "measured_or_derived": [
+        "title-scoped multibeam gas flux"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports quantification of deep-sea cold-seep gas flux from multibeam water-column data at Shenhu."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Shenhu multibeam gas-flux study within the stated study scope.",
+      "The title reports quantification of deep-sea cold-seep gas flux from multibeam water-column data at Shenhu."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.dsr.2025.104644",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-qiongdongnan-pipe-carbonate",
+    "citation_key": "SCSQiongdongnanPipeCarbonate",
+    "doi": "10.1016/j.chemgeo.2024.122524",
+    "title": "Multistage formation and geochemical response of pipe-morphology cold seep carbonate in the Qiongdongnan Basin, northern South China Sea",
+    "year": 2025,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:qiongdongnan"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "qiongdongnan"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Qiongdongnan pipe-carbonate study",
+    "study_profile": {
+      "spatial_scope": "Pipe-morphology cold-seep carbonate in the Qiongdongnan Basin, northern South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped multistage pipe carbonate"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports multistage formation and geochemical response of that pipe-morphology carbonate."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Qiongdongnan pipe-carbonate study within the stated study scope.",
+      "The title reports multistage formation and geochemical response of that pipe-morphology carbonate."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.chemgeo.2024.122524",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-qiongdongnan-seep-system",
+    "citation_key": "SCSQiongdongnanSeepSystem",
+    "doi": "10.1016/j.marpetgeo.2025.107522",
+    "title": "Multiple observations to delineate the characteristics of cold seep system in the Qiongdongnan Basin",
+    "year": 2025,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:qiongdongnan"
+    ],
+    "compartments": [
+      "sediment",
+      "bottom-water"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane",
+      "methods"
+    ],
+    "sites": [
+      "qiongdongnan"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Qiongdongnan seep-system characterization",
+    "study_profile": {
+      "spatial_scope": "The cold-seep system of the Qiongdongnan Basin.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment",
+        "habitat:seep-bottom-water"
+      ],
+      "methods": [
+        "method:marine-geophysics",
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped multi-observation seep characterization"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports multiple observations used to delineate characteristics of that cold-seep system."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Qiongdongnan seep-system characterization within the stated study scope.",
+      "The title reports multiple observations used to delineate characteristics of that cold-seep system."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.marpetgeo.2025.107522",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-qiongdongnan-shelf-carbonate",
+    "citation_key": "SCSQiongdongnanShelfCarbonate",
+    "doi": "10.1016/j.margeo.2026.107772",
+    "title": "Seep-related carbonates on continental shelves: Distinctive processes and morphologies revealed by the Qiongdongnan Shelf, South China Sea",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:qiongdongnan"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "qiongdongnan"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Qiongdongnan shelf-carbonate study",
+    "study_profile": {
+      "spatial_scope": "Seep-related carbonates on the Qiongdongnan Shelf, South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped shelf carbonate processes and morphologies"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports distinctive processes and morphologies of seep-related carbonates on that shelf."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Qiongdongnan shelf-carbonate study within the stated study scope.",
+      "The title reports distinctive processes and morphologies of seep-related carbonates on that shelf."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.margeo.2026.107772",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-scs-margin-mercury-isotopes",
+    "citation_key": "SCSScsMarginMercuryIsotopes",
+    "doi": "10.1016/j.jseaes.2026.107253",
+    "title": "Anomalous mercury isotopic composition highlights the essential role of terrestrial erosion in forming cold seeps in the continental margin of the South China Sea",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "mercury",
+      "geochemistry"
+    ],
+    "sites": [
+      "regional"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "SCS margin mercury-isotope study",
+    "study_profile": {
+      "spatial_scope": "Cold seeps on the continental margin of the South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:trace-metal-analysis",
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped mercury isotopes and terrestrial erosion"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:mercury-transformation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports that anomalous mercury isotopic composition highlights a role for terrestrial erosion in forming those cold seeps."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "SCS margin mercury-isotope study within the stated study scope.",
+      "The title reports that anomalous mercury isotopic composition highlights a role for terrestrial erosion in forming those cold seeps."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.jseaes.2026.107253",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-qiongdongnan-hydrate-hydrocarbons",
+    "citation_key": "SCSQiongdongnanHydrateHydrocarbons",
+    "doi": "10.1016/j.gloplacha.2026.105633",
+    "title": "Heavy hydrocarbons buffering by subsurface gas hydrate in cold seep systems",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:qiongdongnan"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry",
+      "carbon"
+    ],
+    "sites": [
+      "qiongdongnan"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Qiongdongnan hydrate hydrocarbon-buffering study",
+    "study_profile": {
+      "spatial_scope": "Cold-seep systems in the Qiongdongnan Basin, as identified for this DOI on the secondary-reviewed literature page.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped hydrate buffering of heavy hydrocarbons"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports buffering of heavy hydrocarbons by subsurface gas hydrate in cold-seep systems."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Qiongdongnan hydrate hydrocarbon-buffering study within the stated study scope.",
+      "The title reports buffering of heavy hydrocarbons by subsurface gas hydrate in cold-seep systems."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.gloplacha.2026.105633",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-scs-carbonate-clumped-isotopes",
+    "citation_key": "SCSScsCarbonateClumpedIsotopes",
+    "doi": "10.1016/j.gloplacha.2024.104439",
+    "title": "Seep carbonate clumped isotopes revealing ocean warming-induced gas hydrate dissociation",
+    "year": 2024,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "regional"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "SCS seep-carbonate clumped-isotope study",
+    "study_profile": {
+      "spatial_scope": "Seep carbonates interpreted on the literature page as a South China Sea hydrate record.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped clumped-isotope hydrate dissociation"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports that seep-carbonate clumped isotopes reveal gas-hydrate dissociation induced by ocean warming."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "SCS seep-carbonate clumped-isotope study within the stated study scope.",
+      "The title reports that seep-carbonate clumped isotopes reveal gas-hydrate dissociation induced by ocean warming."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.gloplacha.2024.104439",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-mussel-scaleworm-trophic",
+    "citation_key": "SCSHaimaMusselScalewormTrophic",
+    "doi": "10.1016/j.dsr.2024.104264",
+    "title": "Trophic relationship between mussels and scale worms under various seepage intensities in the haima cold seep: Insights from stable isotopes (δ13C and δ15N) and C:N:P stoichiometry",
+    "year": 2024,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "symbiosis"
+    ],
+    "topics": [
+      "symbioses",
+      "carbon",
+      "community"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes",
+      "Cold-seep symbioses"
+    ],
+    "study_type": "Haima mussel and scale-worm trophic study",
+    "study_profile": {
+      "spatial_scope": "Mussels and scale worms at the Haima cold seep under a range of seepage intensities.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.",
+      "habitats": [
+        "habitat:seep-symbiosis"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped isotopes and C:N:P stoichiometry"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:chemosynthetic-symbiosis"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The title reports trophic relationships from stable carbon and nitrogen isotopes and C:N:P stoichiometry across seepage intensities."
+    ],
+    "limitations": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Haima mussel and scale-worm trophic study within the stated study scope.",
+      "The title reports trophic relationships from stable carbon and nitrogen isotopes and C:N:P stoichiometry across seepage intensities."
+    ],
+    "do_not_overcite": [
+      "No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.dsr.2024.104264",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-foraminifera-edna",
+    "citation_key": "SCSHaimaForaminiferaEdna",
+    "doi": "10.1016/j.seares.2026.102725",
+    "title": "Foraminiferal eDNA reveals ecological dynamics of a deep-sea cold seep ecosystem: Evidence from the “Haima” seep, South China Sea",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "microeukaryotes",
+      "community",
+      "sulfur"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes",
+      "Cold-seep prokaryotes"
+    ],
+    "study_type": "Haima foraminiferal eDNA study",
+    "study_profile": {
+      "spatial_scope": "Surface sediments along a Haima seepage gradient and radiocarbon-dated core SY186-3.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Foraminiferal eDNA metabarcoding of surface sediments and a Holocene core, with bacterial functional annotation.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:edna-metabarcoding"
+      ],
+      "measured_or_derived": [
+        "foraminiferal eDNA diversity and sulfur-metabolizing bacteria"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Read abundance declined toward the seep center while Shannon and Margalef diversity increased. Sulfur-metabolizing bacteria were enriched near the seep, and the core showed an early rise in foraminifera followed by millennial-scale swings."
+    ],
+    "limitations": [
+      "eDNA read abundance is not a census of living tests, and bacterial functions are annotations rather than measured sulfur fluxes."
+    ],
+    "cite_for": [
+      "Haima foraminiferal eDNA study within the stated study scope.",
+      "Read abundance declined toward the seep center while Shannon and Margalef diversity increased. Sulfur-metabolizing bacteria were enriched near the seep, and the core showed an early rise in foraminifera followed by millennial-scale swings."
+    ],
+    "do_not_overcite": [
+      "eDNA read abundance is not a census of living tests, and bacterial functions are annotations rather than measured sulfur fluxes."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.seares.2026.102725",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-fish-edna-trawl",
+    "citation_key": "SCSHaimaFishEdnaTrawl",
+    "doi": "10.1016/j.marenvres.2026.108507",
+    "title": "Integrating eDNA and trawl surveys reveals fish diversity and functional redundancy in the Haima cold seep area",
+    "year": 2027,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "water-column"
+    ],
+    "topics": [
+      "community",
+      "methods"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "Haima fish eDNA and trawl survey",
+    "study_profile": {
+      "spatial_scope": "Haima cold seep, an adjacent area and a non-seep control in the South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "eDNA metabarcoding combined with trawl surveys of taxonomic, functional and phylogenetic fish diversity.",
+      "habitats": [
+        "habitat:seep-water-column"
+      ],
+      "methods": [
+        "method:edna-metabarcoding"
+      ],
+      "measured_or_derived": [
+        "fish diversity, functional richness and redundancy"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Shannon diversity, functional richness and phylogenetic diversity were higher at the seep and adjacent area than at the control. Mean functional richness was 0.137 versus 0.028, and 65 of 87 seep functional entities were single-species."
+    ],
+    "limitations": [
+      "Low eDNA read share does not equal low abundance, and higher diversity with low redundancy is not a protection status."
+    ],
+    "cite_for": [
+      "Haima fish eDNA and trawl survey within the stated study scope.",
+      "Shannon diversity, functional richness and phylogenetic diversity were higher at the seep and adjacent area than at the control. Mean functional richness was 0.137 versus 0.028, and 65 of 87 seep functional entities were single-species."
+    ],
+    "do_not_overcite": [
+      "Low eDNA read share does not equal low abundance, and higher diversity with low redundancy is not a protection status."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.marenvres.2026.108507",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-shenhu-plume-velocity",
+    "citation_key": "SCSShenhuPlumeVelocity",
+    "doi": "10.3390/jmse14181699",
+    "title": "Continuous Characterization of Water-Column Velocity in Cold Seep Plumes Using Pre-Stack Allied Elastic Impedance Inversion",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:shenhu"
+    ],
+    "compartments": [
+      "water-column",
+      "bottom-water"
+    ],
+    "topics": [
+      "methane",
+      "methods",
+      "geochemistry"
+    ],
+    "sites": [
+      "shenhu"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Shenhu plume water-column velocity inversion",
+    "study_profile": {
+      "spatial_scope": "Water column over cold-seep plumes in the Shenhu area, northern South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "CTD-constrained two-angle allied elastic-impedance inversion of pre-stack seismic data.",
+      "habitats": [
+        "habitat:seep-water-column",
+        "habitat:seep-bottom-water"
+      ],
+      "methods": [
+        "method:marine-geophysics"
+      ],
+      "measured_or_derived": [
+        "inverted water-column velocity"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Inverted water-column velocity was 1,460–1,560 m/s, with stronger vertical than lateral change. Within 0–1,800 ms the root-mean-square difference from CTD velocity was 18.19 m/s."
+    ],
+    "limitations": [
+      "Velocity agreement with CTD is a method check. It is not a methane flux or a bubble-dissolution rate."
+    ],
+    "cite_for": [
+      "Shenhu plume water-column velocity inversion within the stated study scope.",
+      "Inverted water-column velocity was 1,460–1,560 m/s, with stronger vertical than lateral change. Within 0–1,800 ms the root-mean-square difference from CTD velocity was 18.19 m/s."
+    ],
+    "do_not_overcite": [
+      "Velocity agreement with CTD is a method check. It is not a methane flux or a bubble-dissolution rate."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3390/jmse14181699",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-scs-tubular-carbonate",
+    "citation_key": "SCSScsTubularCarbonate",
+    "doi": "10.3389/fmars.2024.1451624",
+    "title": "The formation of tubular seep carbonate deciphered from mineralogical and geochemical characteristics: an example from the South China Sea",
+    "year": 2024,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "regional"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "SCS tubular seep-carbonate study",
+    "study_profile": {
+      "spatial_scope": "Tubular seep carbonate SQW-65 from the South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Mineralogy, carbon and oxygen isotopes, rare-earth elements and uranium enrichment from rim to core.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "δ13C, δ18O, cerium anomaly and uranium enrichment"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Strongly negative δ13C and positive δ18O were taken as gas-hydrate dissociation. Lack of a cerium anomaly and uranium enrichment indicated anoxic formation, and sulfate-driven AOM was inferred to intensify as the conduit narrowed."
+    ],
+    "limitations": [
+      "One tubular sample does not date a regional hydrate-dissociation event, and the AOM intensification is inferred from rim-to-core trends."
+    ],
+    "cite_for": [
+      "SCS tubular seep-carbonate study within the stated study scope.",
+      "Strongly negative δ13C and positive δ18O were taken as gas-hydrate dissociation. Lack of a cerium anomaly and uranium enrichment indicated anoxic formation, and sulfate-driven AOM was inferred to intensify as the conduit narrowed."
+    ],
+    "do_not_overcite": [
+      "One tubular sample does not date a regional hydrate-dissociation event, and the AOM intensification is inferred from rim-to-core trends."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3389/fmars.2024.1451624",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-seep-carbonate-molybdenum",
+    "citation_key": "SCSSeepCarbonateMolybdenum",
+    "doi": "10.1029/2023gc011379",
+    "title": "Molybdenum Isotope Fingerprinting of Microbial Sulfate Reduction in Seep Carbonate Rocks",
+    "year": 2024,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:site-f-seep"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "sulfur",
+      "methane"
+    ],
+    "sites": [
+      "site-f"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Seep-carbonate molybdenum-isotope study",
+    "study_profile": {
+      "spatial_scope": "Seep carbonate rocks, including SCS Site F as identified on the literature page. The inspected abstract does not list every locality.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Molybdenum abundances and δ98Mo of bulk, carbonate, pyrite and organic-matter fractions.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry",
+        "method:trace-metal-analysis"
+      ],
+      "measured_or_derived": [
+        "δ98Mo offsets among carbonate fractions"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The carbonate-minus-organic-matter δ98Mo offset ranged from 0.72‰ to 1.01‰ and tracked carbon isotopes, organic carbon, molybdenum and pyrite. The authors interpret this as adsorption of isotopically light molybdenum onto organic matter during sulfate reduction."
+    ],
+    "limitations": [
+      "The offset is a proposed intensity proxy for the studied rocks. It does not measure a sulfate-reduction rate at Site F alone."
+    ],
+    "cite_for": [
+      "Seep-carbonate molybdenum-isotope study within the stated study scope.",
+      "The carbonate-minus-organic-matter δ98Mo offset ranged from 0.72‰ to 1.01‰ and tracked carbon isotopes, organic carbon, molybdenum and pyrite. The authors interpret this as adsorption of isotopically light molybdenum onto organic matter during sulfate reduction."
+    ],
+    "do_not_overcite": [
+      "The offset is a proposed intensity proxy for the studied rocks. It does not measure a sulfate-reduction rate at Site F alone."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1029/2023gc011379",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-shenhu-hydrate-pyrite",
+    "citation_key": "SCSShenhuHydratePyrite",
+    "doi": "10.2343/geochemj.gj25004",
+    "title": "Formation of the authigenic pyrite in the gas hydrate-bearing layer of the Shenhu region, northern South China Sea: Constraints from geochemical and sulfur isotope compositions",
+    "year": 2025,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:shenhu"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane",
+      "sulfur"
+    ],
+    "sites": [
+      "shenhu"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Shenhu hydrate-layer pyrite study",
+    "study_profile": {
+      "spatial_scope": "Authigenic pyrite in a gas-hydrate-bearing layer from a Shenhu drill core, northern South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "In-situ elemental and sulfur-isotope analyses of framboidal and subhedral pyrite.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "pyrite morphology and δ34S"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Framboidal pyrite had negative δ34S from −24.5‰ to −7.1‰ and higher trace-element contents, whereas subhedral pyrite had positive δ34S from 2.7‰ to 41.4‰. The authors link the sequence to sulfate-driven anaerobic methane oxidation in a closed hydrate-bearing system."
+    ],
+    "limitations": [
+      "Pyrite chemistry can indicate past hydrate-related diagenesis. It does not show that hydrate is still present or provide a methane flux."
+    ],
+    "cite_for": [
+      "Shenhu hydrate-layer pyrite study within the stated study scope.",
+      "Framboidal pyrite had negative δ34S from −24.5‰ to −7.1‰ and higher trace-element contents, whereas subhedral pyrite had positive δ34S from 2.7‰ to 41.4‰. The authors link the sequence to sulfate-driven anaerobic methane oxidation in a closed hydrate-bearing system."
+    ],
+    "do_not_overcite": [
+      "Pyrite chemistry can indicate past hydrate-related diagenesis. It does not show that hydrate is still present or provide a methane flux."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.2343/geochemj.gj25004",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-scs-dissolved-methane-sensor",
+    "citation_key": "SCSScsDissolvedMethaneSensor",
+    "doi": "10.1021/acs.analchem.6c04761",
+    "title": "Dual-Wavelength OA-ICOS for Sensitive and Wide-Range In Situ Measurement of Dissolved Methane in Deep-Sea Cold Seeps",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea"
+    ],
+    "compartments": [
+      "bottom-water",
+      "water-column"
+    ],
+    "topics": [
+      "methane",
+      "methods"
+    ],
+    "sites": [
+      "regional"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Dual-wavelength dissolved-methane sensor",
+    "study_profile": {
+      "spatial_scope": "Field deployment on a manned submersible in the northern South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Dual-wavelength off-axis integrated-cavity spectroscopy near 1,651 and 1,658 nm, with membrane extraction of dissolved methane.",
+      "habitats": [
+        "habitat:seep-bottom-water",
+        "habitat:seep-water-column"
+      ],
+      "methods": [
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "dissolved-methane calibration and field hotspots"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Gas-phase calibration was linear above R2 0.999 on both channels. The northern South China Sea deployment resolved near-bottom enrichment, rapid vertical loss, and local hotspots above 250 ppm."
+    ],
+    "limitations": [
+      "A method demonstration and one deployment do not provide a regional methane inventory. Hotspot concentration is not a sea–air flux."
+    ],
+    "cite_for": [
+      "Dual-wavelength dissolved-methane sensor within the stated study scope.",
+      "Gas-phase calibration was linear above R2 0.999 on both channels. The northern South China Sea deployment resolved near-bottom enrichment, rapid vertical loss, and local hotspots above 250 ppm."
+    ],
+    "do_not_overcite": [
+      "A method demonstration and one deployment do not provide a regional methane inventory. Hotspot concentration is not a sea–air flux."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1021/acs.analchem.6c04761",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
   }
 ]

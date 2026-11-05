@@ -1,22 +1,22 @@
 # South China Sea source-review ledger / 南海冷泉原文核查记录
 
-Publication window / 发表时间范围：2016-10-12–2026-10-12.
+Publication window / 发表时间范围：2016-10-12–2026-11-05.
 
-301 inventory DOI records; 160 curated profiles. DOI records are not necessarily distinct studies: notices and retained preprints are counted separately.
+311 inventory DOI records; 179 curated profiles. DOI records are not necessarily distinct studies: notices and retained preprints are counted separately.
 
 DOI 记录数不等于独立研究数：勘误及保留的预印本单独计数。原文初筛、摘要证据提取与全文核查分别记录，背景初筛不产生图谱论断。
 
 | Review stage / 核查阶段 | Records / 记录数 |
 | --- | ---: |
-| Curated evidence / 已建立证据档案 | 160 |
+| Curated evidence / 已建立证据档案 | 179 |
 | Awaiting source review / 待核查原文 | 0 |
-| Source text needed / 需获取支持性原文 | 49 |
-| Screened context / 已初筛背景文献 | 70 |
+| Source text needed / 需获取支持性原文 | 42 |
+| Screened context / 已初筛背景文献 | 68 |
 | Excluded / 已排除 | 12 |
 | Linked correction / 已关联勘误 | 3 |
 | Publication version check / 需核查发表版本 | 7 |
 
-Curated access / 精选档案核查材料：122 abstract-scoped / 限于摘要；38 inspected full-text excerpts / 已核查相关全文段落。
+Curated access / 精选档案核查材料：129 abstract-scoped / 限于摘要；12 bibliographic-record only / 仅有经核验书目记录；38 inspected full-text excerpts / 已核查相关全文段落。
 
 A full-text-excerpt label identifies the sections actually inspected; it does not claim that every figure or supplement was reviewed. Abstract-scoped packets must be narrowed to explicit abstract findings. Neither DOI verification nor title screening is treated as claim verification.
 
@@ -29,25 +29,11 @@ A full-text-excerpt label identifies the sections actually inspected; it does no
 
 ### Source text needed / 需获取支持性原文
 
-- [Foraminiferal eDNA reveals ecological dynamics of a deep-sea cold seep ecosystem: Evidence from the “Haima” seep, South China Sea](https://doi.org/10.1016/j.seares.2026.102725) (2026). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
-  Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
-- [Seep-related carbonates on continental shelves: Distinctive processes and morphologies revealed by the Qiongdongnan Shelf, South China Sea](https://doi.org/10.1016/j.margeo.2026.107772) (2026). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
-  Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
 - [Cold seep related gas hydrate systems in the northern South China Sea: Activity and evolution constrained by high chlorinity and geophysical data](https://doi.org/10.1016/j.marger.2026.207691) (2026). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
   Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
 - [Estimation of Methane Leakage Flux from an Active Cold Seep in the South China Sea: A Case Study at Site F](https://doi.org/10.1007/s11802-026-6174-2) (2026). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
   Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
-- [Quantifying the deep-sea cold seep gas flux using multibeam water column data: A case study in the Shenhu area of the South China sea](https://doi.org/10.1016/j.dsr.2025.104644) (2026). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
-  Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
-- [Integrated optical and acoustic monitoring of deep-sea bubble plume – A case study in Haima cold seep](https://doi.org/10.1016/j.dsr.2025.104603) (2025). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
-  Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
-- [Multiple observations to delineate the characteristics of cold seep system in the Qiongdongnan Basin](https://doi.org/10.1016/j.marpetgeo.2025.107522) (2025). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
-  Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
 - [Phase Equilibria of Methane Hydrate in Various Mineral Systems in the Haima Cold Seep Area](https://doi.org/10.1021/acs.energyfuels.5c00909) (2025). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
-  Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
-- [Quantifying the flux of dissolved inorganic carbon in surface sediments of the Haima cold seep area, northern South China Sea](https://doi.org/10.1016/j.jseaes.2024.106454) (2025). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
-  Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
-- [Multistage formation and geochemical response of pipe-morphology cold seep carbonate in the Qiongdongnan Basin, northern South China Sea](https://doi.org/10.1016/j.chemgeo.2024.122524) (2025). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
   Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
 - [Experimental and modeling investigations on CH4 hydrate phase equilibria in multi-ion “Haima” cold seep environment](https://doi.org/10.1016/j.jgsce.2024.205362) (2024). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
   Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
@@ -130,8 +116,6 @@ A full-text-excerpt label identifies the sections actually inspected; it does no
 
 ### Screened context / 已初筛背景文献
 
-- [Unlocking deep sea cold seep biodiversity: Leveraging environmental DNA for macrofauna diversity estimation in Haima cold seep](https://doi.org/10.1016/j.dsr.2026.104675) (2026). Title screened: macrofaunal taxonomy, host genetics, biodiversity or host physiology. Retained as seep context outside the priority microbial-evidence extraction. 标题初筛属于大型动物分类、宿主遗传、生物多样性或宿主生理，作为冷泉背景保留，暂不纳入优先微生物证据提取。
-  Next action: Use for fauna/host context only after source-specific extraction; inspect microbiome components separately.
 - [Reniuristis brevicoxus gen. et sp. nov. (Amphipoda, Lysianassoidea, Uristidae) described from Site F cold seep in the South China Sea.](https://doi.org/10.11646/zootaxa.5792.3.7) (2026). Title screened: macrofaunal taxonomy, host genetics, biodiversity or host physiology. Retained as seep context outside the priority microbial-evidence extraction. 标题初筛属于大型动物分类、宿主遗传、生物多样性或宿主生理，作为冷泉背景保留，暂不纳入优先微生物证据提取。
   Next action: Use for fauna/host context only after source-specific extraction; inspect microbiome components separately.
 - [Deep learning-based bubble separation for passive acoustic monitoring of underwater gas plumesa).](https://doi.org/10.1121/10.0042232) (2026). Title screened; retained as environmental or methodological context. Source-specific scientific findings have not been extracted. 已进行标题初筛，保留为环境或方法背景；尚未提取可用于图谱的原文研究发现。
@@ -169,8 +153,6 @@ A full-text-excerpt label identifies the sections actually inspected; it does no
 - [﻿A new species of the genus Yoldiella (Bivalvia, Protobranchia, Yoldiidae) from Haima Cold Seep, South China Sea, China.](https://doi.org/10.3897/zookeys.1204.121088) (2024). Title screened: macrofaunal taxonomy, host genetics, biodiversity or host physiology. Retained as seep context outside the priority microbial-evidence extraction. 标题初筛属于大型动物分类、宿主遗传、生物多样性或宿主生理，作为冷泉背景保留，暂不纳入优先微生物证据提取。
   Next action: Use for fauna/host context only after source-specific extraction; inspect microbiome components separately.
 - [﻿A new chemosymbiotic bivalve species of the genus Acharax Dall, 1908 (Bivalvia, Solemyida, Solemyidae) from the Haima cold seep of the South China Sea.](https://doi.org/10.3897/zookeys.1198.112618) (2024). Title screened: macrofaunal taxonomy, host genetics, biodiversity or host physiology. Retained as seep context outside the priority microbial-evidence extraction. 标题初筛属于大型动物分类、宿主遗传、生物多样性或宿主生理，作为冷泉背景保留，暂不纳入优先微生物证据提取。
-  Next action: Use for fauna/host context only after source-specific extraction; inspect microbiome components separately.
-- [Trophic relationship between mussels and scale worms under various seepage intensities in the haima cold seep: Insights from stable isotopes (δ13C and δ15N) and C:N:P stoichiometry](https://doi.org/10.1016/j.dsr.2024.104264) (2024). Title screened: macrofaunal taxonomy, host genetics, biodiversity or host physiology. Retained as seep context outside the priority microbial-evidence extraction. 标题初筛属于大型动物分类、宿主遗传、生物多样性或宿主生理，作为冷泉背景保留，暂不纳入优先微生物证据提取。
   Next action: Use for fauna/host context only after source-specific extraction; inspect microbiome components separately.
 - [Environmental heterogeneity of cold seep by biological trait analysis of marine nematodes at Site F cold seep in South China Sea.](https://doi.org/10.1016/j.marpolbul.2023.115932) (2023). Title screened: macrofaunal taxonomy, host genetics, biodiversity or host physiology. Retained as seep context outside the priority microbial-evidence extraction. 标题初筛属于大型动物分类、宿主遗传、生物多样性或宿主生理，作为冷泉背景保留，暂不纳入优先微生物证据提取。
   Next action: Use for fauna/host context only after source-specific extraction; inspect microbiome components separately.

@@ -4,6 +4,90 @@ Original paraphrases; cite the primary study for scientific statements. Chinese 
 
 以下为原始概括，科学论断请引用对应原文。中文为阅读译文，正式文献标题保留出版语言。
 
+## Integrating eDNA and trawl surveys reveals fish diversity and functional redundancy in the Haima cold seep area
+
+环境 DNA 与拖网显示海马冷泉鱼类多样性及功能冗余
+
+Jiang, P., Zhang, S., Chen, Z., Zhang, J., Cai, Y., Pan, C., & Li, M. (2027). Integrating eDNA and trawl surveys reveals FISH diversity and functional redundancy in the Haima cold seep area. *Marine Environmental Research, 223*, Article 108507. https://doi.org/10.1016/j.marenvres.2026.108507
+
+**Design / 研究设计**: eDNA metabarcoding combined with trawl surveys of taxonomic, functional and phylogenetic fish diversity.
+
+用 eDNA 宏条形码结合拖网，评估鱼类的分类、功能和系统发育多样性。
+
+**Sampling scope / 采样范围**: Haima cold seep, an adjacent area and a non-seep control in the South China Sea.
+
+南海海马冷泉、邻近区域和一个非冷泉对照区。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Environmental-DNA metabarcoding
+
+环境 DNA 宏条形码分析
+
+**Measured or derived / 测量或推导指标**: fish diversity, functional richness and redundancy
+
+鱼类多样性、功能丰富度与冗余
+
+**Findings / 发现**: Shannon diversity, functional richness and phylogenetic diversity were higher at the seep and adjacent area than at the control. Mean functional richness was 0.137 versus 0.028, and 65 of 87 seep functional entities were single-species.
+
+冷泉及邻近区的香农多样性、功能丰富度和系统发育多样性高于对照。平均功能丰富度为 0.137，对照为 0.028；冷泉 87 个功能实体中有 65 个仅由单一物种代表。
+
+**Citation limits / 引用边界**: Low eDNA read share does not equal low abundance, and higher diversity with low redundancy is not a protection status.
+
+eDNA 读段占比低不等于丰度低，多样性高且冗余低也不等于保护状态。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.marenvres.2026.108507) · `src:scs-haima-fish-edna-trawl`
+
+## Anomalous mercury isotopic composition highlights the essential role of terrestrial erosion in forming cold seeps in the continental margin of the South China Sea
+
+汞同位素异常显示陆源侵蚀对南海陆缘冷泉形成的作用
+
+Sun, X., Jia, R., Yin, R., & Yang, X. (2026). Anomalous mercury isotopic composition highlights the essential role of terrestrial erosion in forming cold seeps in the continental margin of the South China Sea. *Journal of Asian Earth Sciences, 310*, Article 107253. https://doi.org/10.1016/j.jseaes.2026.107253
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: Cold seeps on the continental margin of the South China Sea.
+
+南海陆缘冷泉。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Trace-metal analysis; Porewater and water geochemistry
+
+痕量金属分析；孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: title-scoped mercury isotopes and terrestrial erosion
+
+标题范围内的汞同位素与陆源侵蚀
+
+**Findings / 发现**: The title reports that anomalous mercury isotopic composition highlights a role for terrestrial erosion in forming those cold seeps.
+
+标题报道异常的汞同位素组成凸显了陆源侵蚀在这些冷泉形成中的作用。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.jseaes.2026.107253) · `src:scs-scs-margin-mercury-isotopes`
+
 ## Biogeographic patterns and metabolic potential of chemoautotrophic communities in cold seep sediments across subarctic to tropical regions
 
 亚寒带至热带冷泉沉积物化能自养群落与碳固定潜力的比较
@@ -45,6 +129,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/42748661) · `src:scs-cross-latitude-carbon-fixation`
+
+## Ca isotope fractionation during precipitation of authigenic carbonates: A case study from the Haima cold seep, northern South China Sea
+
+海马冷泉自生碳酸盐沉淀过程中的钙同位素分馏
+
+Cao, J., Zhou, J., Feng, J., Tao, J., Xuan, J., & Yang, S. (2026). Ca isotope fractionation during precipitation of authigenic carbonates: A case study from the Haima cold seep, northern South China Sea. *Chemical Geology, 721*, Article 123625. https://doi.org/10.1016/j.chemgeo.2026.123625
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: Authigenic carbonates at the Haima cold seep, northern South China Sea.
+
+南海北部海马冷泉的自生碳酸盐。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: title-scoped calcium-isotope fractionation
+
+标题范围内的钙同位素分馏
+
+**Findings / 发现**: The title reports calcium-isotope fractionation during precipitation of Haima authigenic carbonates.
+
+标题报道海马自生碳酸盐沉淀过程中的钙同位素分馏。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.chemgeo.2026.123625) · `src:scs-haima-carbonate-ca-isotopes`
 
 ## Characterizing iron-bound organic carbon in cold seep sediment cores: impacts of anaerobic oxidation of methane
 
@@ -129,6 +255,48 @@ Evidence locator / 证据位置：Abstract; Methods: Metagenomic datasets
 摘要；方法：宏基因组数据集
 
 [Inspected source / 核查来源](https://doi.org/10.1038/s41467-025-68174-6) · `src:scs-seep-defense-systems`
+
+## Continuous Characterization of Water-Column Velocity in Cold Seep Plumes Using Pre-Stack Allied Elastic Impedance Inversion
+
+用叠前联合弹性阻抗反演连续刻画冷泉羽流的水体速度
+
+Li, C., Ma, M., Wang, R., Zhang, H., Liu, Y., Chang, L., Liang, J., Chen, F., & Bao, B. (2026). Continuous characterization of water-column velocity in cold seep plumes using pre-stack allied elastic impedance inversion. *Journal of Marine Science and Engineering, 14*(18), Article 1699. https://doi.org/10.3390/jmse14181699
+
+**Design / 研究设计**: CTD-constrained two-angle allied elastic-impedance inversion of pre-stack seismic data.
+
+用 CTD 约束的双角度联合弹性阻抗反演处理叠前地震数据。
+
+**Sampling scope / 采样范围**: Water column over cold-seep plumes in the Shenhu area, northern South China Sea.
+
+南海北部神狐冷泉羽流上方的水体。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Marine geophysical survey
+
+海洋地球物理调查
+
+**Measured or derived / 测量或推导指标**: inverted water-column velocity
+
+反演水体速度
+
+**Findings / 发现**: Inverted water-column velocity was 1,460–1,560 m/s, with stronger vertical than lateral change. Within 0–1,800 ms the root-mean-square difference from CTD velocity was 18.19 m/s.
+
+反演水体速度为 1,460–1,560 m/s，垂向变化强于横向变化。在 0–1,800 ms 内，与 CTD 速度的均方根差为 18.19 m/s。
+
+**Citation limits / 引用边界**: Velocity agreement with CTD is a method check. It is not a methane flux or a bubble-dissolution rate.
+
+与 CTD 的速度一致性是方法检验，不是甲烷通量或气泡溶解速率。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.3390/jmse14181699) · `src:scs-shenhu-plume-velocity`
 
 ## Deciphering the environmental fate of halogenated organic compounds in cold seep sediments: Insights from non-targeted analysis and metagenomics across vertical redox gradients
 
@@ -342,6 +510,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/42363854) · `src:scs-haima-stenotrophomonas-wo2`
 
+## Dual-Wavelength OA-ICOS for Sensitive and Wide-Range In Situ Measurement of Dissolved Methane in Deep-Sea Cold Seeps
+
+用于深海冷泉溶解甲烷原位测量的双波长 OA-ICOS
+
+Gu, M., Chen, J., Chen, J., Mei, J., Wang, G., Tan, T., Liu, K., & Gao, X. (2026). Dual-wavelength OA-ICOS for sensitive and wide-range in situ measurement of dissolved methane in deep-sea cold seeps. *Analytical Chemistry, 98*(37), 27668–27678. https://doi.org/10.1021/acs.analchem.6c04761
+
+**Design / 研究设计**: Dual-wavelength off-axis integrated-cavity spectroscopy near 1,651 and 1,658 nm, with membrane extraction of dissolved methane.
+
+1,651 与 1,658 nm 附近的双波长离轴积分腔光谱，并用膜提取溶解甲烷。
+
+**Sampling scope / 采样范围**: Field deployment on a manned submersible in the northern South China Sea.
+
+在南海北部由载人潜水器部署。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: In situ seabed monitoring
+
+海底原位监测
+
+**Measured or derived / 测量或推导指标**: dissolved-methane calibration and field hotspots
+
+溶解甲烷标定与现场热点
+
+**Findings / 发现**: Gas-phase calibration was linear above R2 0.999 on both channels. The northern South China Sea deployment resolved near-bottom enrichment, rapid vertical loss, and local hotspots above 250 ppm.
+
+两个通道的气相标定线性 R2 均高于 0.999。南海北部部署分辨出近底层富集、快速的垂向降低，以及超过 250 ppm 的局部热点。
+
+**Citation limits / 引用边界**: A method demonstration and one deployment do not provide a regional methane inventory. Hotspot concentration is not a sea–air flux.
+
+一次方法演示和一次部署不能提供区域甲烷清单。热点浓度不是海气通量。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1021/acs.analchem.6c04761) · `src:scs-scs-dissolved-methane-sensor`
+
 ## Enrichment of potential polyvinyl chloride and polycarbonate microplastic-degrading bacteria and their distribution characteristics in deep-sea cold seep
 
 海马冷泉 PVC 与聚碳酸酯潜在降解菌的富集与分布
@@ -425,6 +635,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/41610539) · `src:scs-haima-plume-fate`
+
+## Foraminiferal eDNA reveals ecological dynamics of a deep-sea cold seep ecosystem: Evidence from the “Haima” seep, South China Sea
+
+海马冷泉有孔虫环境 DNA 的生态格局
+
+Li, H., Lei, Y., Jin, H., Yang, Z., Shi, J., & Yu, F. (2026). Foraminiferal eDNA reveals ecological dynamics of a deep-sea cold seep ecosystem: Evidence from the “Haima” seep, South China Sea. *Journal of Sea Research, 212*, Article 102725. https://doi.org/10.1016/j.seares.2026.102725
+
+**Design / 研究设计**: Foraminiferal eDNA metabarcoding of surface sediments and a Holocene core, with bacterial functional annotation.
+
+对表层沉积物和一根全新世岩芯做有孔虫 eDNA 宏条形码，并注释细菌功能。
+
+**Sampling scope / 采样范围**: Surface sediments along a Haima seepage gradient and radiocarbon-dated core SY186-3.
+
+沿海马渗漏梯度的表层沉积物，以及放射性碳定年岩芯 SY186-3。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Environmental-DNA metabarcoding
+
+环境 DNA 宏条形码分析
+
+**Measured or derived / 测量或推导指标**: foraminiferal eDNA diversity and sulfur-metabolizing bacteria
+
+有孔虫 eDNA 多样性与硫代谢细菌
+
+**Findings / 发现**: Read abundance declined toward the seep center while Shannon and Margalef diversity increased. Sulfur-metabolizing bacteria were enriched near the seep, and the core showed an early rise in foraminifera followed by millennial-scale swings.
+
+读段丰度向冷泉中心降低，而香农和 Margalef 多样性升高。冷泉附近硫代谢细菌富集；岩芯显示有孔虫早期增加，之后出现千年尺度波动。
+
+**Citation limits / 引用边界**: eDNA read abundance is not a census of living tests, and bacterial functions are annotations rather than measured sulfur fluxes.
+
+eDNA 读段丰度不是活体壳体普查，细菌功能是注释而不是实测硫通量。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.seares.2026.102725) · `src:scs-haima-foraminifera-edna`
 
 ## Functional Characterization of Fad Genes from Two Chemosymbiotic Bivalves Inhabiting the Haima Cold Seep
 
@@ -551,6 +803,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://doi.org/10.3390/jmse14201881) · `src:scs-haima-hydrate-geophysics-2026`
+
+## Heavy hydrocarbons buffering by subsurface gas hydrate in cold seep systems
+
+冷泉系统中地下天然气水合物对重烃的缓冲
+
+Jia, Z., Lai, H., Cui, N., Deng, Y., Sun, X., Ren, J., Deng, W., Fang, Y., Cao, J., Chen, F., & Kuang, Z. (2026). Heavy hydrocarbons buffering by subsurface gas hydrate in cold seep systems. *Global and Planetary Change, 265*, Article 105633. https://doi.org/10.1016/j.gloplacha.2026.105633
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: Cold-seep systems in the Qiongdongnan Basin, as identified for this DOI on the secondary-reviewed literature page.
+
+二次复核文献页将该 DOI 标为琼东南盆地冷泉系统。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: title-scoped hydrate buffering of heavy hydrocarbons
+
+标题范围内水合物对重烃的缓冲
+
+**Findings / 发现**: The title reports buffering of heavy hydrocarbons by subsurface gas hydrate in cold-seep systems.
+
+标题报道冷泉系统中地下天然气水合物对重烃的缓冲。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.gloplacha.2026.105633) · `src:scs-qiongdongnan-hydrate-hydrocarbons`
 
 ## Hydrostatic pressure drives metabolic strategies for anaerobic hydrocarbon degradation in cold seep sediments: from autonomy to syntrophic cooperation revealed by metagenomics
 
@@ -846,6 +1140,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 
 [Inspected source / 核查来源](https://doi.org/10.1029/2026gc013027) · `src:scs-hydrate-fluid-self-sealing-model`
 
+## Quantifying the deep-sea cold seep gas flux using multibeam water column data: A case study in the Shenhu area of the South China sea
+
+神狐海域多波束水体数据量化深海冷泉气体通量
+
+Wang, F., Mei, S., Bu, X., Yang, F., Chen, J., & Zhao, Z. (2026). Quantifying the deep-sea cold seep gas flux using multibeam water column data: A case study in the Shenhu area of the South China Sea. *Deep Sea Research Part I: Oceanographic Research Papers, 227*, Article 104644. https://doi.org/10.1016/j.dsr.2025.104644
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: The Shenhu area of the South China Sea.
+
+南海神狐海域。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Multibeam bathymetric mapping
+
+多波束测深测绘
+
+**Measured or derived / 测量或推导指标**: title-scoped multibeam gas flux
+
+标题范围内的多波束气体通量
+
+**Findings / 发现**: The title reports quantification of deep-sea cold-seep gas flux from multibeam water-column data at Shenhu.
+
+标题报道利用多波束水体数据量化神狐深海冷泉气体通量。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.dsr.2025.104644) · `src:scs-shenhu-multibeam-gas-flux`
+
 ## Rapid Post-Recovery Changes in the Gill Holobiont of the Deep-Sea Mussel Gigantidas haimaensis During Short-Term Ex Situ Maintenance
 
 海马贻贝离底回收后鳃共生体系在数小时内的变化
@@ -973,6 +1309,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/42234498) · `src:scs-salegentibacter-two-species`
+
+## Seep-related carbonates on continental shelves: Distinctive processes and morphologies revealed by the Qiongdongnan Shelf, South China Sea
+
+琼东南陆架冷泉碳酸盐的过程与形态
+
+Wang, H., Zhao, Q., Wang, F., Hua, Q., Xie, Q., Liu, Y., Liu, C., Pei, Y., Li, X., Feng, Y., & Cao, F. (2026). Seep-related carbonates on continental shelves: Distinctive processes and morphologies revealed by the Qiongdongnan shelf, South China Sea. *Marine Geology, 496*, Article 107772. https://doi.org/10.1016/j.margeo.2026.107772
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: Seep-related carbonates on the Qiongdongnan Shelf, South China Sea.
+
+南海琼东南陆架的冷泉相关碳酸盐。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: title-scoped shelf carbonate processes and morphologies
+
+标题范围内的陆架碳酸盐过程与形态
+
+**Findings / 发现**: The title reports distinctive processes and morphologies of seep-related carbonates on that shelf.
+
+标题报道该陆架冷泉碳酸盐特有的形成过程与形态。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.margeo.2026.107772) · `src:scs-qiongdongnan-shelf-carbonate`
 
 ## Spatial Heterogeneity of Microbial Communities and Biogeochemical Function in Water Column of Site F Cold Seep, South China Sea
 
@@ -1141,6 +1519,48 @@ Evidence locator / 证据位置：Abstract; Sample collection and measurement of
 摘要；环境因素的样品采集和测量
 
 [Inspected source / 核查来源](https://doi.org/10.1128/spectrum.00256-26) · `src:scs-haima-domains-water-sediment-2026`
+
+## Unlocking deep sea cold seep biodiversity: Leveraging environmental DNA for macrofauna diversity estimation in Haima cold seep
+
+利用环境 DNA 估计海马冷泉大型底栖生物多样性
+
+Yao, G., Zhang, H., Liu, W., & He, M. (2026). Unlocking deep sea cold seep biodiversity: Leveraging environmental DNA for macrofauna diversity estimation in Haima cold seep. *Deep Sea Research Part I: Oceanographic Research Papers, 229*, Article 104675. https://doi.org/10.1016/j.dsr.2026.104675
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: The Haima cold seep.
+
+海马冷泉。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Environmental-DNA metabarcoding
+
+环境 DNA 宏条形码分析
+
+**Measured or derived / 测量或推导指标**: title-scoped macrofauna eDNA diversity
+
+标题范围内的大型底栖生物 eDNA 多样性
+
+**Findings / 发现**: The title reports use of environmental DNA to estimate macrofauna diversity at Haima.
+
+标题报道利用环境 DNA 估计海马冷泉大型底栖生物多样性。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.dsr.2026.104675) · `src:scs-haima-macrofauna-edna`
 
 ## Vertical stratification and metabolic versatility of methanogens in Haima cold seep sediments: Alkane-fueled acetoclastic methanogenesis revealed by metagenomics and experimental verification
 
@@ -1818,6 +2238,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 
 [Inspected source / 核查来源](https://doi.org/10.59717/j.xinn-geo.2024.100123) · `src:scs-haima-organotrophic-chitin`
 
+## Formation of the authigenic pyrite in the gas hydrate-bearing layer of the Shenhu region, northern South China Sea: Constraints from geochemical and sulfur isotope compositions
+
+神狐含水合物层自生黄铁矿的硫同位素约束
+
+Cao, J., Liu, X., Feng, J., Deng, Y., Zhou, J., Tian, D., Li, Y., Hu, G., Yang, S., Lu, H., & Zhou, J. (2025). Formation of the authigenic pyrite in the gas hydrate-bearing layer of the Shenhu region, northern South China Sea: Constraints from geochemical and sulfur isotope compositions. *GEOCHEMICAL JOURNAL, 59*(3), Article GJ25004. https://doi.org/10.2343/geochemj.gj25004
+
+**Design / 研究设计**: In-situ elemental and sulfur-isotope analyses of framboidal and subhedral pyrite.
+
+对莓状和半自形黄铁矿做原位元素和硫同位素分析。
+
+**Sampling scope / 采样范围**: Authigenic pyrite in a gas-hydrate-bearing layer from a Shenhu drill core, northern South China Sea.
+
+南海北部神狐钻探岩芯中含水合物层的自生黄铁矿。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: pyrite morphology and δ34S
+
+黄铁矿形态与 δ34S
+
+**Findings / 发现**: Framboidal pyrite had negative δ34S from −24.5‰ to −7.1‰ and higher trace-element contents, whereas subhedral pyrite had positive δ34S from 2.7‰ to 41.4‰. The authors link the sequence to sulfate-driven anaerobic methane oxidation in a closed hydrate-bearing system.
+
+莓状黄铁矿 δ34S 为 −24.5‰ 至 −7.1‰，微量元素较高；半自形黄铁矿 δ34S 为 2.7‰ 至 41.4‰。作者把这一序列与封闭的含水合物体系中硫酸盐驱动的厌氧甲烷氧化相联系。
+
+**Citation limits / 引用边界**: Pyrite chemistry can indicate past hydrate-related diagenesis. It does not show that hydrate is still present or provide a methane flux.
+
+黄铁矿化学可以指示过去与水合物相关的成岩作用，不能说明水合物仍然存在，也不提供甲烷通量。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.2343/geochemj.gj25004) · `src:scs-shenhu-hydrate-pyrite`
+
 ## Functional and microbial insights into the gill symbiosis and metal tolerance of the cold seep mussel Gigantidas haimaensis
 
 海马贻贝鳃共生、金属积累与组织响应
@@ -1945,6 +2407,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/41356487) · `src:scs-haima-horizontal-assembly`
+
+## Integrated optical and acoustic monitoring of deep-sea bubble plume – A case study in Haima cold seep
+
+海马冷泉深海气泡羽流的光学与声学联合监测
+
+Liu, S., Liu, B., Du, M., Yang, C., & Xu, W. (2025). Integrated optical and acoustic monitoring of deep-sea bubble plume – a case study in Haima cold seep. *Deep Sea Research Part I: Oceanographic Research Papers, 226*, Article 104603. https://doi.org/10.1016/j.dsr.2025.104603
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: A bubble plume at the Haima cold seep.
+
+海马冷泉的一处气泡羽流。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: In situ seabed monitoring; Multibeam bathymetric mapping
+
+海底原位监测；多波束测深测绘
+
+**Measured or derived / 测量或推导指标**: title-scoped optical and acoustic plume monitoring
+
+标题范围内的光学与声学羽流监测
+
+**Findings / 发现**: The title reports integrated optical and acoustic monitoring of a deep-sea bubble plume at Haima.
+
+标题报道对海马深海气泡羽流的光学与声学联合监测。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.dsr.2025.104603) · `src:scs-haima-bubble-plume-monitoring`
 
 ## Lignin Unlocks Stealth Carbon Sinks in Cold Seeps via Microbial Enzymatic Gatekeeping
 
@@ -2200,6 +2704,90 @@ Sampling；采样点地球化学条件；基于 PhyloFlash 的碳酸盐微生物
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/41480263) · `src:scs-sitef-carbonate-spatial-microbiomes`
 
+## Multiple observations to delineate the characteristics of cold seep system in the Qiongdongnan Basin
+
+多源观测刻画琼东南盆地冷泉系统特征
+
+Wang, X., Wang, W., Jin, J., Zhang, G., Luan, Z., Li, C., Wang, M., Zhang, Z., Liu, B., Li, W., & Li, S. (2025). Multiple observations to delineate the characteristics of cold seep system in the Qiongdongnan basin. *Marine and Petroleum Geology, 181*, Article 107522. https://doi.org/10.1016/j.marpetgeo.2025.107522
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: The cold-seep system of the Qiongdongnan Basin.
+
+琼东南盆地冷泉系统。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Marine geophysical survey; Porewater and water geochemistry
+
+海洋地球物理调查；孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: title-scoped multi-observation seep characterization
+
+标题范围内的多源冷泉刻画
+
+**Findings / 发现**: The title reports multiple observations used to delineate characteristics of that cold-seep system.
+
+标题报道用多种观测刻画该冷泉系统的特征。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.marpetgeo.2025.107522) · `src:scs-qiongdongnan-seep-system`
+
+## Multistage formation and geochemical response of pipe-morphology cold seep carbonate in the Qiongdongnan Basin, northern South China Sea
+
+琼东南盆地管状冷泉碳酸盐的多期形成与地球化学响应
+
+Zhao, J., Wu, X., Zhang, W., Wan, Z., Dong, Y., Xiao, X., Wu, Y., Wu, X., Feng, J., & Liang, Q. (2025). Multistage formation and geochemical response of pipe-morphology cold seep carbonate in the Qiongdongnan basin, northern South China Sea. *Chemical Geology, 673*, Article 122524. https://doi.org/10.1016/j.chemgeo.2024.122524
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: Pipe-morphology cold-seep carbonate in the Qiongdongnan Basin, northern South China Sea.
+
+南海北部琼东南盆地的管状冷泉碳酸盐。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: title-scoped multistage pipe carbonate
+
+标题范围内的多期管状碳酸盐
+
+**Findings / 发现**: The title reports multistage formation and geochemical response of that pipe-morphology carbonate.
+
+标题报道该管状冷泉碳酸盐的多期形成与地球化学响应。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.chemgeo.2024.122524) · `src:scs-qiongdongnan-pipe-carbonate`
+
 ## New discovery of submarine active cold seep and influencing factors of plume morphology in the South China Sea
 
 神狐白云凹陷新识别气泡羽流及冷泉活动
@@ -2241,6 +2829,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://doi.org/10.1063/5.0298170) · `src:scs-shenhu-new-plume-field`
+
+## Quantifying the flux of dissolved inorganic carbon in surface sediments of the Haima cold seep area, northern South China Sea
+
+海马冷泉区表层沉积物溶解无机碳通量
+
+Di, P., Li, N., Feng, D., Peckmann, J., Wang, S., & Chen, D. (2025). Quantifying the flux of dissolved inorganic carbon in surface sediments of the Haima cold seep area, northern South China Sea. *Journal of Asian Earth Sciences, 279*, Article 106454. https://doi.org/10.1016/j.jseaes.2024.106454
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: Surface sediments of the Haima cold seep, northern South China Sea.
+
+南海北部海马冷泉区表层沉积物。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: title-scoped DIC flux
+
+标题范围内的溶解无机碳通量
+
+**Findings / 发现**: The title reports a quantification of dissolved-inorganic-carbon flux in Haima surface sediments.
+
+标题报道对海马表层沉积物溶解无机碳通量的量化。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.jseaes.2024.106454) · `src:scs-haima-dic-flux`
 
 ## Sediment depth impacts microbial community structure in methane seepage regions
 
@@ -3084,6 +3714,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/39770655) · `src:scs-yungan-tubeworm-microbes`
 
+## Molybdenum Isotope Fingerprinting of Microbial Sulfate Reduction in Seep Carbonate Rocks
+
+冷泉碳酸盐中微生物硫酸盐还原的钼同位素指纹
+
+Jia, Z., Hu, Y., Bayon, G., Peckmann, J., Wang, X., Gong, S., Li, J., Roberts, H. H., Chen, D., & Feng, D. (2024). Molybdenum isotope fingerprinting of microbial sulfate reduction in seep carbonate rocks. *Geochemistry, Geophysics, Geosystems, 25*(3), Article e2023GC011379. https://doi.org/10.1029/2023gc011379
+
+**Design / 研究设计**: Molybdenum abundances and δ98Mo of bulk, carbonate, pyrite and organic-matter fractions.
+
+测定全岩、碳酸盐、黄铁矿和有机质组分的钼含量与 δ98Mo。
+
+**Sampling scope / 采样范围**: Seep carbonate rocks, including SCS Site F as identified on the literature page. The inspected abstract does not list every locality.
+
+冷泉碳酸盐岩；文献页指出其中包括南海 F 站。所查摘要没有列出全部地点。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry; Trace-metal analysis
+
+孔隙水与水体地球化学；痕量金属分析
+
+**Measured or derived / 测量或推导指标**: δ98Mo offsets among carbonate fractions
+
+碳酸盐各组分之间的 δ98Mo 差值
+
+**Findings / 发现**: The carbonate-minus-organic-matter δ98Mo offset ranged from 0.72‰ to 1.01‰ and tracked carbon isotopes, organic carbon, molybdenum and pyrite. The authors interpret this as adsorption of isotopically light molybdenum onto organic matter during sulfate reduction.
+
+碳酸盐与有机质的 δ98Mo 差值为 0.72‰ 至 1.01‰，并与碳同位素、有机碳、钼和黄铁矿同步变化。作者将其解释为硫酸盐还原期间轻钼同位素被有机质吸附。
+
+**Citation limits / 引用边界**: The offset is a proposed intensity proxy for the studied rocks. It does not measure a sulfate-reduction rate at Site F alone.
+
+该差值是对所研究岩石提出的强度指标，不能单独测量 F 站的硫酸盐还原速率。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1029/2023gc011379) · `src:scs-seep-carbonate-molybdenum`
+
 ## New Phenol Derivatives from the Haima Cold Seep-Derived Fungus Aspergillus subversicolor CYH-17
 
 海马 Aspergillus subversicolor 新酚类及阴性活性筛查
@@ -3210,6 +3882,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/38734093) · `src:scs-haima-microplastic-occurrence`
 
+## Seep carbonate clumped isotopes revealing ocean warming-induced gas hydrate dissociation
+
+冷泉碳酸盐团簇同位素揭示变暖诱发的天然气水合物分解
+
+Liu, L., Guan, H., Wu, N., Chang, B., Chen, F., Feng, D., & Li, S. (2024). Seep carbonate clumped isotopes revealing ocean warming-induced gas hydrate dissociation. *Global and Planetary Change, 237*, Article 104439. https://doi.org/10.1016/j.gloplacha.2024.104439
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: Seep carbonates interpreted on the literature page as a South China Sea hydrate record.
+
+文献页将其标为南海水合物记录的冷泉碳酸盐。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: title-scoped clumped-isotope hydrate dissociation
+
+标题范围内的团簇同位素水合物分解
+
+**Findings / 发现**: The title reports that seep-carbonate clumped isotopes reveal gas-hydrate dissociation induced by ocean warming.
+
+标题报道冷泉碳酸盐团簇同位素揭示海洋变暖诱发的天然气水合物分解。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.gloplacha.2024.104439) · `src:scs-scs-carbonate-clumped-isotopes`
+
 ## Speciation and distribution of arsenic in cold seep sediments of the South China Sea
 
 南海冷泉砷形态、孔隙水释放与培养响应
@@ -3296,6 +4010,48 @@ Evidence locator / 证据位置：Abstract; Samples collection and geochemistry 
 
 Data accessions / 数据登录号：PRJNA954131
 
+## The formation of tubular seep carbonate deciphered from mineralogical and geochemical characteristics: an example from the South China Sea
+
+南海管状冷泉碳酸盐的矿物学与地球化学形成过程
+
+Wei, J., Miao, X., Gan, K., Li, J., Li, J., Liu, X., Xu, H., Chen, S., Ta, K., Wan, Z., & Wu, T. (2024). The formation of tubular seep carbonate deciphered from mineralogical and geochemical characteristics: An example from the South China Sea. *Frontiers in Marine Science, 11*, Article 1451624. https://doi.org/10.3389/fmars.2024.1451624
+
+**Design / 研究设计**: Mineralogy, carbon and oxygen isotopes, rare-earth elements and uranium enrichment from rim to core.
+
+从外缘到核心分析矿物、碳氧同位素、稀土元素和铀富集。
+
+**Sampling scope / 采样范围**: Tubular seep carbonate SQW-65 from the South China Sea.
+
+来自南海的管状冷泉碳酸盐 SQW-65。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: δ13C, δ18O, cerium anomaly and uranium enrichment
+
+δ13C、δ18O、铈异常与铀富集
+
+**Findings / 发现**: Strongly negative δ13C and positive δ18O were taken as gas-hydrate dissociation. Lack of a cerium anomaly and uranium enrichment indicated anoxic formation, and sulfate-driven AOM was inferred to intensify as the conduit narrowed.
+
+显著负的 δ13C 和正的 δ18O 被解释为天然气水合物分解。无明显铈异常且铀富集，指示缺氧形成；随着通道变窄，硫酸盐驱动的 AOM 被推断增强。
+
+**Citation limits / 引用边界**: One tubular sample does not date a regional hydrate-dissociation event, and the AOM intensification is inferred from rim-to-core trends.
+
+一件管状样品不能确定区域性水合物分解事件，AOM 增强也是根据从外缘到核心的趋势推断的。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/fmars.2024.1451624) · `src:scs-scs-tubular-carbonate`
+
 ## To live or die: “Fine-tuning” adaptation revealed by systemic analyses in symbiotic bathymodiolin mussels from diverse deep-sea extreme ecosystems
 
 活跃与衰亡冷泉、热液中贻贝宿主与共生菌的响应
@@ -3337,6 +4093,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/38278266) · `src:scs-mussel-seep-vent-host-microbe-response`
+
+## Trophic relationship between mussels and scale worms under various seepage intensities in the haima cold seep: Insights from stable isotopes (δ13C and δ15N) and C:N:P stoichiometry
+
+不同渗漏强度下海马冷泉贻贝与鳞沙蚕的营养关系
+
+Ke, Z., Huang, H., Chen, D., & Tan, Y. (2024). Trophic relationship between mussels and scale worms under various seepage intensities in the Haima cold seep: Insights from stable isotopes (δ13c and δ15n) and c:n:p stoichiometry. *Deep Sea Research Part I: Oceanographic Research Papers, 206*, Article 104264. https://doi.org/10.1016/j.dsr.2024.104264
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Sampling scope / 采样范围**: Mussels and scale worms at the Haima cold seep under a range of seepage intensities.
+
+不同渗漏强度下海马冷泉的贻贝与鳞沙蚕。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: title-scoped isotopes and C:N:P stoichiometry
+
+标题范围内的同位素与 C:N:P 化学计量
+
+**Findings / 发现**: The title reports trophic relationships from stable carbon and nitrogen isotopes and C:N:P stoichiometry across seepage intensities.
+
+标题报道用碳氮稳定同位素和 C:N:P 化学计量比较不同渗漏强度下的营养关系。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.dsr.2024.104264) · `src:scs-haima-mussel-scaleworm-trophic`
 
 ## Active pathways of anaerobic methane oxidization in deep-sea cold seeps of the South China Sea
 
