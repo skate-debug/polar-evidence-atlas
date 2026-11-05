@@ -3150,6 +3150,131 @@
       },
       "article-number": "29"
     },
+    "10.1007/s11802-026-6174-2": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            4
+          ]
+        ]
+      },
+      "DOI": "10.1007/s11802-026-6174-2",
+      "type": "journal-article",
+      "page": "527-538",
+      "title": [
+        "Estimation of Methane Leakage Flux from an Active Cold Seep in the South China Sea: A Case Study at Site F"
+      ],
+      "volume": "25",
+      "author": [
+        {
+          "given": "Qianqian",
+          "family": "Li",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lei",
+          "family": "Xing",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Boran",
+          "family": "Lyu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wenrui",
+          "family": "Peng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hongmao",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jin",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaochuan",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            13
+          ]
+        ]
+      },
+      "container-title": [
+        "Journal of Ocean University of China"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            13
+          ]
+        ]
+      }
+    },
     "10.1007/s11802-026-6261-4": {
       "publisher": "Springer Science and Business Media LLC",
       "issue": "3",
@@ -9786,6 +9911,167 @@
       "URL": "https://doi.org/10.1016/j.marchem.2025.104570",
       "relation": {},
       "article-number": "104570"
+    },
+    "10.1016/j.marchem.2026.104657": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2026-07-01T00:00:00Z",
+            "timestamp": 1782864000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2026-07-01T00:00:00Z",
+            "timestamp": 1782864000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2026-07-01T00:00:00Z",
+            "timestamp": 1782864000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2026-07-01T00:00:00Z",
+            "timestamp": 1782864000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2026-07-01T00:00:00Z",
+            "timestamp": 1782864000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2026-07-01T00:00:00Z",
+            "timestamp": 1782864000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2026-07-01T00:00:00Z",
+            "timestamp": 1782864000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.marchem.2026.104657",
+      "type": "journal-article",
+      "page": "104657",
+      "title": [
+        "Geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge"
+      ],
+      "volume": "277",
+      "author": [
+        {
+          "given": "Seyed Reza",
+          "family": "Saghravani",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Marine Chemistry"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.marchem.2026.104657",
+      "relation": {},
+      "article-number": "104657"
     },
     "10.1016/j.marenvres.2019.01.009": {
       "publisher": "Elsevier BV",
@@ -22610,6 +22896,206 @@
         ]
       },
       "article-number": "e2026GL124120"
+    },
+    "10.1029/2026jc023988": {
+      "publisher": "American Geophysical Union (AGU)",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                19
+              ]
+            ],
+            "date-time": "2026-03-19T00:00:00Z",
+            "timestamp": 1773878400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 18,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2026-03-01T00:00:00Z",
+            "timestamp": 1772323200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1029/2026jc023988",
+      "type": "journal-article",
+      "title": [
+        "Isotopic Signature of Organic Nitrogen in Authigenic Carbonates: Implications for Dynamic Nitrogen Cycling at Submarine Cold Seeps"
+      ],
+      "volume": "131",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0009-0568-7845",
+          "authenticated-orcid": false,
+          "given": "Bairui",
+          "family": "Zhang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "College of Oceanography and Ecological Science Shanghai Ocean University  Shanghai China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7906-6640",
+          "authenticated-orcid": false,
+          "given": "Yu",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Oceanography and Ecological Science Shanghai Ocean University  Shanghai China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8572-0060",
+          "authenticated-orcid": false,
+          "given": "Jörn",
+          "family": "Peckmann",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Earth System Sciences University of Hamburg  Hamburg Germany"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Dong",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Oceanography and Ecological Science Shanghai Ocean University  Shanghai China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Linying",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Oceanography and Ecological Science Shanghai Ocean University  Shanghai China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7612-8823",
+          "authenticated-orcid": false,
+          "given": "Dong",
+          "family": "Feng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Oceanography and Ecological Science Shanghai Ocean University  Shanghai China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9519-5311",
+          "authenticated-orcid": false,
+          "given": "Duofu",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Oceanography and Ecological Science Shanghai Ocean University  Shanghai China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            19
+          ]
+        ]
+      },
+      "container-title": [
+        "Journal of Geophysical Research: Oceans"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            3
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1029/2026jc023988",
+      "relation": {},
+      "article-number": "e2026JC023988"
     },
     "10.1038/19751": {
       "publisher": "Springer Science and Business Media LLC",
@@ -42542,6 +43028,137 @@
       "relation": {},
       "article-number": "e2528615123"
     },
+    "10.1073/pnas.2533639123": {
+      "publisher": "National Academy of Sciences",
+      "issue": "44",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                26
+              ]
+            ],
+            "date-time": "2026-10-26T00:00:00Z",
+            "timestamp": 1792972800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1073/pnas.2533639123",
+      "type": "journal-article",
+      "title": [
+        "Global high rates of anaerobic methane oxidation at marine cold seeps recorded by isotope bonding in seep carbonates"
+      ],
+      "volume": "123",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-6415-5293",
+          "authenticated-orcid": false,
+          "given": "Scott T.",
+          "family": "Wieman",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03zbnzt98",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "The Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Oceanography/Applied Ocean Science and Engineering",
+              "place": [
+                "Woods Hole"
+              ]
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03zbnzt98",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Geology and Geophysics, Woods Hole Oceanographic Institution",
+              "place": [
+                "Woods Hole"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Weifu",
+          "family": "Guo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03zbnzt98",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Department of Geology and Geophysics, Woods Hole Oceanographic Institution",
+              "place": [
+                "Woods Hole"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            26
+          ]
+        ]
+      },
+      "container-title": [
+        "Proceedings of the National Academy of Sciences"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            26
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1073/pnas.2533639123",
+      "relation": {},
+      "article-number": "e2533639123"
+    },
     "10.1080/14786419.2023.2294483": {
       "publisher": "Informa UK Limited",
       "issue": "8",
@@ -46429,6 +47046,88 @@
       "URL": "http://dx.doi.org/10.1093/nsr/nwag314",
       "relation": {},
       "article-number": "nwag314"
+    },
+    "10.1098/rsbl.2026.0095": {
+      "publisher": "The Royal Society",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                22
+              ]
+            ],
+            "date-time": "2026-07-22T00:00:00Z",
+            "timestamp": 1784678400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            22
+          ]
+        ]
+      },
+      "DOI": "10.1098/rsbl.2026.0095",
+      "type": "journal-article",
+      "title": [
+        "A persistent subtropical dip in the diversity at deep-sea cold-seeps"
+      ],
+      "volume": "22",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6281-100X",
+          "authenticated-orcid": false,
+          "given": "Steffen",
+          "family": "Kiel",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Swedish Museum of Natural History , Sweden"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            22
+          ]
+        ]
+      },
+      "container-title": [
+        "Biology Letters"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            22
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1098/rsbl.2026.0095",
+      "relation": {},
+      "article-number": "20260095"
     },
     "10.1098/rspb.2020.1134": {
       "publisher": "The Royal Society",
@@ -58763,6 +59462,215 @@
       },
       "article-number": "e05337-22"
     },
+    "10.1130/g55297.1": {
+      "publisher": "Geological Society of America",
+      "DOI": "10.1130/g55297.1",
+      "type": "journal-article",
+      "title": [
+        "Authigenic 13C-depleted perylene in marine cold seeps"
+      ],
+      "author": [
+        {
+          "given": "Lei",
+          "family": "Liu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "1International Center for Isotope Effects Research, State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China"
+            },
+            {
+              "name": "2Frontiers Science Center for Critical Earth Material Cycling, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhe",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "1International Center for Isotope Effects Research, State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China"
+            },
+            {
+              "name": "2Frontiers Science Center for Critical Earth Material Cycling, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+            },
+            {
+              "name": "3Division of Geological and Planetary Sciences, California Institute of Technology, Pasadena, California 91125, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tiantian",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "4Laoshan Laboratory, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jingni",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "5School of Geosciences and Info-Physics, Central South University, Changsha 410083, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hao",
+          "family": "Xie",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "1International Center for Isotope Effects Research, State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China"
+            },
+            {
+              "name": "2Frontiers Science Center for Critical Earth Material Cycling, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yongbo",
+          "family": "Peng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "1International Center for Isotope Effects Research, State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China"
+            },
+            {
+              "name": "2Frontiers Science Center for Critical Earth Material Cycling, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jiapeng",
+          "family": "Jin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "4Laoshan Laboratory, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Luyi",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "6Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou), Guangzhou 511458, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaomei",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "7Research Institute of Petroleum Exploration and Development, PetroChina, Beijing 100083, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nengyou",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "4Laoshan Laboratory, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            26
+          ]
+        ]
+      },
+      "container-title": [
+        "Geology"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            26
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1130/g55297.1",
+      "relation": {}
+    },
     "10.1134/s0016702924700903": {
       "publisher": "Pleiades Publishing Ltd",
       "issue": "3",
@@ -65395,6 +66303,154 @@
       "URL": "https://doi.org/10.3389/fmars.2026.1819754",
       "relation": {},
       "article-number": "1819754"
+    },
+    "10.3389/fmars.2026.1900674": {
+      "publisher": "Frontiers Media SA",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                26
+              ]
+            ],
+            "date-time": "2026-08-26T00:00:00Z",
+            "timestamp": 1787702400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.3389/fmars.2026.1900674",
+      "type": "journal-article",
+      "title": [
+        "Apparent tectonic disturbance reshapes seepage and disrupts symbiotic species distributions at a Costa Rican methane seep"
+      ],
+      "volume": "13",
+      "author": [
+        {
+          "given": "Emily J.",
+          "family": "Cowell",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Biology, Temple University",
+              "place": [
+                "Philadelphia, PA, United States"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "April L.",
+          "family": "Stabbins",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology, Temple University",
+              "place": [
+                "Philadelphia, PA, United States"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jorge",
+          "family": "Cortés",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Universidad de Costa Rica",
+              "place": [
+                "San José, Costa Rica"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rosamia C.",
+          "family": "Perez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology, Temple University",
+              "place": [
+                "Philadelphia, PA, United States"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Erik E.",
+          "family": "Cordes",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology, Temple University",
+              "place": [
+                "Philadelphia, PA, United States"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            26
+          ]
+        ]
+      },
+      "container-title": [
+        "Frontiers in Marine Science"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            26
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.3389/fmars.2026.1900674",
+      "relation": {},
+      "article-number": "1900674"
     },
     "10.3389/fmicb.2017.00715": {
       "publisher": "Frontiers Media SA",

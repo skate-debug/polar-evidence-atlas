@@ -1132,6 +1132,32 @@
       "inspected_abstract_sha256": "159498fa4b4fd4029eece70142939c72fa0fac935247712219fa7bea7c8290f4"
     },
     {
+      "doi": "10.1016/j.marchem.2026.104657",
+      "candidate_id": "global-seep-candidate:10-1016-j-marchem-2026-104657",
+      "source_id": "src:gcs-arctic-groundwater-seep-geochemistry",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.marchem.2026.104657",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Use as an Arctic fluid-source comparison only at the level of the title, without citing unretrieved geochemical values.",
+      "reason_zh": "仅在标题范围内用作北极流体来源比较，不要引用未检索到的地球化学数值。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "unspecified"
+      ],
+      "topics": [
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": null
+    },
+    {
       "doi": "10.1016/j.marenvres.2017.10.013",
       "candidate_id": "global-seep-candidate:10-1016-j-marenvres-2017-10-013",
       "status": "awaiting_source_review",
@@ -2136,6 +2162,35 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.1029/2026jc023988",
+      "candidate_id": "global-seep-candidate:10-1029-2026jc023988",
+      "source_id": "src:gcs-seep-carbonate-organic-nitrogen",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1029/2026jc023988",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use when comparing nitrogen-isotope archives in seep carbonates across the Gulf of Mexico and the South China Sea.",
+      "reason_zh": "在比较墨西哥湾与南海冷泉碳酸盐的氮同位素记录时使用。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "nitrogen",
+        "carbon",
+        "geochemistry"
+      ],
+      "sites": [
+        "gulf-mexico",
+        "global-comparison"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "9639d73a4b96eca8c16b614164f684aee097bc4e87affddc4a6b3461375e1c79"
     },
     {
       "doi": "10.1038/19751",
@@ -3573,6 +3628,33 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1073/pnas.2533639123",
+      "candidate_id": "global-seep-candidate:10-1073-pnas-2533639123",
+      "source_id": "src:gcs-global-seep-carbonate-aom-rates",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1073/pnas.2533639123",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as a global AOM-rate benchmark from seep carbonates, without assigning the mean to a single Arctic or South China Sea site.",
+      "reason_zh": "作为来自冷泉碳酸盐的全球 AOM 速率参照，不要把该均值指定到单个北极或南海站位。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "e4320cedfa5b27e1593b23eaeb5784e63f8db0268caf2d3676f6627dcc105a8a"
+    },
+    {
       "doi": "10.1073/pnas.2608127123",
       "candidate_id": "global-seep-candidate:10-1073-pnas-2608127123",
       "status": "awaiting_source_review",
@@ -3926,6 +4008,32 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.1098/rsbl.2026.0095",
+      "candidate_id": "global-seep-candidate:10-1098-rsbl-2026-0095",
+      "source_id": "src:gcs-subtropical-seep-diversity-dip",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1098/rsbl.2026.0095",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as a global biogeographic frame for a subtropical diversity dip in seep molluscs, not as an Arctic species inventory.",
+      "reason_zh": "作为冷泉软体动物亚热带多样性低谷的全球生物地理框架，而不是北极物种名录。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "unspecified"
+      ],
+      "topics": [
+        "community"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "48869a69a5fc64ff131ba3d56e1382bdd189e0e0c3875bb77cff3e422caa1210"
     },
     {
       "doi": "10.1098/rsos.190393",
@@ -6707,6 +6815,34 @@
       ],
       "comparison_role": "mechanistic_context",
       "inspected_abstract_sha256": "03f4d3fa023a43b854824de459c8d8bdbc48e08cec4568f79b66aa677b7a6e56"
+    },
+    {
+      "doi": "10.3389/fmars.2026.1900674",
+      "candidate_id": "global-seep-candidate:10-3389-fmars-2026-1900674",
+      "source_id": "src:gcs-costa-rica-mound12-disturbance",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3389/fmars.2026.1900674",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as a Costa Rica example of tectonic disturbance changing seepage and symbiotic species distributions.",
+      "reason_zh": "作为构造扰动改变渗漏和共生生物分布的哥斯达黎加实例。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "symbiosis"
+      ],
+      "topics": [
+        "symbioses",
+        "disturbance",
+        "methane"
+      ],
+      "sites": [
+        "costa-rica"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "41af2219b3657ce87b0bdb2b3fe184cad5fbba5eaef809c799135c033682b2e8"
     },
     {
       "doi": "10.3389/fmicb.2016.01825",

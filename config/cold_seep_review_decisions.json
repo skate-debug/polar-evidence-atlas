@@ -60,18 +60,6 @@
     "next_action": "Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion."
   },
   {
-    "doi": "10.1007/s11802-026-6174-2",
-    "status": "awaiting_source_text",
-    "access_level": "metadata_only",
-    "metadata_status": "verified",
-    "support_status": "unresolved",
-    "evidence_url": "https://doi.org/10.1007/s11802-026-6174-2",
-    "locator": "Published title and independently resolved bibliographic record.",
-    "reason": "DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted.",
-    "reason_zh": "DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。",
-    "next_action": "Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion."
-  },
-  {
     "doi": "10.1121/10.0042232",
     "status": "screened_context",
     "access_level": "title_only",

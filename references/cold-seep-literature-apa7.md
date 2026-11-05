@@ -2,7 +2,7 @@
 
 Publication discovery window: 2016-10-12 to 2026-11-05. Source-review update: 13 October 2026.
 
-311 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 311 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
+312 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 312 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
 
 Cao, C., Wang, H., Ge, Y., Wang, W., Guo, J., Zhou, P., Gao, F., & Chen, J. (2022). Long-term in-situ monitoring and analysis of terrain in gas hydrate trial harvesting area. *Sensors, 22*(4), Article 1351. https://doi.org/10.3390/s22041351
 
@@ -289,6 +289,8 @@ Liu, D., Lin, Y., He, M., & Shi, Y. (2025). Proteomics of the shell matrix prote
 Liu, H., Chen, X., Hu, M., Wang, H., Yao, L., Xu, Z., Ma, G., Wang, Q., & Kan, R. (2024). In situ high-precision measurement of deep-sea dissolved methane by quartz-enhanced photoacoustic and light-induced thermoelastic spectroscopy. *Analytical Chemistry, 96*(31), 12846–12853. https://doi.org/10.1021/acs.analchem.4c02557
 
 Liu, L., Guan, H., Wu, N., Chang, B., Chen, F., Feng, D., & Li, S. (2024). Seep carbonate clumped isotopes revealing ocean warming-induced gas hydrate dissociation. *Global and Planetary Change, 237*, Article 104439. https://doi.org/10.1016/j.gloplacha.2024.104439
+
+Liu, L., Wang, Z., Sun, T., Zhang, J., Xie, H., Peng, Y., Jin, J., Sun, L., Wang, X., & Wu, N. (2026). Authigenic 13c-depleted perylene in marine cold seeps. *Geology*. https://doi.org/10.1130/g55297.1
 
 Liu, R., Cai, R., Wang, M., Zhang, J., Zhang, H., Li, C., & Sun, C. (2024). Metagenomic insights into Heimdallarchaeia clades from the deep-sea cold seep and hydrothermal vent. *Environmental Microbiome, 19*(1), Article 43. https://doi.org/10.1186/s40793-024-00585-2
 

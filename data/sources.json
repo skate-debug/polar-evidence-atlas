@@ -26723,5 +26723,476 @@
       "evidence_url": "https://doi.org/10.1021/acs.analchem.6c04761",
       "review_packet": "config/cold_seep_reviewed.json"
     }
+  },
+  {
+    "id": "src:gcs-global-seep-carbonate-aom-rates",
+    "citation_key": "GCSGlobalSeepCarbonateAomRates",
+    "doi": "10.1073/pnas.2533639123",
+    "title": "Global high rates of anaerobic methane oxidation at marine cold seeps recorded by isotope bonding in seep carbonates",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "global-comparison"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Global seep-carbonate AOM-rate proxy",
+    "study_profile": {
+      "spatial_scope": "Modern global marine cold seeps, inferred from methane-derived authigenic carbonates.",
+      "temporal_scope": "Published 26 October 2026. The inspected abstract does not give sampling dates.",
+      "sample_design": "Model simulations of 13C–18O bond abundance in methane-derived authigenic carbonates, checked against compiled carbonate isotope compositions and independent AOM-rate measurements.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "13C–18O bond-order AOM-rate estimates"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:anaerobic-methane-oxidation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The abstract estimates a modern global cold-seep mean AOM rate of 6.3 mol m−2 yr−1, printed with lower and upper figures 3.9 and 10.6, and methane consumption of 2.1 Tg yr−1, printed with 1.3 and 3.5. Over the last about 100 kyr the same proxy gives a potentially 1.7-fold higher rate and methane sink, printed with 0.9 and 3.1."
+    ],
+    "limitations": [
+      "These are proxy- and model-based global means. The accompanying figures are the subscript and superscript printed with each central estimate; the abstract does not name them as a confidence interval, and they are not in-situ rates at one Arctic or South China Sea seep."
+    ],
+    "cite_for": [
+      "Use as a global AOM-rate benchmark from seep carbonates, without assigning the mean to a single Arctic or South China Sea site.",
+      "The abstract estimates a modern global cold-seep mean AOM rate of 6.3 mol m−2 yr−1, printed with lower and upper figures 3.9 and 10.6, and methane consumption of 2.1 Tg yr−1, printed with 1.3 and 3.5. Over the last about 100 kyr the same proxy gives a potentially 1.7-fold higher rate and methane sink, printed with 0.9 and 3.1."
+    ],
+    "do_not_overcite": [
+      "These are proxy- and model-based global means. The accompanying figures are the subscript and superscript printed with each central estimate; the abstract does not name them as a confidence interval, and they are not in-situ rates at one Arctic or South China Sea seep."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1073/pnas.2533639123",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-arctic-groundwater-seep-geochemistry",
+    "citation_key": "GCSArcticGroundwaterSeepGeochemistry",
+    "doi": "10.1016/j.marchem.2026.104657",
+    "title": "Geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "unspecified"
+    ],
+    "topics": [
+      "geochemistry"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Arctic groundwater-influenced seep geochemistry",
+    "study_profile": {
+      "spatial_scope": "Deep-water cold seeps influenced by offshore Arctic groundwater discharge, as named in the verified title.",
+      "temporal_scope": "Sampling date not extracted from the inspected material.",
+      "sample_design": "Bibliographic record only. Crossref, OpenAlex and Semantic Scholar returned no abstract; Europe PMC did not respond; the publisher page was not openly readable.",
+      "habitats": [
+        "habitat:cold-seep"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped seep geochemistry and groundwater influence"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The verified title reports geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge."
+    ],
+    "limitations": [
+      "No abstract was retrieved, so this profile does not extract stations, rates, depths or other quantities beyond the verified title."
+    ],
+    "cite_for": [
+      "Use as an Arctic fluid-source comparison only at the level of the title, without citing unretrieved geochemical values.",
+      "The verified title reports geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge."
+    ],
+    "do_not_overcite": [
+      "No abstract was retrieved, so this profile does not extract stations, rates, depths or other quantities beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.marchem.2026.104657",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-seep-carbonate-organic-nitrogen",
+    "citation_key": "GCSSeepCarbonateOrganicNitrogen",
+    "doi": "10.1029/2026jc023988",
+    "title": "Isotopic Signature of Organic Nitrogen in Authigenic Carbonates: Implications for Dynamic Nitrogen Cycling at Submarine Cold Seeps",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:gulf-mexico-seeps",
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "nitrogen",
+      "carbon",
+      "geochemistry"
+    ],
+    "sites": [
+      "gulf-mexico",
+      "global-comparison"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Seep-carbonate organic-nitrogen isotope study",
+    "study_profile": {
+      "spatial_scope": "Authigenic carbonates from four methane-seep sites and three brine-seep sites in the Gulf of Mexico and the South China Sea.",
+      "temporal_scope": "Published online 19 March 2026. The inspected abstract does not give sampling dates.",
+      "sample_design": "Compare organic-nitrogen δ15N, total-organic-carbon δ13C and elemental composition of methane-seep and brine-seep carbonates.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "organic-nitrogen δ15N and carbonate organic-carbon δ13C"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Methane-seep carbonates had lower total-organic-carbon δ13C (mean −34.7 ± 8.0‰, n = 32) than brine-seep carbonates (mean −27.9 ± 8.4‰, n = 24). Organic-nitrogen δ15N was low in both, with means of 0.1 ± 2.2‰ (n = 32) and −1.2 ± 0.8‰ (n = 24). Values below zero were common and largely decoupled from δ13C, which the authors interpret as dynamic nitrogen cycling near the sediment–water interface."
+    ],
+    "limitations": [
+      "Dissimilatory nitrate reduction to ammonium, denitrification and anaerobic ammonium oxidation are the abstract's interpretation of the isotopes, not measured rates. The South China Sea sites are not named."
+    ],
+    "cite_for": [
+      "Use when comparing nitrogen-isotope archives in seep carbonates across the Gulf of Mexico and the South China Sea.",
+      "Methane-seep carbonates had lower total-organic-carbon δ13C (mean −34.7 ± 8.0‰, n = 32) than brine-seep carbonates (mean −27.9 ± 8.4‰, n = 24). Organic-nitrogen δ15N was low in both, with means of 0.1 ± 2.2‰ (n = 32) and −1.2 ± 0.8‰ (n = 24). Values below zero were common and largely decoupled from δ13C, which the authors interpret as dynamic nitrogen cycling near the sediment–water interface."
+    ],
+    "do_not_overcite": [
+      "Dissimilatory nitrate reduction to ammonium, denitrification and anaerobic ammonium oxidation are the abstract's interpretation of the isotopes, not measured rates. The South China Sea sites are not named."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1029/2026jc023988",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-subtropical-seep-diversity-dip",
+    "citation_key": "GCSSubtropicalSeepDiversityDip",
+    "doi": "10.1098/rsbl.2026.0095",
+    "title": "A persistent subtropical dip in the diversity at deep-sea cold-seeps",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "unspecified"
+    ],
+    "topics": [
+      "community"
+    ],
+    "sites": [
+      "global-comparison"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "Modern and fossil seep-mollusc diversity synthesis",
+    "study_profile": {
+      "spatial_scope": "Modern and fossil methane-seep mollusc occurrences from the Cretaceous to the Pleistocene, with the reported dip at 200–1,000 m water depth.",
+      "temporal_scope": "Published 22 July 2026. The compilation spans the Cretaceous to the present.",
+      "sample_design": "Compare 478 modern and 824 fossil seep-mollusc occurrences across latitude and depth.",
+      "habitats": [
+        "habitat:cold-seep"
+      ],
+      "methods": [
+        "method:review-synthesis"
+      ],
+      "measured_or_derived": [
+        "modern and fossil seep-mollusc occurrences by latitude"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The compilation shows no general latitudinal diversity gradient. Molluscs from 200 to 1,000 m instead show a diversity dip between 15° and 35° latitude that has persisted at least since the Oligocene and coincides with oxygen-minimum zones. The dip is less severe in the Eocene."
+    ],
+    "limitations": [
+      "Oxygen limitation, including as an explanation for scarce early Palaeozoic seep faunas, is a suggestion. Occurrence counts are not local abundance, and the abstract does not separate Arctic seeps from other high latitudes."
+    ],
+    "cite_for": [
+      "Use as a global biogeographic frame for a subtropical diversity dip in seep molluscs, not as an Arctic species inventory.",
+      "The compilation shows no general latitudinal diversity gradient. Molluscs from 200 to 1,000 m instead show a diversity dip between 15° and 35° latitude that has persisted at least since the Oligocene and coincides with oxygen-minimum zones. The dip is less severe in the Eocene."
+    ],
+    "do_not_overcite": [
+      "Oxygen limitation, including as an explanation for scarce early Palaeozoic seep faunas, is a suggestion. Occurrence counts are not local abundance, and the abstract does not separate Arctic seeps from other high latitudes."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1098/rsbl.2026.0095",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-costa-rica-mound12-disturbance",
+    "citation_key": "GCSCostaRicaMound12Disturbance",
+    "doi": "10.3389/fmars.2026.1900674",
+    "title": "Apparent tectonic disturbance reshapes seepage and disrupts symbiotic species distributions at a Costa Rican methane seep",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:costa-rica-seeps"
+    ],
+    "compartments": [
+      "symbiosis"
+    ],
+    "topics": [
+      "symbioses",
+      "disturbance",
+      "methane"
+    ],
+    "sites": [
+      "costa-rica"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes",
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Before-and-after seep disturbance study",
+    "study_profile": {
+      "spatial_scope": "Mound 12 methane seep on the Pacific Costa Rican margin.",
+      "temporal_scope": "A magnitude 6.5 earthquake in November 2017; paper published 26 August 2026.",
+      "sample_design": "Spatial mapping and maximum-entropy models of abiotic conditions and symbiotic species distributions before and after the earthquake.",
+      "habitats": [
+        "habitat:seep-symbiosis"
+      ],
+      "methods": [
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "before-and-after seepage and vesicomyid distribution"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:chemosynthetic-symbiosis"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Seepage activity changed substantially across Mound 12, including where dense foundation-species aggregations occurred. Vesicomyid clams showed pioneer-species behavior and appeared to relocate as seepage changed."
+    ],
+    "limitations": [
+      "Relocation is inferred from before-and-after maps and maximum-entropy models. The abstract gives no distance, animal count or methane flux, and one earthquake at Mound 12 is not a general resilience rate."
+    ],
+    "cite_for": [
+      "Use as a Costa Rica example of tectonic disturbance changing seepage and symbiotic species distributions.",
+      "Seepage activity changed substantially across Mound 12, including where dense foundation-species aggregations occurred. Vesicomyid clams showed pioneer-species behavior and appeared to relocate as seepage changed."
+    ],
+    "do_not_overcite": [
+      "Relocation is inferred from before-and-after maps and maximum-entropy models. The abstract gives no distance, animal count or methane flux, and one earthquake at Mound 12 is not a general resilience rate."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.3389/fmars.2026.1900674",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-authigenic-perylene",
+    "citation_key": "SCSHaimaAuthigenicPerylene",
+    "doi": "10.1130/g55297.1",
+    "title": "Authigenic 13C-depleted perylene in marine cold seeps",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "carbon",
+      "geochemistry",
+      "microeukaryotes"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry",
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "Haima carbonate perylene isotope study",
+    "study_profile": {
+      "spatial_scope": "Authigenic carbonates from the Haima cold seep, South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Carbon-isotope measurements of perylene in Haima authigenic carbonates.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "perylene δ13C"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Perylene in these carbonates had extremely low δ13C values, from −84‰ to −61‰. The study interprets that range as authigenic production by fungi rather than terrestrial input."
+    ],
+    "limitations": [
+      "The isotopic range is from Haima carbonates named in the abstract. It does not quantify fungal abundance or date fungal evolution at other seeps."
+    ],
+    "cite_for": [
+      "Haima carbonate perylene isotope study within the stated study scope.",
+      "Perylene in these carbonates had extremely low δ13C values, from −84‰ to −61‰. The study interprets that range as authigenic production by fungi rather than terrestrial input."
+    ],
+    "do_not_overcite": [
+      "The isotopic range is from Haima carbonates named in the abstract. It does not quantify fungal abundance or date fungal evolution at other seeps."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1130/g55297.1",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-site-f-methane-leakage-flux",
+    "citation_key": "SCSSiteFMethaneLeakageFlux",
+    "doi": "10.1007/s11802-026-6174-2",
+    "title": "Estimation of Methane Leakage Flux from an Active Cold Seep in the South China Sea: A Case Study at Site F",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:site-f-seep"
+    ],
+    "compartments": [
+      "water-column",
+      "bottom-water"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "site-f"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Site F methane-leakage flux estimate",
+    "study_profile": {
+      "spatial_scope": "Active cold seep at Site F, South China Sea.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Multibeam bathymetry, side-scan sonar, CTD and time-series video constrain methane-bubble properties; numerical simulation then estimates the flux.",
+      "habitats": [
+        "habitat:seep-water-column",
+        "habitat:seep-bottom-water"
+      ],
+      "methods": [
+        "method:multibeam-bathymetry",
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "simulated Site F methane flux"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The publisher abstract estimates a Site F methane flux of 12.06×10−6 mol/h in time and 0.5878 mol/m2 in space, and an annual flux of about 6.44×105 mol/yr, which it describes as larger than previous estimates."
+    ],
+    "limitations": [
+      "The flux is a simulation constrained by those observations. It is not a measured sea–air flux for the whole South China Sea, and the statement that earlier assessments were severely underestimated is comparative rather than a new global budget."
+    ],
+    "cite_for": [
+      "Site F methane-leakage flux estimate within the stated study scope.",
+      "The publisher abstract estimates a Site F methane flux of 12.06×10−6 mol/h in time and 0.5878 mol/m2 in space, and an annual flux of about 6.44×105 mol/yr, which it describes as larger than previous estimates."
+    ],
+    "do_not_overcite": [
+      "The flux is a simulation constrained by those observations. It is not a measured sea–air flux for the whole South China Sea, and the statement that earlier assessments were severely underestimated is comparative rather than a new global budget."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1007/s11802-026-6174-2",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
   }
 ]

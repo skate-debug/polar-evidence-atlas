@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:43:50.821956+00:00",
+  "generated_at": "2026-11-05T06:05:55.347576+00:00",
   "since": "2016-10-13",
   "until": "2026-11-05",
   "collection": "global-cold-seeps",
@@ -641,6 +641,42 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-1073-pnas-2533639123",
+      "doi": "10.1073/pnas.2533639123",
+      "title": "Global high rates of anaerobic methane oxidation at marine cold seeps recorded by isotope bonding in seep carbonates",
+      "publication_date": "2026-10-26",
+      "year": 2026,
+      "authors": [
+        "Scott T. Wieman",
+        "Weifu Guo"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1073/pnas.2533639123",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T06:05:55.347576+00:00",
+      "last_seen_at": "2026-11-05T06:05:55.347576+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-64898-2026-10-01-753749",
       "doi": "10.64898/2026.10.01.753749",
       "title": "Convergent and divergent patterns of holobiont evolution in co-distributed chemosynthetic symbioses",
@@ -1262,6 +1298,46 @@
       "discovery_source": "Inspected primary-source DOI follow-up",
       "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
       "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-3389-fmars-2026-1900674",
+      "doi": "10.3389/fmars.2026.1900674",
+      "title": "Apparent tectonic disturbance reshapes seepage and disrupts symbiotic species distributions at a Costa Rican methane seep",
+      "publication_date": "2026-08-26",
+      "year": 2026,
+      "authors": [
+        "Emily J. Cowell",
+        "April L. Stabbins",
+        "Jorge Cortés",
+        "Rosamia C. Perez",
+        "Erik E. Cordes"
+      ],
+      "journal": "Frontiers in Marine Science",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.3389/fmars.2026.1900674",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "symbiosis"
+      ],
+      "topics": [
+        "symbioses",
+        "disturbance",
+        "methane"
+      ],
+      "sites": [
+        "costa-rica"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T06:05:55.347576+00:00",
+      "last_seen_at": "2026-11-05T06:05:55.347576+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -2400,6 +2476,74 @@
       "discovery_source": "Inspected primary-source DOI follow-up",
       "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
       "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1098-rsbl-2026-0095",
+      "doi": "10.1098/rsbl.2026.0095",
+      "title": "A persistent subtropical dip in the diversity at deep-sea cold-seeps",
+      "publication_date": "2026-07-22",
+      "year": 2026,
+      "authors": [
+        "Steffen Kiel"
+      ],
+      "journal": "Biology Letters",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1098/rsbl.2026.0095",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "unspecified"
+      ],
+      "topics": [
+        "community"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T06:05:55.347576+00:00",
+      "last_seen_at": "2026-11-05T06:05:55.347576+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1016-j-marchem-2026-104657",
+      "doi": "10.1016/j.marchem.2026.104657",
+      "title": "Geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge",
+      "publication_date": "2026-07",
+      "year": 2026,
+      "authors": [
+        "Seyed Reza Saghravani"
+      ],
+      "journal": "Marine Chemistry",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.marchem.2026.104657",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "unspecified"
+      ],
+      "topics": [
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T06:05:55.347576+00:00",
+      "last_seen_at": "2026-11-05T06:05:55.347576+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -5384,6 +5528,49 @@
         "arctic_margins"
       ],
       "discovery_source": "Europe PMC core API",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1029-2026jc023988",
+      "doi": "10.1029/2026jc023988",
+      "title": "Isotopic Signature of Organic Nitrogen in Authigenic Carbonates: Implications for Dynamic Nitrogen Cycling at Submarine Cold Seeps",
+      "publication_date": "2026-03",
+      "year": 2026,
+      "authors": [
+        "Bairui Zhang",
+        "Yu Hu",
+        "Jörn Peckmann",
+        "Dong Zhang",
+        "Linying Chen",
+        "Dong Feng",
+        "Duofu Chen"
+      ],
+      "journal": "Journal of Geophysical Research: Oceans",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1029/2026jc023988",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "nitrogen",
+        "carbon",
+        "geochemistry"
+      ],
+      "sites": [
+        "gulf-mexico",
+        "global-comparison"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T06:05:55.347576+00:00",
+      "last_seen_at": "2026-11-05T06:05:55.347576+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {

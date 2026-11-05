@@ -106,6 +106,42 @@ Evidence locator / 证据位置：Verified DOI bibliographic record and title; n
 
 [Inspected source / 核查来源](https://doi.org/10.1016/j.jmarsys.2026.104262) · `src:gcs-arctic-seep-frigidoalvania` · Regional comparison / 区域比较
 
+## A persistent subtropical dip in the diversity at deep-sea cold-seeps
+
+深海冷泉多样性中持续存在的亚热带低谷
+
+Kiel, S. (2026). A persistent subtropical dip in the diversity at deep-sea cold-seeps. *Biology Letters, 22*(7), Article 20260095. https://doi.org/10.1098/rsbl.2026.0095
+
+**Study scope / 研究范围**: Modern and fossil methane-seep mollusc occurrences from the Cretaceous to the Pleistocene, with the reported dip at 200–1,000 m water depth.
+
+白垩纪至更新世的现代和化石甲烷冷泉软体动物出现记录；所报道的低谷位于水深 200–1,000 m。
+
+**Design / 研究设计**: Compare 478 modern and 824 fossil seep-mollusc occurrences across latitude and depth.
+
+按纬度和深度比较 478 条现代和 824 条化石冷泉软体动物出现记录。
+
+**Finding / 发现**: The compilation shows no general latitudinal diversity gradient. Molluscs from 200 to 1,000 m instead show a diversity dip between 15° and 35° latitude that has persisted at least since the Oligocene and coincides with oxygen-minimum zones. The dip is less severe in the Eocene.
+
+该汇编没有显示一般的纬度多样性梯度。水深 200–1,000 m 的软体动物在纬度 15° 至 35° 之间出现多样性低谷，至少自渐新世持续存在，并与氧最小带重合。这一低谷在始新世较弱。
+
+**Citation limits / 引用边界**: Oxygen limitation, including as an explanation for scarce early Palaeozoic seep faunas, is a suggestion. Occurrence counts are not local abundance, and the abstract does not separate Arctic seeps from other high latitudes.
+
+氧限制，包括用来解释早古生代冷泉动物稀少，仍是一种推测。出现次数不是局地丰度，摘要也没有把北极冷泉与其他高纬度分开。
+
+**Discussion use / 讨论用途**: Use as a global biogeographic frame for a subtropical diversity dip in seep molluscs, not as an Arctic species inventory.
+
+作为冷泉软体动物亚热带多样性低谷的全球生物地理框架，而不是北极物种名录。
+
+Sampling time / 采样时间：Published 22 July 2026. The compilation spans the Cretaceous to the present. 2026 年 7 月 22 日发表。汇编覆盖白垩纪至今。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1098/rsbl.2026.0095) · `src:gcs-subtropical-seep-diversity-dip` · Mechanistic precedent / 机制先例
+
 ## Anaerobic oxidation of methane supports a minimal microbial community in a subsurface biofilm at Ginsburg mud volcano
 
 Ginsburg 泥火山深部生物膜的简化甲烷氧化群落
@@ -141,6 +177,42 @@ Evidence locator / 证据位置：Abstract; Methods: Study area and Sample colle
 摘要；方法：研究区、样品采集与地球化学。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/42040505) · `src:gcs-cadiz-deep-biofilm` · Regional comparison / 区域比较
+
+## Apparent tectonic disturbance reshapes seepage and disrupts symbiotic species distributions at a Costa Rican methane seep
+
+构造扰动重塑哥斯达黎加甲烷冷泉的渗漏与共生生物分布
+
+Cowell, E. J., Stabbins, A. L., Cortés, J., Perez, R. C., & Cordes, E. E. (2026). Apparent tectonic disturbance reshapes seepage and disrupts symbiotic species distributions at a costa rican methane seep. *Frontiers in Marine Science, 13*, Article 1900674. https://doi.org/10.3389/fmars.2026.1900674
+
+**Study scope / 研究范围**: Mound 12 methane seep on the Pacific Costa Rican margin.
+
+太平洋哥斯达黎加陆缘的 Mound 12 甲烷冷泉。
+
+**Design / 研究设计**: Spatial mapping and maximum-entropy models of abiotic conditions and symbiotic species distributions before and after the earthquake.
+
+用空间制图和最大熵模型比较地震前后的非生物条件和共生生物分布。
+
+**Finding / 发现**: Seepage activity changed substantially across Mound 12, including where dense foundation-species aggregations occurred. Vesicomyid clams showed pioneer-species behavior and appeared to relocate as seepage changed.
+
+Mound 12 的渗漏活动发生了明显变化，包括密集基础物种聚集体所在的区域。白蛤类表现出先锋物种特征，并似乎随渗漏变化而重新分布。
+
+**Citation limits / 引用边界**: Relocation is inferred from before-and-after maps and maximum-entropy models. The abstract gives no distance, animal count or methane flux, and one earthquake at Mound 12 is not a general resilience rate.
+
+重新分布是根据前后分布图和最大熵模型推断的。摘要没有给出距离、动物数量或甲烷通量，Mound 12 的一次地震也不是普遍的恢复力速率。
+
+**Discussion use / 讨论用途**: Use as a Costa Rica example of tectonic disturbance changing seepage and symbiotic species distributions.
+
+作为构造扰动改变渗漏和共生生物分布的哥斯达黎加实例。
+
+Sampling time / 采样时间：A magnitude 6.5 earthquake in November 2017; paper published 26 August 2026. 2017 年 11 月一次 6.5 级地震；论文于 2026 年 8 月 26 日发表。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/fmars.2026.1900674) · `src:gcs-costa-rica-mound12-disturbance` · Regional comparison / 区域比较
 
 ## Application of UAV-based methods for quantifying methane point source emissions over an Arctic geological seep
 
@@ -522,6 +594,40 @@ Evidence locator / 证据位置：Abstract: design and primary findings.
 
 [Inspected source / 核查来源](https://doi.org/10.1139/as-2026-0033) · `src:gcs-saglek-seep-corals` · Regional comparison / 区域比较
 
+## Geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge
+
+受近海北极地下水排放影响的深水冷泉地球化学特征
+
+Saghravani, S. R. (2026). Geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge. *Marine Chemistry, 277*, Article 104657. https://doi.org/10.1016/j.marchem.2026.104657
+
+**Study scope / 研究范围**: Deep-water cold seeps influenced by offshore Arctic groundwater discharge, as named in the verified title.
+
+经核验标题所指的、受近海北极地下水排放影响的深水冷泉。
+
+**Design / 研究设计**: Bibliographic record only. Crossref, OpenAlex and Semantic Scholar returned no abstract; Europe PMC did not respond; the publisher page was not openly readable.
+
+仅有书目记录。Crossref、OpenAlex 和 Semantic Scholar 未返回摘要；Europe PMC 没有响应；出版页面不能公开阅读。
+
+**Finding / 发现**: The verified title reports geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge.
+
+经核验的标题报道受近海北极地下水排放影响的深水冷泉地球化学特征。
+
+**Citation limits / 引用边界**: No abstract was retrieved, so this profile does not extract stations, rates, depths or other quantities beyond the verified title.
+
+未检索到摘要，因此本档案不提取标题之外的站位、速率、深度或其他定量结果。
+
+**Discussion use / 讨论用途**: Use as an Arctic fluid-source comparison only at the level of the title, without citing unretrieved geochemical values.
+
+仅在标题范围内用作北极流体来源比较，不要引用未检索到的地球化学数值。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.marchem.2026.104657) · `src:gcs-arctic-groundwater-seep-geochemistry` · Regional comparison / 区域比较
+
 ## Geological drivers and biological responses at methane seeps: Habitat complexity at the Nyegga seep site (NE Atlantic)
 
 Nyegga 甲烷冷泉的地质驱动与生境复杂性
@@ -555,6 +661,42 @@ Evidence locator / 证据位置：Abstract: design and primary findings.
 摘要：研究设计与主要发现。
 
 [Inspected source / 核查来源](https://doi.org/10.1016/j.margeo.2026.107819) · `src:gcs-nyegga-seep-habitats` · Regional comparison / 区域比较
+
+## Global high rates of anaerobic methane oxidation at marine cold seeps recorded by isotope bonding in seep carbonates
+
+冷泉碳酸盐同位素成键记录的全球海洋冷泉高厌氧甲烷氧化速率
+
+Wieman, S. T., & Guo, W. (2026). Global high rates of anaerobic methane oxidation at marine cold seeps recorded by isotope bonding in seep carbonates. *Proceedings of the National Academy of Sciences, 123*(44), Article e2533639123. https://doi.org/10.1073/pnas.2533639123
+
+**Study scope / 研究范围**: Modern global marine cold seeps, inferred from methane-derived authigenic carbonates.
+
+由甲烷来源自生碳酸盐推断的现代全球海洋冷泉。
+
+**Design / 研究设计**: Model simulations of 13C–18O bond abundance in methane-derived authigenic carbonates, checked against compiled carbonate isotope compositions and independent AOM-rate measurements.
+
+模拟甲烷来源自生碳酸盐中的 13C–18O 成键丰度，并用汇编的碳酸盐同位素组成和独立的 AOM 速率测量加以检验。
+
+**Finding / 发现**: The abstract estimates a modern global cold-seep mean AOM rate of 6.3 mol m−2 yr−1, printed with lower and upper figures 3.9 and 10.6, and methane consumption of 2.1 Tg yr−1, printed with 1.3 and 3.5. Over the last about 100 kyr the same proxy gives a potentially 1.7-fold higher rate and methane sink, printed with 0.9 and 3.1.
+
+摘要估计现代全球冷泉的平均 AOM 速率为 6.3 mol m−2 yr−1，并印有下限 3.9 与上限 10.6；甲烷消耗为 2.1 Tg yr−1，并印有 1.3 与 3.5。近约 10 万年以来，同一代用指标给出可能高 1.7 倍的速率和甲烷汇，并印有 0.9 与 3.1。
+
+**Citation limits / 引用边界**: These are proxy- and model-based global means. The accompanying figures are the subscript and superscript printed with each central estimate; the abstract does not name them as a confidence interval, and they are not in-situ rates at one Arctic or South China Sea seep.
+
+这些是基于代用指标和模型的全球均值。伴随数字是印在各中心估计上的下标和上标，摘要并未称之为置信区间，也不是单个北极或南海冷泉的原位速率。
+
+**Discussion use / 讨论用途**: Use as a global AOM-rate benchmark from seep carbonates, without assigning the mean to a single Arctic or South China Sea site.
+
+作为来自冷泉碳酸盐的全球 AOM 速率参照，不要把该均值指定到单个北极或南海站位。
+
+Sampling time / 采样时间：Published 26 October 2026. The inspected abstract does not give sampling dates. 2026 年 10 月 26 日发表。所查摘要未给出采样日期。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1073/pnas.2533639123) · `src:gcs-global-seep-carbonate-aom-rates` · Mechanistic precedent / 机制先例
 
 ## Intensive methane seep region on the outer East Siberian Arctic Shelf shows biomarker evidence for aerobic oxidation of methane
 
@@ -623,6 +765,42 @@ Evidence locator / 证据位置：Verified DOI bibliographic record and title; n
 经核验的 DOI 书目记录与标题；未检索到摘要。
 
 [Inspected source / 核查来源](https://doi.org/10.1016/j.chemgeo.2025.123170) · `src:gcs-laptev-iron-nitrate-aom` · Regional comparison / 区域比较
+
+## Isotopic Signature of Organic Nitrogen in Authigenic Carbonates: Implications for Dynamic Nitrogen Cycling at Submarine Cold Seeps
+
+自生碳酸盐中有机氮同位素对海底冷泉氮循环的记录
+
+Zhang, B., Hu, Y., Peckmann, J., Zhang, D., Chen, L., Feng, D., & Chen, D. (2026). Isotopic signature of organic nitrogen in authigenic carbonates: Implications for dynamic nitrogen cycling at submarine cold seeps. *Journal of Geophysical Research: Oceans, 131*(3), Article e2026JC023988. https://doi.org/10.1029/2026jc023988
+
+**Study scope / 研究范围**: Authigenic carbonates from four methane-seep sites and three brine-seep sites in the Gulf of Mexico and the South China Sea.
+
+墨西哥湾和南海四个甲烷冷泉站与三个卤水渗漏站的自生碳酸盐。
+
+**Design / 研究设计**: Compare organic-nitrogen δ15N, total-organic-carbon δ13C and elemental composition of methane-seep and brine-seep carbonates.
+
+比较甲烷冷泉与卤水渗漏碳酸盐的有机氮 δ15N、总有机碳 δ13C 和元素组成。
+
+**Finding / 发现**: Methane-seep carbonates had lower total-organic-carbon δ13C (mean −34.7 ± 8.0‰, n = 32) than brine-seep carbonates (mean −27.9 ± 8.4‰, n = 24). Organic-nitrogen δ15N was low in both, with means of 0.1 ± 2.2‰ (n = 32) and −1.2 ± 0.8‰ (n = 24). Values below zero were common and largely decoupled from δ13C, which the authors interpret as dynamic nitrogen cycling near the sediment–water interface.
+
+甲烷冷泉碳酸盐的总有机碳 δ13C（平均 −34.7 ± 8.0‰，n = 32）低于卤水渗漏碳酸盐（平均 −27.9 ± 8.4‰，n = 24）。两类样品的有机氮 δ15N 都偏低，平均分别为 0.1 ± 2.2‰（n = 32）和 −1.2 ± 0.8‰（n = 24）。低于零的值很常见，并且大体与 δ13C 脱钩；作者将其解释为沉积物–水界面附近动态的氮循环。
+
+**Citation limits / 引用边界**: Dissimilatory nitrate reduction to ammonium, denitrification and anaerobic ammonium oxidation are the abstract's interpretation of the isotopes, not measured rates. The South China Sea sites are not named.
+
+硝酸盐异化还原为铵、反硝化和厌氧铵氧化是摘要对同位素的解释，不是实测速率。南海站位也没有被点名。
+
+**Discussion use / 讨论用途**: Use when comparing nitrogen-isotope archives in seep carbonates across the Gulf of Mexico and the South China Sea.
+
+在比较墨西哥湾与南海冷泉碳酸盐的氮同位素记录时使用。
+
+Sampling time / 采样时间：Published online 19 March 2026. The inspected abstract does not give sampling dates. 2026 年 3 月 19 日在线发表。所查摘要未给出采样日期。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1029/2026jc023988) · `src:gcs-seep-carbonate-organic-nitrogen` · Regional comparison / 区域比较
 
 ## Macrofauna Associated With Submarine Groundwater Discharge Sites and a Cold Seep in Svalbard Fjords
 

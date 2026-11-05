@@ -38354,6 +38354,215 @@
       },
       "article-number": "e05337-22"
     },
+    "10.1130/g55297.1": {
+      "publisher": "Geological Society of America",
+      "DOI": "10.1130/g55297.1",
+      "type": "journal-article",
+      "title": [
+        "Authigenic 13C-depleted perylene in marine cold seeps"
+      ],
+      "author": [
+        {
+          "given": "Lei",
+          "family": "Liu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "1International Center for Isotope Effects Research, State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China"
+            },
+            {
+              "name": "2Frontiers Science Center for Critical Earth Material Cycling, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhe",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "1International Center for Isotope Effects Research, State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China"
+            },
+            {
+              "name": "2Frontiers Science Center for Critical Earth Material Cycling, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+            },
+            {
+              "name": "3Division of Geological and Planetary Sciences, California Institute of Technology, Pasadena, California 91125, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tiantian",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "4Laoshan Laboratory, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jingni",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "5School of Geosciences and Info-Physics, Central South University, Changsha 410083, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hao",
+          "family": "Xie",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "1International Center for Isotope Effects Research, State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China"
+            },
+            {
+              "name": "2Frontiers Science Center for Critical Earth Material Cycling, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yongbo",
+          "family": "Peng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "1International Center for Isotope Effects Research, State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China"
+            },
+            {
+              "name": "2Frontiers Science Center for Critical Earth Material Cycling, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jiapeng",
+          "family": "Jin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "4Laoshan Laboratory, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Luyi",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "6Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou), Guangzhou 511458, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaomei",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "7Research Institute of Petroleum Exploration and Development, PetroChina, Beijing 100083, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nengyou",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "4Laoshan Laboratory, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            26
+          ]
+        ]
+      },
+      "container-title": [
+        "Geology"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            26
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1130/g55297.1",
+      "relation": {}
+    },
     "10.1155/2019/1010824": {
       "published-print": {
         "date-parts": [

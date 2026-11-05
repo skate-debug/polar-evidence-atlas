@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:43:50.821956+00:00",
+  "generated_at": "2026-11-05T06:05:55.347576+00:00",
   "policy": "Records aging out of the rolling window retain source and review joins; no scientific claim is removed by discovery",
   "candidates": [
     {

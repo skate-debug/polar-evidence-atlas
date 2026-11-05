@@ -1,6 +1,6 @@
 # International discussion studies: APA 7 / 国际冷泉讨论精选文献
 
-126 inspected comparison profiles; 4 reuse existing atlas sources by DOI. / 共 126 篇已核查比较档案，4 篇按 DOI 复用已有来源。
+131 inspected comparison profiles; 4 reuse existing atlas sources by DOI. / 共 131 篇已核查比较档案，4 篇按 DOI 复用已有来源。
 
 Andreassen, K., Hubbard, A., Winsborrow, M., Patton, H., Vadakkepuliyambatta, S., Plaza-Faverola, A., Gudlaugsson, E., Serov, P., Deryabin, A., Mattingsdal, R., Mienert, J., & Bünz, S. (2017). Massive blow-out craters formed by hydrate-controlled methane expulsion from the Arctic seafloor. *Science, 356*(6341), 948–953. https://doi.org/10.1126/science.aal4500
 
@@ -47,6 +47,8 @@ Chen, Y., Xu, C., Wu, N., Sun, Z., Liu, C., Zhen, Y., Xin, Y., Zhang, X., Geng, 
 Coelho, F. J. R. C., Louvado, A., Domingues, P. M., Cleary, D. F. R., Ferreira, M., Almeida, A., Cunha, M. R., Cunha, Â., & Gomes, N. C. M. (2016). Integrated analysis of bacterial and microeukaryotic communities from differentially active mud volcanoes in the Gulf of Cadiz. *Scientific Reports, 6*(1), Article 35272. https://doi.org/10.1038/srep35272
 
 Collado, C., Romero-Tena, P., Wegener, G., Elvert, M., Menapace, W., & Laso-Pérez, R. (2026). Anaerobic oxidation of methane supports a minimal microbial community in a subsurface biofilm at Ginsburg mud volcano. *ISME Communications, 6*(1), Article ycag072. https://doi.org/10.1093/ismeco/ycag072
+
+Cowell, E. J., Stabbins, A. L., Cortés, J., Perez, R. C., & Cordes, E. E. (2026). Apparent tectonic disturbance reshapes seepage and disrupts symbiotic species distributions at a costa rican methane seep. *Frontiers in Marine Science, 13*, Article 1900674. https://doi.org/10.3389/fmars.2026.1900674
 
 Cummings, M. E., Ardor Bellucci, L. M., Seabrook, S., Raineault, N. A., McPhail, K. L., & Thurber, A. R. (2023). Variations and gradients between methane seep and off-seep microbial communities in a submarine canyon system in the Northeast Pacific. *PeerJ, 11*, Article e15119. https://doi.org/10.7717/peerj.15119
 
@@ -101,6 +103,8 @@ James, R. H., Bousquet, P., Bussmann, I., Haeckel, M., Kipfer, R., Leifer, I., N
 Jiang, Q., Cao, L., Han, Y., Li, S., Zhao, R., Zhang, X., Ruff, S. E., Zhao, Z., Peng, J., Liao, J., Zhu, B., Wang, M., Lin, X., & Dong, X. (2025). Cold seeps are potential hotspots of deep-sea nitrogen loss driven by microorganisms across 21 phyla. *Nature Communications, 16*(1), Article 1646. https://doi.org/10.1038/s41467-025-56774-1
 
 Khan, R., Bhardwaj, T., Li, C., Chakraborty, A., Seoane, J. M., Brooks, J. M., Bernard, B. B., MacDonald, A., MacAdam, N., Campbell, C., Fowler, M., & Hubert, C. R. J. (2025). Predicting hydrocarbon presence in marine cold seep sediments using machine learning models trained with benthic bacterial 16S rRNA taxonomy. *Microbiology Spectrum, 13*(10), Article e03033-24. https://doi.org/10.1128/spectrum.03033-24
+
+Kiel, S. (2026). A persistent subtropical dip in the diversity at deep-sea cold-seeps. *Biology Letters, 22*(7), Article 20260095. https://doi.org/10.1098/rsbl.2026.0095
 
 Kim, J., Soerensen, A. L., Jeong, H., Jeong, S., Kim, E., Lee, Y. M., Jin, Y. K., Rhee, T. S., Hong, J. K., & Han, S. (2024). Cross-shelf processes of terrigenous organic matter drive mercury speciation on the East Siberian shelf in the Arctic Ocean. *Environmental Pollution, 343*, Article 123270. https://doi.org/10.1016/j.envpol.2023.123270
 
@@ -178,6 +182,8 @@ Rudmin, M., Ruban, A., Deeva, E., & Khitrin, I. (2026). Clay minerals in methane
 
 Ruppel, C. D., & Kessler, J. D. (2017). The interaction of climate change and methane hydrates. *Reviews of Geophysics, 55*(1), 126–168. https://doi.org/10.1002/2016rg000534
 
+Saghravani, S. R. (2026). Geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge. *Marine Chemistry, 277*, Article 104657. https://doi.org/10.1016/j.marchem.2026.104657
+
 Sangodkar, N., Gonsalves, M. J., & Nazareth, D. R. (2026). Methanotrophy dominated symbiosis in novel species *Gigantidas niobengalensis* from the cold seeps of krishna–godavari basin. *FEMS Microbes, 7*, Article xtag014. https://doi.org/10.1093/femsmc/xtag014
 
 Savvichev, A. S., Rusanov, I. I., Kadnikov, V. V., Beletsky, A. V., Zakcharova, E. E., Samylina, O. S., Sigalevich, P. A., Semiletov, I. P., Ravin, N. V., & Pimenov, N. V. (2023). Biogeochemical activity of methane-related microbial communities in bottom sediments of cold seeps of the Laptev sea. *Microorganisms, 11*(2), Article 250. https://doi.org/10.3390/microorganisms11020250
@@ -234,6 +240,8 @@ Warkhade, Y., Schaerer, L. G., Bigcraft, I., Hazen, T. C., & Techtmann, S. M. (2
 
 Westbrook, G. K., Thatcher, K. E., Rohling, E. J., Piotrowski, A. M., Pälike, H., Osborne, A. H., Nisbet, E. G., Minshull, T. A., Lanoisellé, M., James, R. H., Hühnerbach, V., Green, D., Fisher, R. E., Crocker, A. J., Chabert, A., Bolton, C., Beszczynska‐Möller, A., Berndt, C., & Aquilina, A. (2009). Escape of methane gas from the seabed along the West Spitsbergen continental margin. *Geophysical Research Letters, 36*(15), Article 2009GL039191. https://doi.org/10.1029/2009gl039191
 
+Wieman, S. T., & Guo, W. (2026). Global high rates of anaerobic methane oxidation at marine cold seeps recorded by isotope bonding in seep carbonates. *Proceedings of the National Academy of Sciences, 123*(44), Article e2533639123. https://doi.org/10.1073/pnas.2533639123
+
 Wittig, C., Argentino, C., & Panieri, G. (2024). Formation of non-evaporitic gypsum in gas hydrate-bearing sediments at håkon mosby mud volcano, SW Barents Sea. *Marine and Petroleum Geology, 165*, Article 106875. https://doi.org/10.1016/j.marpetgeo.2024.106875
 
 Wu, W., Zheng, L., Holmstrand, H., Tarbier, B., Wild, B., Shakhova, N., Kosmach, D., Semiletov, I., Brüchert, V., Xu, Y., & Gustafsson, Ö. (2026). Intensive methane seep region on the outer East Siberian Arctic shelf shows biomarker evidence for aerobic oxidation of methane. *Organic Geochemistry, 215*, Article 105171. https://doi.org/10.1016/j.orggeochem.2026.105171
@@ -243,6 +251,8 @@ Yakushev, E., Berezina, A., Shakhova, N., Bruggeman, J., Wallhead, P., Staalstr�
 Yang, S., Lv, Y., Liu, X., Wang, Y., Fan, Q., Yang, Z., Boon, N., Wang, F., Xiao, X., & Zhang, Y. (2020). Genomic and enzymatic evidence of acetogenesis by anaerobic methanotrophic archaea. *Nature Communications, 11*(1), Article 3941. https://doi.org/10.1038/s41467-020-17860-8
 
 Yao, H., Niemann, H., & Panieri, G. (2020). Multi-proxy approach to unravel methane emission history of an Arctic cold seep. *Quaternary Science Reviews, 244*, Article 106490. https://doi.org/10.1016/j.quascirev.2020.106490
+
+Zhang, B., Hu, Y., Peckmann, J., Zhang, D., Chen, L., Feng, D., & Chen, D. (2026). Isotopic signature of organic nitrogen in authigenic carbonates: Implications for dynamic nitrogen cycling at submarine cold seeps. *Journal of Geophysical Research: Oceans, 131*(3), Article e2026JC023988. https://doi.org/10.1029/2026jc023988
 
 Zhang, Z.-F., Jiang, Y., & Mao, J. (2025). Global distribution patterns of dark matter fungi in cold seep: A metagenomic meta-analysis. *Journal of Fungi, 11*(12), Article 878. https://doi.org/10.3390/jof11120878
 
