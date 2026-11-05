@@ -2014,5 +2014,11 @@
     "type": "Method",
     "label": "Metaproteomics",
     "description": "Community protein identification linked to genome or pathway annotations; expression and process rates remain distinct."
+  },
+  {
+    "id": "method:marine-geophysics",
+    "type": "Method",
+    "label": "Marine geophysical survey",
+    "description": "Ship-based acoustic, seismic, or related geophysical observations; the instrument and resolution follow each source."
   }
 ]

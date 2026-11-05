@@ -190,7 +190,8 @@ def main() -> int:
             item["comparison"] = {key: comparison.get(key, "") for key in ("reason", "reason_zh", "comparison_role")}
         item["geographic_scopes"] = source["poles"] or (["South China Sea"] if item["collection"] == "scs-cold-seeps" else ["Global"])
         if item["collection"] == "global-cold-seeps":
-            item["geographic_scopes"] = [concept_by_id[region]["label"] for region in source["regions"] if region != "region:global-seeps"] or ["Global"]
+            labels = [concept_by_id[region]["label"] for region in source["regions"] if region != "region:global-seeps"]
+            item["geographic_scopes"] = list(dict.fromkeys([*source.get("poles", []), *(labels or ["Global"])]))
         if item["collection"] == "scs-cold-seeps" and "comparative" in source.get("sites", []):
             item["geographic_scopes"].append("Global")
         record = metadata_records.get(source["doi"].lower(), {})

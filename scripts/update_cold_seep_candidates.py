@@ -37,14 +37,15 @@ TOPICS = {
     "methane": r"methan|ANME|Methylococc|methylotroph",
     "sulfur": r"sulf|sulph|syntroph|Campylobacter",
     "nitrogen": r"nitrogen|nitrate|nitrite|ammoni|denitrif|nitrif|diazotroph",
-    "phosphorus": r"phosph|mercury|trace.metal|iron|manganese",
+    "mercury": r"mercury|methylmercury|methylmercur|\bHg\b|hgcA",
+    "phosphorus": r"phosph|trace.metal|iron|manganese",
     "carbon": r"organic.matter|organic.carbon|carbon.fix|carbon.cycl|hydrocarbon|alkane|dehalogen",
     "viruses": r"virus|viral|virom|phage|CRISPR|defen[sc]e.system",
     "microeukaryotes": r"microeuk|protist|fung|ciliate|foraminifer",
     "symbioses": r"symbio|holobiont|bacteriocyte|gill",
     "cultivation": r"cultiv|cultur|isolat|sp\. nov|natural.product|biosynthe",
     "geochemistry": r"geochem|isotop|hydrate|seepage|methane.flux|carbonate|plume|transport",
-    "disturbance": r"pollut|microplastic|mercury|resistan|pathogen|PFAS|halogen",
+    "disturbance": r"pollut|microplastic|resistan|pathogen|PFAS|halogen",
     "methods": r"sensor|observator|Raman|in.situ|sampling|acoustic|submersible",
 }
 SITE_RULES = {

@@ -213,12 +213,15 @@ def main():
                 raise SystemExit(f"Supplement DOI unresolved: {doi}: {error}")
         text = cached.get("record", {})
         published = text.get("firstPublicationDate") or publication(record)
-        if not in_window(published, since, args.until):
-            raise SystemExit(f"Supplement outside window: {doi}: {published}")
         authors = [" ".join(part for part in (item.get("given"), item.get("family")) if part) for item in record.get("author", [])]
-        records[doi] = candidate(doi, one(record.get("title")), plain_text(text.get("abstractText") or record.get("abstract", "")), published, authors, one(record.get("container-title")),
+        item = candidate(doi, one(record.get("title")), plain_text(text.get("abstractText") or record.get("abstract", "")), published, authors, one(record.get("container-title")),
             pmid=text.get("pmid", ""), pmcid=text.get("pmcid", ""), matched_queries=["explicit-comparison-supplement"], discovery_source="Inspected primary-source DOI follow-up", first_discovered_at=run_at, last_seen_at=run_at)
         metadata["records"][doi] = record
+        if not in_window(published, since, args.until):
+            # Classics and other explicit baselines stay citable after they leave the rolling window.
+            archived[doi] = {**item, "archived_at": run_at, "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."}
+            continue
+        records[doi] = item
     # Broad database retrieval sometimes matches an incidental seep mention.
     # Retain abstract-free audit provenance for records filtered at this stage.
     source_dois = {item["doi"] for item in load("sources.json", []) if item.get("collection") == "scs-cold-seeps" and "comparative" not in item.get("sites", [])}

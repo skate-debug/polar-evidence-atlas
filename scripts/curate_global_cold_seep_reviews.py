@@ -85,10 +85,13 @@ def main():
         cache = json.loads(cache_path.read_text()) if cache_path.exists() else {}
         abstract = cache.get("record", {}).get("abstractText") or candidate.get("abstract") or record.get("abstract")
         access = packet.get("access", "abstract")
-        if not abstract and not packet.get("evidence_url"):
-            raise SystemExit(f"No inspected supporting source: {doi}")
-        if "full_text" in access and not cache.get("sections") and not packet.get("evidence_url"):
-            raise SystemExit(f"No full-text supporting passages: {doi}")
+        # Public snapshots omit abstracts. Packets that already have a curated source
+        # can be re-materialized; new packets still need an abstract or evidence URL.
+        if doi not in by_doi:
+            if not abstract and not packet.get("evidence_url"):
+                raise SystemExit(f"No inspected supporting source: {doi}")
+            if "full_text" in access and not cache.get("sections") and not packet.get("evidence_url"):
+                raise SystemExit(f"No full-text supporting passages: {doi}")
         sid, cid = packet.get("existing_source_id") or "src:gcs-" + packet["slug"], "claim:gcs-" + packet["slug"]
         if doi in by_doi and by_doi[doi]["id"] != sid:
             raise SystemExit(f"Reuse the existing source ID for duplicate DOI: {doi}")
@@ -101,11 +104,16 @@ def main():
         temporal = packet.get("time", ["Sampling date not extracted from the inspected material.", "所核查材料未提取采样日期。"])
         locator = packet.get("locator", ["Abstract: design and primary findings.", "摘要：研究设计与主要发现。"])
         source_url = packet.get("evidence_url") or ("https://europepmc.org/article/MED/" + candidate["pmid"] if candidate.get("pmid") else "https://doi.org/" + doi)
-        basis = "International comparison source inspected; " + ("abstract-scoped findings only." if "full_text" not in access else "only the full-text sections in the claim locator were inspected.")
-        basis_zh = "已核查国际比较文献；" + ("发现限于摘要支持的范围。" if "full_text" not in access else "仅核查论断证据位置记录的相关全文段落。")
+        if access == "bibliographic_record":
+            basis = "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex."
+            basis_zh = "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。"
+        else:
+            basis = "International comparison source inspected; " + ("abstract-scoped findings only." if "full_text" not in access else "only the full-text sections in the claim locator were inspected.")
+            basis_zh = "已核查国际比较文献；" + ("发现限于摘要支持的范围。" if "full_text" not in access else "仅核查论断证据位置记录的相关全文段落。")
+        poles = list(packet.get("poles") or [])
         source = {"id": sid, "citation_key": "GCS" + "".join(word.title() for word in packet["slug"].split("-")), "doi": doi,
             "title": one(record.get("title") or candidate["title"]), "year": int(bibliographic_date_parts(record)[0]),
-            "poles": [], "collection": "global-cold-seeps", "regions": list(dict.fromkeys(site_regions[site] for site in packet["sites"])),
+            "poles": poles, "collection": "global-cold-seeps", "regions": list(dict.fromkeys(site_regions[site] for site in packet["sites"])),
             "compartments": packet["compartments"], "topics": packet["topics"], "sites": packet["sites"],
             "domains": packet.get("domains", ["Cold-seep prokaryotes", "Cold-seep biogeochemistry"]), "study_type": packet["type"][0],
             "study_profile": {"spatial_scope": scope[0], "temporal_scope": temporal[0], "sample_design": design[0], "habitats": [HABITATS[value] for value in packet["compartments"]],
@@ -119,6 +127,8 @@ def main():
             translations["sources"][sid] = {"title": packet["title_zh"], "study_type": packet["type"][1],
                 "study_profile": {"spatial_scope": scope[1], "temporal_scope": temporal[1], "sample_design": design[1], "measured_or_derived": [value[1] for value in packet["variables"]]},
                 "key_findings": [finding[1]], "limitations": [limit[1]], "cite_for": [packet["discussion"][1], finding[1]], "do_not_overcite": [limit[1]], "curation_basis": basis_zh, "_source_hash": digest(source_payload(source))}
+        elif poles and by_doi[doi].get("collection") == "global-cold-seeps":
+            by_doi[doi]["poles"] = poles
         claim = {"id": cid, "source_id": sid, "subject": sid, "predicate": packet.get("predicate", "associated_with"), "object": packet["object"],
             "statement": finding[0], "scope": scope[0], "evidence_type": packet["evidence_type"], "evidence_basis": design[0], "locator": locator[0], "confidence": "moderate", "confidence_note": limit[0]}
         if cid not in claim_ids and not packet.get("existing_source_id"):
