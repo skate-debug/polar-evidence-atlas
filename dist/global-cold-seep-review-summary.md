@@ -1,15 +1,15 @@
 # International seep review queue / 国际冷泉核查队列
 
-Window: 2016-10-13–2026-10-13. 472 active DOI records; 85 persistent curated comparisons; 18 archived records.
+Window: 2016-10-13–2026-11-05. 500 active DOI records; 126 persistent curated comparisons; 18 archived records.
 
-Access: 60 abstract-scoped, 2 bibliographic-record only, 23 inspected full-text passages. / 核查材料：60 篇限于摘要，2 篇仅有经核验书目记录，23 篇已核查相关全文段落。
+Access: 91 abstract-scoped, 12 bibliographic-record only, 23 inspected full-text passages. / 核查材料：91 篇限于摘要，12 篇仅有经核验书目记录，23 篇已核查相关全文段落。
 
 Shared DOI sources are counted once in the atlas, even when they appear in multiple collections. Candidates have no scientific claim until inspected. / 跨专题共享 DOI 在全图谱仅计一次；候选文献经核查后才产生科学论断。
 
 | Status / 状态 | Records / 记录数 |
 |---|---:|
-| awaiting_source_review | 349 |
-| curated | 67 |
+| awaiting_source_review | 336 |
+| curated | 108 |
 | excluded | 1 |
 | version_check | 55 |
 
@@ -17,16 +17,12 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
 
 - [Convergent and divergent patterns of holobiont evolution in co-distributed chemosynthetic symbioses](https://doi.org/10.64898/2026.10.01.753749) (2026; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
-- [Evaluating the relationship between cold-water corals and a cold seep in a submarine slope failure at the Northeast Saglek Bank cold-water coral hotspot, Eastern Canadian Arctic](https://doi.org/10.1139/as-2026-0033) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Biogeographic patterns and metabolic potential of chemoautotrophic communities in cold seep sediments across subarctic to tropical regions.](https://doi.org/10.1016/j.marenvres.2026.108410) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [The Host-Symbiont-Pathogen Triad in Bathymodiolus azoricus: The Multifunctional Gill at the Deep-Sea Interface.](https://doi.org/10.3390/md24090312) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Hydrocarbon seep biofilms share a common functional organization across diverse substrates](https://doi.org/10.21203/rs.3.rs-10706300/v1) (2026; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
-- [A hot encounter at a cold seep: a new endemic Frigidoalvania Warén, 1974 (Mollusca: Caenogastropoda: Rissoidae) from the Arctic and its phylogenetic ties](https://doi.org/10.1016/j.jmarsys.2026.104262) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Chemosymbiotic trophic strategy in an Ediacaran tubular animal.](https://doi.org/10.1073/pnas.2526201123) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Atmospheric distribution, source apportionment, and sea-air fluxes of gaseous elemental mercury over the Barents, Kara, Laptev and East Siberian Seas.](https://doi.org/10.1016/j.envpol.2026.128996) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
@@ -49,8 +45,6 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
 - [Development of machine learning models to determine CO2 seepage in the ocean based on the seepage and non-seepage database.](https://doi.org/10.1016/j.marpolbul.2026.120036) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [Application of UAV-based methods for quantifying methane point source emissions over an Arctic geological seep](https://doi.org/10.5194/amt-19-3983-2026) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Bacterial community colonization with minimal alteration of plastics in suboxic sediments from a marine methane seep.](https://doi.org/10.1128/aem.02490-25) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Polyphosphate affects the growth and methanogenesis of deep-sea methanogenic archaea.](https://doi.org/10.1073/pnas.2608127123) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
@@ -69,8 +63,6 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
 - [Boosting anaerobic reductive dehalogenation with natural protein amendments to unlock cryptic organohalide-reducing bacteria.](https://doi.org/10.1016/j.marenvres.2026.108100) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [Intensive methane seep region on the outer East Siberian Arctic Shelf shows biomarker evidence for aerobic oxidation of methane](https://doi.org/10.1016/j.orggeochem.2026.105171) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [WITHDRAWN: Disaccharide production in marine cold seeps links dissolved organic carbon to anaerobic oxidation of methane](https://doi.org/10.21203/rs.3.rs-9427392/v1) (2026; excluded). The publisher/depository title explicitly marks this record withdrawn or retracted; it supplies no graph evidence. 出版方／预印本库标题明确标记为撤回或撤稿，该记录不提供图谱证据。
   Next action: Check the withdrawal notice and any formally linked successor before future reconsideration.
 - [Levinaespira georgesnyderi gen. et sp. nov., a New Deep-Sea Snail (Gastropoda: Neomphalidae) from Eastern Pacific Methane Seeps.](https://doi.org/10.2108/zs250078) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
@@ -80,8 +72,6 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
 - [Carbon, nitrogen, and sulfur cycling unveil deep-sea microbial niches in the Atacama Trench.](https://doi.org/10.1038/s41467-026-70869-3) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Methanotrophic community structure and metabolic potential in the sulfate-methane transition zone of the ARAON mounds, Arctic Chukchi Sea.](https://doi.org/10.1016/j.marenvres.2026.107959) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [Clay minerals in methane seep sediments of the Laptev Sea (Arctic): diagenetic transformations and buffering functions](https://doi.org/10.1016/j.clay.2025.108092) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Microbially mediated carbon utilization by a cold-water coral inhabiting methane seeps.](https://doi.org/10.1038/s41598-025-32153-0) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
@@ -99,22 +89,16 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Cold seep induced elevated water column methane concentrations in Krishna-Godavari basin, Bay of Bengal](https://doi.org/10.1007/s00367-025-00837-1) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [Seafloor‐image analysis techniques to highlight the role of substrate as a driver of benthic community structure in Arctic cold seep areas](https://doi.org/10.1002/lno.70312) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Discovery of a chemosynthetic community at the serpentinite-hosted seep on Quaker Seamount, Mariana Forearc](https://doi.org/10.64898/2025.12.26.696545) (2025; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
 - [BioGeoFormer: A deep learning approach to classify unknown genes associated with critical biogeochemical cycles](https://doi.org/10.64898/2025.12.17.695047) (2025; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
-- [Deep-sea gas hydrate mounds and chemosynthetic fauna discovered at 3640 m on the Molloy Ridge, Greenland Sea.](https://doi.org/10.1038/s41467-025-67165-x) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [A global deep-sea small protein atlas reveals a reservoir of noncanonical antimicrobial peptides](https://doi.org/10.64898/2025.12.15.694180) (2025; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
 - [A global atlas of deep-sea cold seep viruses uncovers extensive genomic novelty and biotechnological potential](https://doi.org/10.64898/2025.12.10.692286) (2025; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
 - [Cycling of sulfur redox intermediates drives microbial activity in the sulfate–methane transition zone of cold methane seeps](https://doi.org/10.64898/2025.11.30.691342) (2025; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
-- [Marine Cold Seep ANME-2/SRB Consortia Produce Their Lipid Biomass From Inorganic Carbon.](https://doi.org/10.1111/1462-2920.70213) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Characteristics of periodically active cold seep and gas hydrate systems in Krishna-Godavari offshore basin, India](https://doi.org/10.1016/j.marpetgeo.2025.107615) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Microbial metabolism of complex organic matter across diverse deep-sea ecosystems](https://doi.org/10.1101/2025.11.21.689854) (2025; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
@@ -132,8 +116,6 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
 - [Genomic and metatranscriptomic analyses reveal an active microbial hydrocarbon cycle in the photic zone](https://doi.org/10.1101/2025.10.24.684404) (2025; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
 - [Antarctic seep emergence and discovery in the shallow coastal environment.](https://doi.org/10.1038/s41467-025-63404-3) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [Metagenomic binning reveals community and functional characteristics of sulfur- and methane-oxidizing bacteria in cold seep sponge ground.](https://doi.org/10.1186/s40793-025-00777-4) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Very-long-range dynamic triggering of mud volcano unrest and silent magnitude-6 fault slip.](https://doi.org/10.1126/science.adv8438) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
@@ -199,8 +181,6 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Unveiling the life of archaea in sediments: Diversity, metabolic potentials, and ecological roles.](https://doi.org/10.1002/imo2.56) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [Sanctuary for vulnerable Arctic species at the Borealis Mud Volcano.](https://doi.org/10.1038/s41467-024-55712-x) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment](https://doi.org/10.1101/2025.01.16.633305) (2025; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
 - [Hydrate formation in porous media with upward-migrating methane and its implications for the evolution of deep-sea cold seep ecosystems.](https://doi.org/10.1016/j.scitotenv.2024.178299) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
@@ -245,8 +225,6 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Gigantidas niobengalensis sp. nov. (Bivalvia: Mytiloidea) from a methane seep in the Krishna–Godavari Basin, Bay of Bengal](https://doi.org/10.61733/jconch/4521) (2024; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [Chemosynthetic alphaproteobacterial diazotrophs reside in deep-sea cold-seep bottom waters.](https://doi.org/10.1128/msystems.00176-24) (2024; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Discovery of deep-sea acoels from a chemosynthesis-based ecosystem.](https://doi.org/10.1098/rsbl.2023.0573) (2024; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Abundance, identity, and potential diazotrophic activity of nifH -containing organisms at marine cold seeps](https://doi.org/10.1101/2024.07.31.606060) (2024; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
@@ -278,8 +256,6 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
 - [A vast repertoire of secondary metabolites potentially influences community dynamics and biogeochemical processes in cold seeps.](https://doi.org/10.1126/sciadv.adl2281) (2024; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [New Hydroxyphenylacetic Acids and α-Pyrone Derivative from the Deep-Sea Cold Seep Sediment-Derived Fungus Penicillium corylophilum CS-682.](https://doi.org/10.1002/cbdv.202400584) (2024; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [New cold seep sites on the continental slope southwest to Svalbard](https://doi.org/10.3389/feart.2024.1328357) (2024; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Cold seep formation from salt diapir-controlled deep biosphere oases.](https://doi.org/10.1073/pnas.2316878121) (2024; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
@@ -320,8 +296,6 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
 - [Mosaic environment-driven evolution of the deep-sea mussel Gigantidas platifrons bacterial endosymbiont.](https://doi.org/10.1186/s40168-023-01695-8) (2023; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Integration of Untargeted Metabolomics and Microbial Community Analyses to Characterize Distinct Deep-Sea Methane Seeps.](https://doi.org/10.3389/fmars.2023.1197338) (2023; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [An Arctic natural oil seep investigated from space to the seafloor.](https://doi.org/10.1016/j.scitotenv.2023.167788) (2023; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Distinct diversity patterns and assembly mechanisms of prokaryotic microbial sub-community in the water column of deep-sea cold seeps.](https://doi.org/10.1016/j.jenvman.2023.119240) (2023; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.

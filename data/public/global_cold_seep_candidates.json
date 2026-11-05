@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T16:42:44.779167+00:00",
+  "generated_at": "2026-11-05T02:43:50.821956+00:00",
   "since": "2016-10-13",
-  "until": "2026-10-13",
+  "until": "2026-11-05",
   "collection": "global-cold-seeps",
   "queries": [
     {
@@ -596,6 +596,51 @@
   ],
   "candidates": [
     {
+      "id": "global-seep-candidate:10-1016-j-marenvres-2026-108522",
+      "doi": "10.1016/j.marenvres.2026.108522",
+      "title": "Fauna of shallow water Arctic seep related to dynamic water masses",
+      "publication_date": "2026-10-28",
+      "year": 2026,
+      "authors": [
+        "Arunima Sen",
+        "Corentin Caudan",
+        "Nil Rodés",
+        "Shyam Chand",
+        "Wei Li Hong",
+        "Sophie ten Hietbrink",
+        "Beata Szymczycha",
+        "Magdalena Diak",
+        "Fredrik Broms",
+        "Frank Nilsen",
+        "Ragnheid Skogseth",
+        "Jochen Knies"
+      ],
+      "journal": "Marine Environmental Research",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.marenvres.2026.108522",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "interface"
+      ],
+      "topics": [
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-64898-2026-10-01-753749",
       "doi": "10.64898/2026.10.01.753749",
       "title": "Convergent and divergent patterns of holobiont evolution in co-distributed chemosynthetic symbioses",
@@ -689,6 +734,87 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-1016-j-ssnmr-2026-102124",
+      "doi": "10.1016/j.ssnmr.2026.102124",
+      "title": "Progression of organic and inorganic matter in cold seep rocks during anaerobic oxidation of methane studied by solid-state NMR",
+      "publication_date": "2026-10",
+      "year": 2026,
+      "authors": [
+        "Yan Shi",
+        "Peter Schroedl",
+        "Jeffrey Marlow",
+        "Dongtao Cui",
+        "David A. Weitz",
+        "Yiqiao Song"
+      ],
+      "journal": "Solid State Nuclear Magnetic Resonance",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.ssnmr.2026.102124",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "methane",
+        "carbon",
+        "phosphorus"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1002-ece3-74597",
+      "doi": "10.1002/ece3.74597",
+      "title": "Macrofauna Associated With Submarine Groundwater Discharge Sites and a Cold Seep in Svalbard Fjords",
+      "publication_date": "2026-10",
+      "year": 2026,
+      "authors": [
+        "Johanna Schramm",
+        "Wei‐Li Hong",
+        "Sophie ten Hietbrink",
+        "Beata Szymczycha",
+        "Jochen Knies",
+        "Arunima Sen"
+      ],
+      "journal": "Ecology and Evolution",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1002/ece3.74597",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "community",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1139-as-2026-0033",
       "doi": "10.1139/as-2026-0033",
       "title": "Evaluating the relationship between cold-water corals and a cold seep in a submarine slope failure at the Northeast Saglek Bank cold-water coral hotspot, Eastern Canadian Arctic",
@@ -710,18 +836,18 @@
       "url": "https://doi.org/10.1139/as-2026-0033",
       "publication_stage": "journal_record",
       "compartments": [
-        "carbonate"
+        "carbonate",
+        "sediment"
       ],
       "topics": [
-        "methane",
-        "sulfur",
+        "community",
         "geochemistry"
       ],
       "sites": [
         "arctic-seeps"
       ],
       "priority": "microbial",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "first_discovered_at": "2026-10-13T09:29:06.260438+00:00",
       "last_seen_at": "2026-10-13T09:29:06.260438+00:00",
       "matched_queries": [
@@ -1064,22 +1190,78 @@
       "url": "https://doi.org/10.1016/j.jmarsys.2026.104262",
       "publication_stage": "journal_record",
       "compartments": [
-        "unspecified"
+        "sediment"
       ],
       "topics": [
-        "geochemistry"
+        "community"
       ],
       "sites": [
         "arctic-seeps"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "first_discovered_at": "2026-10-13T09:29:06.260438+00:00",
       "last_seen_at": "2026-10-13T09:29:06.260438+00:00",
       "matched_queries": [
         "crossref:Arctic cold seep methane bacteria"
       ],
       "discovery_source": "Crossref publisher-deposited metadata",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1016-j-gsf-2026-102451",
+      "doi": "10.1016/j.gsf.2026.102451",
+      "title": "Cryosphere-driven freshening and methane source shift at Beaufort Sea mud volcanoes",
+      "publication_date": "2026-08-28",
+      "year": 2026,
+      "authors": [
+        "Ji-Hoon Kim",
+        "Jong-Sik Ryu",
+        "Dong-Hun Lee",
+        "Wei-Li Hong",
+        "Charles K. Paull",
+        "Jin Hur",
+        "Akihiro Hachikubo",
+        "Jiyoung Choi",
+        "Young-Keun Jin",
+        "Jong Kuk Hong",
+        "Sanghee Park",
+        "Yeon-Jin Choi",
+        "Heung-Soo Moon",
+        "Youngkyu Ahn",
+        "Kwangchul Jang",
+        "Jeffrey Obelcz",
+        "Maureen Walton",
+        "Seung-Goo Kang",
+        "Hyo-Im Kim",
+        "Hien-Thi Nguyen",
+        "David W. Caress",
+        "Roberto Gwiazda"
+      ],
+      "journal": "Geoscience Frontiers",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.gsf.2026.102451",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -1787,6 +1969,47 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-1016-j-margeo-2026-107819",
+      "doi": "10.1016/j.margeo.2026.107819",
+      "title": "Geological drivers and biological responses at methane seeps: Habitat complexity at the Nyegga seep site (NE Atlantic)",
+      "publication_date": "2026-08",
+      "year": 2026,
+      "authors": [
+        "Davide Oppo",
+        "Sigmund Jensen",
+        "Martin Hovland",
+        "Srikumar Roy"
+      ],
+      "journal": "Marine Geology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.margeo.2026.107819",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "carbonate",
+        "sediment",
+        "symbiosis"
+      ],
+      "topics": [
+        "community",
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1038-s41467-026-76253-5",
       "doi": "10.1038/s41467-026-76253-5",
       "title": "Multi-omics and cultivation reveal laminarin-degrading PVC bacteria in the deep sea.",
@@ -2135,6 +2358,48 @@
         "mediterranean_black_caspian"
       ],
       "discovery_source": "Europe PMC core API",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-3389-fmars-2026-1819754",
+      "doi": "10.3389/fmars.2026.1819754",
+      "title": "Cold seeps: climate relevance and anthropogenic impacts",
+      "publication_date": "2026-07-24",
+      "year": 2026,
+      "authors": [
+        "Daniel M. Labbé",
+        "Heidi Gartner",
+        "Anya Dunham",
+        "Sophia Johannessen",
+        "Cherisse Du Preez"
+      ],
+      "journal": "Frontiers in Marine Science",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.3389/fmars.2026.1819754",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment",
+        "carbonate",
+        "water-column"
+      ],
+      "topics": [
+        "methane",
+        "carbon",
+        "disturbance"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -2586,17 +2851,17 @@
       "url": "https://doi.org/10.5194/amt-19-3983-2026",
       "publication_stage": "journal_record",
       "compartments": [
-        "bottom-water"
+        "terrestrial-seep"
       ],
       "topics": [
         "methane",
-        "geochemistry"
+        "methods"
       ],
       "sites": [
         "arctic-seeps"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "first_discovered_at": "2026-10-13T09:29:06.260438+00:00",
       "last_seen_at": "2026-10-13T09:29:06.260438+00:00",
       "matched_queries": [
@@ -2994,6 +3259,94 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-1016-j-dsr2-2026-105620",
+      "doi": "10.1016/j.dsr2.2026.105620",
+      "title": "Discovery of a bathyal methane seep field at the north-western Vestnesa Ridge, Fram Strait",
+      "publication_date": "2026-06",
+      "year": 2026,
+      "authors": [
+        "Katrin Linse",
+        "Lilian Boehringer",
+        "Saskia Brix",
+        "Jennifer Dannheim",
+        "Jonas Hagemann",
+        "Fereshteh Hemmateenejad",
+        "Áki Jarl Láruson",
+        "Giuliana Panieri",
+        "Lydia Anastasia Schmidt",
+        "Maximilian Schrade",
+        "Carolin Uhlir",
+        "Autun Purser"
+      ],
+      "journal": "Deep Sea Research Part II: Topical Studies in Oceanography",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.dsr2.2026.105620",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment",
+        "interface"
+      ],
+      "topics": [
+        "community",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1016-j-marger-2026-207714",
+      "doi": "10.1016/j.marger.2026.207714",
+      "title": "Authigenic carbonates from cold seep sites in the Laptev Sea: 230Th/U chronology and insights into fluid sources",
+      "publication_date": "2026-06",
+      "year": 2026,
+      "authors": [
+        "Alexey Ruban",
+        "Fedor Maksimov",
+        "Maxim Rudmin",
+        "Tamara Yakich",
+        "Anastasiya Nikolaeva",
+        "Oleg Dudarev",
+        "Igor Semiletov"
+      ],
+      "journal": "Marine Geoscience and Energy Resources",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.marger.2026.207714",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1038-s41598-026-54088-w",
       "doi": "10.1038/s41598-026-54088-w",
       "title": "Surface gas hydrates and seep features in the Krishna Godavari Basin, Bay of Bengal.",
@@ -3291,6 +3644,86 @@
         "southwest_pacific"
       ],
       "discovery_source": "Europe PMC core API",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1093-nsr-nwag267",
+      "doi": "10.1093/nsr/nwag267",
+      "title": "Cold seep seafloor observatories revise the notion of ‘life in the slow lane’",
+      "publication_date": "2026-05-14",
+      "year": 2026,
+      "authors": [
+        "Andreas Teske"
+      ],
+      "journal": "National Science Review",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1093/nsr/nwag267",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "community",
+        "methods"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-5194-bg-23-3139-2026",
+      "doi": "10.5194/bg-23-3139-2026",
+      "title": "Seafloor chemosynthetic habitats and AOM-influenced sediment microbiome at a cold-water coral site off the Vesterålen coast, northern Norway",
+      "publication_date": "2026-05-08",
+      "year": 2026,
+      "authors": [
+        "Claudio Argentino",
+        "Luca Fallati",
+        "Sebastian Petters",
+        "Hans C. Bernstein",
+        "Ines Barrenechea Angeles",
+        "Jorge Corrales-Guerrero",
+        "Alessandra Savini",
+        "Benedicte Ferré",
+        "Giuliana Panieri"
+      ],
+      "journal": "Biogeosciences",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.5194/bg-23-3139-2026",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment",
+        "carbonate"
+      ],
+      "topics": [
+        "methane",
+        "community",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -3919,16 +4352,17 @@
       "url": "https://doi.org/10.1016/j.orggeochem.2026.105171",
       "publication_stage": "journal_record",
       "compartments": [
-        "unspecified"
+        "sediment"
       ],
       "topics": [
-        "methane"
+        "methane",
+        "geochemistry"
       ],
       "sites": [
         "arctic-seeps"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "first_discovered_at": "2026-10-13T09:29:06.260438+00:00",
       "last_seen_at": "2026-10-13T09:29:06.260438+00:00",
       "matched_queries": [
@@ -4972,13 +5406,14 @@
         "sediment"
       ],
       "topics": [
+        "geochemistry",
         "methane"
       ],
       "sites": [
         "arctic-seeps"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "first_discovered_at": "2026-10-13T09:29:06.260438+00:00",
       "last_seen_at": "2026-10-13T09:29:06.260438+00:00",
       "matched_queries": [
@@ -5166,6 +5601,50 @@
         "seep_microbiology"
       ],
       "discovery_source": "Europe PMC core API",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-5194-bg-23-1459-2026",
+      "doi": "10.5194/bg-23-1459-2026",
+      "title": "Enhanced methane cycling across the Laptev Sea signaled by time-integrated biomarkers of aerobic methane oxidation",
+      "publication_date": "2026-02-24",
+      "year": 2026,
+      "authors": [
+        "Albin Eriksson",
+        "Birgit Wild",
+        "Wei-Li Hong",
+        "Henry Holmstrand",
+        "Francisco J. A. Nascimento",
+        "Stefano Bonaglia",
+        "Denis Kosmach",
+        "Igor Semiletov",
+        "Natalia Shakhova",
+        "Örjan Gustafsson"
+      ],
+      "journal": "Biogeosciences",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.5194/bg-23-1459-2026",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -6975,26 +7454,77 @@
       "url": "https://doi.org/10.1002/lno.70312",
       "publication_stage": "journal_record",
       "compartments": [
-        "sediment",
+        "interface",
         "carbonate"
       ],
       "topics": [
         "community",
-        "methane",
-        "phosphorus",
-        "geochemistry"
+        "geochemistry",
+        "methods"
       ],
       "sites": [
         "arctic-seeps"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "first_discovered_at": "2026-10-13T09:29:06.260438+00:00",
       "last_seen_at": "2026-10-13T09:29:06.260438+00:00",
       "matched_queries": [
         "crossref:Arctic cold seep methane bacteria"
       ],
       "discovery_source": "Crossref publisher-deposited metadata",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1016-j-chemgeo-2025-123170",
+      "doi": "10.1016/j.chemgeo.2025.123170",
+      "title": "Iron and nitrate-driven anaerobic methane oxidation in methane seep sediments of the Laptev Sea",
+      "publication_date": "2026-01",
+      "year": 2026,
+      "authors": [
+        "D. Purgina",
+        "Yu Moiseeva",
+        "B. Wild",
+        "N. Guseva",
+        "E. Gershelis",
+        "O. Gustafsson",
+        "A. Khvashevskaya",
+        "S. Pakhomova",
+        "V. Kholodov",
+        "O. Dudarev",
+        "D. Kosmach",
+        "D. Chernykh",
+        "T. Polivanova",
+        "I. Gangnus",
+        "A. Kurilenko",
+        "A. Domaniuk",
+        "E. Yakushev",
+        "I. Semiletov"
+      ],
+      "journal": "Chemical Geology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.chemgeo.2025.123170",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -7238,19 +7768,19 @@
       "url": "https://doi.org/10.1038/s41467-025-67165-x",
       "publication_stage": "journal_record",
       "compartments": [
-        "symbiosis"
+        "sediment",
+        "bottom-water"
       ],
       "topics": [
-        "community",
         "methane",
-        "phosphorus",
-        "geochemistry"
+        "geochemistry",
+        "community"
       ],
       "sites": [
         "arctic-seeps"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "pmid": "41408043",
       "pmcid": "PMC12722328",
       "volume": "16",
@@ -8091,16 +8621,14 @@
       ],
       "topics": [
         "methane",
-        "sulfur",
         "carbon",
-        "cultivation",
-        "geochemistry"
+        "sulfur"
       ],
       "sites": [
-        "global-unspecified"
+        "northeast-pacific"
       ],
       "priority": "microbial",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "pmid": "41327581",
       "pmcid": "PMC12669819",
       "volume": "27",
@@ -8217,6 +8745,52 @@
         "seep_microbiology"
       ],
       "discovery_source": "Europe PMC core API",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1016-j-marchem-2025-104570",
+      "doi": "10.1016/j.marchem.2025.104570",
+      "title": "Submarine groundwater discharge and gas hydrate dissociation fuel organic matter formation in Arctic fjord sediments",
+      "publication_date": "2025-12",
+      "year": 2025,
+      "authors": [
+        "Beata Szymczycha",
+        "Magdalena Diak",
+        "Wei-Li Hong",
+        "Michael Ernst Böttcher",
+        "Aivo Lepland",
+        "Przemysław Makuch",
+        "Sophie ten Hietbrink",
+        "Seyed Reza Saghravani",
+        "Arunima Sen",
+        "Aleksandra Winogradow",
+        "Marc J. Silberberger"
+      ],
+      "journal": "Marine Chemistry",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.marchem.2025.104570",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "carbon",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -9055,6 +9629,47 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-1007-s11802-026-6261-4",
+      "doi": "10.1007/s11802-026-6261-4",
+      "title": "Cold-Seep Carbonate Factory: Formation Mechanisms, Geochemical Proxies, and Implications for Global Carbon Cycling",
+      "publication_date": "2025-10-07",
+      "year": 2025,
+      "authors": [
+        "Kaiyi Dai",
+        "Xiaoming Miao",
+        "Yu Gu",
+        "Xin Chang",
+        "Qing Li",
+        "Guangchao Zhuang",
+        "Xiting Liu"
+      ],
+      "journal": "Journal of Ocean University of China",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1007/s11802-026-6261-4",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1038-s41467-025-63404-3",
       "doi": "10.1038/s41467-025-63404-3",
       "title": "Antarctic seep emergence and discovery in the shallow coastal environment.",
@@ -9252,23 +9867,19 @@
       "url": "https://doi.org/10.1186/s40793-025-00777-4",
       "publication_stage": "journal_record",
       "compartments": [
-        "symbiosis",
-        "carbonate"
+        "symbiosis"
       ],
       "topics": [
-        "community",
-        "genomes",
+        "symbioses",
         "methane",
         "sulfur",
-        "phosphorus",
-        "symbioses",
-        "geochemistry"
+        "genomes"
       ],
       "sites": [
         "global-unspecified"
       ],
       "priority": "microbial",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "pmid": "41024212",
       "pmcid": "PMC12481749",
       "volume": "20",
@@ -9508,6 +10119,54 @@
         "mediterranean_black_caspian"
       ],
       "discovery_source": "Europe PMC core API",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-3389-fmars-2025-1497616",
+      "doi": "10.3389/fmars.2025.1497616",
+      "title": "Model based analysis of the methane seeping influence on the acidification in the East Siberian Arctic Shelf waters",
+      "publication_date": "2025-09-02",
+      "year": 2025,
+      "authors": [
+        "Evgeniy Yakushev",
+        "Anfisa Berezina",
+        "Natalia Shakhova",
+        "Jorn Bruggeman",
+        "Philip Wallhead",
+        "André Staalstrøm",
+        "Matvey Novikov",
+        "Shamil Yakubov",
+        "Anastasia Zagovenkova",
+        "Murat V. Ardelan",
+        "Richard Bellerby",
+        "Örjan Gustafsson",
+        "Igor Semiletov"
+      ],
+      "journal": "Frontiers in Marine Science",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.3389/fmars.2025.1497616",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "water-column",
+        "bottom-water"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -10995,6 +11654,48 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-1016-j-margeo-2025-107558",
+      "doi": "10.1016/j.margeo.2025.107558",
+      "title": "The morphology and geochemistry of authigenic pyrite formed under methane seepage: Insights from the Laptev Sea",
+      "publication_date": "2025-07",
+      "year": 2025,
+      "authors": [
+        "Alexey Ruban",
+        "Anastasia Nikolaeva",
+        "Vera Abramova",
+        "Alexander Ignatiev",
+        "Oleg Dudarev",
+        "Igor Semiletov",
+        "Maxim Rudmin"
+      ],
+      "journal": "Marine Geology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.margeo.2025.107558",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane",
+        "sulfur"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1016-j-watres-2025-124072",
       "doi": "10.1016/j.watres.2025.124072",
       "title": "Harnessing deep-sea cold seep microbiomes for reductive dehalogenation: from culturomics and genomics insights.",
@@ -11393,6 +12094,46 @@
         "crossref:Krishna Godavari Cauvery Mannar cold seep microbial"
       ],
       "discovery_source": "Crossref publisher-deposited metadata",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-18799-24131830-2025-5-5051",
+      "doi": "10.18799/24131830/2025/5/5051",
+      "title": "Authigenic pyrite from the Laptev Sea continental slope: the impact of methane seepage activity",
+      "publication_date": "2025-05-30",
+      "year": 2025,
+      "authors": [
+        "Alexey S. Ruban",
+        "Maxim A. Rudmin",
+        "Oleg V. Dudarev",
+        "Igor P. Semiletov"
+      ],
+      "journal": "Bulletin of the Tomsk Polytechnic University Geo Assets Engineering",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.18799/24131830/2025/5/5051",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment",
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane",
+        "sulfur"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -12175,6 +12916,45 @@
         "crossref:Hikurangi cold seep bacteria"
       ],
       "discovery_source": "Crossref publisher-deposited metadata",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1038-s41598-025-99578-5",
+      "doi": "10.1038/s41598-025-99578-5",
+      "title": "A constellation of mud volcanoes originated from a buried Arctic mega-slide, Southwestern Barents Sea",
+      "publication_date": "2025-04-30",
+      "year": 2025,
+      "authors": [
+        "Claudio Argentino",
+        "Rune Mattingsdal",
+        "Tor Eidvin",
+        "Sverre Ekrene Ohm",
+        "Giuliana Panieri"
+      ],
+      "journal": "Scientific Reports",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1038/s41598-025-99578-5",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -13791,6 +14571,47 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-1134-s0016702924700903",
+      "doi": "10.1134/s0016702924700903",
+      "title": "Carbon Isotope Type-Curves of Organic Matter in Sediments of the Laptev Sea (Seep Area)",
+      "publication_date": "2025-02-20",
+      "year": 2025,
+      "authors": [
+        "V. S. Sevastyanov",
+        "V. Yu. Fedulova",
+        "O. V. Kuznetsova",
+        "N. V. Dushenko",
+        "V. S. Fedulov",
+        "A. E. Bazhanova"
+      ],
+      "journal": "Geochemistry International",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1134/s0016702924700903",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "carbon",
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1038-s41467-025-56774-1",
       "doi": "10.1038/s41467-025-56774-1",
       "title": "Cold seeps are potential hotspots of deep-sea nitrogen loss driven by microorganisms across 21 phyla.",
@@ -14474,19 +15295,19 @@
       "url": "https://doi.org/10.1038/s41467-024-55712-x",
       "publication_stage": "journal_record",
       "compartments": [
-        "sediment",
-        "carbonate"
+        "carbonate",
+        "sediment"
       ],
       "topics": [
+        "community",
         "methane",
-        "geochemistry",
-        "methods"
+        "geochemistry"
       ],
       "sites": [
         "arctic-seeps"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "pmid": "39870611",
       "pmcid": "PMC11772567",
       "volume": "16",
@@ -16380,6 +17201,46 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-1007-s00300-024-03320-2",
+      "doi": "10.1007/s00300-024-03320-2",
+      "title": "DNA barcoding of monothalamid foraminifera from Vestnesa and Svyatogor Ridge, Arctic Ocean, including the description of 3 new species",
+      "publication_date": "2024-12-19",
+      "year": 2024,
+      "authors": [
+        "Maria Holzmann",
+        "Villads D. Holm",
+        "Ines Barrenechea Angeles",
+        "Andrew J. Gooday",
+        "Jan Pawlowski",
+        "Giuliana Panieri"
+      ],
+      "journal": "Polar Biology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1007/s00300-024-03320-2",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "microeukaryotes",
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1121-10-0034605",
       "doi": "10.1121/10.0034605",
       "title": "Passive acoustic monitoring for seabed bubble flows: Case of shallow methane seeps at Laspi Bay (Black Sea).",
@@ -16505,6 +17366,46 @@
         "mediterranean_black_caspian"
       ],
       "discovery_source": "Europe PMC core API",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1016-j-orggeochem-2024-104862",
+      "doi": "10.1016/j.orggeochem.2024.104862",
+      "title": "Hydroxylated GDGTs-0 in marine methane seep environments: A putative indicator for archaeal methanogenesis",
+      "publication_date": "2024-12",
+      "year": 2024,
+      "authors": [
+        "Hongxiang Guan",
+        "Lei Liu",
+        "Daniel Birgel",
+        "Jörn Peckmann",
+        "Dong Feng",
+        "Sanzhong Li"
+      ],
+      "journal": "Organic Geochemistry",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.orggeochem.2024.104862",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -17860,6 +18761,43 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-3389-fmars-2024-1463328",
+      "doi": "10.3389/fmars.2024.1463328",
+      "title": "Magnesium geochemistry of authigenic carbonate at marine cold seep",
+      "publication_date": "2024-10-02",
+      "year": 2024,
+      "authors": [
+        "Yukai Tang",
+        "Hailong Lu",
+        "Hailin Yang"
+      ],
+      "journal": "Frontiers in Marine Science",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.3389/fmars.2024.1463328",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1029-2024gc011801",
       "doi": "10.1029/2024gc011801",
       "title": "Biogeochemical Reconstruction of Authigenic Carbonate Deposits at Methane Seep Site off Krishna‐Godavari (K‐G) Basin, Bay of Bengal",
@@ -18258,19 +19196,15 @@
         "bottom-water"
       ],
       "topics": [
-        "community",
-        "genomes",
-        "methane",
-        "sulfur",
         "nitrogen",
-        "geochemistry",
-        "methods"
+        "methane",
+        "genomes"
       ],
       "sites": [
-        "global-comparison"
+        "global-unspecified"
       ],
       "priority": "microbial",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "pmid": "39105582",
       "pmcid": "PMC11406894",
       "volume": "9",
@@ -18624,6 +19558,46 @@
       "discovery_source": "Inspected primary-source DOI follow-up",
       "first_discovered_at": "2026-10-13T09:39:24.638557+00:00",
       "last_seen_at": "2026-10-13T09:39:24.638557+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-3389-feart-2024-1404027",
+      "doi": "10.3389/feart.2024.1404027",
+      "title": "Geological and glaciological controls of 21,700 active methane seeps in the northern Norwegian Barents sea",
+      "publication_date": "2024-07-11",
+      "year": 2024,
+      "authors": [
+        "Pavel Serov",
+        "Karin Andreassen",
+        "Monica Winsborrow",
+        "Rune Mattingsdal",
+        "Henry Patton"
+      ],
+      "journal": "Frontiers in Earth Science",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.3389/feart.2024.1404027",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "bottom-water",
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -19588,6 +20562,44 @@
         "seep_microbiology"
       ],
       "discovery_source": "Europe PMC core API",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1016-j-marpetgeo-2024-106875",
+      "doi": "10.1016/j.marpetgeo.2024.106875",
+      "title": "Formation of non-evaporitic gypsum in gas hydrate-bearing sediments at Håkon Mosby mud volcano, SW Barents sea",
+      "publication_date": "2024-07",
+      "year": 2024,
+      "authors": [
+        "Cathrin Wittig",
+        "Claudio Argentino",
+        "Giuliana Panieri"
+      ],
+      "journal": "Marine and Petroleum Geology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.marpetgeo.2024.106875",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane",
+        "sulfur"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -21020,27 +22032,61 @@
       "url": "https://doi.org/10.3389/feart.2024.1328357",
       "publication_stage": "journal_record",
       "compartments": [
-        "bottom-water",
+        "carbonate",
         "sediment",
-        "symbiosis",
-        "carbonate"
+        "bottom-water"
       ],
       "topics": [
         "methane",
-        "carbon",
         "geochemistry"
       ],
       "sites": [
         "arctic-seeps"
       ],
       "priority": "microbial",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "first_discovered_at": "2026-10-13T09:29:06.260438+00:00",
       "last_seen_at": "2026-10-13T09:29:06.260438+00:00",
       "matched_queries": [
         "crossref:Hikurangi cold seep bacteria"
       ],
       "discovery_source": "Crossref publisher-deposited metadata",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-3389-feart-2024-1356341",
+      "doi": "10.3389/feart.2024.1356341",
+      "title": "Glacial-interglacial sedimentation control on gas seepage exemplified by Vestnesa Ridge off NW Svalbard margin",
+      "publication_date": "2024-04-08",
+      "year": 2024,
+      "authors": [
+        "Tine L. Rasmussen",
+        "Tove Nielsen"
+      ],
+      "journal": "Frontiers in Earth Science",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.3389/feart.2024.1356341",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -21081,6 +22127,87 @@
         "crossref:Hikurangi cold seep bacteria"
       ],
       "discovery_source": "Crossref publisher-deposited metadata",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1016-j-marpetgeo-2024-106761",
+      "doi": "10.1016/j.marpetgeo.2024.106761",
+      "title": "Biogeochemical investigations of methane seepage at the ultraslow-spreading Arctic mid-ocean ridge: Svyatogor ridge, Fram Strait",
+      "publication_date": "2024-04",
+      "year": 2024,
+      "authors": [
+        "C. Argentino",
+        "C. Borrelli",
+        "A. Akinselure",
+        "M. Correa-Diaz",
+        "G. Panieri"
+      ],
+      "journal": "Marine and Petroleum Geology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.marpetgeo.2024.106761",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry",
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-18799-24131830-2024-3-4511",
+      "doi": "10.18799/24131830/2024/3/4511",
+      "title": "Elemental speciation of the sediments from cold methane seeps on the Laptev Sea shelf",
+      "publication_date": "2024-03-28",
+      "year": 2024,
+      "authors": [
+        "Irina A. Oberemok",
+        "Natalya V. Guseva",
+        "Yulia A. Moiseeva",
+        "Darya V. Purgina",
+        "Natalina A. Poltavskaya",
+        "Elena V. Gershelis",
+        "Igor P. Semiletov"
+      ],
+      "journal": "Bulletin of the Tomsk Polytechnic University Geo Assets Engineering",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.18799/24131830/2024/3/4511",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "phosphorus"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -21586,6 +22713,53 @@
         "northeast_pacific"
       ],
       "discovery_source": "Europe PMC core API",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-3389-feart-2024-1355621",
+      "doi": "10.3389/feart.2024.1355621",
+      "title": "Protracted post-glacial hydrocarbon seepage in the Barents Sea revealed by U–Th dating of seep carbonates",
+      "publication_date": "2024-03-01",
+      "year": 2024,
+      "authors": [
+        "Tobias Himmler",
+        "Doris Wagner",
+        "Diana Sahy",
+        "Sunil Vadakkepuliyambatta",
+        "Shyam Chand",
+        "Tõnu Martma",
+        "Kalle Kirsimäe",
+        "Rune Mattingsdal",
+        "Giuliana Panieri",
+        "Stefan Bünz",
+        "Daniel J. Condon",
+        "Jochen Knies",
+        "Aivo Lepland"
+      ],
+      "journal": "Frontiers in Earth Science",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.3389/feart.2024.1355621",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T02:43:50.821956+00:00",
+      "last_seen_at": "2026-11-05T02:43:50.821956+00:00",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -23981,17 +25155,15 @@
         "carbonate"
       ],
       "topics": [
-        "community",
-        "phosphorus",
-        "carbon",
         "geochemistry",
-        "methods"
+        "carbon",
+        "community"
       ],
       "sites": [
         "arctic-seeps"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "pmid": "37865252",
       "pmcid": "",
       "volume": "907",

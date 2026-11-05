@@ -1571,6 +1571,182 @@
       "relation": {},
       "article-number": "e72973"
     },
+    "10.1002/ece3.74597": {
+      "publisher": "Wiley",
+      "issue": "10",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                23
+              ]
+            ],
+            "date-time": "2026-10-23T00:00:00Z",
+            "timestamp": 1792713600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 22,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1002/ece3.74597",
+      "type": "journal-article",
+      "title": [
+        "Macrofauna Associated With Submarine Groundwater Discharge Sites and a Cold Seep in Svalbard Fjords"
+      ],
+      "volume": "16",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0009-6648-1576",
+          "authenticated-orcid": false,
+          "given": "Johanna",
+          "family": "Schramm",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Arctic Biology The University Centre in Svalbard (UNIS)  Longyearbyen Norway"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei‐Li",
+          "family": "Hong",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Geological Sciences Stockholm University  Stockholm Sweden"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sophie",
+          "family": "ten Hietbrink",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Geological Sciences Stockholm University  Stockholm Sweden"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Beata",
+          "family": "Szymczycha",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Oceanology, Polish Academy of Sciences  Sopot Poland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jochen",
+          "family": "Knies",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Geological Survey of Norway  Trondheim Norway"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Arunima",
+          "family": "Sen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Arctic Biology The University Centre in Svalbard (UNIS)  Longyearbyen Norway"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "container-title": [
+        "Ecology and Evolution"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1002/ece3.74597",
+      "relation": {},
+      "article-number": "e74597"
+    },
     "10.1002/elsc.201700148": {
       "publisher": "Wiley",
       "issue": "6",
@@ -4490,6 +4666,169 @@
       "URL": "https://doi.org/10.1007/s00284-021-02563-0",
       "relation": {}
     },
+    "10.1007/s00300-024-03320-2": {
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                19
+              ]
+            ],
+            "date-time": "2024-12-19T00:00:00Z",
+            "timestamp": 1734566400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                19
+              ]
+            ],
+            "date-time": "2024-12-19T00:00:00Z",
+            "timestamp": 1734566400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1007/s00300-024-03320-2",
+      "type": "journal-article",
+      "title": [
+        "DNA barcoding of monothalamid foraminifera from Vestnesa and Svyatogor Ridge, Arctic Ocean, including the description of 3 new species"
+      ],
+      "volume": "48",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2460-6210",
+          "authenticated-orcid": false,
+          "given": "Maria",
+          "family": "Holzmann",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0001-2735-0487",
+          "authenticated-orcid": false,
+          "given": "Villads D.",
+          "family": "Holm",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8051-4110",
+          "authenticated-orcid": false,
+          "given": "Ines Barrenechea",
+          "family": "Angeles",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5661-7371",
+          "authenticated-orcid": false,
+          "given": "Andrew J.",
+          "family": "Gooday",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2421-388X",
+          "authenticated-orcid": false,
+          "given": "Jan",
+          "family": "Pawlowski",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9411-1729",
+          "authenticated-orcid": false,
+          "given": "Giuliana",
+          "family": "Panieri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            19
+          ]
+        ]
+      },
+      "container-title": [
+        "Polar Biology"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            19
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/s00300-024-03320-2",
+      "relation": {},
+      "article-number": "12"
+    },
     "10.1007/s00343-020-0040-7": {
       "publisher": "Springer Science and Business Media LLC",
       "issue": "4",
@@ -5522,6 +5861,169 @@
         ]
       },
       "URL": "https://doi.org/10.1007/s11001-018-9374-3"
+    },
+    "10.1007/s11802-026-6261-4": {
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                7
+              ]
+            ],
+            "date-time": "2025-10-07T00:00:00Z",
+            "timestamp": 1759795200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                7
+              ]
+            ],
+            "date-time": "2025-10-07T00:00:00Z",
+            "timestamp": 1759795200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1007/s11802-026-6261-4",
+      "type": "journal-article",
+      "page": "947-964",
+      "title": [
+        "Cold-Seep Carbonate Factory: Formation Mechanisms, Geochemical Proxies, and Implications for Global Carbon Cycling"
+      ],
+      "volume": "25",
+      "author": [
+        {
+          "given": "Kaiyi",
+          "family": "Dai",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaoming",
+          "family": "Miao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yu",
+          "family": "Gu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xin",
+          "family": "Chang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Qing",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Guangchao",
+          "family": "Zhuang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiting",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            7
+          ]
+        ]
+      },
+      "container-title": [
+        "Journal of Ocean University of China"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            7
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/s11802-026-6261-4",
+      "relation": {}
     },
     "10.1007/s12040-025-02569-3": {
       "publisher": "Springer Science and Business Media LLC",
@@ -7103,6 +7605,371 @@
       "URL": "https://doi.org/10.1016/j.chemgeo.2021.120442",
       "article-number": "120442"
     },
+    "10.1016/j.chemgeo.2025.123170": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2026-01-01T00:00:00Z",
+            "timestamp": 1767225600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2026-01-01T00:00:00Z",
+            "timestamp": 1767225600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2026-01-01T00:00:00Z",
+            "timestamp": 1767225600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2026-01-01T00:00:00Z",
+            "timestamp": 1767225600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2026-01-01T00:00:00Z",
+            "timestamp": 1767225600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2026-01-01T00:00:00Z",
+            "timestamp": 1767225600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2026-01-01T00:00:00Z",
+            "timestamp": 1767225600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.chemgeo.2025.123170",
+      "type": "journal-article",
+      "page": "123170",
+      "title": [
+        "Iron and nitrate-driven anaerobic methane oxidation in methane seep sediments of the Laptev Sea"
+      ],
+      "volume": "699",
+      "author": [
+        {
+          "given": "D.",
+          "family": "Purgina",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yu",
+          "family": "Moiseeva",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.",
+          "family": "Wild",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "N.",
+          "family": "Guseva",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "E.",
+          "family": "Gershelis",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "O.",
+          "family": "Gustafsson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Khvashevskaya",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Pakhomova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "V.",
+          "family": "Kholodov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "O.",
+          "family": "Dudarev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D.",
+          "family": "Kosmach",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D.",
+          "family": "Chernykh",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Polivanova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "I.",
+          "family": "Gangnus",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Kurilenko",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Domaniuk",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "E.",
+          "family": "Yakushev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "I.",
+          "family": "Semiletov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Chemical Geology"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.chemgeo.2025.123170",
+      "relation": {},
+      "article-number": "123170"
+    },
     "10.1016/j.clay.2025.108092": {
       "publisher": "Elsevier BV",
       "license": [
@@ -8275,6 +9142,259 @@
         ]
       },
       "URL": "https://doi.org/10.1016/j.dsr2.2018.01.011"
+    },
+    "10.1016/j.dsr2.2026.105620": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                12
+              ]
+            ],
+            "date-time": "2026-03-12T00:00:00Z",
+            "timestamp": 1773273600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.dsr2.2026.105620",
+      "type": "journal-article",
+      "page": "105620",
+      "title": [
+        "Discovery of a bathyal methane seep field at the north-western Vestnesa Ridge, Fram Strait"
+      ],
+      "volume": "227",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-3477-3047",
+          "authenticated-orcid": false,
+          "given": "Katrin",
+          "family": "Linse",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7322-5145",
+          "authenticated-orcid": false,
+          "given": "Lilian",
+          "family": "Boehringer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3269-8904",
+          "authenticated-orcid": false,
+          "given": "Saskia",
+          "family": "Brix",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3737-5872",
+          "authenticated-orcid": false,
+          "given": "Jennifer",
+          "family": "Dannheim",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5407-7746",
+          "authenticated-orcid": false,
+          "given": "Jonas",
+          "family": "Hagemann",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-7366-6465",
+          "authenticated-orcid": false,
+          "given": "Fereshteh",
+          "family": "Hemmateenejad",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5394-8805",
+          "authenticated-orcid": false,
+          "given": "Áki Jarl",
+          "family": "Láruson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9411-1729",
+          "authenticated-orcid": false,
+          "given": "Giuliana",
+          "family": "Panieri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7873-0041",
+          "authenticated-orcid": false,
+          "given": "Lydia Anastasia",
+          "family": "Schmidt",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0006-4244-5245",
+          "authenticated-orcid": false,
+          "given": "Maximilian",
+          "family": "Schrade",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8077-1993",
+          "authenticated-orcid": false,
+          "given": "Carolin",
+          "family": "Uhlir",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5427-0151",
+          "authenticated-orcid": false,
+          "given": "Autun",
+          "family": "Purser",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Deep Sea Research Part II: Topical Studies in Oceanography"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.dsr2.2026.105620",
+      "relation": {},
+      "article-number": "105620"
     },
     "10.1016/j.envpol.2017.04.087": {
       "publisher": "Elsevier BV",
@@ -10809,6 +11929,368 @@
       "URL": "https://doi.org/10.1016/j.gsf.2025.102015",
       "article-number": "102015"
     },
+    "10.1016/j.gsf.2026.102451": {
+      "publisher": "Elsevier BV",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2027,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2027-01-01T00:00:00Z",
+            "timestamp": 1798761600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2027,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2027-01-01T00:00:00Z",
+            "timestamp": 1798761600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                28
+              ]
+            ],
+            "date-time": "2026-08-28T00:00:00Z",
+            "timestamp": 1787875200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2027,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.gsf.2026.102451",
+      "type": "journal-article",
+      "page": "102451",
+      "title": [
+        "Cryosphere-driven freshening and methane source shift at Beaufort Sea mud volcanoes"
+      ],
+      "volume": "18",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2430-3869",
+          "authenticated-orcid": false,
+          "given": "Ji-Hoon",
+          "family": "Kim",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jong-Sik",
+          "family": "Ryu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dong-Hun",
+          "family": "Lee",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei-Li",
+          "family": "Hong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Charles K.",
+          "family": "Paull",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jin",
+          "family": "Hur",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5007-2721",
+          "authenticated-orcid": false,
+          "given": "Akihiro",
+          "family": "Hachikubo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jiyoung",
+          "family": "Choi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Young-Keun",
+          "family": "Jin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jong Kuk",
+          "family": "Hong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sanghee",
+          "family": "Park",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yeon-Jin",
+          "family": "Choi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Heung-Soo",
+          "family": "Moon",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Youngkyu",
+          "family": "Ahn",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kwangchul",
+          "family": "Jang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jeffrey",
+          "family": "Obelcz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Maureen",
+          "family": "Walton",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6532-3482",
+          "authenticated-orcid": false,
+          "given": "Seung-Goo",
+          "family": "Kang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5667-0060",
+          "authenticated-orcid": false,
+          "given": "Hyo-Im",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4458-2439",
+          "authenticated-orcid": false,
+          "given": "Hien-Thi",
+          "family": "Nguyen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David W.",
+          "family": "Caress",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1144-3865",
+          "authenticated-orcid": false,
+          "given": "Roberto",
+          "family": "Gwiazda",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Geoscience Frontiers"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2027,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.gsf.2026.102451",
+      "relation": {},
+      "article-number": "102451"
+    },
     "10.1016/j.heliyon.2024.e39055": {
       "publisher": "Elsevier BV",
       "issue": "22",
@@ -12923,6 +14405,223 @@
       "URL": "https://doi.org/10.1016/j.marchem.2024.104363",
       "article-number": "104363"
     },
+    "10.1016/j.marchem.2025.104570": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2025-12-01T00:00:00Z",
+            "timestamp": 1764547200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2025-12-01T00:00:00Z",
+            "timestamp": 1764547200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                8
+              ]
+            ],
+            "date-time": "2025-10-08T00:00:00Z",
+            "timestamp": 1759881600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.marchem.2025.104570",
+      "type": "journal-article",
+      "page": "104570",
+      "title": [
+        "Submarine groundwater discharge and gas hydrate dissociation fuel organic matter formation in Arctic fjord sediments"
+      ],
+      "volume": "273",
+      "author": [
+        {
+          "given": "Beata",
+          "family": "Szymczycha",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Magdalena",
+          "family": "Diak",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei-Li",
+          "family": "Hong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael Ernst",
+          "family": "Böttcher",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Aivo",
+          "family": "Lepland",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Przemysław",
+          "family": "Makuch",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sophie",
+          "family": "ten Hietbrink",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Seyed Reza",
+          "family": "Saghravani",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Arunima",
+          "family": "Sen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Aleksandra",
+          "family": "Winogradow",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marc J.",
+          "family": "Silberberger",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Marine Chemistry"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            12
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.marchem.2025.104570",
+      "relation": {},
+      "article-number": "104570"
+    },
     "10.1016/j.marenvres.2017.10.013": {
       "publisher": "Elsevier BV",
       "license": [
@@ -14322,6 +16021,237 @@
       "relation": {},
       "article-number": "108410"
     },
+    "10.1016/j.marenvres.2026.108522": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2027,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2027-01-01T00:00:00Z",
+            "timestamp": 1798761600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2027,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2027-01-01T00:00:00Z",
+            "timestamp": 1798761600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                28
+              ]
+            ],
+            "date-time": "2026-10-28T00:00:00Z",
+            "timestamp": 1793145600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2027,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.marenvres.2026.108522",
+      "type": "journal-article",
+      "page": "108522",
+      "title": [
+        "Fauna of shallow water Arctic seep related to dynamic water masses"
+      ],
+      "volume": "223",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7847-2137",
+          "authenticated-orcid": false,
+          "given": "Arunima",
+          "family": "Sen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Corentin",
+          "family": "Caudan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nil",
+          "family": "Rodés",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shyam",
+          "family": "Chand",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei Li",
+          "family": "Hong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sophie",
+          "family": "ten Hietbrink",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Beata",
+          "family": "Szymczycha",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Magdalena",
+          "family": "Diak",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fredrik",
+          "family": "Broms",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Frank",
+          "family": "Nilsen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ragnheid",
+          "family": "Skogseth",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jochen",
+          "family": "Knies",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Marine Environmental Research"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2027,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.marenvres.2026.108522",
+      "relation": {},
+      "article-number": "108522"
+    },
     "10.1016/j.margeo.2019.105985": {
       "publisher": "Elsevier BV",
       "license": [
@@ -14637,6 +16567,609 @@
       },
       "URL": "https://doi.org/10.1016/j.margeo.2020.106189",
       "article-number": "106189"
+    },
+    "10.1016/j.margeo.2025.107558": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2025-07-01T00:00:00Z",
+            "timestamp": 1751328000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2025-07-01T00:00:00Z",
+            "timestamp": 1751328000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2025-07-01T00:00:00Z",
+            "timestamp": 1751328000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2025-07-01T00:00:00Z",
+            "timestamp": 1751328000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2025-07-01T00:00:00Z",
+            "timestamp": 1751328000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2025-07-01T00:00:00Z",
+            "timestamp": 1751328000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2025-07-01T00:00:00Z",
+            "timestamp": 1751328000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.margeo.2025.107558",
+      "type": "journal-article",
+      "page": "107558",
+      "title": [
+        "The morphology and geochemistry of authigenic pyrite formed under methane seepage: Insights from the Laptev Sea"
+      ],
+      "volume": "485",
+      "author": [
+        {
+          "given": "Alexey",
+          "family": "Ruban",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anastasia",
+          "family": "Nikolaeva",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Vera",
+          "family": "Abramova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexander",
+          "family": "Ignatiev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Oleg",
+          "family": "Dudarev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Igor",
+          "family": "Semiletov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Maxim",
+          "family": "Rudmin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Marine Geology"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            7
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.margeo.2025.107558",
+      "relation": {},
+      "article-number": "107558"
+    },
+    "10.1016/j.margeo.2026.107819": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.margeo.2026.107819",
+      "type": "journal-article",
+      "page": "107819",
+      "title": [
+        "Geological drivers and biological responses at methane seeps: Habitat complexity at the Nyegga seep site (NE Atlantic)"
+      ],
+      "volume": "498",
+      "author": [
+        {
+          "given": "Davide",
+          "family": "Oppo",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sigmund",
+          "family": "Jensen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Martin",
+          "family": "Hovland",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Srikumar",
+          "family": "Roy",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Marine Geology"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.margeo.2026.107819",
+      "relation": {},
+      "article-number": "107819"
+    },
+    "10.1016/j.marger.2026.207714": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.marger.2026.207714",
+      "type": "journal-article",
+      "page": "207714",
+      "title": [
+        "Authigenic carbonates from cold seep sites in the Laptev Sea: 230Th/U chronology and insights into fluid sources"
+      ],
+      "volume": "188",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-5852-8201",
+          "authenticated-orcid": false,
+          "given": "Alexey",
+          "family": "Ruban",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fedor",
+          "family": "Maksimov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Maxim",
+          "family": "Rudmin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tamara",
+          "family": "Yakich",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anastasiya",
+          "family": "Nikolaeva",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9432-8992",
+          "authenticated-orcid": false,
+          "given": "Oleg",
+          "family": "Dudarev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Igor",
+          "family": "Semiletov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Marine Geoscience and Energy Resources"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.marger.2026.207714",
+      "relation": {},
+      "article-number": "207714"
     },
     "10.1016/j.marger.2026.207766": {
       "publisher": "Elsevier BV",
@@ -15417,6 +17950,155 @@
       "URL": "https://doi.org/10.1016/j.marpetgeo.2023.106212",
       "article-number": "106212"
     },
+    "10.1016/j.marpetgeo.2024.106761": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2024-04-01T00:00:00Z",
+            "timestamp": 1711929600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2024-04-01T00:00:00Z",
+            "timestamp": 1711929600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                2,
+                13
+              ]
+            ],
+            "date-time": "2024-02-13T00:00:00Z",
+            "timestamp": 1707782400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            4
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.marpetgeo.2024.106761",
+      "type": "journal-article",
+      "page": "106761",
+      "title": [
+        "Biogeochemical investigations of methane seepage at the ultraslow-spreading Arctic mid-ocean ridge: Svyatogor ridge, Fram Strait"
+      ],
+      "volume": "162",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2680-4528",
+          "authenticated-orcid": false,
+          "given": "C.",
+          "family": "Argentino",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Borrelli",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Akinselure",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0263-0554",
+          "authenticated-orcid": false,
+          "given": "M.",
+          "family": "Correa-Diaz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "G.",
+          "family": "Panieri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Marine and Petroleum Geology"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            4
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.marpetgeo.2024.106761",
+      "relation": {},
+      "article-number": "106761"
+    },
     "10.1016/j.marpetgeo.2024.106778": {
       "publisher": "Elsevier BV",
       "license": [
@@ -15648,6 +18330,131 @@
       },
       "URL": "https://doi.org/10.1016/j.marpetgeo.2024.106778",
       "article-number": "106778"
+    },
+    "10.1016/j.marpetgeo.2024.106875": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2024-07-01T00:00:00Z",
+            "timestamp": 1719792000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2024-07-01T00:00:00Z",
+            "timestamp": 1719792000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                4,
+                29
+              ]
+            ],
+            "date-time": "2024-04-29T00:00:00Z",
+            "timestamp": 1714348800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.marpetgeo.2024.106875",
+      "type": "journal-article",
+      "page": "106875",
+      "title": [
+        "Formation of non-evaporitic gypsum in gas hydrate-bearing sediments at Håkon Mosby mud volcano, SW Barents sea"
+      ],
+      "volume": "165",
+      "author": [
+        {
+          "given": "Cathrin",
+          "family": "Wittig",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2680-4528",
+          "authenticated-orcid": false,
+          "given": "Claudio",
+          "family": "Argentino",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9411-1729",
+          "authenticated-orcid": false,
+          "given": "Giuliana",
+          "family": "Panieri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Marine and Petroleum Geology"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            7
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.marpetgeo.2024.106875",
+      "relation": {},
+      "article-number": "106875"
     },
     "10.1016/j.marpetgeo.2025.107615": {
       "publisher": "Elsevier BV",
@@ -16672,6 +19479,227 @@
       "URL": "https://doi.org/10.1016/j.marpolbul.2026.120036",
       "relation": {},
       "article-number": "120036"
+    },
+    "10.1016/j.orggeochem.2024.104862": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.orggeochem.2024.104862",
+      "type": "journal-article",
+      "page": "104862",
+      "title": [
+        "Hydroxylated GDGTs-0 in marine methane seep environments: A putative indicator for archaeal methanogenesis"
+      ],
+      "volume": "198",
+      "author": [
+        {
+          "given": "Hongxiang",
+          "family": "Guan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lei",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Daniel",
+          "family": "Birgel",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jörn",
+          "family": "Peckmann",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dong",
+          "family": "Feng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sanzhong",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Organic Geochemistry"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.orggeochem.2024.104862",
+      "relation": {},
+      "article-number": "104862"
     },
     "10.1016/j.orggeochem.2024.104882": {
       "publisher": "Elsevier BV",
@@ -21750,6 +24778,243 @@
       "URL": "https://doi.org/10.1016/j.scitotenv.2024.178299",
       "relation": {},
       "article-number": "178299"
+    },
+    "10.1016/j.ssnmr.2026.102124": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2027,
+                7,
+                25
+              ]
+            ],
+            "date-time": "2027-07-25T00:00:00Z",
+            "timestamp": 1816473600000
+          },
+          "content-version": "am",
+          "delay-in-days": 297,
+          "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.ssnmr.2026.102124",
+      "type": "journal-article",
+      "page": "102124",
+      "title": [
+        "Progression of organic and inorganic matter in cold seep rocks during anaerobic oxidation of methane studied by solid-state NMR"
+      ],
+      "volume": "145",
+      "author": [
+        {
+          "given": "Yan",
+          "family": "Shi",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peter",
+          "family": "Schroedl",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jeffrey",
+          "family": "Marlow",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dongtao",
+          "family": "Cui",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David A.",
+          "family": "Weitz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yiqiao",
+          "family": "Song",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Solid State Nuclear Magnetic Resonance"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.ssnmr.2026.102124",
+      "relation": {},
+      "article-number": "102124"
     },
     "10.1016/j.syapm.2018.05.004": {
       "publisher": "Elsevier BV",
@@ -36268,6 +39533,152 @@
       "relation": {},
       "article-number": "6537"
     },
+    "10.1038/s41598-025-99578-5": {
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                4,
+                30
+              ]
+            ],
+            "date-time": "2025-04-30T00:00:00Z",
+            "timestamp": 1745971200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                4,
+                30
+              ]
+            ],
+            "date-time": "2025-04-30T00:00:00Z",
+            "timestamp": 1745971200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "DOI": "10.1038/s41598-025-99578-5",
+      "type": "journal-article",
+      "title": [
+        "A constellation of mud volcanoes originated from a buried Arctic mega-slide, Southwestern Barents Sea"
+      ],
+      "volume": "15",
+      "author": [
+        {
+          "given": "Claudio",
+          "family": "Argentino",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Rune",
+          "family": "Mattingsdal",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Tor",
+          "family": "Eidvin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Sverre Ekrene",
+          "family": "Ohm",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Giuliana",
+          "family": "Panieri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            30
+          ]
+        ]
+      },
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            30
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1038/s41598-025-99578-5",
+      "relation": {
+        "references": [
+          {
+            "id-type": "doi",
+            "id": "10.5194/essd-12-1561-2020",
+            "asserted-by": "subject"
+          }
+        ],
+        "has-preprint": [
+          {
+            "id-type": "doi",
+            "id": "10.21203/rs.3.rs-5662002/v1",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "article-number": "15161"
+    },
     "10.1038/s41598-026-54088-w": {
       "publisher": "Springer Science and Business Media LLC",
       "issue": "1",
@@ -43981,6 +47392,89 @@
       "URL": "https://doi.org/10.1093/nargab/lqaf061",
       "relation": {},
       "article-number": "lqaf061"
+    },
+    "10.1093/nsr/nwag267": {
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "12",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                5,
+                14
+              ]
+            ],
+            "date-time": "2026-05-14T00:00:00Z",
+            "timestamp": 1778716800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1093/nsr/nwag267",
+      "type": "journal-article",
+      "title": [
+        "Cold seep seafloor observatories revise the notion of ‘life in the slow lane’"
+      ],
+      "volume": "13",
+      "author": [
+        {
+          "given": "Andreas",
+          "family": "Teske",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of North Carolina at Chapel Hill Department of Earth, Marine and Environmental Sciences, ,",
+              "place": [
+                "USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            14
+          ]
+        ]
+      },
+      "container-title": [
+        "National Science Review"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            14
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1093/nsr/nwag267",
+      "relation": {},
+      "article-number": "nwag267"
     },
     "10.1098/rsbl.2023.0573": {
       "publisher": "The Royal Society",
@@ -63179,6 +66673,157 @@
       },
       "URL": "https://doi.org/10.1134/s0001437017010064"
     },
+    "10.1134/s0016702924700903": {
+      "publisher": "Pleiades Publishing Ltd",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                2,
+                20
+              ]
+            ],
+            "date-time": "2025-02-20T00:00:00Z",
+            "timestamp": 1740009600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                2,
+                20
+              ]
+            ],
+            "date-time": "2025-02-20T00:00:00Z",
+            "timestamp": 1740009600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1134/s0016702924700903",
+      "type": "journal-article",
+      "page": "242-250",
+      "title": [
+        "Carbon Isotope Type-Curves of Organic Matter in Sediments of the Laptev Sea (Seep Area)"
+      ],
+      "volume": "63",
+      "author": [
+        {
+          "given": "V. S.",
+          "family": "Sevastyanov",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "V. Yu.",
+          "family": "Fedulova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "O. V.",
+          "family": "Kuznetsova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "N. V.",
+          "family": "Dushenko",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "V. S.",
+          "family": "Fedulov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "A. E.",
+          "family": "Bazhanova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            20
+          ]
+        ]
+      },
+      "container-title": [
+        "Geochemistry International"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            20
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1134/s0016702924700903",
+      "relation": {}
+    },
     "10.1139/as-2026-0033": {
       "publisher": "Canadian Science Publishing",
       "license": [
@@ -69140,6 +72785,210 @@
       },
       "URL": "https://doi.org/10.18520/cs/v112/i03/560-568"
     },
+    "10.18799/24131830/2024/3/4511": {
+      "publisher": "National Research Tomsk Polytechnic University",
+      "issue": "3",
+      "DOI": "10.18799/24131830/2024/3/4511",
+      "type": "journal-article",
+      "page": "108-123",
+      "title": [
+        "Elemental speciation of the sediments from cold methane seeps on the Laptev Sea shelf"
+      ],
+      "volume": "335",
+      "author": [
+        {
+          "given": "Irina A.",
+          "family": "Oberemok",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Natalya V.",
+          "family": "Guseva",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yulia A.",
+          "family": "Moiseeva",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Darya V.",
+          "family": "Purgina",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Natalina A.",
+          "family": "Poltavskaya",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Elena V.",
+          "family": "Gershelis",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Igor P.",
+          "family": "Semiletov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Bulletin of the Tomsk Polytechnic University Geo Assets Engineering"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            28
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.18799/24131830/2024/3/4511",
+      "relation": {}
+    },
+    "10.18799/24131830/2025/5/5051": {
+      "publisher": "National Research Tomsk Polytechnic University",
+      "issue": "5",
+      "DOI": "10.18799/24131830/2025/5/5051",
+      "type": "journal-article",
+      "page": "159-173",
+      "title": [
+        "Authigenic pyrite from the Laptev Sea continental slope:  the impact of methane seepage activity"
+      ],
+      "volume": "336",
+      "author": [
+        {
+          "given": "Alexey S.",
+          "family": "Ruban",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Maxim A.",
+          "family": "Rudmin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Oleg V.",
+          "family": "Dudarev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Igor P.",
+          "family": "Semiletov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            30
+          ]
+        ]
+      },
+      "container-title": [
+        "Bulletin of the Tomsk Polytechnic University Geo Assets Engineering"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            30
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.18799/24131830/2025/5/5051",
+      "relation": {}
+    },
     "10.2108/zs230066": {
       "publisher": "Zoological Society of Japan",
       "issue": "6",
@@ -72772,6 +76621,405 @@
       "URL": "https://doi.org/10.3389/feart.2024.1354388",
       "article-number": "1354388"
     },
+    "10.3389/feart.2024.1355621": {
+      "publisher": "Frontiers Media SA",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2024-03-01T00:00:00Z",
+            "timestamp": 1709251200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.3389/feart.2024.1355621",
+      "type": "journal-article",
+      "title": [
+        "Protracted post-glacial hydrocarbon seepage in the Barents Sea revealed by U–Th dating of seep carbonates"
+      ],
+      "volume": "12",
+      "author": [
+        {
+          "given": "Tobias",
+          "family": "Himmler",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Doris",
+          "family": "Wagner",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Diana",
+          "family": "Sahy",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sunil",
+          "family": "Vadakkepuliyambatta",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shyam",
+          "family": "Chand",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tõnu",
+          "family": "Martma",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kalle",
+          "family": "Kirsimäe",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rune",
+          "family": "Mattingsdal",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Giuliana",
+          "family": "Panieri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Stefan",
+          "family": "Bünz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Daniel J.",
+          "family": "Condon",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jochen",
+          "family": "Knies",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Aivo",
+          "family": "Lepland",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            1
+          ]
+        ]
+      },
+      "container-title": [
+        "Frontiers in Earth Science"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.3389/feart.2024.1355621",
+      "relation": {},
+      "article-number": "1355621"
+    },
+    "10.3389/feart.2024.1356341": {
+      "publisher": "Frontiers Media SA",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                4,
+                8
+              ]
+            ],
+            "date-time": "2024-04-08T00:00:00Z",
+            "timestamp": 1712534400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.3389/feart.2024.1356341",
+      "type": "journal-article",
+      "title": [
+        "Glacial-interglacial sedimentation control on gas seepage exemplified by Vestnesa Ridge off NW Svalbard margin"
+      ],
+      "volume": "12",
+      "author": [
+        {
+          "given": "Tine L.",
+          "family": "Rasmussen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tove",
+          "family": "Nielsen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            8
+          ]
+        ]
+      },
+      "container-title": [
+        "Frontiers in Earth Science"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            8
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.3389/feart.2024.1356341",
+      "relation": {},
+      "article-number": "1356341"
+    },
+    "10.3389/feart.2024.1404027": {
+      "publisher": "Frontiers Media SA",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                11
+              ]
+            ],
+            "date-time": "2024-07-11T00:00:00Z",
+            "timestamp": 1720656000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.3389/feart.2024.1404027",
+      "type": "journal-article",
+      "title": [
+        "Geological and glaciological controls of 21,700 active methane seeps in the northern Norwegian Barents sea"
+      ],
+      "volume": "12",
+      "author": [
+        {
+          "given": "Pavel",
+          "family": "Serov",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Karin",
+          "family": "Andreassen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Monica",
+          "family": "Winsborrow",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rune",
+          "family": "Mattingsdal",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Henry",
+          "family": "Patton",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            11
+          ]
+        ]
+      },
+      "container-title": [
+        "Frontiers in Earth Science"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            11
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.3389/feart.2024.1404027",
+      "relation": {},
+      "article-number": "1404027"
+    },
     "10.3389/feart.2024.1508196": {
       "publisher": "Frontiers Media SA",
       "license": [
@@ -73582,6 +77830,458 @@
       "URL": "https://doi.org/10.3389/fmars.2023.1197338",
       "relation": {},
       "article-number": "1197338"
+    },
+    "10.3389/fmars.2024.1463328": {
+      "publisher": "Frontiers Media SA",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                10,
+                2
+              ]
+            ],
+            "date-time": "2024-10-02T00:00:00Z",
+            "timestamp": 1727827200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.3389/fmars.2024.1463328",
+      "type": "journal-article",
+      "title": [
+        "Magnesium geochemistry of authigenic carbonate at marine cold seep"
+      ],
+      "volume": "11",
+      "author": [
+        {
+          "given": "Yukai",
+          "family": "Tang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hailong",
+          "family": "Lu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hailin",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            10,
+            2
+          ]
+        ]
+      },
+      "container-title": [
+        "Frontiers in Marine Science"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            10,
+            2
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.3389/fmars.2024.1463328",
+      "relation": {},
+      "article-number": "1463328"
+    },
+    "10.3389/fmars.2025.1497616": {
+      "publisher": "Frontiers Media SA",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                9,
+                2
+              ]
+            ],
+            "date-time": "2025-09-02T00:00:00Z",
+            "timestamp": 1756771200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.3389/fmars.2025.1497616",
+      "type": "journal-article",
+      "title": [
+        "Model based analysis of the methane seeping influence on the acidification in the East Siberian Arctic Shelf waters"
+      ],
+      "volume": "12",
+      "author": [
+        {
+          "given": "Evgeniy",
+          "family": "Yakushev",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Anfisa",
+          "family": "Berezina",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Natalia",
+          "family": "Shakhova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Jorn",
+          "family": "Bruggeman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Philip",
+          "family": "Wallhead",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "André",
+          "family": "Staalstrøm",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Matvey",
+          "family": "Novikov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Shamil",
+          "family": "Yakubov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Anastasia",
+          "family": "Zagovenkova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Murat V.",
+          "family": "Ardelan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Richard",
+          "family": "Bellerby",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Örjan",
+          "family": "Gustafsson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Igor",
+          "family": "Semiletov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            2
+          ]
+        ]
+      },
+      "container-title": [
+        "Frontiers in Marine Science"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            2
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.3389/fmars.2025.1497616",
+      "relation": {},
+      "article-number": "1497616"
+    },
+    "10.3389/fmars.2026.1819754": {
+      "publisher": "Frontiers Media SA",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                7,
+                24
+              ]
+            ],
+            "date-time": "2026-07-24T00:00:00Z",
+            "timestamp": 1784851200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.3389/fmars.2026.1819754",
+      "type": "journal-article",
+      "title": [
+        "Cold seeps: climate relevance and anthropogenic impacts"
+      ],
+      "volume": "13",
+      "author": [
+        {
+          "given": "Daniel M.",
+          "family": "Labbé",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute of Ocean Sciences, Fisheries and Oceans Canada",
+              "place": [
+                "Sidney, BC, Canada"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Heidi",
+          "family": "Gartner",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Ocean Sciences, Fisheries and Oceans Canada",
+              "place": [
+                "Sidney, BC, Canada"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anya",
+          "family": "Dunham",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Pacific Biological Station, Fisheries and Oceans Canada",
+              "place": [
+                "Nanaimo, BC, Canada"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sophia",
+          "family": "Johannessen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Ocean Sciences, Fisheries and Oceans Canada",
+              "place": [
+                "Sidney, BC, Canada"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Cherisse",
+          "family": "Du Preez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Pacific Biological Station, Fisheries and Oceans Canada",
+              "place": [
+                "Nanaimo, BC, Canada"
+              ]
+            },
+            {
+              "name": "Department of Biology, University of Victoria",
+              "place": [
+                "Saanich, BC, Canada"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            24
+          ]
+        ]
+      },
+      "container-title": [
+        "Frontiers in Marine Science"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            24
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.3389/fmars.2026.1819754",
+      "relation": {},
+      "article-number": "1819754"
     },
     "10.3389/fmicb.2016.01825": {
       "publisher": "Frontiers Media SA",
@@ -82087,6 +86787,550 @@
             "id-type": "doi",
             "id": "10.5194/egusphere-2024-1377-AC1",
             "asserted-by": "object"
+          }
+        ]
+      }
+    },
+    "10.5194/bg-23-1459-2026": {
+      "publisher": "Copernicus GmbH",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                2,
+                24
+              ]
+            ],
+            "date-time": "2026-02-24T00:00:00Z",
+            "timestamp": 1771891200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.5194/bg-23-1459-2026",
+      "type": "journal-article",
+      "page": "1459-1475",
+      "title": [
+        "Enhanced methane cycling across the Laptev Sea signaled by time-integrated biomarkers of aerobic methane oxidation"
+      ],
+      "volume": "23",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0004-8977-4869",
+          "authenticated-orcid": false,
+          "given": "Albin",
+          "family": "Eriksson",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/05f0yaq80",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Stockholm University (Stockholm, Sweden)"
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/058zxsr17",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Bolin Centre for Climate Research (Stockholm, Sweden)"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "corresponding-author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9611-0815",
+          "authenticated-orcid": false,
+          "given": "Birgit",
+          "family": "Wild",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7247-1827",
+          "authenticated-orcid": false,
+          "given": "Wei-Li",
+          "family": "Hong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Henry",
+          "family": "Holmstrand",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Francisco J. A.",
+          "family": "Nascimento",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4366-0677",
+          "authenticated-orcid": false,
+          "given": "Stefano",
+          "family": "Bonaglia",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2276-324X",
+          "authenticated-orcid": false,
+          "given": "Denis",
+          "family": "Kosmach",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Igor",
+          "family": "Semiletov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Natalia",
+          "family": "Shakhova",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1922-0527",
+          "authenticated-orcid": false,
+          "given": "Örjan",
+          "family": "Gustafsson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/05f0yaq80",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Stockholm University (Stockholm, Sweden)"
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/058zxsr17",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Bolin Centre for Climate Research (Stockholm, Sweden)"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "corresponding-author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            24
+          ]
+        ]
+      },
+      "container-title": [
+        "Biogeosciences"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            24
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.5194/bg-23-1459-2026",
+      "relation": {
+        "has-preprint": [
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-4756",
+            "asserted-by": "subject"
+          }
+        ],
+        "has-review": [
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-4756-RC1",
+            "asserted-by": "subject"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-4756-AC1",
+            "asserted-by": "subject"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-4756-RC2",
+            "asserted-by": "subject"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-4756-AC2",
+            "asserted-by": "subject"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-4756-AC2",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-4756-AC1",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-4756-RC2",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-4756-RC1",
+            "asserted-by": "object"
+          }
+        ],
+        "is-part-of": [
+          {
+            "id-type": "doi",
+            "id": "10.17043/eriksson-2026-biomarker-1",
+            "asserted-by": "subject"
+          }
+        ]
+      }
+    },
+    "10.5194/bg-23-3139-2026": {
+      "publisher": "Copernicus GmbH",
+      "issue": "9",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                5,
+                8
+              ]
+            ],
+            "date-time": "2026-05-08T00:00:00Z",
+            "timestamp": 1778198400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.5194/bg-23-3139-2026",
+      "type": "journal-article",
+      "page": "3139-3157",
+      "title": [
+        "Seafloor chemosynthetic habitats and AOM-influenced sediment microbiome at a cold-water coral site off the Vesterålen coast, northern Norway"
+      ],
+      "volume": "23",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2680-4528",
+          "authenticated-orcid": false,
+          "given": "Claudio",
+          "family": "Argentino",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00wge5k78",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "UiT The Arctic University of Norway (Tromsø, Norway)"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "corresponding-author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5816-6316",
+          "authenticated-orcid": false,
+          "given": "Luca",
+          "family": "Fallati",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4928-8167",
+          "authenticated-orcid": false,
+          "given": "Sebastian",
+          "family": "Petters",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hans C.",
+          "family": "Bernstein",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ines",
+          "family": "Barrenechea Angeles",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jorge",
+          "family": "Corrales-Guerrero",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5818-5947",
+          "authenticated-orcid": false,
+          "given": "Alessandra",
+          "family": "Savini",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1646-9287",
+          "authenticated-orcid": false,
+          "given": "Benedicte",
+          "family": "Ferré",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Giuliana",
+          "family": "Panieri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            8
+          ]
+        ]
+      },
+      "container-title": [
+        "Biogeosciences"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            8
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.5194/bg-23-3139-2026",
+      "relation": {
+        "has-preprint": [
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-3906",
+            "asserted-by": "subject"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-3906",
+            "asserted-by": "object"
+          }
+        ],
+        "has-review": [
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-3906-RC1",
+            "asserted-by": "subject"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-3906-AC2",
+            "asserted-by": "subject"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-3906-RC2",
+            "asserted-by": "subject"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-3906-AC1",
+            "asserted-by": "subject"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-3906-AC2",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-3906-AC1",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-3906-RC1",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.5194/egusphere-2025-3906-RC2",
+            "asserted-by": "object"
+          }
+        ],
+        "is-part-of": [
+          {
+            "id-type": "doi",
+            "id": "10.18710/1FCVAE",
+            "asserted-by": "subject"
           }
         ]
       }

@@ -2,6 +2,110 @@
 
 Use these source-specific comparisons to interpret documented SCS findings. The user's manuscript Results have not been supplied. / 这些文献特定比较用于解释已记录的南海研究发现，目前尚未提供用户稿件的结果。
 
+## Cryosphere-driven freshening and methane source shift at Beaufort Sea mud volcanoes
+
+波弗特海泥火山的冰冻圈淡化与甲烷来源转变
+
+Kim, J.-H., Ryu, J.-S., Lee, D.-H., Hong, W.-L., Paull, C. K., Hur, J., Hachikubo, A., Choi, J., Jin, Y.-K., Hong, J. K., Park, S., Choi, Y.-J., Moon, H.-S., Ahn, Y., Jang, K., Obelcz, J., Walton, M., Kang, S.-G., Kim, H.-I., … Gwiazda, R. (2027). Cryosphere-driven freshening and methane source shift at Beaufort sea mud volcanoes. *Geoscience Frontiers, 18*(1), Article 102451. https://doi.org/10.1016/j.gsf.2026.102451
+
+**Study scope / 研究范围**: Two Beaufort Sea mud volcanoes.
+
+两处波弗特海泥火山。
+
+**Design / 研究设计**: Pore-fluid and gas geochemistry, including chloride, water and hydrocarbon isotopes.
+
+孔隙水与气体地球化学，包括氯、水同位素和烃同位素。
+
+**Finding / 发现**: Central sites stayed fresh, with chloride depletion below 69 percent, while margins remained seawater-like. The authors infer that cryosphere-derived freshwater shifts the balance between microbial and thermogenic methane.
+
+中心站持续淡化，氯亏损超过 69%，边缘仍接近海水。作者推断冰冻圈来源的淡水改变了微生物甲烷与热成因甲烷的平衡。
+
+**Citation limits / 引用边界**: The methane-source shift is an inference from fluid and gas fingerprints, not a measured change in atmospheric flux.
+
+甲烷来源转变是根据流体和气体指纹作出的推断，不是大气通量的实测变化。
+
+**Discussion use / 讨论用途**: Extend Arctic mud-volcano geochemistry to the Beaufort Sea.
+
+把北极泥火山地球化学扩展到波弗特海。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.gsf.2026.102451) · `src:gcs-beaufort-mud-volcano-methane` · Regional comparison / 区域比较
+
+## Fauna of shallow water Arctic seep related to dynamic water masses
+
+动态水团下的浅水北极冷泉底栖动物
+
+Sen, A., Caudan, C., Rodés, N., Chand, S., Hong, W. L., ten Hietbrink, S., Szymczycha, B., Diak, M., Broms, F., Nilsen, F., Skogseth, R., & Knies, J. (2027). Fauna of shallow water Arctic seep related to dynamic water masses. *Marine Environmental Research, 223*, Article 108522. https://doi.org/10.1016/j.marenvres.2026.108522
+
+**Study scope / 研究范围**: Shallow seeps on the shelf off Hornsund, southern Svalbard.
+
+斯瓦尔巴南部 Hornsund 外海陆架的浅水冷泉。
+
+**Design / 研究设计**: Image-based epimegabenthos compared with CTD water-mass data.
+
+基于影像的表栖大型底栖生物，并与 CTD 水团数据比较。
+
+**Finding / 发现**: Despite colder Arctic water, the seeps lacked chemosymbiotic siboglinids. CTD salinity indicated transformed Atlantic water, and the fauna resembled background Arctic seep taxa rather than obligate seep hosts.
+
+尽管处于较冷的北极水，冷泉仍缺少化能共生的西伯加虫。CTD 盐度指示变性大西洋水，生物组成更接近北极冷泉的背景类群而不是专性冷泉宿主。
+
+**Citation limits / 引用边界**: Water-mass control is an interpretation of one shallow area. It does not show that Atlantic water excludes siboglinids at every Arctic seep.
+
+水团控制是对一处浅水区的解释，不能说明大西洋水在所有北极冷泉都排除西伯加虫。
+
+**Discussion use / 讨论用途**: Use for shallow Svalbard seep fauna under dynamic water masses.
+
+用于动态水团下的斯瓦尔巴浅水冷泉生物。
+
+Sampling time / 采样时间：The inspected abstract does not give cruise dates. 所查摘要未给出航次日期。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.marenvres.2026.108522) · `src:gcs-hornsund-shallow-seep-fauna` · Regional comparison / 区域比较
+
+## A hot encounter at a cold seep: a new endemic Frigidoalvania Warén, 1974 (Mollusca: Caenogastropoda: Rissoidae) from the Arctic and its phylogenetic ties
+
+北极冷泉特有新种 Frigidoalvania 及其系统发育关系
+
+Nekhaev, I. O., Omarova, A., Matveeva, K., & Kokarev, V. (2026). A hot encounter at a cold seep: A new endemic Frigidoalvania warén, 1974 (mollusca: Caenogastropoda: Rissoidae) from the Arctic and its phylogenetic ties. *Journal of Marine Systems, 257*, Article 104262. https://doi.org/10.1016/j.jmarsys.2026.104262
+
+**Study scope / 研究范围**: An Arctic cold seep, as named in the verified title.
+
+经核验标题所指的北极冷泉。
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Finding / 发现**: The title reports a new endemic Frigidoalvania from an Arctic cold seep and its phylogenetic ties.
+
+标题报道北极冷泉一种特有新种 Frigidoalvania 及其系统发育关系。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+**Discussion use / 讨论用途**: Use for Arctic seep endemism at the species-description level, not as a community-wide diversity census.
+
+用于物种描述层面的北极冷泉特有性，而不是全群落多样性普查。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.jmarsys.2026.104262) · `src:gcs-arctic-seep-frigidoalvania` · Regional comparison / 区域比较
+
 ## Anaerobic oxidation of methane supports a minimal microbial community in a subsurface biofilm at Ginsburg mud volcano
 
 Ginsburg 泥火山深部生物膜的简化甲烷氧化群落
@@ -37,6 +141,76 @@ Evidence locator / 证据位置：Abstract; Methods: Study area and Sample colle
 摘要；方法：研究区、样品采集与地球化学。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/42040505) · `src:gcs-cadiz-deep-biofilm` · Regional comparison / 区域比较
+
+## Application of UAV-based methods for quantifying methane point source emissions over an Arctic geological seep
+
+用无人机量化北极地质渗漏点的甲烷排放
+
+Bolek, A., Beattie, M. N., Norooz Oliaee, J., MacLeod, R., Skeeter, J., Morse, P., Heimann, M., & Göckede, M. (2026). Application of UAV-based methods for quantifying methane point source emissions over an Arctic geological seep. *Atmospheric Measurement Techniques, 19*(12), 3983–3998. https://doi.org/10.5194/amt-19-3983-2026
+
+**Study scope / 研究范围**: A known geological methane seep on the outer Mackenzie River delta, Canada.
+
+加拿大麦肯齐河三角洲外缘一处已知地质甲烷渗漏点。
+
+**Design / 研究设计**: Two UAV platforms flew vertical flux-plane curtains with open-path and closed-path methane sensors.
+
+两个无人机平台用开路和闭路甲烷传感器飞行垂直通量截面。
+
+**Finding / 发现**: In July 2025 the UAVs sampled downwind concentration planes at the geological seep, as an alternative to stationary towers and small flux chambers.
+
+2025 年 7 月，无人机在该地质渗漏点采集下风向浓度截面，以替代固定通量塔和小面积通量箱。
+
+**Citation limits / 引用边界**: The retrieved abstract evaluates the method and does not include the quantified emission rate. It also does not establish that this delta seep is a submarine cold seep.
+
+检索到的摘要评估的是方法，没有给出量化后的排放率，也不能确定该三角洲渗漏是海底冷泉。
+
+**Discussion use / 讨论用途**: Use as an Arctic geological point-source method, and keep it distinct from submarine seep inventories.
+
+作为北极地质点源的方法使用，并与海底冷泉清单区分。
+
+Sampling time / 采样时间：July 2025 deployment. 2025 年 7 月作业。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.5194/amt-19-3983-2026) · `src:gcs-mackenzie-uav-seep-methane` · Habitat context / 生境背景
+
+## Authigenic carbonates from cold seep sites in the Laptev Sea: 230Th/U chronology and insights into fluid sources
+
+拉普捷夫海冷泉自生碳酸盐的钍铀年代与流体来源
+
+Ruban, A., Maksimov, F., Rudmin, M., Yakich, T., Nikolaeva, A., Dudarev, O., & Semiletov, I. (2026). Authigenic carbonates from cold seep sites in the Laptev sea: 230th/u chronology and insights into fluid sources. *Marine Geoscience and Energy Resources, 188*, Article 207714. https://doi.org/10.1016/j.marger.2026.207714
+
+**Study scope / 研究范围**: Cold-seep sites in the Laptev Sea.
+
+拉普捷夫海冷泉站位。
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Finding / 发现**: The title reports 230Th/U chronology of authigenic carbonates from Laptev cold seeps and constraints on fluid sources.
+
+标题报道拉普捷夫冷泉自生碳酸盐的 230Th/U 年代以及对流体来源的约束。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+**Discussion use / 讨论用途**: Use for East Siberian seep chronology, without transferring unretrieved ages to other Arctic seeps.
+
+用于东西伯利亚冷泉年代，不要把未检索到的年龄转用于其他北极冷泉。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.marger.2026.207714) · `src:gcs-laptev-carbonate-thorium-ages` · Regional comparison / 区域比较
 
 ## Carbon monoxide oxidation expands the known metabolic capacity in anaerobic methanotrophic consortia
 
@@ -74,6 +248,40 @@ Evidence locator / 证据位置：Abstract; Methods: Sediment collection and pro
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/41980960) · `src:gcs-costa-rica-co-consortia` · Mechanistic precedent / 机制先例
 
+## Clay minerals in methane seep sediments of the Laptev Sea (Arctic): diagenetic transformations and buffering functions
+
+拉普捷夫海甲烷冷泉沉积物中黏土矿物的成岩转化与缓冲
+
+Rudmin, M., Ruban, A., Deeva, E., & Khitrin, I. (2026). Clay minerals in methane seep sediments of the Laptev sea (Arctic): Diagenetic transformations and buffering functions. *Applied Clay Science, 282*, Article 108092. https://doi.org/10.1016/j.clay.2025.108092
+
+**Study scope / 研究范围**: Methane-seep sediments of the Laptev Sea.
+
+拉普捷夫海甲烷冷泉沉积物。
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Finding / 发现**: The title reports diagenetic transformations and buffering functions of clay minerals in those seep sediments.
+
+标题报道这些冷泉沉积物中黏土矿物的成岩转化和缓冲作用。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+**Discussion use / 讨论用途**: Use for Laptev seep mineral buffering, without treating the title as a measured methane-flux result.
+
+用于拉普捷夫冷泉的矿物缓冲，不要把标题当成已测甲烷通量。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.clay.2025.108092) · `src:gcs-laptev-seep-clays` · Regional comparison / 区域比较
+
 ## Co-occurrence of diverse defense systems shapes complex microbe-virus relationships in deep-sea cold seeps
 
 全球冷泉防御与抗防御系统及功能验证
@@ -107,6 +315,348 @@ Evidence locator / 证据位置：Existing verified claim: Abstract; Methods, Me
 复用已核查论断：摘要；方法中的宏基因组数据集。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/41507173) · `src:scs-seep-defense-systems` · Regional comparison / 区域比较
+
+## Cold seep seafloor observatories revise the notion of ‘life in the slow lane’
+
+冷泉海底观测站对“慢车道生命”观念的修正
+
+Teske, A. (2026). Cold seep seafloor observatories revise the notion of ‘life in the slow lane’. *National Science Review, 13*(12), Article nwag267. https://doi.org/10.1093/nsr/nwag267
+
+**Study scope / 研究范围**: Cold-seep seafloor observatories, as framed by the verified title.
+
+经核验标题所讨论的冷泉海底观测站。
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Finding / 发现**: The title states that cold-seep seafloor observatories revise the notion of life in the slow lane.
+
+标题指出冷泉海底观测站修正了“慢车道生命”这一观念。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+**Discussion use / 讨论用途**: Use as an observatory perspective, not as a new rate measurement for an Arctic or SCS site.
+
+作为观测站述评使用，而不是北极或南海某站的新速率测量。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1093/nsr/nwag267) · `src:gcs-seep-observatory-perspective` · Mechanistic precedent / 机制先例
+
+## Cold seeps: climate relevance and anthropogenic impacts
+
+冷泉的气候相关性与人为影响
+
+Labbé, D. M., Gartner, H., Dunham, A., Johannessen, S., & Du Preez, C. (2026). Cold seeps: Climate relevance and anthropogenic impacts. *Frontiers in Marine Science, 13*, Article 1819754. https://doi.org/10.3389/fmars.2026.1819754
+
+**Study scope / 研究范围**: Cold seeps as geologic carbon conduits and blue-carbon systems.
+
+作为地质碳通道和蓝碳系统的冷泉。
+
+**Design / 研究设计**: Perspective synthesizing hydrate and carbonate storage, methane oxidation, biological carbon recycling, and anthropogenic stressors.
+
+综述水合物与碳酸盐储碳、甲烷氧化、生物碳循环以及人为压力。
+
+**Finding / 发现**: The perspective frames seeps as carbon reservoirs, partial emission filters, and biological carbon recyclers, and argues that trawling, engineering and climate-driven change can damage those services.
+
+该文把冷泉描述为碳储库、部分排放过滤器和生物碳循环者，并认为拖网、工程和气候驱动的变化可能损害这些功能。
+
+**Citation limits / 引用边界**: This is a perspective, not a new flux inventory. Service language should not be cited as measured carbon credits.
+
+这是一篇观点文章，不是新的通量清单。服务功能的表述不能被引用成已测的碳信用。
+
+**Discussion use / 讨论用途**: Use as a 2026 narrative frame for climate relevance and human pressure, beside older Arctic methane reviews.
+
+作为 2026 年关于气候相关性和人类压力的叙述框架，并与较早的北极甲烷综述并列。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/fmars.2026.1819754) · `src:gcs-cold-seep-climate-services` · Mechanistic precedent / 机制先例
+
+## Cold-Seep Carbonate Factory: Formation Mechanisms, Geochemical Proxies, and Implications for Global Carbon Cycling
+
+冷泉碳酸盐工厂：形成机制、地球化学指标与全球碳循环
+
+Dai, K., Miao, X., Gu, Y., Chang, X., Li, Q., Zhuang, G., & Liu, X. (2026). Cold-seep carbonate factory: Formation mechanisms, geochemical proxies, and implications for global carbon cycling. *Journal of Ocean University of China, 25*(3), 947–964. https://doi.org/10.1007/s11802-026-6261-4
+
+**Study scope / 研究范围**: Cold-seep carbonate formation as framed by the verified review title.
+
+经核验综述标题所涵盖的冷泉碳酸盐形成。
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Finding / 发现**: The title reviews formation mechanisms and geochemical proxies of the cold-seep carbonate factory and their implications for global carbon cycling.
+
+标题综述冷泉碳酸盐工厂的形成机制、地球化学指标及其对全球碳循环的意义。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+**Discussion use / 讨论用途**: Use as a narrative review of seep carbonates, not as a site inventory or a new carbon-budget measurement.
+
+作为冷泉碳酸盐的叙述性综述，而不是站位清单或新的碳收支测量。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1007/s11802-026-6261-4) · `src:gcs-seep-carbonate-factory-review` · Mechanistic precedent / 机制先例
+
+## Discovery of a bathyal methane seep field at the north-western Vestnesa Ridge, Fram Strait
+
+弗拉姆海峡 Vestnesa 海脊西北侧新发现的深海甲烷冷泉场
+
+Linse, K., Boehringer, L., Brix, S., Dannheim, J., Hagemann, J., Hemmateenejad, F., Láruson, Á. J., Panieri, G., Schmidt, L. A., Schrade, M., Uhlir, C., & Purser, A. (2026). Discovery of a bathyal methane seep field at the north-western Vestnesa Ridge, Fram Strait. *Deep Sea Research Part II: Topical Studies in Oceanography, 227*, Article 105620. https://doi.org/10.1016/j.dsr2.2026.105620
+
+**Study scope / 研究范围**: North-western Vestnesa Ridge, Fram Strait, at 1,200–1,375 m, the Hœnir seep field.
+
+弗拉姆海峡 Vestnesa 海脊西北侧、水深 1,200–1,375 m 的 Hœnir 冷泉场。
+
+**Design / 研究设计**: Camera, ROV and trawl surveys after MSM95 in 2020, with in-situ images and COI barcodes of selected fauna.
+
+2020 年 MSM95 之后的摄像、ROV 与拖网调查，结合原位影像及部分生物的 COI 条形码。
+
+**Finding / 发现**: The active field had 47 megafaunal taxa. Obligate seep taxa marked active seepage, while Ophiocten reached about 80 individuals per square metre in inactive areas and was absent within a few metres of mats or tubeworms.
+
+该活跃冷泉场有 47 个大型底栖类群。专性冷泉类群指示活跃渗漏；Ophiocten 在不活跃区可达约每平方米 80 只，而在微生物席或管虫林数米内缺失。
+
+**Citation limits / 引用边界**: Image counts and barcodes describe the surveyed field. They do not measure methane flux or prove that shared taxa with the eastern flank are genetically connected.
+
+影像计数和条形码描述的是受测冷泉场，不能测量甲烷通量，也不能证明与东翼共有类群存在遗传连通。
+
+**Discussion use / 讨论用途**: Use to extend Fram Strait seep geography beyond the classic eastern pockmarks.
+
+用于把弗拉姆海峡冷泉地理扩展到经典东翼麻坑之外。
+
+Sampling time / 采样时间：MSM95 in 2020, followed by PS136, MSM108 and PS143/1. 2020 年 MSM95，随后为 PS136、MSM108 与 PS143/1。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.dsr2.2026.105620) · `src:gcs-vestnesa-hoenir-seep-field` · Regional comparison / 区域比较
+
+## Enhanced methane cycling across the Laptev Sea signaled by time-integrated biomarkers of aerobic methane oxidation
+
+拉普捷夫海藿烷碳同位素指示的有氧甲烷氧化
+
+Eriksson, A., Wild, B., Hong, W.-L., Holmstrand, H., Nascimento, F. J. A., Bonaglia, S., Kosmach, D., Semiletov, I., Shakhova, N., & Gustafsson, Ö. (2026). Enhanced methane cycling across the Laptev sea signaled by time-integrated biomarkers of aerobic methane oxidation. *Biogeosciences, 23*(4), 1459–1475. https://doi.org/10.5194/bg-23-1459-2026
+
+**Study scope / 研究范围**: Surface sediments across the Laptev Sea shelf, including the outer shelf, mid-shelf and Lena delta vicinity.
+
+拉普捷夫海陆架表层沉积物，包括外陆架、中陆架和勒拿河三角洲附近。
+
+**Design / 研究设计**: δ13C of C30 hopanoids in surface sediments, interpreted with 16S rRNA profiles.
+
+表层沉积物中 C30 藿烷的 δ13C，并结合 16S rRNA 剖面解释。
+
+**Finding / 发现**: δ13C of C30 hopenes from −57.5‰ to −37.1‰ (n = 23) indicated aerobic methane oxidation across the Laptev shelf, including the mid-shelf. Near the Lena delta the signal was heavier and harder to attribute.
+
+23 个样品的 C30 藿烯 δ13C 为 −57.5‰ 至 −37.1‰，指示包括中陆架在内的拉普捷夫陆架存在有氧甲烷氧化。勒拿河三角洲附近信号偏重，归因更困难。
+
+**Citation limits / 引用边界**: Hopanoid isotopes are time-integrated proxies. They do not equal a seawater methane concentration or an oxidation rate.
+
+藿烷同位素是时间积分代用指标，不等于海水甲烷浓度或氧化速率。
+
+**Discussion use / 讨论用途**: Use for time-integrated aerobic methane oxidation where Laptev seawater methane is patchy.
+
+用于海水甲烷分布不均时，拉普捷夫有氧甲烷氧化的时间积分证据。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.5194/bg-23-1459-2026) · `src:gcs-laptev-hopanoid-methane` · Regional comparison / 区域比较
+
+## Evaluating the relationship between cold-water corals and a cold seep in a submarine slope failure at the Northeast Saglek Bank cold-water coral hotspot, Eastern Canadian Arctic
+
+加拿大北极 Saglek 浅滩滑坡冷泉与冷水珊瑚的空间关系
+
+Boulard, M., Edinger, E., de Moura Neves, B., Normandeau, A., Côté, D., Ostiguy, J., Sherwood, O., Adebayo, O., & Hubert, C. (2026). Evaluating the relationship between cold-water corals and a cold seep in a submarine slope failure at the northeast Saglek bank cold-water coral hotspot, eastern canadian Arctic. *Arctic Science*, Article as-2026-0033. https://doi.org/10.1139/as-2026-0033
+
+**Study scope / 研究范围**: Northeast Saglek Bank, northern Labrador Shelf edge, at 605–818 m.
+
+拉布拉多陆架北缘东北 Saglek 浅滩，水深 605–818 m。
+
+**Design / 研究设计**: Multibeam surveys and four ROV dives inside and outside a 4.5 km slope-failure scar.
+
+多波束调查，以及在长 4.5 km 的滑坡凹地内外进行四次 ROV 下潜。
+
+**Finding / 发现**: Microbial mats and authigenic carbonate occurred only at the seep. Coral density tracked boulder density more than carbonate, and the association between Primnoa resedaeformis and the seep was weak and interpreted as coincidental.
+
+微生物席和自生碳酸盐只出现在冷泉。珊瑚密度与砾石密度的关系强于与碳酸盐的关系，Primnoa resedaeformis 与冷泉的关联较弱并被解释为巧合。
+
+**Citation limits / 引用边界**: A local hotspot comparison does not show that cold seeps generally enhance Primnoa habitat.
+
+一处热点的比较不能说明冷泉普遍促进 Primnoa 生境。
+
+**Discussion use / 讨论用途**: Extend Arctic seep geography to the Eastern Canadian Arctic without treating the coral overlap as causation.
+
+把北极冷泉地理延伸到加拿大北极东部，同时不要把珊瑚重叠当成因果关系。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1139/as-2026-0033) · `src:gcs-saglek-seep-corals` · Regional comparison / 区域比较
+
+## Geological drivers and biological responses at methane seeps: Habitat complexity at the Nyegga seep site (NE Atlantic)
+
+Nyegga 甲烷冷泉的地质驱动与生境复杂性
+
+Oppo, D., Jensen, S., Hovland, M., & Roy, S. (2026). Geological drivers and biological responses at methane seeps: Habitat complexity at the Nyegga seep site (NE Atlantic). *Marine Geology, 498*, Article 107819. https://doi.org/10.1016/j.margeo.2026.107819
+
+**Study scope / 研究范围**: Nyegga seep province on the northern flank of the Storegga Slide, mid-Norwegian margin.
+
+中挪威陆缘 Storegga 滑坡北翼的 Nyegga 冷泉区。
+
+**Design / 研究设计**: ROV surveys, high-resolution bathymetry and microbial 16S rRNA gene analyses.
+
+ROV 调查、高分辨率地形和微生物 16S rRNA 基因分析。
+
+**Finding / 发现**: Four microhabitats were distinguished, from tubeworm- and mat-covered hydrate pingos to carbonate rooms, suspension-feeder ledges and fish-used sediment pools. Microbial assemblages included cold-adapted taxa such as Polaribacter and Psychrobacter.
+
+区分出四类微生境：管虫和微生物席覆盖的水合物丘、碳酸盐块间的隐蔽空间、滤食生物栖居的碳酸盐凸檐，以及鱼类利用的沉积物洼地。微生物组合含 Polaribacter 和 Psychrobacter 等耐冷类群。
+
+**Citation limits / 引用边界**: Habitat descriptions and 16S profiles do not measure methane flux or prove symbiosis in Colossendeis.
+
+生境描述和 16S 剖面不能测量甲烷通量，也不能证明 Colossendeis 的共生关系。
+
+**Discussion use / 讨论用途**: Use for habitat complexity on the Nordic margin in the Arctic gateway region.
+
+用于北极门户区北欧陆缘的生境复杂性。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.margeo.2026.107819) · `src:gcs-nyegga-seep-habitats` · Regional comparison / 区域比较
+
+## Intensive methane seep region on the outer East Siberian Arctic Shelf shows biomarker evidence for aerobic oxidation of methane
+
+东西伯利亚北极外陆架强甲烷渗漏区的有氧甲烷氧化生物标志物
+
+Wu, W., Zheng, L., Holmstrand, H., Tarbier, B., Wild, B., Shakhova, N., Kosmach, D., Semiletov, I., Brüchert, V., Xu, Y., & Gustafsson, Ö. (2026). Intensive methane seep region on the outer East Siberian Arctic shelf shows biomarker evidence for aerobic oxidation of methane. *Organic Geochemistry, 215*, Article 105171. https://doi.org/10.1016/j.orggeochem.2026.105171
+
+**Study scope / 研究范围**: An intensive methane-seep region on the outer East Siberian Arctic Shelf.
+
+东西伯利亚北极外陆架的强甲烷渗漏区。
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Finding / 发现**: The title reports biomarker evidence for aerobic oxidation of methane in that outer-shelf seep region.
+
+标题报道该外陆架渗漏区存在有氧甲烷氧化的生物标志物证据。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+**Discussion use / 讨论用途**: Pair with Laptev hopanoid work only at the level of aerobic-methane biomarker evidence, not shared rates.
+
+与拉普捷夫藿烷工作对照时，只停留在有氧甲烷生物标志物证据，不要共用速率。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.orggeochem.2026.105171) · `src:gcs-esas-aerobic-methane-biomarkers` · Regional comparison / 区域比较
+
+## Iron and nitrate-driven anaerobic methane oxidation in methane seep sediments of the Laptev Sea
+
+拉普捷夫海甲烷冷泉沉积物中铁与硝酸盐驱动的厌氧甲烷氧化
+
+Purgina, D., Moiseeva, Y., Wild, B., Guseva, N., Gershelis, E., Gustafsson, O., Khvashevskaya, A., Pakhomova, S., Kholodov, V., Dudarev, O., Kosmach, D., Chernykh, D., Polivanova, T., Gangnus, I., Kurilenko, A., Domaniuk, A., Yakushev, E., & Semiletov, I. (2026). Iron and nitrate-driven anaerobic methane oxidation in methane seep sediments of the Laptev sea. *Chemical Geology, 699*, Article 123170. https://doi.org/10.1016/j.chemgeo.2025.123170
+
+**Study scope / 研究范围**: Methane-seep sediments of the Laptev Sea, as named in the verified title.
+
+经核验标题所指的拉普捷夫海甲烷冷泉沉积物。
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Finding / 发现**: The title reports iron- and nitrate-driven anaerobic methane oxidation in Laptev Sea methane-seep sediments.
+
+标题报道拉普捷夫海甲烷冷泉沉积物中铁与硝酸盐驱动的厌氧甲烷氧化。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+**Discussion use / 讨论用途**: Use as an East Siberian comparison for metal- and nitrate-linked AOM, without citing unretrieved rates.
+
+作为东西伯利亚铁与硝酸盐耦合 AOM 的比较，不要引用未检索到的速率。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.chemgeo.2025.123170) · `src:gcs-laptev-iron-nitrate-aom` · Regional comparison / 区域比较
+
+## Macrofauna Associated With Submarine Groundwater Discharge Sites and a Cold Seep in Svalbard Fjords
+
+斯瓦尔巴峡湾海底地下水排放与一处冷泉的大型底栖动物
+
+Schramm, J., Hong, W., ten Hietbrink, S., Szymczycha, B., Knies, J., & Sen, A. (2026). Macrofauna associated with submarine groundwater discharge sites and a cold seep in Svalbard fjords. *Ecology and Evolution, 16*(10), Article e74597. https://doi.org/10.1002/ece3.74597
+
+**Study scope / 研究范围**: Three Svalbard fjord submarine-groundwater sites and one Svalbard shelf cold seep, at about 40–117 m.
+
+三处斯瓦尔巴峡湾海底地下水排放点和一处斯瓦尔巴陆架冷泉，水深约 40–117 m。
+
+**Design / 研究设计**: Compare macrobenthos with sediment chemistry at SGD sites and at a shelf seep.
+
+比较地下水排放点与陆架冷泉的大型底栖动物及沉积物化学。
+
+**Finding / 发现**: The fjord SGD sites did not resemble the sampled cold seep: porewater methane was undetectable, free sulfide was low, and diversity and abundance were extremely low.
+
+峡湾地下水排放点并不像所采冷泉：孔隙水测不到甲烷，游离硫化物低，多样性和丰度极低。
+
+**Citation limits / 引用边界**: The contrast is among the sampled sites. It does not show that future permafrost thaw will make SGD ecologically equivalent to seeps.
+
+差异限于所采站位，不能说明未来冻土融化会使地下水排放在生态上等同于冷泉。
+
+**Discussion use / 讨论用途**: Keep fjord groundwater discharge distinct from the shelf cold seep when discussing coastal Arctic benthos.
+
+讨论沿岸北极底栖生物时，把峡湾地下水排放与陆架冷泉分开。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1002/ece3.74597) · `src:gcs-svalbard-fjord-sgd-macrofauna` · Habitat context / 生境背景
 
 ## Methanotrophy dominated symbiosis in novel species Gigantidas niobengalensis from the cold seeps of Krishna–Godavari basin
 
@@ -182,6 +732,210 @@ Evidence locator / 证据位置：Methods: Sample collection and Lipid biomarker
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/41847193) · `src:gcs-scotian-seep-architecture` · Regional comparison / 区域比较
 
+## Progression of organic and inorganic matter in cold seep rocks during anaerobic oxidation of methane studied by solid-state NMR
+
+固体核磁共振追踪冷泉岩石中 AOM 过程的有机与无机物质
+
+Shi, Y., Schroedl, P., Marlow, J., Cui, D., Weitz, D. A., & Song, Y. (2026). Progression of organic and inorganic matter in cold seep rocks during anaerobic oxidation of methane studied by solid-state NMR. *Solid State Nuclear Magnetic Resonance, 145*, Article 102124. https://doi.org/10.1016/j.ssnmr.2026.102124
+
+**Study scope / 研究范围**: Authigenic seep rocks of different ages. The inspected abstract does not name the site.
+
+不同年龄的自生冷泉岩石。所查摘要没有给出站位。
+
+**Design / 研究设计**: 1H, 13C, 31P and 1H–31P solid-state NMR of organic and inorganic fractions.
+
+用 1H、13C、31P 和 1H–31P 固体核磁共振分析有机和无机组分。
+
+**Finding / 发现**: Carboxylic acid was attributed to incomplete methane oxidation. Aliphatic esters increased with rock age, orthophosphate dominated phosphorus, and phosphate monoester was higher in the oldest material, about 20,000 years.
+
+羧酸被归因于甲烷的不完全氧化。脂肪族酯随岩石年龄增加，正磷酸盐是主要磷形态，磷酸单酯在最老、约 2 万年的物质中更高。
+
+**Citation limits / 引用边界**: NMR products from unnamed rocks do not give an in-situ oxidation rate or a location that can be compared directly with Haima or the Laptev Sea.
+
+未标明地点的岩石核磁共振产物不能给出原位氧化速率，也不能直接与海马或拉普捷夫海比较。
+
+**Discussion use / 讨论用途**: Use for process-level organic and inorganic change during AOM in seep carbonate.
+
+用于冷泉碳酸盐中 AOM 期间有机和无机物质的过程变化。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.ssnmr.2026.102124) · `src:gcs-aom-seep-rock-nmr` · Mechanistic precedent / 机制先例
+
+## Seafloor chemosynthetic habitats and AOM-influenced sediment microbiome at a cold-water coral site off the Vesterålen coast, northern Norway
+
+挪威北部 Vesterålen 冷水珊瑚区的化能生境与 AOM 沉积物微生物
+
+Argentino, C., Fallati, L., Petters, S., Bernstein, H. C., Barrenechea Angeles, I., Corrales-Guerrero, J., Savini, A., Ferré, B., & Panieri, G. (2026). Seafloor chemosynthetic habitats and AOM-influenced sediment microbiome at a cold-water coral site off the Vesterålen coast, northern Norway. *Biogeosciences, 23*(9), 3139–3157. https://doi.org/10.5194/bg-23-3139-2026
+
+**Study scope / 研究范围**: A cold-water coral site with seeps off the Vesterålen coast, northern Norway.
+
+挪威北部 Vesterålen 沿岸兼有冷泉的冷水珊瑚区。
+
+**Design / 研究设计**: Sediment and pore-fluid geochemistry, foraminifera, seafloor habitat maps, and 16S rRNA profiles of the upper 10 cm.
+
+沉积物与孔隙水地球化学、有孔虫、海底生境图，以及上部 10 cm 的 16S rRNA 剖面。
+
+**Finding / 发现**: Microbial mats along carbonate edges coincided with sulfate–methane transitions as shallow as 5 cm and 13C-depleted DIC. A white biofilm interval reached δ13C as low as −43.4‰ and shifted toward Halobacterota ASVs assigned to ANME-1b.
+
+碳酸盐边缘的微生物席对应浅至 5 cm 的硫酸盐–甲烷转换带和贫 13C 的溶解无机碳。白色生物膜层 δ13C 低至 −43.4‰，群落转向被归为 ANME-1b 的 Halobacterota ASV。
+
+**Citation limits / 引用边界**: Marker and isotope patterns support ongoing AOM in the sampled core. They do not show that seepage caused the coral distribution.
+
+标记与同位素模式支持所采岩芯中正在进行 AOM，但不能说明渗漏造成了珊瑚分布。
+
+**Discussion use / 讨论用途**: Use for Nordic-margin seep–coral coupling and a shallow ANME-1b biofilm.
+
+用于北欧陆缘冷泉与冷水珊瑚的耦合，以及浅层 ANME-1b 生物膜。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.5194/bg-23-3139-2026) · `src:gcs-vesteralen-coral-aom` · Regional comparison / 区域比较
+
+## Seafloor‐image analysis techniques to highlight the role of substrate as a driver of benthic community structure in Arctic cold seep areas
+
+北极冷泉区海底影像中底质对底栖群落结构的作用
+
+Hemmateenejad, F., Fallati, L., Panieri, G., Ribeiro, P. A., Ferré, B., Schivalocchi, F., Fusca, C., & Savini, A. (2026). Seafloor‐image analysis techniques to highlight the role of substrate as a driver of benthic community structure in Arctic cold seep areas. *Limnology and Oceanography, 71*(1), Article e70312. https://doi.org/10.1002/lno.70312
+
+**Study scope / 研究范围**: A seepage area offshore northern Svalbard at about 150 m, covering two orthomosaics of about 2,261 m2.
+
+斯瓦尔巴北部外海约 150 m 水深处的渗漏区，两幅正射镶嵌约 2,261 m2。
+
+**Design / 研究设计**: ROV video photogrammetry, epifaunal annotation, and object-based classification of four substrate classes.
+
+ROV 视频摄影测量、表栖生物标注，以及四类底质的面向对象分类。
+
+**Finding / 发现**: Seep-associated substrates structured the benthic community, and methane-derived authigenic carbonate further amplified that effect, although its tie to coarse or fine sediment remained unclear.
+
+与冷泉相关的底质塑造了底栖群落结构，甲烷来源自生碳酸盐进一步放大了这一效应，但它与粗或细沉积物的关系仍不清楚。
+
+**Citation limits / 引用边界**: Imagery shows spatial association, not a measured methane flux or a universal substrate rule.
+
+影像给出的是空间关联，不是已测甲烷通量，也不是普遍的底质规律。
+
+**Discussion use / 讨论用途**: Use for substrate control of Arctic seep epifauna at the scale of the orthomosaics.
+
+用于正射镶嵌尺度上底质对北极冷泉表栖生物的控制。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1002/lno.70312) · `src:gcs-svalbard-seep-substrate-imagery` · Regional comparison / 区域比较
+
+## A constellation of mud volcanoes originated from a buried Arctic mega-slide, Southwestern Barents Sea
+
+西南巴伦支海埋藏巨型滑坡形成的泥火山群
+
+Argentino, C., Mattingsdal, R., Eidvin, T., Ohm, S. E., & Panieri, G. (2025). A constellation of mud volcanoes originated from a buried Arctic mega-slide, southwestern Barents Sea. *Scientific Reports, 15*(1), Article 15161. https://doi.org/10.1038/s41598-025-99578-5
+
+**Study scope / 研究范围**: Southwestern Barents Sea at 440–480 m.
+
+西南巴伦支海，水深 440–480 m。
+
+**Design / 研究设计**: Seafloor and seismic mapping of flat-topped mounds and their subsurface chimneys.
+
+测绘平顶丘及其地下烟囱的海底和地震结构。
+
+**Finding / 发现**: Ten Arctic mud volcanoes were found where only two had been known. They root in the fill of a buried Pleistocene mega-slide and have been active at least since Late Weichselian deglaciation. The authors informally name the area the Polaris Mud Volcano Complex.
+
+在原先只知道两座的地方发现十座北极泥火山。它们根植于埋藏的更新世巨型滑坡充填物中，至少自晚魏克塞尔冰消期以来活动。作者非正式地将该区称为 Polaris 泥火山复合体。
+
+**Citation limits / 引用边界**: The abstract cuts off during the activity statement. Do not add methane-budget numbers that were not in the retrieved text.
+
+摘要在活动性陈述处截断。不要添加检索文本中没有的甲烷收支数字。
+
+**Discussion use / 讨论用途**: Add the Polaris complex to Barents mud-volcano geography.
+
+把 Polaris 复合体加入巴伦支海泥火山地理。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: discovery of ten mud volcanoes and the buried mega-slide.
+
+摘要：十座泥火山的发现及埋藏巨型滑坡。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/s41598-025-99578-5) · `src:gcs-barents-polaris-mud-volcanoes` · Regional comparison / 区域比较
+
+## Authigenic pyrite from the Laptev Sea continental slope: the impact of methane seepage activity
+
+拉普捷夫海陆坡自生黄铁矿对甲烷渗漏的记录
+
+Ruban, A. S., Rudmin, M. A., Dudarev, O. V., & Semiletov, I. P. (2025). Authigenic pyrite from the Laptev sea continental slope: The impact of methane seepage activity. *Bulletin of the Tomsk Polytechnic University Geo Assets Engineering, 336*(5), 159–173. https://doi.org/10.18799/24131830/2025/5/5051
+
+**Study scope / 研究范围**: Laptev Sea continental-slope sediment and carbonate crusts at a methane-seepage site.
+
+拉普捷夫海陆坡一处甲烷渗漏站的沉积物和碳酸盐壳。
+
+**Design / 研究设计**: Electron microscopy, microtomography and laser-ablation trace-element analysis of pyrite.
+
+电子显微镜、显微断层和激光剥蚀微量元素分析黄铁矿。
+
+**Finding / 发现**: Pyrite textures differed between sediment and carbonate. Association with methane-derived carbonate was used to argue that sulfate-driven anaerobic methane oxidation dominated sulfide formation, and the pyrite was enriched in redox-sensitive trace elements relative to published organoclastic pyrite.
+
+沉积物与碳酸盐中的黄铁矿结构不同。与甲烷来源碳酸盐的共生被用来说明硫酸盐驱动的厌氧甲烷氧化主导了硫化物形成，且相对已发表的有机质硫酸盐还原黄铁矿，该黄铁矿富集氧化还原敏感微量元素。
+
+**Citation limits / 引用边界**: Trace-element enrichment is relative to published comparisons, not a universal AOM fingerprint, and the study does not report a rate.
+
+微量元素富集是相对于已发表对比，不是普遍的 AOM 指纹，研究也没有给出速率。
+
+**Discussion use / 讨论用途**: Use as a Laptev slope mineral proxy for methane-seepage activity.
+
+作为拉普捷夫陆坡记录甲烷渗漏活动的矿物指标。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.18799/24131830/2025/5/5051) · `src:gcs-laptev-slope-authigenic-pyrite` · Regional comparison / 区域比较
+
+## Carbon Isotope Type-Curves of Organic Matter in Sediments of the Laptev Sea (Seep Area)
+
+拉普捷夫海冷泉区沉积有机质的碳同位素类型曲线
+
+Sevastyanov, V. S., Fedulova, V. Y., Kuznetsova, O. V., Dushenko, N. V., Fedulov, V. S., & Bazhanova, A. E. (2025). Carbon isotope type-curves of organic matter in sediments of the Laptev sea (seep area). *Geochemistry International, 63*(3), 242–250. https://doi.org/10.1134/s0016702924700903
+
+**Study scope / 研究范围**: Seep-area sediments of the Laptev Sea.
+
+拉普捷夫海冷泉区沉积物。
+
+**Design / 研究设计**: Solvent separation of sedimentary organic matter into five polarity fractions and δ13C comparison.
+
+按极性把沉积有机质分成五个溶剂组分并比较 δ13C。
+
+**Finding / 发现**: In the seep, asphaltene breakdown enriched the benzene–methanol fraction in 13C-depleted material linked to bacterial biomass along upward methane flow. Benzene-fraction δ13C separated a surface cluster near 10 cm from a deeper cluster by 2–3‰.
+
+在冷泉中，沥青质分解使苯–甲醇组分富集与上升甲烷流相关的细菌生物量、且贫 13C 的物质。苯组分 δ13C 把近 10 cm 的表层聚类与更深聚类分开约 2–3‰。
+
+**Citation limits / 引用边界**: Fraction isotopes trace organic-matter alteration in the sampled cores. They are not a methane oxidation rate.
+
+组分同位素追踪的是所采岩芯中的有机质变化，不是甲烷氧化速率。
+
+**Discussion use / 讨论用途**: Use for Laptev seep organic-matter isotope patterns.
+
+用于拉普捷夫冷泉有机质的同位素模式。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1134/s0016702924700903) · `src:gcs-laptev-om-isotope-curves` · Regional comparison / 区域比较
+
 ## Cold Seeps and Coral Reefs in Northern Norway: Carbon Cycling in Marine Ecosystems With Coexisting Features
 
 挪威冷泉与冷水珊瑚邻近水体的碳与 DOM
@@ -251,6 +1005,74 @@ Evidence locator / 证据位置：Methods: Sampling and geochemical measurements
 方法：采样与地球化学测量；氮损失速率测定；宏基因组处理。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/39952920) · `src:gcs-global-nitrogen-loss-evidence` · Regional comparison / 区域比较
+
+## DNA barcoding of monothalamid foraminifera from Vestnesa and Svyatogor Ridge, Arctic Ocean, including the description of 3 new species
+
+Vestnesa 与 Svyatogor 海脊单室有孔虫 DNA 条形码及三新种
+
+Holzmann, M., Holm, V. D., Angeles, I. B., Gooday, A. J., Pawlowski, J., & Panieri, G. (2025). DNA barcoding of monothalamid foraminifera from Vestnesa and Svyatogor ridge, Arctic Ocean, including the description of 3 new species. *Polar Biology, 48*(1), Article 12. https://doi.org/10.1007/s00300-024-03320-2
+
+**Study scope / 研究范围**: Vestnesa and Svyatogor Ridge, Arctic Ocean.
+
+北冰洋 Vestnesa 与 Svyatogor 海脊。
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Finding / 发现**: The title reports DNA barcodes of monothalamid foraminifera from those ridges, including three newly described species.
+
+标题报道这两处海脊单室有孔虫的 DNA 条形码，并包含三个新描述物种。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+**Discussion use / 讨论用途**: Use for Arctic seep foraminiferal taxonomy alongside eDNA endemism studies, without citing unretrieved occurrence counts.
+
+与 eDNA 特有性研究一起用于北极冷泉有孔虫分类，不要引用未检索到的出现次数。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1007/s00300-024-03320-2) · `src:gcs-vestnesa-monothalamid-barcodes` · Regional comparison / 区域比较
+
+## Deep-sea gas hydrate mounds and chemosynthetic fauna discovered at 3640 m on the Molloy Ridge, Greenland Sea
+
+格陵兰海 Molloy 海脊 3640 米处的水合物丘与化能生物
+
+Panieri, G., Copley, J. T., Linse, K., Nye, V., Ramirez-Llodra, E., Argentino, C., Ferré, B., de Tejada, A. S., Rogers, A. D., Ruiz, A. R., Steinsland, A., Redaelli, C., Goar, C., Despujois, D., McEvoy, E., Hemmateenejad, F., Panieri, G., Søhol, I., Angeles, I. B., … Rogers, A. D. (2025). Deep-sea gas hydrate mounds and chemosynthetic fauna discovered at 3640 m on the Molloy Ridge, Greenland Sea. *Nature Communications, 16*(1), Article 11287. https://doi.org/10.1038/s41467-025-67165-x
+
+**Study scope / 研究范围**: Molloy Ridge, Greenland Sea, at 3,640 m.
+
+格陵兰海 Molloy 海脊，水深 3,640 m。
+
+**Design / 研究设计**: Seafloor observations, gas and oil sampling, and isotopic analysis of hydrates and fauna.
+
+海底观测、气和油采样，以及水合物与生物的同位素分析。
+
+**Finding / 发现**: Hydrate mounds with seep fauna were found at 3,640 m. Bubbles rose to within 300 m of the surface, hydrates contained thermogenic gas, and family-level fauna resembled deep Arctic vents more than shallower nearby seeps.
+
+在 3,640 m 发现带冷泉生物的水合物丘。气泡升至海面 300 m 以内，水合物含热成因气，科级生物组成更接近同等深度的北极热液，而不是附近较浅的冷泉。
+
+**Citation limits / 引用边界**: Family-level similarity is not proof of population connectivity, and one ridge does not reset the depth range of all Arctic hydrates.
+
+科级相似不能证明种群连通，一条海脊也不能改写所有北极水合物的深度范围。
+
+**Discussion use / 讨论用途**: Use for the deepest reported Arctic hydrate mounds and seep–vent faunal overlap.
+
+用于目前报道最深的北极水合物丘，以及冷泉与热液生物的重叠。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://europepmc.org/article/MED/41408043) · `src:gcs-molloy-hydrate-mounds` · Regional comparison / 区域比较
 
 ## Diverse quorum sensing systems regulate microbial communication and biogeochemical processes in deep-sea cold seeps
 
@@ -426,6 +1248,74 @@ Evidence locator / 证据位置：Abstract; Methods: Sample Collection and Exper
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/40728192) · `src:gcs-mediterranean-alkane-srb-rates` · Mechanistic precedent / 机制先例
 
+## Marine Cold Seep ANME ‐2/ SRB Consortia Produce Their Lipid Biomass From Inorganic Carbon
+
+冷泉 ANME-2／SRB 联合体的脂质生物量来自无机碳
+
+Stock, L., Wegener, G., Wang, Y., Zander, Y., & Elvert, M. (2025). Marine cold seep ANME ‐2/ SRB consortia produce their lipid biomass from inorganic carbon. *Environmental Microbiology, 27*(12), Article e70213. https://doi.org/10.1111/1462-2920.70213
+
+**Study scope / 研究范围**: Astoria Canyon seep sediments dominated by ANME-2/SRB consortia.
+
+以 ANME-2／SRB 联合体为主的 Astoria 峡谷冷泉沉积物。
+
+**Design / 研究设计**: Thirty-day lipid stable-isotope probing with 13C-methane or 13C-labeled dissolved inorganic carbon.
+
+用 13C 甲烷或 13C 标记溶解无机碳进行 30 天脂质稳定同位素探测。
+
+**Finding / 发现**: Lipids incorporated more 13C from dissolved inorganic carbon than from methane. After 30 days, SRB fatty acids reached about +417‰ and ANME-2 isoprenoid lipids about +126‰, and inorganic-carbon assimilation into SRB lipids was about eight times that into ANME lipids.
+
+脂质从溶解无机碳获得的 13C 多于从甲烷获得的。30 天后，SRB 脂肪酸约达 +417‰，ANME-2 类异戊二烯脂质约达 +126‰，SRB 脂质的无机碳同化约为 ANME 脂质的八倍。
+
+**Citation limits / 引用边界**: Incubation enrichment does not give in-situ biomass production, and the additional ANME carbon source remains unidentified.
+
+培养富集不能给出原位生物量产量，ANME 的额外碳源也仍未确定。
+
+**Discussion use / 讨论用途**: Use as a mechanistic update on carbon flow into ANME-2/SRB lipids, not as an Arctic rate.
+
+作为 ANME-2／SRB 脂质碳流的机制更新，而不是北极速率。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://europepmc.org/article/MED/41327581) · `src:gcs-anme-lipid-inorganic-carbon` · Mechanistic precedent / 机制先例
+
+## Metagenomic binning reveals community and functional characteristics of sulfur- and methane-oxidizing bacteria in cold seep sponge ground
+
+冷泉海绵场硫氧化与甲烷氧化细菌的宏基因组分箱
+
+Wang, Y., Gong, L., Dong, D., & Li, X. (2025). Metagenomic binning reveals community and functional characteristics of sulfur- and methane-oxidizing bacteria in cold seep sponge ground. *Environmental Microbiome, 20*(1), Article 122. https://doi.org/10.1186/s40793-025-00777-4
+
+**Study scope / 研究范围**: Six sponge species from one cold seep. The inspected abstract does not name the site.
+
+同一冷泉的六种海绵。所查摘要没有给出站位名称。
+
+**Design / 研究设计**: Metagenomic binning of sponge-associated sulfur- and methane-oxidizing bacteria.
+
+对海绵相关的硫氧化和甲烷氧化细菌做宏基因组分箱。
+
+**Finding / 发现**: Proteobacterial sulfur oxidizers, especially order PS1, and Methylococcales dominated across host classes and diets, while MAG phylogeny and abundance still showed host-specific strain selection.
+
+变形菌门硫氧化菌，尤其是 PS1 目，以及甲基球菌目在不同宿主纲和食性中占优势；MAG 系统发育和丰度仍显示宿主特异的菌株选择。
+
+**Citation limits / 引用边界**: Functional similarity is not evidence that every sponge oxidizes methane or sulfide at the same rate, and the site is not identified.
+
+功能相似不能说明每种海绵都以相同速率氧化甲烷或硫化物，站位也没有被确定。
+
+**Discussion use / 讨论用途**: Use for host-specific selection within shared chemosynthetic symbiont groups.
+
+用于共享化能共生类群内部的宿主特异选择。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://europepmc.org/article/MED/41024212) · `src:gcs-seep-sponge-oxidizer-mags` · Regional comparison / 区域比较
+
 ## Methane-powered sea spiders: Diverse, epibiotic methanotrophs serve as a source of nutrition for deep-sea methane seep Sericosura
 
 东太平洋冷泉海蜘蛛的甲烷来源营养与体表共生菌
@@ -459,6 +1349,40 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 摘要：研究设计与主要发现。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/40523202) · `src:gcs-pacific-sea-spider-nutrition` · Regional comparison / 区域比较
+
+## Model based analysis of the methane seeping influence on the acidification in the East Siberian Arctic Shelf waters
+
+东西伯利亚北极陆架甲烷渗漏对水体酸化的模型分析
+
+Yakushev, E., Berezina, A., Shakhova, N., Bruggeman, J., Wallhead, P., Staalstrøm, A., Novikov, M., Yakubov, S., Zagovenkova, A., Ardelan, M. V., Bellerby, R., Gustafsson, Ö., & Semiletov, I. (2025). Model based analysis of the methane seeping influence on the acidification in the East Siberian Arctic shelf waters. *Frontiers in Marine Science, 12*, Article 1497616. https://doi.org/10.3389/fmars.2025.1497616
+
+**Study scope / 研究范围**: An intensive methane-seepage area of the East Siberian Arctic Shelf water column.
+
+东西伯利亚北极陆架强甲烷渗漏区的水体。
+
+**Design / 研究设计**: A two-dimensional benthic–pelagic model with carbonate chemistry and a bubble-fate module.
+
+带碳酸盐体系和气泡归宿模块的二维底栖–水体模型。
+
+**Finding / 发现**: Modeled aerobic oxidation of seep methane produced pH and oxygen anomalies consistent with observations, and the authors hypothesize aragonite saturation falling below 1.
+
+模型中渗漏甲烷的有氧氧化产生了与观测相符的 pH 和溶解氧异常；作者推测文石饱和度可降到 1 以下。
+
+**Citation limits / 引用边界**: Saturation below 1 is a model hypothesis for the simulated seepage area, not a shelf-wide measured budget.
+
+饱和度低于 1 是模拟渗漏区的模型假说，不是全陆架实测收支。
+
+**Discussion use / 讨论用途**: Use when linking East Siberian seep methane to water-column acidification, and keep the model assumptions visible.
+
+在把东西伯利亚冷泉甲烷与水体酸化相联系时使用，并保留模型假设。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/fmars.2025.1497616) · `src:gcs-esas-methane-acidification` · Regional comparison / 区域比较
 
 ## Predicting hydrocarbon presence in marine cold seep sediments using machine learning models trained with benthic bacterial 16S rRNA taxonomy
 
@@ -494,6 +1418,40 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/40833080) · `src:gcs-cross-basin-microbial-prediction` · Regional comparison / 区域比较
 
+## Sanctuary for vulnerable Arctic species at the Borealis Mud Volcano
+
+Borealis 泥火山作为脆弱北极物种的庇护所
+
+Panieri, G., Argentino, C., Savini, A., Ferré, B., Hemmateenejad, F., Eilertsen, M. H., Mattingsdal, R., Ramalho, S. P., Eidvin, T., Youngs, S., Colson, B. C., Michel, A. P. M., Kapit, J. A., Swanborn, D., Rogers, A. D., Angeles, I. B., Polteau, S., Kalenitchenko, D., Buenz, S., & Mazzini, A. (2025). Sanctuary for vulnerable Arctic species at the Borealis mud volcano. *Nature Communications, 16*(1), Article 504. https://doi.org/10.1038/s41467-024-55712-x
+
+**Study scope / 研究范围**: Borealis mud volcano in the Polar North Atlantic.
+
+极地北大西洋的 Borealis 泥火山。
+
+**Design / 研究设计**: ROV observations of a gryphon, carbonates, and associated fauna.
+
+用 ROV 观察喷口、碳酸盐及相关生物。
+
+**Finding / 发现**: A gryphon released warm 11.5°C Neogene sediment and methane-rich fluid. Irregular carbonates sheltered sessile fauna from trawling and may serve as nursery habitat for threatened fishes.
+
+喷口释放 11.5°C 的新近纪沉积物和富甲烷流体。不规则碳酸盐为固着生物提供避开拖网的遮蔽，并可能是受威胁鱼类的育幼场所。
+
+**Citation limits / 引用边界**: Nursery use is a possible function of the observed shelter, not a measured recruitment rate.
+
+育幼是对所观察到遮蔽作用的一种可能功能，不是实测的补充率。
+
+**Discussion use / 讨论用途**: Use as a Polar North Atlantic mud-volcano refuge, distinct from shelf seep inventories.
+
+作为极地北大西洋泥火山庇护所，并与陆架冷泉清单区分。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://europepmc.org/article/MED/39870611) · `src:gcs-borealis-mud-volcano` · Regional comparison / 区域比较
+
 ## Sediment eDNA metabarcoding reveals the endemism in benthic foraminifera from Arctic methane cold seepages
 
 北极冷泉微生境中的有孔虫 eDNA 与特有谱系
@@ -527,6 +1485,74 @@ Evidence locator / 证据位置：Methods: Study area and Sampling; Results/disc
 方法：研究区与采样；结果／讨论：新谱系 CSM1 与微生物席的专属关联。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/41394254) · `src:gcs-arctic-foraminifera-microhabitats` · Regional comparison / 区域比较
+
+## Submarine groundwater discharge and gas hydrate dissociation fuel organic matter formation in Arctic fjord sediments
+
+海底地下水与水合物分解供给斯瓦尔巴峡湾沉积物有机质
+
+Szymczycha, B., Diak, M., Hong, W.-L., Böttcher, M. E., Lepland, A., Makuch, P., ten Hietbrink, S., Saghravani, S. R., Sen, A., Winogradow, A., & Silberberger, M. J. (2025). Submarine groundwater discharge and gas hydrate dissociation fuel organic matter formation in Arctic fjord sediments. *Marine Chemistry, 273*, Article 104570. https://doi.org/10.1016/j.marchem.2025.104570
+
+**Study scope / 研究范围**: Twenty-four stations in Hornsund, Isfjorden and Kongsfjorden–Krossfjorden, West Spitsbergen.
+
+西斯匹次卑尔根 Hornsund、Isfjorden 和 Kongsfjorden–Krossfjorden 的 24 个站位。
+
+**Design / 研究设计**: Sediment organic-matter isotopes compared with porewater chloride and water isotopes.
+
+将沉积物有机质同位素与孔隙水氯和水同位素比较。
+
+**Finding / 发现**: Porewater freshening was meteoric, consistent with submarine groundwater discharge, in Hornsund and Tempelfjorden, and consistent with gas-hydrate dissociation in Ekmanfjorden. Unusually low organic δ13C and δ15N were attributed partly to microbial methane use.
+
+Hornsund 和 Tempelfjorden 的孔隙水淡化具有大气降水特征，符合海底地下水排放；Ekmanfjorden 则符合天然气水合物分解。异常低的有机 δ13C 和 δ15N 被部分归因于微生物对甲烷的利用。
+
+**Citation limits / 引用边界**: Microbial methane use is a proposed explanation of isotope values, not a measured oxidation rate.
+
+微生物利用甲烷是对同位素值的一种解释，不是实测氧化速率。
+
+**Discussion use / 讨论用途**: Pair fjord hydrate and groundwater organic matter with the separate fjord seep-fauna comparison.
+
+把峡湾水合物和地下水有机质与另一项峡湾冷泉生物比较配合使用。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.marchem.2025.104570) · `src:gcs-svalbard-fjord-hydrate-om` · Regional comparison / 区域比较
+
+## The morphology and geochemistry of authigenic pyrite formed under methane seepage: Insights from the Laptev Sea
+
+甲烷渗漏下拉普捷夫海自生黄铁矿的形态与地球化学
+
+Ruban, A., Nikolaeva, A., Abramova, V., Ignatiev, A., Dudarev, O., Semiletov, I., & Rudmin, M. (2025). The morphology and geochemistry of authigenic pyrite formed under methane seepage: Insights from the Laptev sea. *Marine Geology, 485*, Article 107558. https://doi.org/10.1016/j.margeo.2025.107558
+
+**Study scope / 研究范围**: Laptev Sea sediments affected by methane seepage.
+
+受甲烷渗漏影响的拉普捷夫海沉积物。
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Finding / 发现**: The title reports morphology and geochemistry of authigenic pyrite formed under methane seepage in the Laptev Sea.
+
+标题报道拉普捷夫海甲烷渗漏条件下形成的自生黄铁矿的形态与地球化学。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+**Discussion use / 讨论用途**: Use as a Laptev diagenetic-mineral comparison, distinct from the later continental-slope pyrite note.
+
+作为拉普捷夫成岩矿物比较，并与后来的陆坡黄铁矿记录区分。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.margeo.2025.107558) · `src:gcs-laptev-pyrite-morphology` · Regional comparison / 区域比较
 
 ## Unexpected scarcity of ANME archaea in hydrocarbon seeps within Monterey Bay
 
@@ -564,6 +1590,74 @@ Evidence locator / 证据位置：Abstract; Methods 2.2–2.5: sample collection
 
 [Inspected source / 核查来源](https://bg.copernicus.org/articles/22/385/2025/) · `src:gcs-monterey-scarce-anme` · Regional comparison / 区域比较
 
+## An Arctic natural oil seep investigated from space to the seafloor
+
+从卫星到海底调查的一处北极天然油苗
+
+Panieri, G., Argentino, C., Ramalho, S. P., Vulcano, F., Savini, A., Fallati, L., Brekke, T., Galimberti, G., Riva, F., Balsa, J., Eilertsen, M. H., Stokke, R., Steen, I. H., Sahy, D., Kalenitchenko, D., Büenz, S., & Mattingsdal, R. (2024). An Arctic natural oil seep investigated from space to the seafloor. *Science of The Total Environment, 907*, Article 167788. https://doi.org/10.1016/j.scitotenv.2023.167788
+
+**Study scope / 研究范围**: Prins Karls Forland, western Svalbard, at 80–100 m, covering about 30,000 m2 of seafloor.
+
+西斯瓦尔巴 Prins Karls Forland，水深 80–100 m，海底范围约 30,000 m2。
+
+**Design / 研究设计**: Satellite, aerial, surface and underwater observations, biomarkers, and uranium–thorium dating of carbonates.
+
+卫星、航空、海面和水下观测，生物标志物，以及碳酸盐的铀钍定年。
+
+**Finding / 发现**: The seep discharges oil from Tertiary or younger source rocks. Surface slicks and seafloor oil share an origin, carbonate dates indicate emanation since the Late Pleistocene, and oil-stained sediments were colonized by infauna.
+
+该渗漏排出来自第三纪或更年轻烃源岩的油。海面油膜与海底油同源，碳酸盐年代显示晚更新世以来持续渗出，浸油沉积物中也有内栖生物定居。
+
+**Citation limits / 引用边界**: One shallow oil seep is a baseline site. It does not represent methane-only Arctic seeps or an anthropogenic spill.
+
+一处浅水油苗是基线站位，不能代表只渗甲烷的北极冷泉，也不是人为溢油。
+
+**Discussion use / 讨论用途**: Use for satellite-to-seafloor detection of an Arctic natural oil seep.
+
+用于从卫星到海底识别北极天然油苗。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://europepmc.org/article/MED/37865252) · `src:gcs-prins-karls-forland-oil-seep` · Regional comparison / 区域比较
+
+## Biogeochemical investigations of methane seepage at the ultraslow-spreading Arctic mid-ocean ridge: Svyatogor ridge, Fram Strait
+
+超慢速扩张北极中脊 Svyatogor 海脊的甲烷渗漏地球化学
+
+Argentino, C., Borrelli, C., Akinselure, A., Correa-Diaz, M., & Panieri, G. (2024). Biogeochemical investigations of methane seepage at the ultraslow-spreading Arctic mid-ocean ridge: Svyatogor ridge, Fram Strait. *Marine and Petroleum Geology, 162*, Article 106761. https://doi.org/10.1016/j.marpetgeo.2024.106761
+
+**Study scope / 研究范围**: Svyatogor Ridge, a sediment-covered transform on the Arctic mid-ocean ridge west of Svalbard.
+
+斯瓦尔巴以西、北极中脊沉积物覆盖转换断层上的 Svyatogor 海脊。
+
+**Design / 研究设计**: Sediment and foraminiferal geochemistry of a methane-seepage setting.
+
+对甲烷渗漏环境做沉积物和有孔虫地球化学分析。
+
+**Finding / 发现**: The ridge hosts a shallow microbial-methane cycle with anaerobic oxidation that sustains seafloor chemosynthetic communities. Past fluxes were inferred to have been higher, and methane was not shown to reach the sea surface.
+
+该海脊存在浅层微生物甲烷循环，厌氧氧化维持海底化能群落。过去通量被推断更高，且没有证据表明甲烷到达海面。
+
+**Citation limits / 引用边界**: A single ridge does not reassign the methane budget of all ultraslow ridges, and past-flux inferences are not measured rates.
+
+单条海脊不能改写所有超慢速扩张脊的甲烷收支，过去通量的推断也不是实测速率。
+
+**Discussion use / 讨论用途**: Use as the reported methane-seep case from the ultraslow Arctic mid-ocean ridge.
+
+作为超慢速北极中脊已报道的甲烷冷泉案例。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.marpetgeo.2024.106761) · `src:gcs-svyatogor-ridge-methane` · Regional comparison / 区域比较
+
 ## Chemolithoautotrophic bacteria flourish at dark water–ice interfaces of an emerged Arctic cold seep
 
 斯瓦尔巴陆地甲烷渗漏冰水界面的化能自养微生物
@@ -597,6 +1691,40 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 摘要：研究设计与主要发现。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/39269636) · `src:gcs-svalbard-terrestrial-ice-interface` · Habitat context / 生境背景
+
+## Chemosynthetic alphaproteobacterial diazotrophs reside in deep-sea cold-seep bottom waters
+
+深海冷泉底层水中的化能自养固氮菌
+
+Chen, J., Deng, L., Wang, X., Zhong, C., Xia, X., & Liu, H. (2024). Chemosynthetic alphaproteobacterial diazotrophs reside in deep-sea cold-seep bottom waters. *mSystems, 9*(9), Article e00176-24. https://doi.org/10.1128/msystems.00176-24
+
+**Study scope / 研究范围**: Deep-sea cold-seep bottom water compared with upper seep water and non-seep bottom water. The inspected abstract does not name the ocean.
+
+深海冷泉底层水，并与冷泉上层水和非冷泉底层水比较。所查摘要没有给出海域名称。
+
+**Design / 研究设计**: Multi-omics of diazotrophs, including a metagenome-assembled genome and in-situ transcripts.
+
+对固氮菌做多组学分析，包括一个宏基因组组装基因组和原位转录本。
+
+**Finding / 发现**: Diazotrophs were relatively most abundant in cold-seep bottom water, and more than 98 percent of diazotroph metatranscriptomic reads there mapped to Sagittula. Its genome Seep-BW-D1 encoded nifHDK, transcribed nifH, and pathways for C1 compounds and thiosulfate.
+
+固氮菌相对丰度在冷泉底层水最高，那里超过 98% 的固氮菌宏转录组读段比对到 Sagittula。其基因组 Seep-BW-D1 编码 nifHDK、转录 nifH，并具有一碳化合物和硫代硫酸盐途径。
+
+**Citation limits / 引用边界**: Genome potential and transcripts do not measure a nitrogen-fixation rate, and the unnamed site should not be treated as Haima or an Arctic seep.
+
+基因组潜力和转录本不能测量固氮速率，未点名的站位也不应当成海马或北极冷泉。
+
+**Discussion use / 讨论用途**: Use for chemosynthetic diazotrophy in seep bottom water when the sampling region is left unspecified.
+
+在采样海域未说明时，用于冷泉底层水的化能固氮。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://europepmc.org/article/MED/39105582) · `src:gcs-seep-bottom-water-diazotrophs` · Mechanistic precedent / 机制先例
 
 ## Cross-shelf processes of terrigenous organic matter drive mercury speciation on the east siberian shelf in the Arctic Ocean
 
@@ -702,6 +1830,214 @@ OpenAlex 摘要：关于快速增温下北极甲烷储库的 CAGE 社论。
 
 [Inspected source / 核查来源](https://doi.org/10.3389/feart.2024.1508196) · `src:gcs-arctic-methane-editorial` · Regional comparison / 区域比较
 
+## Elemental speciation of the sediments from cold methane seeps on the Laptev Sea shelf
+
+拉普捷夫海陆架冷甲烷渗漏沉积物的元素赋存形态
+
+Oberemok, I. A., Guseva, N. V., Moiseeva, Y. A., Purgina, D. V., Poltavskaya, N. A., Gershelis, E. V., & Semiletov, I. P. (2024). Elemental speciation of the sediments from cold methane seeps on the Laptev sea shelf. *Bulletin of the Tomsk Polytechnic University Geo Assets Engineering, 335*(3), 108–123. https://doi.org/10.18799/24131830/2024/3/4511
+
+**Study scope / 研究范围**: One cold-seep station and two background stations on the outer Laptev shelf and slope; nine samples from three horizons.
+
+拉普捷夫外陆架–陆坡的一处冷泉站和两个背景站；三个层位共九个样品。
+
+**Design / 研究设计**: BCR sequential extraction and ICP-MS, with pyrolysis of residual organic matter.
+
+BCR 连续提取和 ICP-MS，并对残余有机质做热解。
+
+**Finding / 发现**: Element mobility increased at the seep and was attributed to authigenic carbonate and sulfide formation during the 2020 AMK-82 cruise. The authors associate U, Ni, Zn and Co with carbonates and Co, Mn and W with sulfides.
+
+2020 年 AMK-82 航次中，冷泉处元素活动性增加，并被归因于自生碳酸盐和硫化物的形成。作者将 U、Ni、Zn 和 Co 与碳酸盐联系，将 Co、Mn 和 W 与硫化物联系。
+
+**Citation limits / 引用边界**: These are associations from nine samples. They do not prove a specific authigenic mineral for every element or a methane flux.
+
+这是九个样品的关联，不能证明每种元素都有特定自生矿物，也不是甲烷通量。
+
+**Discussion use / 讨论用途**: Use for Laptev seep redox and trace-element response, not as a regional contamination budget.
+
+用于拉普捷夫冷泉的氧化还原和微量元素响应，而不是区域污染收支。
+
+Sampling time / 采样时间：Autumn 2020, AMK-82 on R/V Akademik Mstislav Keldysh. 2020 年秋季，“阿卡德米克·姆斯基斯拉夫·克尔德什”号 AMK-82 航次。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.18799/24131830/2024/3/4511) · `src:gcs-laptev-element-speciation` · Regional comparison / 区域比较
+
+## Formation of non-evaporitic gypsum in gas hydrate-bearing sediments at Håkon Mosby mud volcano, SW Barents sea
+
+哈肯莫斯比泥火山水合物沉积物中的非蒸发成因石膏
+
+Wittig, C., Argentino, C., & Panieri, G. (2024). Formation of non-evaporitic gypsum in gas hydrate-bearing sediments at håkon mosby mud volcano, SW Barents Sea. *Marine and Petroleum Geology, 165*, Article 106875. https://doi.org/10.1016/j.marpetgeo.2024.106875
+
+**Study scope / 研究范围**: Hydrate-bearing seep sediments at Håkon Mosby Mud Volcano, SW Barents Sea.
+
+西南巴伦支海哈肯莫斯比泥火山的含水合物冷泉沉积物。
+
+**Design / 研究设计**: Core logging, microscopy and scanning electron microscopy of authigenic minerals.
+
+岩芯扫描、显微镜和扫描电镜分析自生矿物。
+
+**Finding / 发现**: Pyrite and gypsum marked three paleo sulfate–methane transitions at 7–10, 13–18 and 19–21 cm, above a modern transition near 50 cm. Gypsum was interpreted as forming when a descending transition oxidized earlier pyrite.
+
+黄铁矿与石膏标出 7–10、13–18 和 19–21 cm 的三个古硫酸盐–甲烷转换带，位于约 50 cm 的现代转换带之上。石膏被解释为转换带下移、早期黄铁矿氧化后形成。
+
+**Citation limits / 引用边界**: The formation pathway is an interpretation of mineral co-occurrence. It does not quantify present methane flux.
+
+形成途径是对矿物共现的解释，不能量化现今甲烷通量。
+
+**Discussion use / 讨论用途**: Use as a diagenetic marker at an Arctic mud volcano, not as proof of evaporative gypsum.
+
+作为北极泥火山的成岩标志，而不是蒸发石膏的证据。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.marpetgeo.2024.106875) · `src:gcs-haakon-mosby-gypsum` · Regional comparison / 区域比较
+
+## Geological and glaciological controls of 21,700 active methane seeps in the northern Norwegian Barents sea
+
+挪威北部巴伦支海约 21700 个活跃甲烷冷泉的地质与冰川控制
+
+Serov, P., Andreassen, K., Winsborrow, M., Mattingsdal, R., & Patton, H. (2024). Geological and glaciological controls of 21,700 active methane seeps in the northern norwegian Barents Sea. *Frontiers in Earth Science, 12*, Article 1404027. https://doi.org/10.3389/feart.2024.1404027
+
+**Study scope / 研究范围**: About 5,000 km2 of the northern Norwegian Barents Sea.
+
+挪威北部巴伦支海约 5,000 km2。
+
+**Design / 研究设计**: Multibeam echosounder data and high-resolution P-cable seismic lines.
+
+多波束回声数据和 P-cable 高分辨率地震测线。
+
+**Finding / 发现**: About 21,700 natural-gas seeps were mapped from exhumed, faulted and variably eroded structural highs. Every investigated high fueled a seabed release hotspot.
+
+在被剥露、断裂且遭受不同程度侵蚀的构造高地上标出约 21,700 个天然气冷泉。每个受调查的高地都对应海底释放热点。
+
+**Citation limits / 引用边界**: Seep counts are acoustic detections in the surveyed area. They are not a flux, and they do not show that every Arctic shelf has the same density.
+
+冷泉数量是调查区内的声学检出，不是通量，也不能说明每个北极陆架都有同样的密度。
+
+**Discussion use / 讨论用途**: Use as a shelf-scale Barents seep inventory with glacial and tectonic controls.
+
+作为具有冰川和构造控制的巴伦支海陆架尺度冷泉清单。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/feart.2024.1404027) · `src:gcs-barents-active-seep-inventory` · Regional comparison / 区域比较
+
+## Glacial-interglacial sedimentation control on gas seepage exemplified by Vestnesa Ridge off NW Svalbard margin
+
+冰川–间冰期沉积对 Vestnesa 海脊气体渗漏的控制
+
+Rasmussen, T. L., & Nielsen, T. (2024). Glacial-interglacial sedimentation control on gas seepage exemplified by Vestnesa Ridge off NW Svalbard margin. *Frontiers in Earth Science, 12*, Article 1356341. https://doi.org/10.3389/feart.2024.1356341
+
+**Study scope / 研究范围**: Vestnesa Ridge off northwest Svalbard, including methane-seep sites.
+
+斯瓦尔巴西北外海 Vestnesa 海脊，包括甲烷冷泉站。
+
+**Design / 研究设计**: Forty-three sediment cores and 1,430 km of shallow seismic lines spanning about the last 130,000 years.
+
+43 根沉积物岩芯和 1,430 km 浅层地震测线，覆盖约最近 13 万年。
+
+**Finding / 发现**: Seepage decreased at about 10–9 ka as fine Holocene mud accumulated. It was low to moderate in Heinrich stadial 1 and the Younger Dryas, and highest in the Bølling–Allerød and early Holocene.
+
+全新世细泥堆积后，渗漏在约 10–9 ka 减弱。海因里希冰阶 1 和新仙女木期为低到中等，博令–阿勒罗德期和早全新世最高。
+
+**Citation limits / 引用边界**: The timing is tied to this ridge's sedimentation. It does not replace tectonic control or give a present-day flux.
+
+时间序列与该海脊的沉积作用相联系，不能替代构造控制，也不给出现今通量。
+
+**Discussion use / 讨论用途**: Pair glacial–interglacial sedimentation with tectonic explanations of Vestnesa seepage.
+
+把冰期–间冰期沉积与 Vestnesa 渗漏的构造解释放在一起。
+
+Sampling time / 采样时间：Most detail for the last 60,000 years; record extends about 130,000 years. 最近 6 万年的细节最多；记录延伸约 13 万年。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/feart.2024.1356341) · `src:gcs-vestnesa-glacial-seepage` · Regional comparison / 区域比较
+
+## Hydroxylated GDGTs-0 in marine methane seep environments: A putative indicator for archaeal methanogenesis
+
+海洋甲烷冷泉中羟基化 GDGT-0 作为古菌产甲烷的候选指标
+
+Guan, H., Liu, L., Birgel, D., Peckmann, J., Feng, D., & Li, S. (2024). Hydroxylated GDGTs-0 in marine methane seep environments: A putative indicator for archaeal methanogenesis. *Organic Geochemistry, 198*, Article 104862. https://doi.org/10.1016/j.orggeochem.2024.104862
+
+**Study scope / 研究范围**: Marine methane-seep environments named in the verified title.
+
+经核验标题所指的海洋甲烷冷泉环境。
+
+**Design / 研究设计**: Bibliographic record only; sampling design and analytical methods were not available in the retrieved metadata.
+
+仅有书目记录；检索到的出版信息中没有采样设计和分析方法。
+
+**Finding / 发现**: The title proposes hydroxylated GDGTs-0 as a putative indicator of archaeal methanogenesis in marine methane seeps.
+
+标题提出羟基化 GDGT-0 可作为海洋甲烷冷泉中古菌产甲烷的候选指标。
+
+**Citation limits / 引用边界**: No abstract was available from Crossref, Europe PMC, or OpenAlex, so this profile does not extract rates, depths, or other quantities beyond the verified title.
+
+Crossref、Europe PMC 与 OpenAlex 均未提供摘要，因此本档案不提取标题之外的速率、深度或其他定量结果。
+
+**Discussion use / 讨论用途**: Treat the indicator as putative. The retrieved record does not identify which seep supplied the samples.
+
+将该指标视为候选。检索记录没有标明样品来自哪一处冷泉。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.orggeochem.2024.104862) · `src:gcs-seep-hydroxy-gdgt-methanogenesis` · Mechanistic precedent / 机制先例
+
+## Magnesium geochemistry of authigenic carbonate at marine cold seep
+
+海洋冷泉自生碳酸盐的镁地球化学
+
+Tang, Y., Lu, H., & Yang, H. (2024). Magnesium geochemistry of authigenic carbonate at marine cold seep. *Frontiers in Marine Science, 11*, Article 1463328. https://doi.org/10.3389/fmars.2024.1463328
+
+**Study scope / 研究范围**: Authigenic carbonates at marine cold seeps, summarized across published samples.
+
+综述已发表样品中的海洋冷泉自生碳酸盐。
+
+**Design / 研究设计**: Summarize magnesium geochemistry and the limited magnesium-isotope data for seep carbonates.
+
+总结冷泉碳酸盐的镁地球化学以及有限的镁同位素数据。
+
+**Finding / 发现**: The summarized seep-carbonate magnesium isotopes span −3.46‰ to −2.36‰. Rapid precipitation versus aqueous ligands is proposed as the main kinetic control, and sulfide from anaerobic methane oxidation is argued to promote dolomitization.
+
+所综述的冷泉碳酸盐镁同位素范围为 −3.46‰ 至 −2.36‰。快速沉淀与水相配体的竞争被提出为主要动力学控制，厌氧甲烷氧化产生的硫化物被认为促进白云石化。
+
+**Citation limits / 引用边界**: The isotope range is a summary of sparse data. It is not a calibration that identifies every dolomite as seep-related.
+
+该同位素范围是对稀疏数据的汇总，不是能把每一种白云石都鉴定为冷泉成因的标定。
+
+**Discussion use / 讨论用途**: Use as magnesium context for both SCS and Arctic seep carbonates, with the kinetic interpretation kept separate from new measurements.
+
+作为南海和北极冷泉碳酸盐的镁背景，并把动力学解释与新的测量分开。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/fmars.2024.1463328) · `src:gcs-seep-carbonate-magnesium` · Mechanistic precedent / 机制先例
+
 ## Methanotroph activity and connectivity between two seep systems north off Svalbard
 
 斯瓦尔巴两处冷泉水体与沉积物甲烷氧化菌的连接
@@ -738,6 +2074,40 @@ Evidence locator / 证据位置：Abstract; Methods 2.1–2.4: site sampling, se
 
 [Inspected source / 核查来源](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1287226/full) · `src:gcs-svalbard-water-sediment-connectivity` · Regional comparison / 区域比较
 
+## New cold seep sites on the continental slope southwest to Svalbard
+
+斯瓦尔巴西南陆坡新发现的活跃甲烷冷泉
+
+Bellec, V. K., Chand, S., Knies, J., Bjarnadóttir, L. R., Lepland, A., Sen, A., & Thorsnes, T. (2024). New cold seep sites on the continental slope southwest to Svalbard. *Frontiers in Earth Science, 12*, Article 1328357. https://doi.org/10.3389/feart.2024.1328357
+
+**Study scope / 研究范围**: Continental slope southwest of Svalbard, at about 800 m, between the Storfjorden and Hornsund trough-mouth fans.
+
+斯瓦尔巴西南陆坡约 800 m 处，位于 Storfjorden 与 Hornsund 槽口扇之间。
+
+**Design / 研究设计**: Seafloor mapping of mats, carbonates, mounds and gas bubbles on two slope-parallel structures.
+
+在两条与陆坡平行的构造上测绘微生物席、碳酸盐、丘体和气泡。
+
+**Finding / 发现**: Bacterial mats, carbonate crusts, siboglinids and free-gas bubbles marked active methane seepage. Thick crusts were taken as evidence of a long seepage history, with likely Miocene or Paleocene sources.
+
+细菌席、碳酸盐壳、西伯加虫和游离气泡标示活跃甲烷渗漏。厚碳酸盐壳被当作长期渗漏的证据，气源可能为中新世或古新世。
+
+**Citation limits / 引用边界**: Source-rock ages are interpretations. Bubble observations do not quantify flux.
+
+烃源岩时代是解释。气泡观测不能量化通量。
+
+**Discussion use / 讨论用途**: Extend mapped active seepage southwest of Svalbard beyond Storfjordrenna.
+
+把已测绘的活跃渗漏扩展到 Storfjordrenna 以外的斯瓦尔巴西南侧。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/feart.2024.1328357) · `src:gcs-svalbard-sw-slope-seeps` · Regional comparison / 区域比较
+
 ## Potential coupling of microbial methane, nitrogen, and sulphur cycling in the Okinawa Trough cold seep sediments
 
 冲绳海槽沉积物中甲烷、氮与硫循环的基因潜力
@@ -771,6 +2141,40 @@ Evidence locator / 证据位置：Abstract: design and principal findings.
 摘要：研究设计与主要发现。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/38690913) · `src:gcs-okinawa-c-n-s-potential` · Regional comparison / 区域比较
+
+## Protracted post-glacial hydrocarbon seepage in the Barents Sea revealed by U–Th dating of seep carbonates
+
+铀钍定年显示巴伦支海冰后期持续的烃类渗漏
+
+Himmler, T., Wagner, D., Sahy, D., Vadakkepuliyambatta, S., Chand, S., Martma, T., Kirsimäe, K., Mattingsdal, R., Panieri, G., Bünz, S., Condon, D. J., Knies, J., & Lepland, A. (2024). Protracted post-glacial hydrocarbon seepage in the Barents Sea revealed by u–th dating of seep carbonates. *Frontiers in Earth Science, 12*, Article 1355621. https://doi.org/10.3389/feart.2024.1355621
+
+**Study scope / 研究范围**: Three active seeps at 156–383 m: Storfjordrenna, Storbanken High and Loppa High.
+
+三处活跃冷泉，水深 156–383 m：Storfjordrenna、Storbanken 高地和 Loppa 高地。
+
+**Design / 研究设计**: ROV sampling and uranium–thorium dating of seep carbonates.
+
+ROV 采集冷泉碳酸盐并做铀–钍定年。
+
+**Finding / 发现**: U–Th dates from 13.5 to 1.2 ka show episodic carbonate formation from the late Pleistocene through the Holocene. Storfjordrenna hydrate-related carbonate formed between about 6 and 1.2 ka.
+
+铀钍年龄为 13.5 至 1.2 ka，显示晚更新世到全新世的幕式碳酸盐形成。Storfjordrenna 与水合物相关的碳酸盐形成于约 6 至 1.2 ka。
+
+**Citation limits / 引用边界**: Carbonate ages date precipitation at three seeps. They do not measure how much methane reached the atmosphere.
+
+碳酸盐年龄给出的是三处冷泉的沉淀时间，不能测量有多少甲烷进入大气。
+
+**Discussion use / 讨论用途**: Use for protracted post-glacial Barents seepage beside other seep-history records.
+
+与其他渗漏历史记录一起，用于巴伦支海冰后期持续渗漏。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/feart.2024.1355621) · `src:gcs-barents-carbonate-uth-ages` · Regional comparison / 区域比较
 
 ## Targeting methanotrophs and isolation of a novel psychrophilic Methylobacter species from a terrestrial Arctic alkaline methane seep in Lagoon Pingo, Central Spitsbergen (78° N)
 

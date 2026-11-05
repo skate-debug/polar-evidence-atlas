@@ -1,14 +1,18 @@
 # South China Sea cold-seep literature: APA 7
 
-Publication discovery window: 2016-10-12 to 2026-10-12. Source-review update: 13 October 2026.
+Publication discovery window: 2016-10-12 to 2026-11-05. Source-review update: 13 October 2026.
 
-301 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 301 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
+311 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 311 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
 
 Cao, C., Wang, H., Ge, Y., Wang, W., Guo, J., Zhou, P., Gao, F., & Chen, J. (2022). Long-term in-situ monitoring and analysis of terrain in gas hydrate trial harvesting area. *Sensors, 22*(4), Article 1351. https://doi.org/10.3390/s22041351
 
 Cao, H., Sun, Z., Zhang, X., Zhang, X., Wu, N., Geng, W., jiang, Z., Zhai, B., Sun, Y., Jiang, X., Zhang, D., & Dong, A. (2024). Formation of dolomites from the newly discovered ancient cold seep in the middle Dongsha area of the South China Sea. *Marine and Petroleum Geology, 164*, Article 106829. https://doi.org/10.1016/j.marpetgeo.2024.106829
 
+Cao, J., Liu, X., Feng, J., Deng, Y., Zhou, J., Tian, D., Li, Y., Hu, G., Yang, S., Lu, H., & Zhou, J. (2025). Formation of the authigenic pyrite in the gas hydrate-bearing layer of the Shenhu region, northern South China Sea: Constraints from geochemical and sulfur isotope compositions. *GEOCHEMICAL JOURNAL, 59*(3), Article GJ25004. https://doi.org/10.2343/geochemj.gj25004
+
 Cao, J., Yang, S., Tang, D., Feng, J., & Liang, J. (2023). Mg/Ca, Ba/Ca, and S/Ca ratios as environmental and growth proxies for bivalve shells from the Haima cold seep, South China Sea. *Journal of Oceanology and Limnology, 41*(2), 660–672. https://doi.org/10.1007/s00343-022-2010-8
+
+Cao, J., Zhou, J., Feng, J., Tao, J., Xuan, J., & Yang, S. (2026). Ca isotope fractionation during precipitation of authigenic carbonates: A case study from the Haima cold seep, northern South China Sea. *Chemical Geology, 721*, Article 123625. https://doi.org/10.1016/j.chemgeo.2026.123625
 
 Cao, L., Lian, C., Zhang, X., Zhang, H., Wang, H., Zhou, L., Wang, M., Chen, H., Luan, Z., & Li, C. (2021). In situ detection of the fine scale heterogeneity of active cold seep environment of the Formosa ridge, the South China Sea. *Journal of Marine Systems, 218*, Article 103530. https://doi.org/10.1016/j.jmarsys.2021.103530
 
@@ -106,6 +110,8 @@ Gong, S., Hu, Y., Li, N., Feng, D., Liang, Q., Tong, H., Peng, Y., Tao, J., & Ch
 
 Gong, Y., Liang, J., Tian, D., Li, X., Yang, S., Deng, W., Fang, Y., & Feng, J. (2026). Haima cold seeps: Direct evidence for the occurrence of gas hydrates—a case study from the Qiongdongnan sea area, South China Sea. *Journal of Marine Science and Engineering, 14*(20), Article 1881. https://doi.org/10.3390/jmse14201881
 
+Gu, M., Chen, J., Chen, J., Mei, J., Wang, G., Tan, T., Liu, K., & Gao, X. (2026). Dual-wavelength OA-ICOS for sensitive and wide-range in situ measurement of dissolved methane in deep-sea cold seeps. *Analytical Chemistry, 98*(37), 27668–27678. https://doi.org/10.1021/acs.analchem.6c04761
+
 Guan, H., Birgel, D., Feng, D., Peckmann, J., Liu, L., Liu, L., & Tao, J. (2021). Lipids and their δ13c values reveal carbon assimilation and cycling in the methane-seep tubeworm *Paraescarpia echinospica* from the South China Sea. *Deep Sea Research Part I: Oceanographic Research Papers, 174*, Article 103556. https://doi.org/10.1016/j.dsr.2021.103556
 
 Guan, H., Feng, D., Birgel, D., Kiel, S., Peckmann, J., Li, S., & Tao, J. (2022). Lipid biomarker patterns reflect nutritional strategies of seep-dwelling bivalves from the South China Sea. *Frontiers in Marine Science, 9*, Article 831286. https://doi.org/10.3389/fmars.2022.831286
@@ -156,7 +162,13 @@ Hui, F., Lin, Y.-T., Perez, M., Qiu, J.-W., & Sun, Y. (2024). A new species of N
 
 Iqbal, S., Xu, Y., Ni, L., Dang, H., Luan, X., & Zhang, D. (2026). Biogeographic patterns and metabolic potential of chemoautotrophic communities in cold seep sediments across subarctic to tropical regions. *Marine Environmental Research, 222*, Article 108410. https://doi.org/10.1016/j.marenvres.2026.108410
 
+Jia, Z., Hu, Y., Bayon, G., Peckmann, J., Wang, X., Gong, S., Li, J., Roberts, H. H., Chen, D., & Feng, D. (2024). Molybdenum isotope fingerprinting of microbial sulfate reduction in seep carbonate rocks. *Geochemistry, Geophysics, Geosystems, 25*(3), Article e2023GC011379. https://doi.org/10.1029/2023gc011379
+
+Jia, Z., Lai, H., Cui, N., Deng, Y., Sun, X., Ren, J., Deng, W., Fang, Y., Cao, J., Chen, F., & Kuang, Z. (2026). Heavy hydrocarbons buffering by subsurface gas hydrate in cold seep systems. *Global and Planetary Change, 265*, Article 105633. https://doi.org/10.1016/j.gloplacha.2026.105633
+
 Jiang, L., Liang, Z., Williams, T. A., Deng, Y., Yu, H., Hao, Q., Cao, J., Zhou, H., Lai, H., Chen, J., Chen, H., & Zhang, C. (2026). Vertical stratification and metabolic versatility of methanogens in Haima cold seep sediments: Alkane-fueled acetoclastic methanogenesis revealed by metagenomics and experimental verification. *Marine Environmental Research, 217*, Article 107972. https://doi.org/10.1016/j.marenvres.2026.107972
+
+Jiang, P., Zhang, S., Chen, Z., Zhang, J., Cai, Y., Pan, C., & Li, M. (2027). Integrating eDNA and trawl surveys reveals FISH diversity and functional redundancy in the Haima cold seep area. *Marine Environmental Research, 223*, Article 108507. https://doi.org/10.1016/j.marenvres.2026.108507
 
 Jiang, Q., Jing, H., Jiang, Q., & Zhang, Y. (2022). Insights into carbon-fixation pathways through metagonomics in the sediments of deep-sea cold seeps. *Marine Pollution Bulletin, 176*, Article 113458. https://doi.org/10.1016/j.marpolbul.2022.113458
 
@@ -187,6 +199,8 @@ Kunath, P., Crutchley, G., Chi, W., Berndt, C., Liu, C., Elger, J., Klaeschen, D
 Lan, Y., Yan, G., Wang, H., Gao, K., Lin, Y., Bhardwaj, T., Lian, C., Wu, B.-Z., Li, J., Hubert, C. R. J., Sun, J., & Qian, P.-Y. (2026). In situ evidence of tiered adaptations buffering a chemosynthetic clam holobiont against environmental sulfide fluctuations. *Science Advances, 12*(40), Article eaed8728. https://doi.org/10.1126/sciadv.aed8728
 
 Li, C., Cheng, J., Liu, R., Huang, X., Zhou, L., Zhang, G., Zhu, T., Li, D., & Che, Q. (2025). The thiodiketopiperazine derivatives shovelmycin A–B and ansamycin derivative divergolide X from the cold-seep-derived *Streptomyces olivaceus* HDN22-001. *The Journal of Antibiotics, 78*(5), 275–280. https://doi.org/10.1038/s41429-025-00812-z
+
+Li, C., Ma, M., Wang, R., Zhang, H., Liu, Y., Chang, L., Liang, J., Chen, F., & Bao, B. (2026). Continuous characterization of water-column velocity in cold seep plumes using pre-stack allied elastic impedance inversion. *Journal of Marine Science and Engineering, 14*(18), Article 1699. https://doi.org/10.3390/jmse14181699
 
 Li, C.-P., Shi, Z.-Z., Fang, S.-T., Song, Y.-P., & Ji, N.-Y. (2023). Lipids and terpenoids from the deep-sea fungus *Trichoderma lixii* R22 and their antagonism against two wheat pathogens. *Molecules, 28*(17), Article 6220. https://doi.org/10.3390/molecules28176220
 
@@ -273,6 +287,8 @@ Liu, D., Li, P., He, M., & Shi, Y. (2025). Proteomic and functional analysis of 
 Liu, D., Lin, Y., He, M., & Shi, Y. (2025). Proteomics of the shell matrix proteins and functional analysis of am13 and amkaspi from the shell of Archivesica marissinica. *International Journal of Biological Macromolecules, 288*, Article 138767. https://doi.org/10.1016/j.ijbiomac.2024.138767
 
 Liu, H., Chen, X., Hu, M., Wang, H., Yao, L., Xu, Z., Ma, G., Wang, Q., & Kan, R. (2024). In situ high-precision measurement of deep-sea dissolved methane by quartz-enhanced photoacoustic and light-induced thermoelastic spectroscopy. *Analytical Chemistry, 96*(31), 12846–12853. https://doi.org/10.1021/acs.analchem.4c02557
+
+Liu, L., Guan, H., Wu, N., Chang, B., Chen, F., Feng, D., & Li, S. (2024). Seep carbonate clumped isotopes revealing ocean warming-induced gas hydrate dissociation. *Global and Planetary Change, 237*, Article 104439. https://doi.org/10.1016/j.gloplacha.2024.104439
 
 Liu, R., Cai, R., Wang, M., Zhang, J., Zhang, H., Li, C., & Sun, C. (2024). Metagenomic insights into Heimdallarchaeia clades from the deep-sea cold seep and hydrothermal vent. *Environmental Microbiome, 19*(1), Article 43. https://doi.org/10.1186/s40793-024-00585-2
 
@@ -362,6 +378,8 @@ Sun, Q.-L., Zhang, J., Wang, M.-X., Cao, L., Du, Z.-F., Sun, Y.-Y., Liu, S.-Q., 
 
 Sun, S., Mei, Z., & Sha, Z. (2025). Endoxocrinus (diplocrinus) kexuei, a new species of stalked crinoid (echinodermata, crinoidea, isocrinida, balanocrinidae) from rotten wood in the cold seep area of the taixinan basin, South China Sea. *ZooKeys, 1241*, 185–204. https://doi.org/10.3897/zookeys.1241.128991
 
+Sun, X., Jia, R., Yin, R., & Yang, X. (2026). Anomalous mercury isotopic composition highlights the essential role of terrestrial erosion in forming cold seeps in the continental margin of the South China Sea. *Journal of Asian Earth Sciences, 310*, Article 107253. https://doi.org/10.1016/j.jseaes.2026.107253
+
 Sun, X., Yang, J., Zheng, M., & Zhang, X. (2021). Artificial construction of the biocoenosis of deep‐sea ecosystem via seeping methane. *Environmental Microbiology, 23*(2), 1186–1198. https://doi.org/10.1111/1462-2920.15347
 
 Sun, Y., Cheng, Y., Li, C., Wang, L., Dai, X., & Yan, C. (2025). Mechanical properties research of unconsolidated hydrate-bearing sediments under the effect of clay minerals. *PLOS ONE, 20*(4), Article e0319772. https://doi.org/10.1371/journal.pone.0319772
@@ -437,6 +455,8 @@ Wang, Y., Sha, Z., & Ren, X. (2022). Two new species of Cyphocaris (Amphipoda, a
 Wang, Y., Yang, L., Wu, W., Feng, Z., He, J., Guo, C., & He, J. (2025). *Bacillus haimaensis* sp. nov.: A novel cold seep-adapted bacterium with unique biosynthetic potential. *Applied and Environmental Microbiology, 91*(5), Article e02456-24. https://doi.org/10.1128/aem.02456-24
 
 Wang, Y.-R., & Sha, Z.-L. (2026). *Reniuristis brevicoxus* gen. et sp. nov. (Amphipoda, Lysianassoidea, Uristidae) described from Site F cold seep in the South China Sea. *Zootaxa, 5792*(3), 565–572. https://doi.org/10.11646/zootaxa.5792.3.7
+
+Wei, J., Miao, X., Gan, K., Li, J., Li, J., Liu, X., Xu, H., Chen, S., Ta, K., Wan, Z., & Wu, T. (2024). The formation of tubular seep carbonate deciphered from mineralogical and geochemical characteristics: An example from the South China Sea. *Frontiers in Marine Science, 11*, Article 1451624. https://doi.org/10.3389/fmars.2024.1451624
 
 Wei, J., Miao, X., Wan, Z., Li, J., Xu, H., Li, J., & Wu, T. (2023). A newly discovered ancient cold seep in the northwestern part of the South China Sea: Evidence from the authigenic carbonate. *Journal of Asian Earth Sciences, 256*, Article 105835. https://doi.org/10.1016/j.jseaes.2023.105835
 

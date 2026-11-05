@@ -45,7 +45,14 @@ def main():
             "status": "curated" if paper["doi"] in by_doi else review.get("status", "awaiting_source_review"),
             **{key: review.get(key, "") for key in ("access_level", "reviewed_at", "metadata_status", "source_id", "evidence_url", "locator", "reason", "reason_zh", "next_action")}})
     counts = Counter(row["status"] for row in rows)
-    access = Counter("full_text_extracts" if "full_text" in source["curation"].get("access_level", "") else "abstract" for source in sources)
+    def access_bucket(source):
+        access_level = source["curation"].get("access_level", "")
+        if "full_text" in access_level:
+            return "full_text_extracts"
+        if access_level == "bibliographic_record":
+            return "bibliographic_record"
+        return "abstract"
+    access = Counter(access_bucket(source) for source in sources)
     DIST.mkdir(exist_ok=True)
     with (DIST / "cold-seep-review.csv").open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=list(rows[0]), lineterminator="\n")
@@ -57,7 +64,7 @@ def main():
         "DOI 记录数不等于独立研究数：勘误及保留的预印本单独计数。原文初筛、摘要证据提取与全文核查分别记录，背景初筛不产生图谱论断。", "",
         "| Review stage / 核查阶段 | Records / 记录数 |", "| --- | ---: |"]
     lines += [f"| {label} | {counts[status]} |" for status, label in LABELS.items()]
-    lines += ["", f"Curated access / 精选档案核查材料：{access['abstract']} abstract-scoped / 限于摘要；{access['full_text_extracts']} inspected full-text excerpts / 已核查相关全文段落。", "",
+    lines += ["", f"Curated access / 精选档案核查材料：{access['abstract']} abstract-scoped / 限于摘要；{access['bibliographic_record']} bibliographic-record only / 仅有经核验书目记录；{access['full_text_extracts']} inspected full-text excerpts / 已核查相关全文段落。", "",
         "A full-text-excerpt label identifies the sections actually inspected; it does not claim that every figure or supplement was reviewed. Abstract-scoped packets must be narrowed to explicit abstract findings. Neither DOI verification nor title screening is treated as claim verification.", "",
         "“全文段落”仅表示记录的相关部分已核查，并不代表全部图表或补充材料均已检查。摘要档案仅保留摘要明确支持的结论。出版信息核查或标题初筛不能替代论断证据核查。", "",
         "## Review queue / 核查队列", ""]
@@ -96,7 +103,13 @@ def main():
         ):
             profiles += [f"**{label}**: {value}", "", value_zh, ""]
         review = reviews.get(source["doi"], {})
-        access_label = "inspected full-text excerpts / 已核查相关全文段落" if "full_text" in source["curation"].get("access_level", "") else "abstract-scoped / 限于摘要"
+        access_level = source["curation"].get("access_level", "")
+        if "full_text" in access_level:
+            access_label = "inspected full-text excerpts / 已核查相关全文段落"
+        elif access_level == "bibliographic_record":
+            access_label = "bibliographic record only / 仅有经核验书目记录"
+        else:
+            access_label = "abstract-scoped / 限于摘要"
         profiles += [f"Evidence access / 核查材料：{access_label}; verified / 核查日期：{source['curation']['last_verified']}.", ""]
         for claim in (item for item in claims if item["source_id"] == source["id"]):
             profiles += [f"Evidence locator / 证据位置：{claim['locator']}", "", claim_zh[claim["id"]]["locator"], ""]

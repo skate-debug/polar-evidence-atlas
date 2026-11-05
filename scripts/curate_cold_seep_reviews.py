@@ -77,10 +77,13 @@ def main():
         cache = read(ROOT / ".research-cache" / (re.sub(r"[^a-z0-9]+", "-", doi) + ".json"), {})
         abstract = cache.get("record", {}).get("abstractText") or candidate.get("abstract") or record.get("abstract", "")
         access = packet.get("access", "abstract")
-        if not abstract and not packet.get("evidence_url"):
-            raise SystemExit(f"No inspected source material: {doi}")
-        if "full_text" in access and not cache.get("sections") and not packet.get("evidence_url"):
-            raise SystemExit(f"Missing full-text evidence: {doi}")
+        # Public snapshots omit abstracts. Keep an already curated profile when its
+        # original inspection cache is not in this checkout; new packets still need support.
+        if doi not in by_doi:
+            if not abstract and not packet.get("evidence_url"):
+                raise SystemExit(f"No inspected source material: {doi}")
+            if "full_text" in access and not cache.get("sections") and not packet.get("evidence_url"):
+                raise SystemExit(f"Missing full-text evidence: {doi}")
         title = one(record.get("title") or candidate["title"])
         year = int(bibliographic_date_parts(record)[0])
         sid, cid = "src:scs-" + packet["slug"], "claim:scs-" + packet["slug"]
@@ -88,8 +91,13 @@ def main():
         temporal = packet.get("time", ["Sampling date not specified in the inspected abstract.", "所核查摘要未说明采样日期。"])
         locator = packet.get("locator", ["Abstract: study design and principal results.", "摘要：研究设计与主要结果。"])
         source_url = packet.get("evidence_url") or (f"https://europepmc.org/article/MED/{candidate['pmid']}" if candidate.get("pmid") else "https://doi.org/" + doi)
-        basis = "DOI bibliographic metadata and source passage inspected; " + ("abstract-scoped evidence only." if access == "abstract" else "specific full-text sections listed in the claim locator.")
-        basis_zh = "已核查 DOI 出版信息及支持论断的原文；" + ("本档案仅依据公开摘要。" if access == "abstract" else "全文核查范围见论断中的证据位置。")
+        review_date = packet.get("reviewed_at") or CHECKED
+        if access == "bibliographic_record":
+            basis = "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex."
+            basis_zh = "已核查经核验的 DOI 书目记录；Crossref、Europe PMC 与 OpenAlex 未提供摘要。"
+        else:
+            basis = "DOI bibliographic metadata and source passage inspected; " + ("abstract-scoped evidence only." if access == "abstract" else "specific full-text sections listed in the claim locator.")
+            basis_zh = "已核查 DOI 出版信息及支持论断的原文；" + ("本档案仅依据公开摘要。" if access == "abstract" else "全文核查范围见论断中的证据位置。")
         source = {
             "id": sid, "citation_key": "SCS" + "".join(word.title() for word in packet["slug"].split("-")),
             "doi": doi, "title": title, "year": year, "poles": [], "collection": "scs-cold-seeps",
@@ -106,7 +114,7 @@ def main():
             "key_findings": [finding[0]], "limitations": [limit[0]],
             "cite_for": [packet["type"][0] + " within the stated study scope.", finding[0]],
             "do_not_overcite": [limit[0]], "data_accessions": packet.get("accessions", []),
-            "curation": {"status": "curated", "basis": basis, "last_verified": CHECKED, "access_level": access,
+            "curation": {"status": "curated", "basis": basis, "last_verified": review_date, "access_level": access,
                 "evidence_url": source_url, "review_packet": "config/cold_seep_reviewed.json"},
         }
         claim = {"id": cid, "source_id": sid, "subject": sid,
@@ -116,30 +124,28 @@ def main():
         if doi in by_doi:
             if by_doi[doi]["id"] != sid:
                 raise SystemExit(f"DOI already curated under a different ID: {doi}")
-            source = by_doi[doi]
-            claim = next(item for item in claims if item["id"] == cid)
         else:
             sources.append(source)
             claims.append(claim)
             by_doi[doi] = source
-        metadata["records"][doi] = record
-        translations["sources"][sid] = {
-            "title": packet["title_zh"], "study_type": packet["type"][1],
-            "study_profile": {"spatial_scope": scope[1], "temporal_scope": temporal[1], "sample_design": design[1],
-                "measured_or_derived": [value[1] for value in packet["variables"]]},
-            "key_findings": [finding[1]], "limitations": [limit[1]],
-            "cite_for": [packet["type"][1] + "，适用范围以采样设计为准。", finding[1]],
-            "do_not_overcite": [limit[1]], "curation_basis": basis_zh, "_source_hash": digest(source_payload(source)),
-        }
-        translations["claims"][cid] = {"statement": finding[1], "scope": scope[1], "evidence_basis": design[1],
-            "locator": locator[1], "confidence_note": limit[1], "_source_hash": digest(claim_payload(claim))}
-        reviews[doi] = {"doi": doi, "candidate_id": candidate["id"], "status": "curated", "reviewed_at": CHECKED,
-            "source_id": sid, "access_level": access, "evidence_url": source_url, "locator": locator[0],
-            "metadata_status": "verified", "support_status": "supported_after_narrowing",
-            "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
-            "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
-            "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims." if access == "abstract" else "Extend with additional section- or figure-specific claims as needed.",
-            "inspected_abstract_sha256": hashlib.sha256(abstract.encode()).hexdigest() if abstract else None}
+            metadata["records"][doi] = record
+            translations["sources"][sid] = {
+                "title": packet["title_zh"], "study_type": packet["type"][1],
+                "study_profile": {"spatial_scope": scope[1], "temporal_scope": temporal[1], "sample_design": design[1],
+                    "measured_or_derived": [value[1] for value in packet["variables"]]},
+                "key_findings": [finding[1]], "limitations": [limit[1]],
+                "cite_for": [packet["type"][1] + "，适用范围以采样设计为准。", finding[1]],
+                "do_not_overcite": [limit[1]], "curation_basis": basis_zh, "_source_hash": digest(source_payload(source)),
+            }
+            translations["claims"][cid] = {"statement": finding[1], "scope": scope[1], "evidence_basis": design[1],
+                "locator": locator[1], "confidence_note": limit[1], "_source_hash": digest(claim_payload(claim))}
+            reviews[doi] = {"doi": doi, "candidate_id": candidate["id"], "status": "curated", "reviewed_at": review_date,
+                "source_id": sid, "access_level": access, "evidence_url": source_url, "locator": locator[0],
+                "metadata_status": "verified", "support_status": "supported_after_narrowing",
+                "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+                "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+                "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims." if access == "abstract" else "Extend with additional section- or figure-specific claims as needed.",
+                "inspected_abstract_sha256": hashlib.sha256(str(abstract).encode()).hexdigest() if abstract else None}
     for item in decisions:
         if item["doi"] in by_doi:
             raise SystemExit(f"Non-curated decision overlaps curated source: {item['doi']}")

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-04",
+  "updated_at": "2026-11-05",
   "policy": "International discussion comparisons; sources shared with other collections are reused by DOI, never duplicated.",
   "reviews": [
     {
@@ -142,6 +142,33 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1002/ece3.74597",
+      "candidate_id": "global-seep-candidate:10-1002-ece3-74597",
+      "source_id": "src:gcs-svalbard-fjord-sgd-macrofauna",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1002/ece3.74597",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Keep fjord groundwater discharge distinct from the shelf cold seep when discussing coastal Arctic benthos.",
+      "reason_zh": "讨论沿岸北极底栖生物时，把峡湾地下水排放与陆架冷泉分开。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "community",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "contextual_habitat",
+      "inspected_abstract_sha256": "19e40715a3f6f731d6db67bd6931063244d78708de2e16368dfdb48add862b0d"
+    },
+    {
       "doi": "10.1002/elsc.201700148",
       "candidate_id": "global-seep-candidate:10-1002-elsc-201700148",
       "status": "awaiting_source_review",
@@ -252,13 +279,31 @@
     {
       "doi": "10.1002/lno.70312",
       "candidate_id": "global-seep-candidate:10-1002-lno-70312",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-svalbard-seep-substrate-imagery",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1002/lno.70312",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for substrate control of Arctic seep epifauna at the scale of the orthomosaics.",
+      "reason_zh": "用于正射镶嵌尺度上底质对北极冷泉表栖生物的控制。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "interface",
+        "carbonate"
+      ],
+      "topics": [
+        "community",
+        "geochemistry",
+        "methods"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "e960b9b141a37e163900f56f148095d6ae30232498cc4dbae6a90c0907c6cc6b"
     },
     {
       "doi": "10.1002/mlf2.12159",
@@ -360,6 +405,33 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1007/s00300-024-03320-2",
+      "candidate_id": "global-seep-candidate:10-1007-s00300-024-03320-2",
+      "source_id": "src:gcs-vestnesa-monothalamid-barcodes",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1007/s00300-024-03320-2",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Use for Arctic seep foraminiferal taxonomy alongside eDNA endemism studies, without citing unretrieved occurrence counts.",
+      "reason_zh": "与 eDNA 特有性研究一起用于北极冷泉有孔虫分类，不要引用未检索到的出现次数。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "microeukaryotes",
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": null
+    },
+    {
       "doi": "10.1007/s00343-020-0040-7",
       "candidate_id": "global-seep-candidate:10-1007-s00343-020-0040-7",
       "status": "awaiting_source_review",
@@ -441,6 +513,33 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.1007/s11802-026-6261-4",
+      "candidate_id": "global-seep-candidate:10-1007-s11802-026-6261-4",
+      "source_id": "src:gcs-seep-carbonate-factory-review",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1007/s11802-026-6261-4",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Use as a narrative review of seep carbonates, not as a site inventory or a new carbon-budget measurement.",
+      "reason_zh": "作为冷泉碳酸盐的叙述性综述，而不是站位清单或新的碳收支测量。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": null
     },
     {
       "doi": "10.1007/s12040-025-02569-3",
@@ -531,15 +630,58 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1016/j.chemgeo.2025.123170",
+      "candidate_id": "global-seep-candidate:10-1016-j-chemgeo-2025-123170",
+      "source_id": "src:gcs-laptev-iron-nitrate-aom",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.chemgeo.2025.123170",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Use as an East Siberian comparison for metal- and nitrate-linked AOM, without citing unretrieved rates.",
+      "reason_zh": "作为东西伯利亚铁与硝酸盐耦合 AOM 的比较，不要引用未检索到的速率。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": null
+    },
+    {
       "doi": "10.1016/j.clay.2025.108092",
       "candidate_id": "global-seep-candidate:10-1016-j-clay-2025-108092",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-laptev-seep-clays",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.clay.2025.108092",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Use for Laptev seep mineral buffering, without treating the title as a measured methane-flux result.",
+      "reason_zh": "用于拉普捷夫冷泉的矿物缓冲，不要把标题当成已测甲烷通量。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": null
     },
     {
       "doi": "10.1016/j.dci.2024.105284",
@@ -621,6 +763,34 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.1016/j.dsr2.2026.105620",
+      "candidate_id": "global-seep-candidate:10-1016-j-dsr2-2026-105620",
+      "source_id": "src:gcs-vestnesa-hoenir-seep-field",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.dsr2.2026.105620",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use to extend Fram Strait seep geography beyond the classic eastern pockmarks.",
+      "reason_zh": "用于把弗拉姆海峡冷泉地理扩展到经典东翼麻坑之外。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment",
+        "interface"
+      ],
+      "topics": [
+        "community",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "b0a42210350ad90e5494ec9ed7c6ba2915b1d93b303107ea1c16576b48be3852"
     },
     {
       "doi": "10.1016/j.envpol.2017.04.087",
@@ -782,6 +952,33 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1016/j.gsf.2026.102451",
+      "candidate_id": "global-seep-candidate:10-1016-j-gsf-2026-102451",
+      "source_id": "src:gcs-beaufort-mud-volcano-methane",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.gsf.2026.102451",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Extend Arctic mud-volcano geochemistry to the Beaufort Sea.",
+      "reason_zh": "把北极泥火山地球化学扩展到波弗特海。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "f6d72e146c0d4ba9cd8eef297498e4354f78d18b0b96eb4356b94e559363e680"
+    },
+    {
       "doi": "10.1016/j.heliyon.2024.e39055",
       "candidate_id": "global-seep-candidate:10-1016-j-heliyon-2024-e39055",
       "status": "awaiting_source_review",
@@ -872,13 +1069,28 @@
     {
       "doi": "10.1016/j.jmarsys.2026.104262",
       "candidate_id": "global-seep-candidate:10-1016-j-jmarsys-2026-104262",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-arctic-seep-frigidoalvania",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.jmarsys.2026.104262",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Use for Arctic seep endemism at the species-description level, not as a community-wide diversity census.",
+      "reason_zh": "用于物种描述层面的北极冷泉特有性，而不是全群落多样性普查。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": null
     },
     {
       "doi": "10.1016/j.marchem.2024.104363",
@@ -890,6 +1102,34 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.1016/j.marchem.2025.104570",
+      "candidate_id": "global-seep-candidate:10-1016-j-marchem-2025-104570",
+      "source_id": "src:gcs-svalbard-fjord-hydrate-om",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.marchem.2025.104570",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Pair fjord hydrate and groundwater organic matter with the separate fjord seep-fauna comparison.",
+      "reason_zh": "把峡湾水合物和地下水有机质与另一项峡湾冷泉生物比较配合使用。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "carbon",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "159498fa4b4fd4029eece70142939c72fa0fac935247712219fa7bea7c8290f4"
     },
     {
       "doi": "10.1016/j.marenvres.2017.10.013",
@@ -969,6 +1209,32 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1016/j.marenvres.2026.108522",
+      "candidate_id": "global-seep-candidate:10-1016-j-marenvres-2026-108522",
+      "source_id": "src:gcs-hornsund-shallow-seep-fauna",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.marenvres.2026.108522",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for shallow Svalbard seep fauna under dynamic water masses.",
+      "reason_zh": "用于动态水团下的斯瓦尔巴浅水冷泉生物。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "interface"
+      ],
+      "topics": [
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "73fe7e42bf3f8b3225941203175f9f4419de6f144d5b7ff1a687d4e6c9e930c8"
+    },
+    {
       "doi": "10.1016/j.margeo.2019.105985",
       "candidate_id": "global-seep-candidate:10-1016-j-margeo-2019-105985",
       "status": "awaiting_source_review",
@@ -989,6 +1255,91 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.1016/j.margeo.2025.107558",
+      "candidate_id": "global-seep-candidate:10-1016-j-margeo-2025-107558",
+      "source_id": "src:gcs-laptev-pyrite-morphology",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.margeo.2025.107558",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Use as a Laptev diagenetic-mineral comparison, distinct from the later continental-slope pyrite note.",
+      "reason_zh": "作为拉普捷夫成岩矿物比较，并与后来的陆坡黄铁矿记录区分。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane",
+        "sulfur"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": null
+    },
+    {
+      "doi": "10.1016/j.margeo.2026.107819",
+      "candidate_id": "global-seep-candidate:10-1016-j-margeo-2026-107819",
+      "source_id": "src:gcs-nyegga-seep-habitats",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.margeo.2026.107819",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for habitat complexity on the Nordic margin in the Arctic gateway region.",
+      "reason_zh": "用于北极门户区北欧陆缘的生境复杂性。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate",
+        "sediment",
+        "symbiosis"
+      ],
+      "topics": [
+        "community",
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "521cfd59d81ba8575eefe375b934681feeb0599ad41b9bdd723abed8a1c533fe"
+    },
+    {
+      "doi": "10.1016/j.marger.2026.207714",
+      "candidate_id": "global-seep-candidate:10-1016-j-marger-2026-207714",
+      "source_id": "src:gcs-laptev-carbonate-thorium-ages",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.marger.2026.207714",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Use for East Siberian seep chronology, without transferring unretrieved ages to other Arctic seeps.",
+      "reason_zh": "用于东西伯利亚冷泉年代，不要把未检索到的年龄转用于其他北极冷泉。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": null
     },
     {
       "doi": "10.1016/j.marger.2026.207766",
@@ -1035,6 +1386,34 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1016/j.marpetgeo.2024.106761",
+      "candidate_id": "global-seep-candidate:10-1016-j-marpetgeo-2024-106761",
+      "source_id": "src:gcs-svyatogor-ridge-methane",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.marpetgeo.2024.106761",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as the reported methane-seep case from the ultraslow Arctic mid-ocean ridge.",
+      "reason_zh": "作为超慢速北极中脊已报道的甲烷冷泉案例。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry",
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "f9e0fa0a3f754302bff262f18252903f8d31f6fca1907038304dba25150193d4"
+    },
+    {
       "doi": "10.1016/j.marpetgeo.2024.106778",
       "candidate_id": "global-seep-candidate:10-1016-j-marpetgeo-2024-106778",
       "status": "awaiting_source_review",
@@ -1044,6 +1423,34 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.1016/j.marpetgeo.2024.106875",
+      "candidate_id": "global-seep-candidate:10-1016-j-marpetgeo-2024-106875",
+      "source_id": "src:gcs-haakon-mosby-gypsum",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.marpetgeo.2024.106875",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as a diagenetic marker at an Arctic mud volcano, not as proof of evaporative gypsum.",
+      "reason_zh": "作为北极泥火山的成岩标志，而不是蒸发石膏的证据。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane",
+        "sulfur"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "b6c42e4c2f9e8fc8ec4715bd468b374cf350cbe2a520a6b3e0ccb36f35766c5f"
     },
     {
       "doi": "10.1016/j.marpetgeo.2025.107615",
@@ -1101,6 +1508,33 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1016/j.orggeochem.2024.104862",
+      "candidate_id": "global-seep-candidate:10-1016-j-orggeochem-2024-104862",
+      "source_id": "src:gcs-seep-hydroxy-gdgt-methanogenesis",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.orggeochem.2024.104862",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Treat the indicator as putative. The retrieved record does not identify which seep supplied the samples.",
+      "reason_zh": "将该指标视为候选。检索记录没有标明样品来自哪一处冷泉。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": null
+    },
+    {
       "doi": "10.1016/j.orggeochem.2024.104882",
       "candidate_id": "global-seep-candidate:10-1016-j-orggeochem-2024-104882",
       "status": "awaiting_source_review",
@@ -1114,13 +1548,29 @@
     {
       "doi": "10.1016/j.orggeochem.2026.105171",
       "candidate_id": "global-seep-candidate:10-1016-j-orggeochem-2026-105171",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-esas-aerobic-methane-biomarkers",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.orggeochem.2026.105171",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Pair with Laptev hopanoid work only at the level of aerobic-methane biomarker evidence, not shared rates.",
+      "reason_zh": "与拉普捷夫藿烷工作对照时，只停留在有氧甲烷生物标志物证据，不要共用速率。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": null
     },
     {
       "doi": "10.1016/j.palaeo.2017.04.001",
@@ -1340,13 +1790,31 @@
     {
       "doi": "10.1016/j.scitotenv.2023.167788",
       "candidate_id": "global-seep-candidate:10-1016-j-scitotenv-2023-167788",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-prins-karls-forland-oil-seep",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://europepmc.org/article/MED/37865252",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for satellite-to-seafloor detection of an Arctic natural oil seep.",
+      "reason_zh": "用于从卫星到海底识别北极天然油苗。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment",
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "carbon",
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "77d7615f9b53a67d0eb44dc1e838486b0c4a57f3c204d0746b4389685bef45b6"
     },
     {
       "doi": "10.1016/j.scitotenv.2023.168890",
@@ -1380,6 +1848,34 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.1016/j.ssnmr.2026.102124",
+      "candidate_id": "global-seep-candidate:10-1016-j-ssnmr-2026-102124",
+      "source_id": "src:gcs-aom-seep-rock-nmr",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.ssnmr.2026.102124",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for process-level organic and inorganic change during AOM in seep carbonate.",
+      "reason_zh": "用于冷泉碳酸盐中 AOM 期间有机和无机物质的过程变化。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "methane",
+        "carbon",
+        "phosphorus"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "5ddd48498cf0d389becffe32fd8bad098c738fdc6cc0b6fd828dffb01e9b8e99"
     },
     {
       "doi": "10.1016/j.syapm.2018.05.004",
@@ -2215,13 +2711,31 @@
     {
       "doi": "10.1038/s41467-024-55712-x",
       "candidate_id": "global-seep-candidate:10-1038-s41467-024-55712-x",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-borealis-mud-volcano",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://europepmc.org/article/MED/39870611",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as a Polar North Atlantic mud-volcano refuge, distinct from shelf seep inventories.",
+      "reason_zh": "作为极地北大西洋泥火山庇护所，并与陆架冷泉清单区分。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate",
+        "sediment"
+      ],
+      "topics": [
+        "community",
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "3b26d0be436af07397d64b94060d66cb93ccaa604d54ea69dedf0d837d86f681"
     },
     {
       "doi": "10.1038/s41467-025-56774-1",
@@ -2276,13 +2790,31 @@
     {
       "doi": "10.1038/s41467-025-67165-x",
       "candidate_id": "global-seep-candidate:10-1038-s41467-025-67165-x",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-molloy-hydrate-mounds",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://europepmc.org/article/MED/41408043",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for the deepest reported Arctic hydrate mounds and seep–vent faunal overlap.",
+      "reason_zh": "用于目前报道最深的北极水合物丘，以及冷泉与热液生物的重叠。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment",
+        "bottom-water"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry",
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "85d29ca64884ba88bb57cd42a3e6542cb40ad67daec2ec93fb1e8ecc40d2d7b3"
     },
     {
       "doi": "10.1038/s41467-025-68174-6",
@@ -2722,6 +3254,33 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.1038/s41598-025-99578-5",
+      "candidate_id": "global-seep-candidate:10-1038-s41598-025-99578-5",
+      "source_id": "src:gcs-barents-polaris-mud-volcanoes",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1038/s41598-025-99578-5",
+      "locator": "Abstract: discovery of ten mud volcanoes and the buried mega-slide.",
+      "reason": "Add the Polaris complex to Barents mud-volcano geography.",
+      "reason_zh": "把 Polaris 复合体加入巴伦支海泥火山地理。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "4aba8a8d7461ccf8b1b68845c54b17ebc74cf8e051f0585bb21eae049173e1f3"
     },
     {
       "doi": "10.1038/s41598-026-54088-w",
@@ -3331,6 +3890,33 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1093/nsr/nwag267",
+      "candidate_id": "global-seep-candidate:10-1093-nsr-nwag267",
+      "source_id": "src:gcs-seep-observatory-perspective",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1093/nsr/nwag267",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Use as an observatory perspective, not as a new rate measurement for an Arctic or SCS site.",
+      "reason_zh": "作为观测站述评使用，而不是北极或南海某站的新速率测量。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "community",
+        "methods"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": null
+    },
+    {
       "doi": "10.1098/rsbl.2023.0573",
       "candidate_id": "global-seep-candidate:10-1098-rsbl-2023-0573",
       "status": "awaiting_source_review",
@@ -3832,13 +4418,30 @@
     {
       "doi": "10.1111/1462-2920.70213",
       "candidate_id": "global-seep-candidate:10-1111-1462-2920-70213",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-anme-lipid-inorganic-carbon",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://europepmc.org/article/MED/41327581",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as a mechanistic update on carbon flow into ANME-2/SRB lipids, not as an Arctic rate.",
+      "reason_zh": "作为 ANME-2／SRB 脂质碳流的机制更新，而不是北极速率。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "carbon",
+        "sulfur"
+      ],
+      "sites": [
+        "northeast-pacific"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "e2394315386ea7ac9196a7fdd91c498bdd1bbbed02f5508d6f7c42eee7678224"
     },
     {
       "doi": "10.1111/1755-0998.13846",
@@ -4495,13 +5098,30 @@
     {
       "doi": "10.1128/msystems.00176-24",
       "candidate_id": "global-seep-candidate:10-1128-msystems-00176-24",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-seep-bottom-water-diazotrophs",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://europepmc.org/article/MED/39105582",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for chemosynthetic diazotrophy in seep bottom water when the sampling region is left unspecified.",
+      "reason_zh": "在采样海域未说明时，用于冷泉底层水的化能固氮。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "bottom-water"
+      ],
+      "topics": [
+        "nitrogen",
+        "methane",
+        "genomes"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "a8190878caabfbb424ab6f5aad55bc45b3b9d7b21db4e69825e53cc0367689a3"
     },
     {
       "doi": "10.1128/msystems.00184-16",
@@ -4722,15 +5342,60 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1134/s0016702924700903",
+      "candidate_id": "global-seep-candidate:10-1134-s0016702924700903",
+      "source_id": "src:gcs-laptev-om-isotope-curves",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1134/s0016702924700903",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for Laptev seep organic-matter isotope patterns.",
+      "reason_zh": "用于拉普捷夫冷泉有机质的同位素模式。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "carbon",
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "4575807c77dec77d1c9db1c3504464ebbe9789579f004d9a9652273bbe7119ca"
+    },
+    {
       "doi": "10.1139/as-2026-0033",
       "candidate_id": "global-seep-candidate:10-1139-as-2026-0033",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-saglek-seep-corals",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1139/as-2026-0033",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Extend Arctic seep geography to the Eastern Canadian Arctic without treating the coral overlap as causation.",
+      "reason_zh": "把北极冷泉地理延伸到加拿大北极东部，同时不要把珊瑚重叠当成因果关系。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate",
+        "sediment"
+      ],
+      "topics": [
+        "community",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "810f9f1bd320deb0eb11210000d2cae9640870668aa4a0a4fec9586c4cb21e17"
     },
     {
       "doi": "10.1146/annurev.micro.61.080706.093130",
@@ -5108,13 +5773,31 @@
     {
       "doi": "10.1186/s40793-025-00777-4",
       "candidate_id": "global-seep-candidate:10-1186-s40793-025-00777-4",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-seep-sponge-oxidizer-mags",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://europepmc.org/article/MED/41024212",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for host-specific selection within shared chemosynthetic symbiont groups.",
+      "reason_zh": "用于共享化能共生类群内部的宿主特异选择。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "symbiosis"
+      ],
+      "topics": [
+        "symbioses",
+        "methane",
+        "sulfur",
+        "genomes"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "4046eda89d5db3ea4e4670c97c9e9eded92298ea1939f156ee4a2141f0409f48"
     },
     {
       "doi": "10.1186/s42523-023-00238-8",
@@ -5336,6 +6019,62 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.18799/24131830/2024/3/4511",
+      "candidate_id": "global-seep-candidate:10-18799-24131830-2024-3-4511",
+      "source_id": "src:gcs-laptev-element-speciation",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.18799/24131830/2024/3/4511",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for Laptev seep redox and trace-element response, not as a regional contamination budget.",
+      "reason_zh": "用于拉普捷夫冷泉的氧化还原和微量元素响应，而不是区域污染收支。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "phosphorus"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "d852b09e27c1d5029218a14938a70929efd8c43a7f7f042aedca2c358ae8befe"
+    },
+    {
+      "doi": "10.18799/24131830/2025/5/5051",
+      "candidate_id": "global-seep-candidate:10-18799-24131830-2025-5-5051",
+      "source_id": "src:gcs-laptev-slope-authigenic-pyrite",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.18799/24131830/2025/5/5051",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as a Laptev slope mineral proxy for methane-seepage activity.",
+      "reason_zh": "作为拉普捷夫陆坡记录甲烷渗漏活动的矿物指标。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment",
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane",
+        "sulfur"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "8401febf21e4c0dd1fa81aa41ad1b6ba71e8505095665134b004f984062a38de"
     },
     {
       "doi": "10.2108/zs230066",
@@ -5635,13 +6374,31 @@
     {
       "doi": "10.3389/feart.2024.1328357",
       "candidate_id": "global-seep-candidate:10-3389-feart-2024-1328357",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-svalbard-sw-slope-seeps",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3389/feart.2024.1328357",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Extend mapped active seepage southwest of Svalbard beyond Storfjordrenna.",
+      "reason_zh": "把已测绘的活跃渗漏扩展到 Storfjordrenna 以外的斯瓦尔巴西南侧。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate",
+        "sediment",
+        "bottom-water"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "a334c3d2016fcb2d731b189f2b8ed494eb23c9247861ac91422a3fc2f4da0a9f"
     },
     {
       "doi": "10.3389/feart.2024.1354388",
@@ -5671,6 +6428,88 @@
       ],
       "comparison_role": "regional_comparison",
       "inspected_abstract_sha256": null
+    },
+    {
+      "doi": "10.3389/feart.2024.1355621",
+      "candidate_id": "global-seep-candidate:10-3389-feart-2024-1355621",
+      "source_id": "src:gcs-barents-carbonate-uth-ages",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3389/feart.2024.1355621",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for protracted post-glacial Barents seepage beside other seep-history records.",
+      "reason_zh": "与其他渗漏历史记录一起，用于巴伦支海冰后期持续渗漏。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "3ed71a109c732a14eb9d19487ecb71af59444939f7eab299d91d4f6a1604dce6"
+    },
+    {
+      "doi": "10.3389/feart.2024.1356341",
+      "candidate_id": "global-seep-candidate:10-3389-feart-2024-1356341",
+      "source_id": "src:gcs-vestnesa-glacial-seepage",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3389/feart.2024.1356341",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Pair glacial–interglacial sedimentation with tectonic explanations of Vestnesa seepage.",
+      "reason_zh": "把冰期–间冰期沉积与 Vestnesa 渗漏的构造解释放在一起。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "6a81492805c12986c723e0eec20bb48f17bf5f7ca0d175e38281d86f666fbec9"
+    },
+    {
+      "doi": "10.3389/feart.2024.1404027",
+      "candidate_id": "global-seep-candidate:10-3389-feart-2024-1404027",
+      "source_id": "src:gcs-barents-active-seep-inventory",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3389/feart.2024.1404027",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as a shelf-scale Barents seep inventory with glacial and tectonic controls.",
+      "reason_zh": "作为具有冰川和构造控制的巴伦支海陆架尺度冷泉清单。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "bottom-water",
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "97906fea4bd8cf25077989205dc6e98cb8cc22579043bc0e47c41d7198218a24"
     },
     {
       "doi": "10.3389/feart.2024.1508196",
@@ -5783,6 +6622,91 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.3389/fmars.2024.1463328",
+      "candidate_id": "global-seep-candidate:10-3389-fmars-2024-1463328",
+      "source_id": "src:gcs-seep-carbonate-magnesium",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3389/fmars.2024.1463328",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as magnesium context for both SCS and Arctic seep carbonates, with the kinetic interpretation kept separate from new measurements.",
+      "reason_zh": "作为南海和北极冷泉碳酸盐的镁背景，并把动力学解释与新的测量分开。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "0026d7d46e62d48dbc677ed4cade3a348dd6c060b262e0f1e82ab7d012466947"
+    },
+    {
+      "doi": "10.3389/fmars.2025.1497616",
+      "candidate_id": "global-seep-candidate:10-3389-fmars-2025-1497616",
+      "source_id": "src:gcs-esas-methane-acidification",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3389/fmars.2025.1497616",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use when linking East Siberian seep methane to water-column acidification, and keep the model assumptions visible.",
+      "reason_zh": "在把东西伯利亚冷泉甲烷与水体酸化相联系时使用，并保留模型假设。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "water-column",
+        "bottom-water"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "fb7630de7df97294677aa8fe42c9188d1ff517aac45285dee8d683ec8d5fdb52"
+    },
+    {
+      "doi": "10.3389/fmars.2026.1819754",
+      "candidate_id": "global-seep-candidate:10-3389-fmars-2026-1819754",
+      "source_id": "src:gcs-cold-seep-climate-services",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3389/fmars.2026.1819754",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as a 2026 narrative frame for climate relevance and human pressure, beside older Arctic methane reviews.",
+      "reason_zh": "作为 2026 年关于气候相关性和人类压力的叙述框架，并与较早的北极甲烷综述并列。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment",
+        "carbonate",
+        "water-column"
+      ],
+      "topics": [
+        "methane",
+        "carbon",
+        "disturbance"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "03f4d3fa023a43b854824de459c8d8bdbc48e08cec4568f79b66aa677b7a6e56"
     },
     {
       "doi": "10.3389/fmicb.2016.01825",
@@ -6463,13 +7387,29 @@
     {
       "doi": "10.5194/amt-19-3983-2026",
       "candidate_id": "global-seep-candidate:10-5194-amt-19-3983-2026",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-mackenzie-uav-seep-methane",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.5194/amt-19-3983-2026",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use as an Arctic geological point-source method, and keep it distinct from submarine seep inventories.",
+      "reason_zh": "作为北极地质点源的方法使用，并与海底冷泉清单区分。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "terrestrial-seep"
+      ],
+      "topics": [
+        "methane",
+        "methods"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "contextual_habitat",
+      "inspected_abstract_sha256": "e47871fb66f2cc556f1530c45f1bce16347d8656e2ee16c85b9c30671938f9a3"
     },
     {
       "doi": "10.5194/bg-15-4533-2018",
@@ -6521,6 +7461,62 @@
       ],
       "comparison_role": "regional_comparison",
       "inspected_abstract_sha256": null
+    },
+    {
+      "doi": "10.5194/bg-23-1459-2026",
+      "candidate_id": "global-seep-candidate:10-5194-bg-23-1459-2026",
+      "source_id": "src:gcs-laptev-hopanoid-methane",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.5194/bg-23-1459-2026",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for time-integrated aerobic methane oxidation where Laptev seawater methane is patchy.",
+      "reason_zh": "用于海水甲烷分布不均时，拉普捷夫有氧甲烷氧化的时间积分证据。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "7ea422d1929fd6053cc0ff280468f9c6461c4bae205787c717cc8663337a78c6"
+    },
+    {
+      "doi": "10.5194/bg-23-3139-2026",
+      "candidate_id": "global-seep-candidate:10-5194-bg-23-3139-2026",
+      "source_id": "src:gcs-vesteralen-coral-aom",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.5194/bg-23-3139-2026",
+      "locator": "Abstract: design and primary findings.",
+      "reason": "Use for Nordic-margin seep–coral coupling and a shallow ANME-1b biofilm.",
+      "reason_zh": "用于北欧陆缘冷泉与冷水珊瑚的耦合，以及浅层 ANME-1b 生物膜。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment",
+        "carbonate"
+      ],
+      "topics": [
+        "methane",
+        "community",
+        "geochemistry"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "80255d2eb2e13182454f4481a3ed5b370f76f857b493e34d8df105b8bd60d8b2"
     },
     {
       "doi": "10.5194/jm-37-139-2018",
