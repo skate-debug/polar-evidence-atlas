@@ -5200,6 +5200,62 @@
       "schema:sameAs": "https://doi.org/10.1021/acs.analchem.6c04761"
     },
     {
+      "@id": "src:gcs-global-seep-carbonate-aom-rates",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Global high rates of anaerobic methane oxidation at marine cold seeps recorded by isotope bonding in seep carbonates",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1073/pnas.2533639123",
+      "schema:sameAs": "https://doi.org/10.1073/pnas.2533639123"
+    },
+    {
+      "@id": "src:gcs-arctic-groundwater-seep-geochemistry",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.marchem.2026.104657",
+      "schema:sameAs": "https://doi.org/10.1016/j.marchem.2026.104657"
+    },
+    {
+      "@id": "src:gcs-seep-carbonate-organic-nitrogen",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Isotopic Signature of Organic Nitrogen in Authigenic Carbonates: Implications for Dynamic Nitrogen Cycling at Submarine Cold Seeps",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1029/2026jc023988",
+      "schema:sameAs": "https://doi.org/10.1029/2026jc023988"
+    },
+    {
+      "@id": "src:gcs-subtropical-seep-diversity-dip",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "A persistent subtropical dip in the diversity at deep-sea cold-seeps",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1098/rsbl.2026.0095",
+      "schema:sameAs": "https://doi.org/10.1098/rsbl.2026.0095"
+    },
+    {
+      "@id": "src:gcs-costa-rica-mound12-disturbance",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Apparent tectonic disturbance reshapes seepage and disrupts symbiotic species distributions at a Costa Rican methane seep",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3389/fmars.2026.1900674",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2026.1900674"
+    },
+    {
+      "@id": "src:scs-haima-authigenic-perylene",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Authigenic 13C-depleted perylene in marine cold seeps",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1130/g55297.1",
+      "schema:sameAs": "https://doi.org/10.1130/g55297.1"
+    },
+    {
+      "@id": "src:scs-site-f-methane-leakage-flux",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Estimation of Methane Leakage Flux from an Active Cold Seep in the South China Sea: A Case Study at Site F",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1007/s11802-026-6174-2",
+      "schema:sameAs": "https://doi.org/10.1007/s11802-026-6174-2"
+    },
+    {
       "@id": "claim:001-rothera-viral-novelty",
       "@type": "pkg:Claim",
       "schema:text": "The Rothera coastal time series yielded 7,957 mid- to high-quality vOTUs, about 75% of which lacked species-level representation in the comparison ocean-virus catalogues.",
@@ -11861,6 +11917,125 @@
         "@id": "src:scs-scs-dissolved-methane-sensor"
       },
       "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-global-seep-carbonate-aom-rates",
+      "@type": "pkg:Claim",
+      "schema:text": "The abstract estimates a modern global cold-seep mean AOM rate of 6.3 mol m−2 yr−1, printed with lower and upper figures 3.9 and 10.6, and methane consumption of 2.1 Tg yr−1, printed with 1.3 and 3.5. Over the last about 100 kyr the same proxy gives a potentially 1.7-fold higher rate and methane sink, printed with 0.9 and 3.1.",
+      "pkg:subject": {
+        "@id": "src:gcs-global-seep-carbonate-aom-rates"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-global-seep-carbonate-aom-rates"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-arctic-groundwater-seep-geochemistry",
+      "@type": "pkg:Claim",
+      "schema:text": "The verified title reports geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge.",
+      "pkg:subject": {
+        "@id": "src:gcs-arctic-groundwater-seep-geochemistry"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:cold-seep"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-arctic-groundwater-seep-geochemistry"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-seep-carbonate-organic-nitrogen",
+      "@type": "pkg:Claim",
+      "schema:text": "Methane-seep carbonates had lower total-organic-carbon δ13C (mean −34.7 ± 8.0‰, n = 32) than brine-seep carbonates (mean −27.9 ± 8.4‰, n = 24). Organic-nitrogen δ15N was low in both, with means of 0.1 ± 2.2‰ (n = 32) and −1.2 ± 0.8‰ (n = 24). Values below zero were common and largely decoupled from δ13C, which the authors interpret as dynamic nitrogen cycling near the sediment–water interface.",
+      "pkg:subject": {
+        "@id": "src:gcs-seep-carbonate-organic-nitrogen"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-seep-carbonate-organic-nitrogen"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-subtropical-seep-diversity-dip",
+      "@type": "pkg:Claim",
+      "schema:text": "The compilation shows no general latitudinal diversity gradient. Molluscs from 200 to 1,000 m instead show a diversity dip between 15° and 35° latitude that has persisted at least since the Oligocene and coincides with oxygen-minimum zones. The dip is less severe in the Eocene.",
+      "pkg:subject": {
+        "@id": "src:gcs-subtropical-seep-diversity-dip"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:cold-seep"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-subtropical-seep-diversity-dip"
+      },
+      "pkg:evidenceType": "synthesized",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-costa-rica-mound12-disturbance",
+      "@type": "pkg:Claim",
+      "schema:text": "Seepage activity changed substantially across Mound 12, including where dense foundation-species aggregations occurred. Vesicomyid clams showed pioneer-species behavior and appeared to relocate as seepage changed.",
+      "pkg:subject": {
+        "@id": "src:gcs-costa-rica-mound12-disturbance"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-costa-rica-mound12-disturbance"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-authigenic-perylene",
+      "@type": "pkg:Claim",
+      "schema:text": "Perylene in these carbonates had extremely low δ13C values, from −84‰ to −61‰. The study interprets that range as authigenic production by fungi rather than terrestrial input.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-authigenic-perylene"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-authigenic-perylene"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-site-f-methane-leakage-flux",
+      "@type": "pkg:Claim",
+      "schema:text": "The publisher abstract estimates a Site F methane flux of 12.06×10−6 mol/h in time and 0.5878 mol/m2 in space, and an annual flux of about 6.44×105 mol/yr, which it describes as larger than previous estimates.",
+      "pkg:subject": {
+        "@id": "src:scs-site-f-methane-leakage-flux"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-water-column"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-site-f-methane-leakage-flux"
+      },
+      "pkg:evidenceType": "modeled",
       "pkg:confidence": "moderate"
     }
   ]

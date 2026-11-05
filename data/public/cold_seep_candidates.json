@@ -101,22 +101,115 @@
       "pmid": "",
       "pmcid": "",
       "url": "https://doi.org/10.1016/j.marenvres.2026.108507",
-      "compartments": [],
+      "compartments": [
+        "water-column"
+      ],
       "topics": [
         "community",
-        "phosphorus"
+        "methods"
       ],
       "sites": [
         "haima"
       ],
       "priority": "microbial",
-      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "inspected-scs-supplement"
       ],
       "discovery_source": "Primary-source citation and Methods follow-up",
       "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
       "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
+    },
+    {
+      "id": "seep-candidate:10-1130-g55297-1",
+      "doi": "10.1130/g55297.1",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Authigenic 13C-depleted perylene in marine cold seeps",
+      "publication_date": "2026-10-26",
+      "publication_date_precision": "day",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Lei Liu",
+        "Zhe Wang",
+        "Tiantian Sun",
+        "Jingni Zhang",
+        "Hao Xie",
+        "Yongbo Peng",
+        "Jiapeng Jin",
+        "Luyi Sun",
+        "Xiaomei Wang",
+        "Nengyou Wu"
+      ],
+      "author_records": [
+        {
+          "firstName": "Lei",
+          "lastName": "Liu"
+        },
+        {
+          "firstName": "Zhe",
+          "lastName": "Wang"
+        },
+        {
+          "firstName": "Tiantian",
+          "lastName": "Sun"
+        },
+        {
+          "firstName": "Jingni",
+          "lastName": "Zhang"
+        },
+        {
+          "firstName": "Hao",
+          "lastName": "Xie"
+        },
+        {
+          "firstName": "Yongbo",
+          "lastName": "Peng"
+        },
+        {
+          "firstName": "Jiapeng",
+          "lastName": "Jin"
+        },
+        {
+          "firstName": "Luyi",
+          "lastName": "Sun"
+        },
+        {
+          "firstName": "Xiaomei",
+          "lastName": "Wang"
+        },
+        {
+          "firstName": "Nengyou",
+          "lastName": "Wu"
+        }
+      ],
+      "journal": "Geology",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1130/g55297.1",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "carbon",
+        "geochemistry",
+        "microeukaryotes"
+      ],
+      "sites": [
+        "haima"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T06:05:55.556307+00:00",
+      "last_seen_at": "2026-11-05T06:05:55.556307+00:00"
     },
     {
       "id": "seep-candidate:10-3390-jmse14201881",
@@ -547,14 +640,15 @@
         "sediment"
       ],
       "topics": [
-        "carbon",
-        "geochemistry"
+        "methane",
+        "geochemistry",
+        "carbon"
       ],
       "sites": [
-        "regional"
+        "qiongdongnan"
       ],
       "priority": "microbial",
-      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "inspected-scs-supplement"
       ],
@@ -617,13 +711,14 @@
         "carbonate"
       ],
       "topics": [
-        "geochemistry"
+        "geochemistry",
+        "methane"
       ],
       "sites": [
         "haima"
       ],
       "priority": "microbial",
-      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "inspected-scs-supplement"
       ],
@@ -672,7 +767,9 @@
       "pmid": "",
       "pmcid": "",
       "url": "https://doi.org/10.1016/j.jseaes.2026.107253",
-      "compartments": [],
+      "compartments": [
+        "sediment"
+      ],
       "topics": [
         "mercury",
         "geochemistry"
@@ -681,7 +778,7 @@
         "regional"
       ],
       "priority": "microbial",
-      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "inspected-scs-supplement"
       ],
@@ -1144,14 +1241,15 @@
         "bottom-water"
       ],
       "topics": [
-        "geochemistry",
-        "methods"
+        "methane",
+        "methods",
+        "geochemistry"
       ],
       "sites": [
         "shenhu"
       ],
       "priority": "microbial",
-      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "inspected-scs-supplement"
       ],
@@ -1220,18 +1318,19 @@
       "pmid": "",
       "pmcid": "",
       "url": "https://doi.org/10.1021/acs.analchem.6c04761",
-      "compartments": [],
+      "compartments": [
+        "bottom-water",
+        "water-column"
+      ],
       "topics": [
         "methane",
-        "phosphorus",
-        "geochemistry",
         "methods"
       ],
       "sites": [
         "regional"
       ],
       "priority": "microbial",
-      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "inspected-scs-supplement"
       ],
@@ -1553,15 +1652,19 @@
       "pmcid": "",
       "publication_date_precision": "month",
       "url": "https://doi.org/10.1016/j.seares.2026.102725",
-      "compartments": [],
+      "compartments": [
+        "sediment"
+      ],
       "topics": [
-        "microeukaryotes"
+        "microeukaryotes",
+        "community",
+        "sulfur"
       ],
       "sites": [
         "haima"
       ],
       "priority": "microbial",
-      "classification_basis": "Provisional title/abstract tags from publisher-deposited metadata; source review pending",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "crossref:South China Sea cold seep"
       ],
@@ -3412,15 +3515,18 @@
       "pmcid": "",
       "publication_date_precision": "month",
       "url": "https://doi.org/10.1016/j.dsr.2026.104675",
-      "compartments": [],
+      "compartments": [
+        "sediment"
+      ],
       "topics": [
-        "phosphorus"
+        "community",
+        "methods"
       ],
       "sites": [
         "haima"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags from publisher-deposited metadata; source review pending",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "crossref:South China Sea cold seep"
       ],
@@ -3508,13 +3614,14 @@
         "carbonate"
       ],
       "topics": [
-        "geochemistry"
+        "geochemistry",
+        "methane"
       ],
       "sites": [
         "qiongdongnan"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags from publisher-deposited metadata; source review pending",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "crossref:South China Sea cold seep"
       ],
@@ -4915,15 +5022,19 @@
       "pmid": "",
       "pmcid": "",
       "url": "https://doi.org/10.1007/s11802-026-6174-2",
-      "compartments": [],
+      "compartments": [
+        "water-column",
+        "bottom-water"
+      ],
       "topics": [
-        "methane"
+        "methane",
+        "geochemistry"
       ],
       "sites": [
         "site-f"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags from publisher-deposited metadata; source review pending",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "crossref:South China Sea cold seep"
       ],
@@ -5218,14 +5329,19 @@
       "publication_date_precision": "month",
       "url": "https://doi.org/10.1016/j.dsr.2025.104644",
       "compartments": [
+        "bottom-water",
         "water-column"
       ],
-      "topics": [],
+      "topics": [
+        "methane",
+        "geochemistry",
+        "methods"
+      ],
       "sites": [
         "shenhu"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags from publisher-deposited metadata; source review pending",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "crossref:South China Sea cold seep"
       ],
@@ -5911,17 +6027,18 @@
       "publication_date_precision": "month",
       "url": "https://doi.org/10.1016/j.dsr.2025.104603",
       "compartments": [
-        "bottom-water"
+        "bottom-water",
+        "water-column"
       ],
       "topics": [
-        "geochemistry",
+        "methane",
         "methods"
       ],
       "sites": [
         "haima"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags from publisher-deposited metadata; source review pending",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "crossref:South China Sea cold seep"
       ],
@@ -6681,13 +6798,20 @@
       "pmcid": "",
       "publication_date_precision": "month",
       "url": "https://doi.org/10.1016/j.marpetgeo.2025.107522",
-      "compartments": [],
-      "topics": [],
+      "compartments": [
+        "sediment",
+        "bottom-water"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane",
+        "methods"
+      ],
       "sites": [
         "qiongdongnan"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags from publisher-deposited metadata; source review pending",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "crossref:Qiongdongnan cold seep geochemistry"
       ],
@@ -11195,13 +11319,15 @@
         "sediment"
       ],
       "topics": [
-        "carbon"
+        "carbon",
+        "geochemistry",
+        "methane"
       ],
       "sites": [
         "haima"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags from publisher-deposited metadata; source review pending",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "crossref:South China Sea cold seep"
       ],
@@ -11284,13 +11410,14 @@
         "carbonate"
       ],
       "topics": [
-        "geochemistry"
+        "geochemistry",
+        "methane"
       ],
       "sites": [
         "qiongdongnan"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags from publisher-deposited metadata; source review pending",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "crossref:South China Sea cold seep"
       ],
@@ -12708,16 +12835,15 @@
         "sediment"
       ],
       "topics": [
-        "methane",
-        "sulfur",
         "geochemistry",
-        "methods"
+        "methane",
+        "sulfur"
       ],
       "sites": [
         "shenhu"
       ],
       "priority": "microbial",
-      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "inspected-scs-supplement"
       ],
@@ -14611,16 +14737,14 @@
         "carbonate"
       ],
       "topics": [
-        "methane",
-        "sulfur",
-        "phosphorus",
-        "geochemistry"
+        "geochemistry",
+        "methane"
       ],
       "sites": [
         "regional"
       ],
       "priority": "microbial",
-      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "inspected-scs-supplement"
       ],
@@ -16053,13 +16177,14 @@
         "carbonate"
       ],
       "topics": [
-        "geochemistry"
+        "geochemistry",
+        "methane"
       ],
       "sites": [
         "regional"
       ],
       "priority": "microbial",
-      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "inspected-scs-supplement"
       ],
@@ -16711,13 +16836,15 @@
         "symbiosis"
       ],
       "topics": [
-        "geochemistry"
+        "symbioses",
+        "carbon",
+        "community"
       ],
       "sites": [
         "haima"
       ],
       "priority": "context",
-      "classification_basis": "Provisional title/abstract tags from publisher-deposited metadata; source review pending",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "crossref:Haima cold seep"
       ],
@@ -17023,19 +17150,18 @@
       "pmcid": "",
       "url": "https://doi.org/10.1029/2023gc011379",
       "compartments": [
-        "sediment",
         "carbonate"
       ],
       "topics": [
+        "geochemistry",
         "sulfur",
-        "carbon",
-        "geochemistry"
+        "methane"
       ],
       "sites": [
-        "regional"
+        "site-f"
       ],
       "priority": "microbial",
-      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
       "matched_queries": [
         "inspected-scs-supplement"
       ],

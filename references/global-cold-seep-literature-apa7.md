@@ -1,6 +1,6 @@
 # International cold-seep inventory: APA 7 / 国际冷泉目录参考文献
 
-Discovery window: 2016-10-13–2026-11-05; 500 DOI records.
+Discovery window: 2016-10-13–2026-11-05; 505 DOI records.
 
 Discovery records include unreviewed candidates and retained preprints. Use the curated bibliography for extracted evidence. / 发现记录包括未核查候选及保留的预印本。已提取证据请使用精选参考文献。
 
@@ -141,6 +141,8 @@ Cordova‐Gonzalez, A., Birgel, D., Wisshak, M., Urich, T., Brinkmann, F., Marco
 Cossa, D., Knoery, J., Bănaru, D., Harmelin-Vivien, M., Sonke, J. E., Hedgecock, I. M., Bravo, A. G., Rosati, G., Canu, D., Horvat, M., Sprovieri, F., Pirrone, N., & Heimbürger-Boavida, L.-E. (2022). Mediterranean mercury assessment 2022: An updated budget, health consequences, and research perspectives. *Environmental Science & Technology, 56*(7), 3840–3862. https://doi.org/10.1021/acs.est.1c03044
 
 Costa, V., Sciutteri, V., Consoli, P., Manea, E., Menini, E., Andaloro, F., Romeo, T., & Danovaro, R. (2023). Volcanic-associated ecosystems of the Mediterranean sea: A systematic map and an interactive tool to support their conservation. *PeerJ, 11*, Article e15162. https://doi.org/10.7717/peerj.15162
+
+Cowell, E. J., Stabbins, A. L., Cortés, J., Perez, R. C., & Cordes, E. E. (2026). Apparent tectonic disturbance reshapes seepage and disrupts symbiotic species distributions at a costa rican methane seep. *Frontiers in Marine Science, 13*, Article 1900674. https://doi.org/10.3389/fmars.2026.1900674
 
 Coykendall, D. K., Cornman, R. S., Prouty, N. G., Brooke, S., Demopoulos, A. W. J., & Morrison, C. L. (2019). Molecular characterization of *Bathymodiolus mussels* and gill symbionts associated with chemosynthetic habitats from the u.s. Atlantic margin. *PLOS ONE, 14*(3), Article e0211616. https://doi.org/10.1371/journal.pone.0211616
 
@@ -345,6 +347,8 @@ Keller, K. J., Baum, M. M., Liu, X.-L., Ashing-Giwa, K., Baker, I. R., Blewett, 
 Kelly, M., & Rowden, A. A. (2019). New sponge species from hydrothermal vent and cold seep sites off New Zealand. *Zootaxa, 4576*(3), zootaxa.4576.3.1. https://doi.org/10.11646/zootaxa.4576.3.1
 
 Khan, R., Bhardwaj, T., Li, C., Chakraborty, A., Seoane, J. M., Brooks, J. M., Bernard, B. B., MacDonald, A., MacAdam, N., Campbell, C., Fowler, M., & Hubert, C. R. J. (2025). Predicting hydrocarbon presence in marine cold seep sediments using machine learning models trained with benthic bacterial 16S rRNA taxonomy. *Microbiology Spectrum, 13*(10), Article e03033-24. https://doi.org/10.1128/spectrum.03033-24
+
+Kiel, S. (2026). A persistent subtropical dip in the diversity at deep-sea cold-seeps. *Biology Letters, 22*(7), Article 20260095. https://doi.org/10.1098/rsbl.2026.0095
 
 Kiel, S., & Peckmann, J. (2019). Resource partitioning among brachiopods and bivalves at ancient hydrocarbon seeps: A hypothesis. *PLOS ONE, 14*(9), Article e0221887. https://doi.org/10.1371/journal.pone.0221887
 
@@ -664,6 +668,8 @@ Römer, M., Hsu, C.-W., Loher, M., MacDonald, I. R., dos Santos Ferreira, C., Pa
 
 Römling, U., & Möglich, A. (2023). Seeing the light brings more food in the deep sea. *The EMBO Journal, 42*(12), Article EMBJ2023114091. https://doi.org/10.15252/embj.2023114091
 
+Saghravani, S. R. (2026). Geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge. *Marine Chemistry, 277*, Article 104657. https://doi.org/10.1016/j.marchem.2026.104657
+
 Salas, C., Alvarado, J. J., Solano, J. C. A., García, C. F., & Castillo, R. V. (2023). *Shallow gas seeps in the golfo dulce, south Pacific of Costa Rica: Geological, physicochemical, and biological characterization*. [Preprint]. Preprint server. https://doi.org/10.21203/rs.3.rs-3631742/v1
 
 Salazar-Vallejo, S. I. (2020). Four new deep-water flabelligerid species from Pacific Costa Rica (Annelida, sedentaria, flabelligeridae). *Zootaxa, 4885*(4), zootaxa.4885.4.6. https://doi.org/10.11646/zootaxa.4885.4.6
@@ -866,6 +872,8 @@ Wei, J., Wu, T., Zhang, W., Deng, Y., Xie, R., Feng, J., Liang, J., Lai, P., Zho
 
 Weidlich, R., Bialik, O. M., Rüggeberg, A., Grobéty, B., Vennemann, T., Neuman, A., Makovsky, Y., & Foubert, A. (2023). Occurrence and genesis of cold‐seep authigenic carbonates from the south‐eastern Mediterranean sea. *The Depositional Record, 9*(4), 844–870. https://doi.org/10.1002/dep2.239
 
+Wieman, S. T., & Guo, W. (2026). Global high rates of anaerobic methane oxidation at marine cold seeps recorded by isotope bonding in seep carbonates. *Proceedings of the National Academy of Sciences, 123*(44), Article e2533639123. https://doi.org/10.1073/pnas.2533639123
+
 Winkel, M., Mitzscherling, J., Overduin, P. P., Horn, F., Winterfeld, M., Rijkers, R., Grigoriev, M. N., Knoblauch, C., Mangelsdorf, K., Wagner, D., & Liebner, S. (2018). Anaerobic methanotrophic communities thrive in deep submarine permafrost. *Scientific Reports, 8*(1), Article 1291. https://doi.org/10.1038/s41598-018-19505-9
 
 Wittig, C., Argentino, C., & Panieri, G. (2024). Formation of non-evaporitic gypsum in gas hydrate-bearing sediments at håkon mosby mud volcano, SW Barents Sea. *Marine and Petroleum Geology, 165*, Article 106875. https://doi.org/10.1016/j.marpetgeo.2024.106875
@@ -921,6 +929,8 @@ Zakharenko, A. S., Galachyants, Y. P., Morozov, I. V., Shubenkova, O. V., Morozo
 Zatale, A., Peketi, A., Mazumdar, A., Mishra, S., Ayusmati, M., & Ramamurty, P. B. (2025). Fatty acid and sterol biomarkers as indicators of symbiont activity in chemosynthetic organisms from a methane seep ecosystem (krishna–godavari basin, bay of bengal). *Journal of Earth System Science, 134*(2), Article 124. https://doi.org/10.1007/s12040-025-02569-3
 
 Zatale, A., Peketi, A., Mazumdar, A., Pillutla, S., Sivan, K., & Kishore Kumar, U. (2026). Tracing paleo methane seepage activities using lipid biomarkers in methane seep sediments of the krishna godavari basin, bay of bengal. *Marine Geoscience and Energy Resources, 190*, Article 207766. https://doi.org/10.1016/j.marger.2026.207766
+
+Zhang, B., Hu, Y., Peckmann, J., Zhang, D., Chen, L., Feng, D., & Chen, D. (2026). Isotopic signature of organic nitrogen in authigenic carbonates: Implications for dynamic nitrogen cycling at submarine cold seeps. *Journal of Geophysical Research: Oceans, 131*(3), Article e2026JC023988. https://doi.org/10.1029/2026jc023988
 
 Zhang, C., He, Y., Wang, J., Chen, T., Baltar, F., Hu, M., Liao, J., Xiao, X., Li, Z.-R., & Dong, X. (2024). *Illuminating microbial phosphorus cycling in deep-sea cold seep sediments using protein language models*. [Preprint]. Preprint server. https://doi.org/10.1101/2024.07.09.602434
 

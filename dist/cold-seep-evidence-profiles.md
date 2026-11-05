@@ -88,6 +88,48 @@ Evidence locator / 证据位置：Verified DOI bibliographic record and title; n
 
 [Inspected source / 核查来源](https://doi.org/10.1016/j.jseaes.2026.107253) · `src:scs-scs-margin-mercury-isotopes`
 
+## Authigenic 13C-depleted perylene in marine cold seeps
+
+海马冷泉自生碳酸盐中极低 δ13C 的自生苝
+
+Liu, L., Wang, Z., Sun, T., Zhang, J., Xie, H., Peng, Y., Jin, J., Sun, L., Wang, X., & Wu, N. (2026). Authigenic 13c-depleted perylene in marine cold seeps. *Geology*. https://doi.org/10.1130/g55297.1
+
+**Design / 研究设计**: Carbon-isotope measurements of perylene in Haima authigenic carbonates.
+
+测定海马自生碳酸盐中苝的碳同位素。
+
+**Sampling scope / 采样范围**: Authigenic carbonates from the Haima cold seep, South China Sea.
+
+南海海马冷泉的自生碳酸盐。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: perylene δ13C
+
+苝的 δ13C
+
+**Findings / 发现**: Perylene in these carbonates had extremely low δ13C values, from −84‰ to −61‰. The study interprets that range as authigenic production by fungi rather than terrestrial input.
+
+这些碳酸盐中的苝 δ13C 极低，为 −84‰ 至 −61‰。研究将该范围解释为真菌的自生产物，而不是陆源输入。
+
+**Citation limits / 引用边界**: The isotopic range is from Haima carbonates named in the abstract. It does not quantify fungal abundance or date fungal evolution at other seeps.
+
+该同位素范围来自摘要点名的海马碳酸盐，不能量化其他冷泉的真菌丰度，也不能给真菌演化定年。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: design and primary findings.
+
+摘要：研究设计与主要发现。
+
+[Inspected source / 核查来源](https://doi.org/10.1130/g55297.1) · `src:scs-haima-authigenic-perylene`
+
 ## Biogeographic patterns and metabolic potential of chemoautotrophic communities in cold seep sediments across subarctic to tropical regions
 
 亚寒带至热带冷泉沉积物化能自养群落与碳固定潜力的比较
@@ -593,6 +635,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/42214985) · `src:scs-haima-plastic-enrichments`
+
+## Estimation of Methane Leakage Flux from an Active Cold Seep in the South China Sea: A Case Study at Site F
+
+南海活动冷泉甲烷泄漏通量估计：以 F 站为例
+
+Li, Q., Xing, L., Lyu, B., Peng, W., Zhang, H., Zhang, J., & Zhu, X. (2026). Estimation of methane leakage flux from an active cold seep in the South China Sea: A case study at Site F. *Journal of Ocean University of China, 25*(2), 527–538. https://doi.org/10.1007/s11802-026-6174-2
+
+**Design / 研究设计**: Multibeam bathymetry, side-scan sonar, CTD and time-series video constrain methane-bubble properties; numerical simulation then estimates the flux.
+
+用多波束测深、侧扫声呐、CTD 和时间序列视频约束甲烷气泡性质，再用数值模拟估计通量。
+
+**Sampling scope / 采样范围**: Active cold seep at Site F, South China Sea.
+
+南海 F 站的活动冷泉。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Multibeam bathymetric mapping; In situ seabed monitoring
+
+多波束测深测绘；海底原位监测
+
+**Measured or derived / 测量或推导指标**: simulated Site F methane flux
+
+模拟的 F 站甲烷通量
+
+**Findings / 发现**: The publisher abstract estimates a Site F methane flux of 12.06×10−6 mol/h in time and 0.5878 mol/m2 in space, and an annual flux of about 6.44×105 mol/yr, which it describes as larger than previous estimates.
+
+出版方摘要估计 F 站甲烷通量为时间上 12.06×10−6 mol/h、空间上 0.5878 mol/m2，年通量约 6.44×105 mol/yr，并称其大于先前估计。
+
+**Citation limits / 引用边界**: The flux is a simulation constrained by those observations. It is not a measured sea–air flux for the whole South China Sea, and the statement that earlier assessments were severely underestimated is comparative rather than a new global budget.
+
+该通量是受这些观测约束的模拟结果，不是整个南海的实测海气通量；所谓先前评估被严重低估是相对比较，不是新的全球收支。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Publisher abstract on the article landing page: design and flux estimates.
+
+文章页面上的出版方摘要：研究设计与通量估计。
+
+[Inspected source / 核查来源](https://doi.org/10.1007/s11802-026-6174-2) · `src:scs-site-f-methane-leakage-flux`
 
 ## Fate of deep methane bubble plumes at the Haima cold seeps in the South China Sea
 

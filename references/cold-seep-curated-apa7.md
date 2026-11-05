@@ -1,6 +1,6 @@
 # Curated South China Sea studies: APA 7 / 南海冷泉精选文献
 
-179 curated source profiles. Evidence access and citation limits are recorded in each profile. / 共 179 篇证据档案，核查材料及引用边界见各档案。
+181 curated source profiles. Evidence access and citation limits are recorded in each profile. / 共 181 篇证据档案，核查材料及引用边界见各档案。
 
 Cao, J., Liu, X., Feng, J., Deng, Y., Zhou, J., Tian, D., Li, Y., Hu, G., Yang, S., Lu, H., & Zhou, J. (2025). Formation of the authigenic pyrite in the gas hydrate-bearing layer of the Shenhu region, northern South China Sea: Constraints from geochemical and sulfur isotope compositions. *GEOCHEMICAL JOURNAL, 59*(3), Article GJ25004. https://doi.org/10.2343/geochemj.gj25004
 
@@ -134,6 +134,8 @@ Li, L., Zhang, W., Zhang, S., Song, L., Sun, Q., Zhang, H., Xiang, H., & Dong, X
 
 Li, Q., Chen, Y., Zhang, J., Zhang, S., & Li, J. (2025). Specificity of benthic invertebrate gill-associated microbiome contributes to host fitness to localized heterogeneous environment in the cold seep. *Science of The Total Environment, 958*, Article 177861. https://doi.org/10.1016/j.scitotenv.2024.177861
 
+Li, Q., Xing, L., Lyu, B., Peng, W., Zhang, H., Zhang, J., & Zhu, X. (2026). Estimation of methane leakage flux from an active cold seep in the South China Sea: A case study at Site F. *Journal of Ocean University of China, 25*(2), 527–538. https://doi.org/10.1007/s11802-026-6174-2
+
 Li, W., Dong, X., Lu, R., Zhou, Y., Zheng, P., Feng, D., & Wang, Y. (2021). Microbial ecology of sulfur cycling near the sulfate–methane transition of deep‐sea cold seep sediments. *Environmental Microbiology, 23*(11), 6844–6858. https://doi.org/10.1111/1462-2920.15796
 
 Li, W.-L., Wu, Y.-Z., Zhou, G.-W., Huang, H., & Wang, Y. (2020). Metabolic diversification of anaerobic methanotrophic archaea in a deep-sea cold seep. *Marine Life Science & Technology, 2*(4), 431–441. https://doi.org/10.1007/s42995-020-00057-9
@@ -159,6 +161,8 @@ Ling, J., Guan, H., Liu, L., Tao, J., Li, J., Dong, J., & Zhang, S. (2020). The 
 Liu, H., Chen, X., Hu, M., Wang, H., Yao, L., Xu, Z., Ma, G., Wang, Q., & Kan, R. (2024). In situ high-precision measurement of deep-sea dissolved methane by quartz-enhanced photoacoustic and light-induced thermoelastic spectroscopy. *Analytical Chemistry, 96*(31), 12846–12853. https://doi.org/10.1021/acs.analchem.4c02557
 
 Liu, L., Guan, H., Wu, N., Chang, B., Chen, F., Feng, D., & Li, S. (2024). Seep carbonate clumped isotopes revealing ocean warming-induced gas hydrate dissociation. *Global and Planetary Change, 237*, Article 104439. https://doi.org/10.1016/j.gloplacha.2024.104439
+
+Liu, L., Wang, Z., Sun, T., Zhang, J., Xie, H., Peng, Y., Jin, J., Sun, L., Wang, X., & Wu, N. (2026). Authigenic 13c-depleted perylene in marine cold seeps. *Geology*. https://doi.org/10.1130/g55297.1
 
 Liu, R., Cai, R., Wang, M., Zhang, J., Zhang, H., Li, C., & Sun, C. (2024). Metagenomic insights into Heimdallarchaeia clades from the deep-sea cold seep and hydrothermal vent. *Environmental Microbiome, 19*(1), Article 43. https://doi.org/10.1186/s40793-024-00585-2
 

@@ -2,21 +2,21 @@
 
 Publication window / 发表时间范围：2016-10-12–2026-11-05.
 
-311 inventory DOI records; 179 curated profiles. DOI records are not necessarily distinct studies: notices and retained preprints are counted separately.
+312 inventory DOI records; 181 curated profiles. DOI records are not necessarily distinct studies: notices and retained preprints are counted separately.
 
 DOI 记录数不等于独立研究数：勘误及保留的预印本单独计数。原文初筛、摘要证据提取与全文核查分别记录，背景初筛不产生图谱论断。
 
 | Review stage / 核查阶段 | Records / 记录数 |
 | --- | ---: |
-| Curated evidence / 已建立证据档案 | 179 |
+| Curated evidence / 已建立证据档案 | 181 |
 | Awaiting source review / 待核查原文 | 0 |
-| Source text needed / 需获取支持性原文 | 42 |
+| Source text needed / 需获取支持性原文 | 41 |
 | Screened context / 已初筛背景文献 | 68 |
 | Excluded / 已排除 | 12 |
 | Linked correction / 已关联勘误 | 3 |
 | Publication version check / 需核查发表版本 | 7 |
 
-Curated access / 精选档案核查材料：129 abstract-scoped / 限于摘要；12 bibliographic-record only / 仅有经核验书目记录；38 inspected full-text excerpts / 已核查相关全文段落。
+Curated access / 精选档案核查材料：131 abstract-scoped / 限于摘要；12 bibliographic-record only / 仅有经核验书目记录；38 inspected full-text excerpts / 已核查相关全文段落。
 
 A full-text-excerpt label identifies the sections actually inspected; it does not claim that every figure or supplement was reviewed. Abstract-scoped packets must be narrowed to explicit abstract findings. Neither DOI verification nor title screening is treated as claim verification.
 
@@ -30,8 +30,6 @@ A full-text-excerpt label identifies the sections actually inspected; it does no
 ### Source text needed / 需获取支持性原文
 
 - [Cold seep related gas hydrate systems in the northern South China Sea: Activity and evolution constrained by high chlorinity and geophysical data](https://doi.org/10.1016/j.marger.2026.207691) (2026). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
-  Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
-- [Estimation of Methane Leakage Flux from an Active Cold Seep in the South China Sea: A Case Study at Site F](https://doi.org/10.1007/s11802-026-6174-2) (2026). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
   Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.
 - [Phase Equilibria of Methane Hydrate in Various Mineral Systems in the Haima Cold Seep Area](https://doi.org/10.1021/acs.energyfuels.5c00909) (2025). DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted. DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。
   Next action: Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.

@@ -214,17 +214,19 @@
     },
     {
       "doi": "10.1007/s11802-026-6174-2",
-      "status": "awaiting_source_text",
-      "access_level": "metadata_only",
-      "metadata_status": "verified",
-      "support_status": "unresolved",
-      "evidence_url": "https://doi.org/10.1007/s11802-026-6174-2",
-      "locator": "Published title and independently resolved bibliographic record.",
-      "reason": "DOI/title verified, but the attempted indexed-source retrieval did not provide a usable abstract or supporting passage. No scientific claim was promoted.",
-      "reason_zh": "DOI 与标题已核查，但本次索引原文获取未得到可用摘要或支持性段落；未提升任何科学论断。",
-      "next_action": "Obtain an accessible publisher abstract, authorized full text or author manuscript; record sampling and evidence locators before promotion.",
       "candidate_id": "seep-candidate:10-1007-s11802-026-6174-2",
-      "reviewed_at": "2026-10-13"
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-site-f-methane-leakage-flux",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1007/s11802-026-6174-2",
+      "locator": "Publisher abstract on the article landing page: design and flux estimates.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "0fce760334ec07243a878f388e9a9c1d67f6ef6a5995e60628ee8a8e637cfceb"
     },
     {
       "doi": "10.1007/s12583-024-1968-x",
@@ -3047,6 +3049,22 @@
       "support_status": "supported_after_narrowing",
       "reason": "Reviewed source profile retained from the initial SCS release.",
       "reason_zh": "保留南海冷泉首版中已核查的证据档案。"
+    },
+    {
+      "doi": "10.1130/g55297.1",
+      "candidate_id": "seep-candidate:10-1130-g55297-1",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-haima-authigenic-perylene",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1130/g55297.1",
+      "locator": "Abstract: design and primary findings.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "c8354ec81a8c0b8e9c4ff117117bbd2c9bf0f978839f62cefd69128743a5e6a0"
     },
     {
       "doi": "10.1155/2019/1010824",
