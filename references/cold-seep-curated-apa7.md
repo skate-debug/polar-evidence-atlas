@@ -1,6 +1,6 @@
 # Curated South China Sea studies: APA 7 / 南海冷泉精选文献
 
-181 curated source profiles. Evidence access and citation limits are recorded in each profile. / 共 181 篇证据档案，核查材料及引用边界见各档案。
+182 curated source profiles. Evidence access and citation limits are recorded in each profile. / 共 182 篇证据档案，核查材料及引用边界见各档案。
 
 Cao, J., Liu, X., Feng, J., Deng, Y., Zhou, J., Tian, D., Li, Y., Hu, G., Yang, S., Lu, H., & Zhou, J. (2025). Formation of the authigenic pyrite in the gas hydrate-bearing layer of the Shenhu region, northern South China Sea: Constraints from geochemical and sulfur isotope compositions. *GEOCHEMICAL JOURNAL, 59*(3), Article GJ25004. https://doi.org/10.2343/geochemj.gj25004
 
@@ -121,6 +121,8 @@ Li, C., Ma, M., Wang, R., Zhang, H., Liu, Y., Chang, L., Liang, J., Chen, F., & 
 Li, C.-P., Shi, Z.-Z., Fang, S.-T., Song, Y.-P., & Ji, N.-Y. (2023). Lipids and terpenoids from the deep-sea fungus *Trichoderma lixii* R22 and their antagonism against two wheat pathogens. *Molecules, 28*(17), Article 6220. https://doi.org/10.3390/molecules28176220
 
 Li, H., Lei, Y., Jin, H., Yang, Z., Shi, J., & Yu, F. (2026). Foraminiferal eDNA reveals ecological dynamics of a deep-sea cold seep ecosystem: Evidence from the “Haima” seep, South China Sea. *Journal of Sea Research, 212*, Article 102725. https://doi.org/10.1016/j.seares.2026.102725
+
+Li, H., Wei, B., Kang, D., Liu, J., Qu, C., Xie, Y., Zhong, C., & Zhang, Y. (2026). Well-log-based identification and quantitative evaluation of marine gas hydrate–free gas co-existence zones in the Shenhu area, South China Sea. *Journal of Marine Science and Engineering, 14*(19), Article 1846. https://doi.org/10.3390/jmse14191846
 
 Li, J., Dong, X., Liu, S., Chen, W., Liao, J., Zhang, C., Bai, S., Xu, H., Zhang, J., Chen, S., Ta, K., Dasgupta, S., & Peng, X. (2025). Methane‐driven arsenic biogeochemical cycling in deep‐sea cold seeps: Implications for oceanic arsenic geochemistry. *Geophysical Research Letters, 52*(16), Article e2025GL115957. https://doi.org/10.1029/2025gl115957
 

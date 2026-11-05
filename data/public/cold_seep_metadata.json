@@ -48848,6 +48848,219 @@
       "URL": "https://doi.org/10.3390/jmse14181699",
       "relation": {}
     },
+    "10.3390/jmse14191846": {
+      "publisher": "MDPI AG",
+      "issue": "19",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                3
+              ]
+            ],
+            "date-time": "2026-10-03T00:00:00Z",
+            "timestamp": 1790985600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.3390/jmse14191846",
+      "type": "journal-article",
+      "page": "1846",
+      "title": "Well-Log-Based Identification and Quantitative Evaluation of Marine Gas Hydrate–Free Gas Co-Existence Zones in the Shenhu Area, South China Sea",
+      "volume": "14",
+      "author": [
+        {
+          "given": "Haiyan",
+          "family": "Li",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Tianjin Branch, China National Logging Corporation, Tianjin 300280, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "conceptualization",
+              "vocabulary": "credit"
+            }
+          ]
+        },
+        {
+          "given": "Bing",
+          "family": "Wei",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tianjin Branch, China National Logging Corporation, Tianjin 300280, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "investigation",
+              "vocabulary": "credit"
+            }
+          ]
+        },
+        {
+          "given": "Dongju",
+          "family": "Kang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Guangzhou Marine Geological Survey, China Geological Survey, Guangzhou 510760, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "resources",
+              "vocabulary": "credit"
+            }
+          ]
+        },
+        {
+          "given": "Jundong",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tianjin Branch, China National Logging Corporation, Tianjin 300280, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "validation",
+              "vocabulary": "credit"
+            }
+          ]
+        },
+        {
+          "given": "Cuixia",
+          "family": "Qu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tianjin Branch, China National Logging Corporation, Tianjin 300280, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "methodology",
+              "vocabulary": "credit"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4309-7119",
+          "authenticated-orcid": false,
+          "given": "Yingfeng",
+          "family": "Xie",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Guangzhou Marine Geological Survey, China Geological Survey, Guangzhou 510760, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "formal-analysis",
+              "vocabulary": "credit"
+            }
+          ]
+        },
+        {
+          "given": "Chao",
+          "family": "Zhong",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Guangzhou Marine Geological Survey, China Geological Survey, Guangzhou 510760, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "supervision",
+              "vocabulary": "credit"
+            }
+          ]
+        },
+        {
+          "given": "Yanlong",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tianjin Branch, China National Logging Corporation, Tianjin 300280, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "formal-analysis",
+              "vocabulary": "credit"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            3
+          ]
+        ]
+      },
+      "container-title": "Journal of Marine Science and Engineering",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            3
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.3390/jmse14191846",
+      "relation": {}
+    },
     "10.3390/jmse14201881": {
       "issue": "20",
       "DOI": "10.3390/jmse14201881",

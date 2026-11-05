@@ -5908,6 +5908,33 @@
       "inspected_abstract_sha256": "4046eda89d5db3ea4e4670c97c9e9eded92298ea1939f156ee4a2141f0409f48"
     },
     {
+      "doi": "10.1186/s40793-026-00968-7",
+      "candidate_id": "global-seep-candidate:10-1186-s40793-026-00968-7",
+      "source_id": "src:gcs-anme1-diversification-mags",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "full_text_extracts",
+      "evidence_url": "https://doi.org/10.1186/s40793-026-00968-7",
+      "locator": "Abstract; Supplementary Figure S3 caption habitat legend only. The results body was not extracted.",
+      "reason": "Use as a multi-habitat ANME-1 genomic comparison. Do not treat the MAG set as an SCS-site profile or as an Arctic-primary dataset.",
+      "reason_zh": "作为跨生境的 ANME-1 基因组比较。不要把该 MAG 集合当作南海站位档案或以北极为主的数据集。",
+      "next_action": "Add further figure-specific comparisons when relevant.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "genomes",
+        "methane"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "3a8a03e1d0bd2a33c20f541237e410ceb7671968b4bffa131572abd0e92601e4"
+    },
+    {
       "doi": "10.1186/s42523-023-00238-8",
       "candidate_id": "global-seep-candidate:10-1186-s42523-023-00238-8",
       "status": "awaiting_source_review",

@@ -3414,20 +3414,6 @@
       "reviewed_at": "2026-10-13"
     },
     {
-      "doi": "10.20944/preprints202609.0451.v1",
-      "status": "excluded",
-      "access_level": "title_only",
-      "metadata_status": "verified",
-      "support_status": "not_extracted_for_graph",
-      "evidence_url": "https://doi.org/10.20944/preprints202609.0451.v1",
-      "locator": "Published title and independently resolved bibliographic record.",
-      "reason": "Title-level scope screen: reservoir-production, stimulation, mechanical-engineering or desalination study without a direct seep-microbiome/ecosystem focus.",
-      "reason_zh": "标题范围初筛：储层生产、增产、力学工程或海水淡化研究，缺少直接冷泉微生物／生态系统重点。",
-      "next_action": "Retain discovery provenance; reconsider if a hydrate-engineering collection is requested.",
-      "candidate_id": "seep-candidate:10-20944-preprints202609-0451-v1",
-      "reviewed_at": "2026-10-13"
-    },
-    {
       "doi": "10.21203/rs.3.rs-10913137/v1",
       "status": "version_check",
       "access_level": "abstract",
@@ -4125,6 +4111,22 @@
       "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
       "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
       "inspected_abstract_sha256": "4a906e0905899be6e73a751dc158e972d55bf3fff0f2831e39803264eb387772"
+    },
+    {
+      "doi": "10.3390/jmse14191846",
+      "candidate_id": "seep-candidate:10-3390-jmse14191846",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-shenhu-hydrate-free-gas-logs",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3390/jmse14191846",
+      "locator": "Crossref-deposited publisher abstract: log identification and the core-experiment comparison.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "95badda421f1cdafcd150aef99a09c00e8d20e1eb44d32885250db361ef66147"
     },
     {
       "doi": "10.3390/jmse14201881",

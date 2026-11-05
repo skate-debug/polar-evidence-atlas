@@ -71130,6 +71130,158 @@
       "relation": {},
       "article-number": "122"
     },
+    "10.1186/s40793-026-00968-7": {
+      "publisher": "Springer Science and Business Media LLC",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                21
+              ]
+            ],
+            "date-time": "2026-09-21T00:00:00Z",
+            "timestamp": 1789948800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                21
+              ]
+            ],
+            "date-time": "2026-09-21T00:00:00Z",
+            "timestamp": 1789948800000
+          },
+          "content-version": "am",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "DOI": "10.1186/s40793-026-00968-7",
+      "type": "journal-article",
+      "title": [
+        "Evolutionary diversification and metabolic adaptations of ANME-1 archaea"
+      ],
+      "author": [
+        {
+          "given": "Lei",
+          "family": "Su",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andreas P.",
+          "family": "Teske",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ian P. G.",
+          "family": "Marshall",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wenlong",
+          "family": "Qi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wenqi",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kun",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jiangtao",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            21
+          ]
+        ]
+      },
+      "container-title": [
+        "Environmental Microbiome"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            21
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1186/s40793-026-00968-7",
+      "relation": {}
+    },
     "10.1186/s42523-023-00238-8": {
       "publisher": "Springer Science and Business Media LLC",
       "issue": "1",

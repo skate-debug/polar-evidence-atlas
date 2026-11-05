@@ -294,6 +294,83 @@
       "last_seen_at": "2026-10-13T02:52:28.834675+00:00"
     },
     {
+      "id": "seep-candidate:10-3390-jmse14191846",
+      "doi": "10.3390/jmse14191846",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Well-Log-Based Identification and Quantitative Evaluation of Marine Gas Hydrate–Free Gas Co-Existence Zones in the Shenhu Area, South China Sea",
+      "publication_date": "2026-10-03",
+      "publication_date_precision": "day",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Haiyan Li",
+        "Bing Wei",
+        "Dongju Kang",
+        "Jundong Liu",
+        "Cuixia Qu",
+        "Yingfeng Xie",
+        "Chao Zhong",
+        "Yanlong Zhang"
+      ],
+      "author_records": [
+        {
+          "firstName": "Haiyan",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Bing",
+          "lastName": "Wei"
+        },
+        {
+          "firstName": "Dongju",
+          "lastName": "Kang"
+        },
+        {
+          "firstName": "Jundong",
+          "lastName": "Liu"
+        },
+        {
+          "firstName": "Cuixia",
+          "lastName": "Qu"
+        },
+        {
+          "firstName": "Yingfeng",
+          "lastName": "Xie"
+        },
+        {
+          "firstName": "Chao",
+          "lastName": "Zhong"
+        },
+        {
+          "firstName": "Yanlong",
+          "lastName": "Zhang"
+        }
+      ],
+      "journal": "Journal of Marine Science and Engineering",
+      "volume": "14",
+      "issue": "19",
+      "pages": "1846",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.3390/jmse14191846",
+      "compartments": [],
+      "topics": [
+        "geochemistry"
+      ],
+      "sites": [
+        "shenhu"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T19:17:09.999776+00:00",
+      "last_seen_at": "2026-11-05T19:17:09.999776+00:00"
+    },
+    {
       "id": "seep-candidate:10-1126-sciadv-aed8728",
       "collection": "scs-cold-seeps",
       "status": "candidate",
@@ -1337,107 +1414,6 @@
       "discovery_source": "Primary-source citation and Methods follow-up",
       "first_discovered_at": "2026-11-05T02:43:50.628008+00:00",
       "last_seen_at": "2026-11-05T02:43:50.628008+00:00"
-    },
-    {
-      "id": "seep-candidate:10-20944-preprints202609-0451-v1",
-      "collection": "scs-cold-seeps",
-      "status": "candidate",
-      "title": "Well-Log-Based Identification and Quantitative Evaluation for Marine Gas Hydrate-Free Gas Co-Existence Zones",
-      "authors": [
-        "Li H",
-        "Wei B",
-        "Kang D",
-        "Liu J",
-        "Qu C",
-        "Xie Y",
-        "Zhong C",
-        "Zhang Y"
-      ],
-      "author_records": [
-        {
-          "fullName": "Li H",
-          "lastName": "Li",
-          "firstName": "Haiyan",
-          "initials": "H"
-        },
-        {
-          "fullName": "Wei B",
-          "lastName": "Wei",
-          "firstName": "Bing",
-          "initials": "B"
-        },
-        {
-          "fullName": "Kang D",
-          "lastName": "Kang",
-          "firstName": "Dongju",
-          "initials": "D"
-        },
-        {
-          "fullName": "Liu J",
-          "lastName": "Liu",
-          "firstName": "Jundong",
-          "initials": "J"
-        },
-        {
-          "fullName": "Qu C",
-          "lastName": "Qu",
-          "firstName": "Cuixia",
-          "initials": "C"
-        },
-        {
-          "fullName": "Xie Y",
-          "lastName": "Xie",
-          "firstName": "Yingfeng",
-          "initials": "Y",
-          "authorId": {
-            "type": "ORCID",
-            "value": "0000-0002-4309-7119"
-          }
-        },
-        {
-          "fullName": "Zhong C",
-          "lastName": "Zhong",
-          "firstName": "Chao",
-          "initials": "C"
-        },
-        {
-          "fullName": "Zhang Y",
-          "lastName": "Zhang",
-          "firstName": "Yanlong",
-          "initials": "Y"
-        }
-      ],
-      "journal": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "year": 2026,
-      "publication_date": "2026-09-07",
-      "doi": "10.20944/preprints202609.0451.v1",
-      "pmid": "",
-      "pmcid": "",
-      "url": "https://doi.org/10.20944/preprints202609.0451.v1",
-      "compartments": [
-        "sediment"
-      ],
-      "topics": [
-        "geochemistry"
-      ],
-      "sites": [
-        "shenhu"
-      ],
-      "priority": "context",
-      "classification_basis": "Provisional lexical tags from title and abstract; not full-text curation",
-      "matched_queries": [
-        "scs_named_sites_expanded"
-      ],
-      "discovery_source": "Europe PMC title/abstract queries",
-      "first_discovered_at": "2026-10-13T04:23:57.759838+00:00",
-      "last_seen_at": "2026-10-13T04:23:57.759838+00:00",
-      "publication_type": [
-        "Preprint"
-      ],
-      "publication_stage": "preprint"
     },
     {
       "id": "seep-candidate:10-3390-biology15151305",
@@ -38357,6 +38333,12 @@
       "id": "seep-candidate:10-21203-rs-3-rs-4562993-v1",
       "doi": "10.21203/rs.3.rs-4562993/v1",
       "published_doi": "10.1038/s42003-024-07382-0",
+      "basis": "Crossref is-preprint-of relation"
+    },
+    {
+      "id": "seep-candidate:10-20944-preprints202609-0451-v1",
+      "doi": "10.20944/preprints202609.0451.v1",
+      "published_doi": "10.3390/jmse14191846",
       "basis": "Crossref is-preprint-of relation"
     }
   ],

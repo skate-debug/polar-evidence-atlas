@@ -27194,5 +27194,144 @@
       "evidence_url": "https://doi.org/10.1007/s11802-026-6174-2",
       "review_packet": "config/cold_seep_reviewed.json"
     }
+  },
+  {
+    "id": "src:scs-shenhu-hydrate-free-gas-logs",
+    "citation_key": "SCSShenhuHydrateFreeGasLogs",
+    "doi": "10.3390/jmse14191846",
+    "title": "Well-Log-Based Identification and Quantitative Evaluation of Marine Gas Hydrate–Free Gas Co-Existence Zones in the Shenhu Area, South China Sea",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:shenhu"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane",
+      "methods"
+    ],
+    "sites": [
+      "shenhu"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Shenhu well-log hydrate and free-gas evaluation",
+    "study_profile": {
+      "spatial_scope": "Gas-hydrate reservoirs in the Shenhu area, northern South China Sea.",
+      "temporal_scope": "Published 3 October 2026. The inspected abstract does not give well names or logging dates.",
+      "sample_design": "Identify the vertical hydrate–free-gas pattern from the intersection of three porosity logs, then estimate coexisting gas and hydrate saturations with a core-calibrated resistivity model and neutron–density normalization.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:marine-geophysics"
+      ],
+      "measured_or_derived": [
+        "log-derived hydrate and free-gas saturation"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The abstract describes hydrate at the top, free gas at the bottom and coexistence in between, and states that the log-derived hydrate saturation agreed with core experiments."
+    ],
+    "limitations": [
+      "Agreement with core experiments supports the calculation for the studied Shenhu interval. The abstract gives no saturation values, well identifiers or regional resource volume, and it does not describe a microbial community."
+    ],
+    "cite_for": [
+      "Shenhu well-log hydrate and free-gas evaluation within the stated study scope.",
+      "The abstract describes hydrate at the top, free gas at the bottom and coexistence in between, and states that the log-derived hydrate saturation agreed with core experiments."
+    ],
+    "do_not_overcite": [
+      "Agreement with core experiments supports the calculation for the studied Shenhu interval. The abstract gives no saturation values, well identifiers or regional resource volume, and it does not describe a microbial community."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3390/jmse14191846",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-anme1-diversification-mags",
+    "citation_key": "GCSAnme1DiversificationMags",
+    "doi": "10.1186/s40793-026-00968-7",
+    "title": "Evolutionary diversification and metabolic adaptations of ANME-1 archaea",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "genomes",
+      "methane"
+    ],
+    "sites": [
+      "global-comparison"
+    ],
+    "domains": [
+      "Cold-seep prokaryotes"
+    ],
+    "study_type": "Comparative ANME-1 phylogenomics",
+    "study_profile": {
+      "spatial_scope": "132 ANME-1 MAGs from hydrothermal vents, cold seeps, and other marine and terrestrial habitats.",
+      "temporal_scope": "Published online 21 September 2026. Sampling dates are not given in the inspected abstract.",
+      "sample_design": "Compare phylogeny and gene content across 132 ANME-1 MAGs.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:shotgun-metagenomics",
+        "method:genome-resolved-analysis",
+        "method:phylogenetics"
+      ],
+      "measured_or_derived": [
+        "genus-level clusters, predicted optima and lineage-variable electron-transport genes"
+      ],
+      "focal_taxa": [
+        "taxon:anme"
+      ],
+      "focal_processes": [
+        "process:anaerobic-methane-oxidation",
+        "process:microbial-evolution"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The MAGs resolve 14 genus-level clusters within ANME-1a, ANME-1b and ANME-1c. A conserved Fae-Hps arrangement is a candidate formaldehyde route where canonical mer is nearly absent, and acs is reported in ANME-1a and ANME-1b. Available ANME-1c genomes are associated with hydrothermal settings and have the highest predicted optimum temperatures, with a stated median of 71.6 °C, while ANME-1a and ANME-1b have broader predicted pH and salinity ranges."
+    ],
+    "limitations": [
+      "Predicted optima and gene presence are not measured growth temperatures or methane-oxidation rates. The Supplementary Figure S3 caption lists Arctic saline-spring sediments as one habitat class beside hydrothermal, cold-seep, other marine and terrestrial sources, so the study is not Arctic-primary and is not an SCS-site survey."
+    ],
+    "cite_for": [
+      "Use as a multi-habitat ANME-1 genomic comparison. Do not treat the MAG set as an SCS-site profile or as an Arctic-primary dataset.",
+      "The MAGs resolve 14 genus-level clusters within ANME-1a, ANME-1b and ANME-1c. A conserved Fae-Hps arrangement is a candidate formaldehyde route where canonical mer is nearly absent, and acs is reported in ANME-1a and ANME-1b. Available ANME-1c genomes are associated with hydrothermal settings and have the highest predicted optimum temperatures, with a stated median of 71.6 °C, while ANME-1a and ANME-1b have broader predicted pH and salinity ranges."
+    ],
+    "do_not_overcite": [
+      "Predicted optima and gene presence are not measured growth temperatures or methane-oxidation rates. The Supplementary Figure S3 caption lists Arctic saline-spring sediments as one habitat class beside hydrothermal, cold-seep, other marine and terrestrial sources, so the study is not Arctic-primary and is not an SCS-site survey."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; only the full-text sections in the claim locator were inspected.",
+      "access_level": "full_text_extracts",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1186/s40793-026-00968-7",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
   }
 ]

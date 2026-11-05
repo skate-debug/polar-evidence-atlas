@@ -1,6 +1,6 @@
 # International discussion studies: APA 7 / 国际冷泉讨论精选文献
 
-131 inspected comparison profiles; 4 reuse existing atlas sources by DOI. / 共 131 篇已核查比较档案，4 篇按 DOI 复用已有来源。
+132 inspected comparison profiles; 4 reuse existing atlas sources by DOI. / 共 132 篇已核查比较档案，4 篇按 DOI 复用已有来源。
 
 Andreassen, K., Hubbard, A., Winsborrow, M., Patton, H., Vadakkepuliyambatta, S., Plaza-Faverola, A., Gudlaugsson, E., Serov, P., Deryabin, A., Mattingsdal, R., Mienert, J., & Bünz, S. (2017). Massive blow-out craters formed by hydrate-controlled methane expulsion from the Arctic seafloor. *Science, 356*(6341), 948–953. https://doi.org/10.1126/science.aal4500
 
@@ -217,6 +217,8 @@ Soerensen, A. L., Jacob, D. J., Schartup, A. T., Fisher, J. A., Lehnherr, I., St
 Steinle, L., Graves, C. A., Treude, T., Ferré, B., Biastoch, A., Bussmann, I., Berndt, C., Krastel, S., James, R. H., Behrens, E., Böning, C. W., Greinert, J., Sapart, C.-J., Scheinert, M., Sommer, S., Lehmann, M. F., & Niemann, H. (2015). Water column methanotrophy controlled by a rapid oceanographic switch. *Nature Geoscience, 8*(5), 378–382. https://doi.org/10.1038/ngeo2420
 
 Stock, L., Wegener, G., Wang, Y., Zander, Y., & Elvert, M. (2025). Marine cold seep ANME ‐2/ SRB consortia produce their lipid biomass from inorganic carbon. *Environmental Microbiology, 27*(12), Article e70213. https://doi.org/10.1111/1462-2920.70213
+
+Su, L., Teske, A. P., Marshall, I. P. G., Qi, W., Liu, W., Zhou, K., & Li, J. (2026). Evolutionary diversification and metabolic adaptations of ANME-1 archaea. *Environmental Microbiome*. https://doi.org/10.1186/s40793-026-00968-7
 
 Szymczycha, B., Diak, M., Hong, W.-L., Böttcher, M. E., Lepland, A., Makuch, P., ten Hietbrink, S., Saghravani, S. R., Sen, A., Winogradow, A., & Silberberger, M. J. (2025). Submarine groundwater discharge and gas hydrate dissociation fuel organic matter formation in Arctic fjord sediments. *Marine Chemistry, 273*, Article 104570. https://doi.org/10.1016/j.marchem.2025.104570
 

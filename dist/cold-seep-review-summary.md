@@ -2,21 +2,21 @@
 
 Publication window / 发表时间范围：2016-10-12–2026-11-05.
 
-312 inventory DOI records; 181 curated profiles. DOI records are not necessarily distinct studies: notices and retained preprints are counted separately.
+312 inventory DOI records; 182 curated profiles. DOI records are not necessarily distinct studies: notices and retained preprints are counted separately.
 
 DOI 记录数不等于独立研究数：勘误及保留的预印本单独计数。原文初筛、摘要证据提取与全文核查分别记录，背景初筛不产生图谱论断。
 
 | Review stage / 核查阶段 | Records / 记录数 |
 | --- | ---: |
-| Curated evidence / 已建立证据档案 | 181 |
+| Curated evidence / 已建立证据档案 | 182 |
 | Awaiting source review / 待核查原文 | 0 |
 | Source text needed / 需获取支持性原文 | 41 |
 | Screened context / 已初筛背景文献 | 68 |
-| Excluded / 已排除 | 12 |
+| Excluded / 已排除 | 11 |
 | Linked correction / 已关联勘误 | 3 |
 | Publication version check / 需核查发表版本 | 7 |
 
-Curated access / 精选档案核查材料：131 abstract-scoped / 限于摘要；12 bibliographic-record only / 仅有经核验书目记录；38 inspected full-text excerpts / 已核查相关全文段落。
+Curated access / 精选档案核查材料：132 abstract-scoped / 限于摘要；12 bibliographic-record only / 仅有经核验书目记录；38 inspected full-text excerpts / 已核查相关全文段落。
 
 A full-text-excerpt label identifies the sections actually inspected; it does not claim that every figure or supplement was reviewed. Abstract-scoped packets must be narrowed to explicit abstract findings. Neither DOI verification nor title screening is treated as claim verification.
 
@@ -253,8 +253,6 @@ A full-text-excerpt label identifies the sections actually inspected; it does no
 
 ### Excluded / 已排除
 
-- [Well-Log-Based Identification and Quantitative Evaluation for Marine Gas Hydrate-Free Gas Co-Existence Zones](https://doi.org/10.20944/preprints202609.0451.v1) (2026). Title-level scope screen: reservoir-production, stimulation, mechanical-engineering or desalination study without a direct seep-microbiome/ecosystem focus. 标题范围初筛：储层生产、增产、力学工程或海水淡化研究，缺少直接冷泉微生物／生态系统重点。
-  Next action: Retain discovery provenance; reconsider if a hydrate-engineering collection is requested.
 - [Numerical simulation of geomechanical responses during horizontal-well cyclic thermal stimulation of natural gas hydrates.](https://doi.org/10.1038/s41598-026-58898-w) (2026). Title-level scope screen: reservoir-production, stimulation, mechanical-engineering or desalination study without a direct seep-microbiome/ecosystem focus. 标题范围初筛：储层生产、增产、力学工程或海水淡化研究，缺少直接冷泉微生物／生态系统重点。
   Next action: Retain discovery provenance; reconsider if a hydrate-engineering collection is requested.
 - [Thermodynamics and kinetics of methane hydrate formation in seawater from the South China Sea: Potential application of hydrate-based desalination](https://doi.org/10.1016/j.apenergy.2025.125696) (2025). Title-level scope screen: reservoir-production, stimulation, mechanical-engineering or desalination study without a direct seep-microbiome/ecosystem focus. 标题范围初筛：储层生产、增产、力学工程或海水淡化研究，缺少直接冷泉微生物／生态系统重点。
@@ -309,3 +307,4 @@ A full-text-excerpt label identifies the sections actually inspected; it does no
 Collapsed records remain in discovery provenance and are not counted as independent active queue entries. / 合并版本保留发现来源，不计作独立的当前队列记录。
 
 - [10.21203/rs.3.rs-4562993/v1](https://doi.org/10.21203/rs.3.rs-4562993/v1) → [10.1038/s42003-024-07382-0](https://doi.org/10.1038/s42003-024-07382-0); Crossref is-preprint-of relation.
+- [10.20944/preprints202609.0451.v1](https://doi.org/10.20944/preprints202609.0451.v1) → [10.3390/jmse14191846](https://doi.org/10.3390/jmse14191846); Crossref is-preprint-of relation.

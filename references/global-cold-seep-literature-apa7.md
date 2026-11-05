@@ -1,6 +1,6 @@
 # International cold-seep inventory: APA 7 / 国际冷泉目录参考文献
 
-Discovery window: 2016-10-13–2026-11-05; 505 DOI records.
+Discovery window: 2016-10-13–2026-11-05; 506 DOI records.
 
 Discovery records include unreviewed candidates and retained preprints. Use the curated bibliography for extracted evidence. / 发现记录包括未核查候选及保留的预印本。已提取证据请使用精选参考文献。
 
@@ -767,6 +767,8 @@ Stock, L., Wegener, G., Wang, Y., Zander, Y., & Elvert, M. (2025). Marine cold s
 Ståhl, E., Linderholm, A., & Brüchert, V. (2024). A spatially restricted distribution of thermophilic endospores in Laptev sea shelf sediments suggests a limited dispersal by local geofluids. *Geobiology, 22*(5), Article e12618. https://doi.org/10.1111/gbi.12618
 
 Su, L., Marshall, I. P. G., Teske, A. P., Yao, H., & Li, J. (2024). Genomic characterization of the bacterial phylum *Candidatus* Effluviviacota, a cosmopolitan member of the global seep microbiome. *mBio, 15*(8), Article e00992-24. https://doi.org/10.1128/mbio.00992-24
+
+Su, L., Teske, A. P., Marshall, I. P. G., Qi, W., Liu, W., Zhou, K., & Li, J. (2026). Evolutionary diversification and metabolic adaptations of ANME-1 archaea. *Environmental Microbiome*. https://doi.org/10.1186/s40793-026-00968-7
 
 Sun, X., Jiang, H., & Zhang, S. (2024). Diversities and interactions of phages and bacteria in deep-sea sediments as revealed by metagenomics. *Frontiers in Microbiology, 14*, Article 1337146. https://doi.org/10.3389/fmicb.2023.1337146
 

@@ -5256,6 +5256,22 @@
       "schema:sameAs": "https://doi.org/10.1007/s11802-026-6174-2"
     },
     {
+      "@id": "src:scs-shenhu-hydrate-free-gas-logs",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Well-Log-Based Identification and Quantitative Evaluation of Marine Gas Hydrate–Free Gas Co-Existence Zones in the Shenhu Area, South China Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3390/jmse14191846",
+      "schema:sameAs": "https://doi.org/10.3390/jmse14191846"
+    },
+    {
+      "@id": "src:gcs-anme1-diversification-mags",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Evolutionary diversification and metabolic adaptations of ANME-1 archaea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1186/s40793-026-00968-7",
+      "schema:sameAs": "https://doi.org/10.1186/s40793-026-00968-7"
+    },
+    {
       "@id": "claim:001-rothera-viral-novelty",
       "@type": "pkg:Claim",
       "schema:text": "The Rothera coastal time series yielded 7,957 mid- to high-quality vOTUs, about 75% of which lacked species-level representation in the comparison ocean-virus catalogues.",
@@ -12036,6 +12052,40 @@
         "@id": "src:scs-site-f-methane-leakage-flux"
       },
       "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-hydrate-free-gas-logs",
+      "@type": "pkg:Claim",
+      "schema:text": "The abstract describes hydrate at the top, free gas at the bottom and coexistence in between, and states that the log-derived hydrate saturation agreed with core experiments.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-hydrate-free-gas-logs"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:hydrate-bearing-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-hydrate-free-gas-logs"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-anme1-diversification-mags",
+      "@type": "pkg:Claim",
+      "schema:text": "The MAGs resolve 14 genus-level clusters within ANME-1a, ANME-1b and ANME-1c. A conserved Fae-Hps arrangement is a candidate formaldehyde route where canonical mer is nearly absent, and acs is reported in ANME-1a and ANME-1b. Available ANME-1c genomes are associated with hydrothermal settings and have the highest predicted optimum temperatures, with a stated median of 71.6 °C, while ANME-1a and ANME-1b have broader predicted pH and salinity ranges.",
+      "pkg:subject": {
+        "@id": "src:gcs-anme1-diversification-mags"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "taxon:anme"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-anme1-diversification-mags"
+      },
+      "pkg:evidenceType": "inferred",
       "pkg:confidence": "moderate"
     }
   ]
