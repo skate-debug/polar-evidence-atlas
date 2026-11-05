@@ -2,7 +2,7 @@
 
 Publication discovery window: 2016-10-12 to 2026-11-05. Source-review update: 13 October 2026.
 
-312 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 312 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
+317 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 317 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
 
 Cao, C., Wang, H., Ge, Y., Wang, W., Guo, J., Zhou, P., Gao, F., & Chen, J. (2022). Long-term in-situ monitoring and analysis of terrain in gas hydrate trial harvesting area. *Sensors, 22*(4), Article 1351. https://doi.org/10.3390/s22041351
 
@@ -37,6 +37,8 @@ Chen, T., Zhou, H., Zhang, X., & Zhan, J. (2026). Draft genome sequence of hydro
 Chen, X., Wu, X.-N., Feng, J.-C., Wang, B., Li, C.-R., Lin, Y.-L., Huang, Y.-J., Zhong, S., Zhang, X.-C., Hu, J.-L., & Zhang, S. (2025). Methane seepage leads to a specific microplastic aging process in the simulated cold seep environment. *Journal of Hazardous Materials, 482*, Article 136572. https://doi.org/10.1016/j.jhazmat.2024.136572
 
 Chen, Y., Dai, T., Li, N., Li, Q., Lyu, Y., Di, P., Lyu, L., Zhang, S., & Li, J. (2023). Environmental heterogeneity shapes the C and S cycling-associated microbial community in Haima's cold seeps. *Frontiers in Microbiology, 14*, Article 1199853. https://doi.org/10.3389/fmicb.2023.1199853
+
+Chen, Y., Liu, Y., Li, J., Yu, H., Yang, J., Li, Q., Lyu, L., & Zhang, S. (2025). Adaptive feeding strategies facilitate resilience of deep‐sea cold seep molluscs confronting climate change. *Molecular Ecology, 34*(24), Article e70190. https://doi.org/10.1111/mec.70190
 
 Chen, Y., Lyu, Y., Zhang, J., Li, Q., Lyu, L., Zhou, Y., Kong, J., Zeng, X., Zhang, S., & Li, J. (2023). Riddles of lost city: Chemotrophic prokaryotes drives carbon, sulfur, and nitrogen cycling at an extinct cold seep, South China Sea. *Microbiology Spectrum, 11*(1), Article e03338-22. https://doi.org/10.1128/spectrum.03338-22
 
@@ -326,6 +328,8 @@ Lu, G., Zhang, Z., & Wang, W.-X. (2023). Metal bioaccumulation and transfer in b
 
 Lu, R., Gao, Z.-M., Li, W.-L., Wei, Z.-F., Wei, T.-S., Huang, J.-M., Li, M., Tao, J., Wang, H.-B., & Wang, Y. (2021). Asgard archaea in the Haima cold seep: Spatial distribution and genomic insights. *Deep Sea Research Part I: Oceanographic Research Papers, 170*, Article 103489. https://doi.org/10.1016/j.dsr.2021.103489
 
+Luo, S., Lu, L., Wei, W., Jiang, Z., & Li, Y. (2026). Post-penetration excess pore-pressure evolution at cold seeps: Sustained negative responses at active vents. *Journal of Marine Science and Engineering, 14*(21), Article 2012. https://doi.org/10.3390/jmse14212012
+
 Lv, F.-Y., Mándi, A., Li, X.-M., Chi, L.-P., Li, X., Wang, B.-G., Kurtán, T., & Meng, L.-H. (2023). Emestrin-type thiodiketopiperazines from *Aspergillus nidulans* SD-531, a fungus obtained from the deep-sea sediment of cold seep in the South China Sea. *Deep Sea Research Part I: Oceanographic Research Papers, 195*, Article 104004. https://doi.org/10.1016/j.dsr.2023.104004
 
 Lyu, L., Chen, Y., Fang, K., Huang, Q., Wang, L., Mai, Z., Li, J., & Zhang, S. (2024). Bioaccumulation and trophic transfer of short-, medium-, and long-chain-chlorinated paraffins in benthic biotas of the Haima cold seep, South China Sea. *ACS ES&T Water, 4*(5), 2101–2113. https://doi.org/10.1021/acsestwater.3c00740
@@ -335,6 +339,8 @@ Lyu, L., Li, J., Chen, Y., Mai, Z., Wang, L., Li, Q., & Zhang, S. (2022). Degrad
 Ma, L., Wang, M.-X., & Li, X.-Z. (2020). A new species of stygiopontius (copepoda, siphonostomatoida, dirivultidae) from a deep-sea cold seep in the South China Sea. *Crustaceana, 93*(11-12), 1535–1546. https://doi.org/10.1163/15685403-bja10023
 
 Ma, M., Wang, M., Liang, Y., Guo, Y., Zhang, H., Cao, L., Fu, L., Hu, G., Li, C., Mock, T., & Li, C. (2025). Microbial communities and metabolic functions vary with spatial heterogeneity in cold-seep carbonates. *ISME Communications, 5*(1), Article ycaf232. https://doi.org/10.1093/ismeco/ycaf232
+
+Miao, X., Li, J., Liu, X., Jia, X., Nan, H., He, Z., Li, J., Guan, H., & Algeo, T. J. (2026). Uranium isotopic constraints on the biogeochemistry of methane-seep environments. *Geochimica et Cosmochimica Acta, 429*, 221–236. https://doi.org/10.1016/j.gca.2026.08.002
 
 Nethupul, H., Stöhr, S., & Zhang, H. (2022). ﻿review of Ophioplinthaca verrill, 1899 (echinodermata, ophiuroidea, ophiacanthidae), description of new species in Ophioplinthaca and Ophiophthalmus, and new records from the northwest Pacific and the South China Sea. *ZooKeys, 1099*, 155–202. https://doi.org/10.3897/zookeys.1099.76479
 
@@ -425,6 +431,8 @@ Wang, J., He, J., Dong, H., & Ge, K. (2022). Association between multiphase seep
 Wang, J., Wu, S., Kong, X., Ma, B., Li, W., Wang, D., Gao, J., & Chen, W. (2018). Subsurface fluid flow at an active cold seep area in the Qiongdongnan basin, northern South China Sea. *Journal of Asian Earth Sciences, 168*, 17–26. https://doi.org/10.1016/j.jseaes.2018.06.001
 
 Wang, K., Zhao, Y., Wang, X., Qu, C., & Miao, J. (2020). Complete genome sequence of *Bacillus* sp. N1-1, a κ-selenocarrageenan degrading bacterium isolated from the cold seep in the South China Sea. *Marine Genomics, 54*, Article 100771. https://doi.org/10.1016/j.margen.2020.100771
+
+Wang, S., Zhao, T., He, W., Li, F., Wang, Z., Pan, R., Li, L., Xi, S., Luan, Z., Zhang, Z., Li, B., Chen, L., & Zhang, X. (2026). In situ deep-sea surface-enhanced Raman scattering sensor reveals cyanide as a key factor in cold seep nitrogen cycling. *Science Advances, 12*(33), Article eaef5836. https://doi.org/10.1126/sciadv.aef5836
 
 Wang, W., Yi, H., Zi, P., Wang, X., Zou, R., Zhang, Y.-Z., & Li, F. (2026). Discovery and characterization of chondroitinase a with specificity for 4-O-sulfated n-acetylgalactosamine in chondroitin sulfate/dermatan sulfate. *Journal of Biological Chemistry*, Article 113594. https://doi.org/10.1016/j.jbc.2026.113594
 
@@ -599,6 +607,8 @@ Zhang, Y., Jing, H., & Peng, X. (2020). Corrigendum to “vertical shifts of par
 Zhang, Y., Jing, H., & Peng, X. (2020). Vertical shifts of particle-attached and free-living prokaryotes in the water column above the cold seeps of the South China Sea. *Marine Pollution Bulletin, 156*, Article 111230. https://doi.org/10.1016/j.marpolbul.2020.111230
 
 Zhang, Y., Liu, H., & Jing, H. (2025). Community differences and potential function along the particle size spectrum of microbes in the twilight zone. *Microbiome, 13*(1), Article 121. https://doi.org/10.1186/s40168-025-02116-8
+
+Zhang, Y., Xi, S., Ma, L., Li, L., He, W., Du, Z., Wang, Z., Tao, J., & Zhang, X. (2026). Quantitative study of methane sequestration by hydrate-encapsulated bubbles at cold seeps: Kinetic characteristics and environmental implications. *Environmental Science & Technology, 60*(43), 30540–30550. https://doi.org/10.1021/acs.est.6c11347
 
 Zhao, J., Wu, X., Zhang, W., Wan, Z., Dong, Y., Xiao, X., Wu, Y., Wu, X., Feng, J., & Liang, Q. (2025). Multistage formation and geochemical response of pipe-morphology cold seep carbonate in the Qiongdongnan basin, northern South China Sea. *Chemical Geology, 673*, Article 122524. https://doi.org/10.1016/j.chemgeo.2024.122524
 

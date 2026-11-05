@@ -27194,5 +27194,718 @@
       "evidence_url": "https://doi.org/10.1007/s11802-026-6174-2",
       "review_packet": "config/cold_seep_reviewed.json"
     }
+  },
+  {
+    "id": "src:scs-site-f-hydrate-bubble-sequestration",
+    "citation_key": "SCSSiteFHydrateBubbleSequestration",
+    "doi": "10.1021/acs.est.6c11347",
+    "title": "Quantitative Study of Methane Sequestration by Hydrate-Encapsulated Bubbles at Cold Seeps: Kinetic Characteristics and Environmental Implications",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:site-f-seep"
+    ],
+    "compartments": [
+      "water-column"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "site-f"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Hydrate-bubble methane sequestration experiments and a Site F field model",
+    "study_profile": {
+      "spatial_scope": "Laboratory fluid-bubble flows, with the field estimate applied to Site F in the South China Sea.",
+      "temporal_scope": "Published online 30 September 2026; print issue dated 3 November 2026. The inspected abstract does not give a cruise date.",
+      "sample_design": "Time-series Raman spectroscopy of methane-hydrate growth across fluid-bubble flows, followed by a field model of hydrate-encapsulated bubbles at Site F.",
+      "habitats": [
+        "habitat:seep-water-column"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "hydrate growth, cage occupancy and a Site F sequestration estimate"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "In the tested cold-seep bubble flows, low salinity and small particles accelerated hydrate growth, and large-cage occupancy was 15% higher relative to small cages. The field model estimates that hydrate-encapsulated bubbles at Site F sequester about 0.34–2.77 t of methane per year, roughly 3.3–26.9% of that site's methane leakage flux."
+    ],
+    "limitations": [
+      "The Site F tonnage is a field model, not a measured bubble flux, and the cage-occupancy contrast is for the tested flows. Neither result is a South China Sea methane budget."
+    ],
+    "cite_for": [
+      "Hydrate-bubble methane sequestration experiments and a Site F field model within the stated study scope.",
+      "In the tested cold-seep bubble flows, low salinity and small particles accelerated hydrate growth, and large-cage occupancy was 15% higher relative to small cages. The field model estimates that hydrate-encapsulated bubbles at Site F sequester about 0.34–2.77 t of methane per year, roughly 3.3–26.9% of that site's methane leakage flux."
+    ],
+    "do_not_overcite": [
+      "The Site F tonnage is a field model, not a measured bubble flux, and the cage-occupancy contrast is for the tested flows. Neither result is a South China Sea methane budget."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1021/acs.est.6c11347",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-qiongdongnan-pore-pressure",
+    "citation_key": "SCSQiongdongnanPorePressure",
+    "doi": "10.3390/jmse14212012",
+    "title": "Post-Penetration Excess Pore-Pressure Evolution at Cold Seeps: Sustained Negative Responses at Active Vents",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:qiongdongnan"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane",
+      "methods"
+    ],
+    "sites": [
+      "qiongdongnan"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "In situ post-penetration pore-pressure study",
+    "study_profile": {
+      "spatial_scope": "Six Jiaolong submersible sites in the Qiongdongnan cold-seep area, northern South China Sea, plus a nearby vane-shear site.",
+      "temporal_scope": "Published 26 October 2026. The inspected abstract does not give the dive dates.",
+      "sample_design": "In situ excess pore-pressure records after probe penetration, compared between non-vent and active-vent sites, with vane-shear tests on nearby sediment.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:in-situ-monitoring",
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "post-penetration excess pore pressure and vane shear strength"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Non-vent sites mainly dissipated positive excess pore pressure. Only the two active vents switched to sustained negative excess pore pressure, with zero-crossing times of 0.3–3.2 min and 5.6–8.7 min. Minimum values were about −22.1 to −19.8 kPa and −27.3 to −22.0 kPa. At the nearby A2 vane-shear site, sediment at 85 cm had higher peak shear strength and lower sensitivity than at 55 and 70 cm."
+    ],
+    "limitations": [
+      "The negative-pressure pathway is a short-term response to penetration and is associated spatially with visible venting. It is not a regional pore-pressure law or a methane flux."
+    ],
+    "cite_for": [
+      "In situ post-penetration pore-pressure study within the stated study scope.",
+      "Non-vent sites mainly dissipated positive excess pore pressure. Only the two active vents switched to sustained negative excess pore pressure, with zero-crossing times of 0.3–3.2 min and 5.6–8.7 min. Minimum values were about −22.1 to −19.8 kPa and −27.3 to −22.0 kPa. At the nearby A2 vane-shear site, sediment at 85 cm had higher peak shear strength and lower sensitivity than at 55 and 70 cm."
+    ],
+    "do_not_overcite": [
+      "The negative-pressure pathway is a short-term response to penetration and is associated spatially with visible venting. It is not a regional pore-pressure law or a methane flux."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3390/jmse14212012",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-sers-cyanide-nitrogen",
+    "citation_key": "SCSHaimaSersCyanideNitrogen",
+    "doi": "10.1126/sciadv.aef5836",
+    "title": "In situ deep-sea surface-enhanced Raman scattering sensor reveals cyanide as a key factor in cold seep nitrogen cycling",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "bottom-water",
+      "water-column"
+    ],
+    "topics": [
+      "nitrogen",
+      "methane",
+      "methods"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "In situ cold-seep SERS sensor deployment",
+    "study_profile": {
+      "spatial_scope": "Haima cold seep, South China Sea. The deployment section describes ship-based tests about 100 m above the seafloor near 1,400 m and in situ tests near 1,500 m and 1,200 m.",
+      "temporal_scope": "Published 14 August 2026. The inspected sections do not give the cruise dates.",
+      "sample_design": "A deep-sea surface-enhanced Raman scattering sensor, with the abstract stating operation at or above 350 °C and 2,000 m and a limit of detection of 5.7 μM, used for cyanide gradients at the seep.",
+      "habitats": [
+        "habitat:seep-bottom-water",
+        "habitat:seep-water-column"
+      ],
+      "methods": [
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "in situ cyanide gradient and sensor performance"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:nitrogen-fixation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The abstract presents the sensor record as in situ evidence for an energy-efficient nitrogen-fixation pathway and interprets cyanide as a microbial circulating currency that was consumed along the measured gradient. The deployment section and Figure 5 place those tests at the Haima cold seep."
+    ],
+    "limitations": [
+      "The nitrogen-fixation pathway and the currency metaphor are interpretations of the cyanide gradient, not measured fixation rates. Sensor limits in the abstract are instrument performance, not seep concentrations, and this profile does not cover every supplementary figure."
+    ],
+    "cite_for": [
+      "In situ cold-seep SERS sensor deployment within the stated study scope.",
+      "The abstract presents the sensor record as in situ evidence for an energy-efficient nitrogen-fixation pathway and interprets cyanide as a microbial circulating currency that was consumed along the measured gradient. The deployment section and Figure 5 place those tests at the Haima cold seep."
+    ],
+    "do_not_overcite": [
+      "The nitrogen-fixation pathway and the currency metaphor are interpretations of the cyanide gradient, not measured fixation rates. Sensor limits in the abstract are instrument performance, not seep concentrations, and this profile does not cover every supplementary figure."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; specific full-text sections listed in the claim locator.",
+      "last_verified": "2026-11-05",
+      "access_level": "full_text_extracts",
+      "evidence_url": "https://doi.org/10.1126/sciadv.aef5836",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-uranium-isotopes",
+    "citation_key": "SCSHaimaUraniumIsotopes",
+    "doi": "10.1016/j.gca.2026.08.002",
+    "title": "Uranium isotopic constraints on the biogeochemistry of methane-seep environments",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "sediment",
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Uranium-isotope study of seep materials",
+    "study_profile": {
+      "spatial_scope": "Haima cold-seep sediment and authigenic carbonate, as stated by the authors' laboratory note. The verified title does not name the site.",
+      "temporal_scope": "Crossref issued date is September 2026. No publisher abstract was retrieved.",
+      "sample_design": "Bibliographic record only. Crossref, OpenAlex, Europe PMC and Semantic Scholar returned no abstract. The Haima sample types are taken from the Ocean University of China laboratory note of 9 September 2026, not from a publisher abstract.",
+      "habitats": [
+        "habitat:seep-sediment",
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped uranium-isotope constraints"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The verified title reports uranium-isotope constraints on the biogeochemistry of methane-seep environments. The author laboratory states that the materials are Haima seep sediment and authigenic carbonate."
+    ],
+    "limitations": [
+      "No publisher abstract was available, so this profile does not extract isotope values, redox thresholds or host-phase fractions. The Haima assignment should be checked against the paper before citing a specific core or carbonate."
+    ],
+    "cite_for": [
+      "Uranium-isotope study of seep materials within the stated study scope.",
+      "The verified title reports uranium-isotope constraints on the biogeochemistry of methane-seep environments. The author laboratory states that the materials are Haima seep sediment and authigenic carbonate."
+    ],
+    "do_not_overcite": [
+      "No publisher abstract was available, so this profile does not extract isotope values, redox thresholds or host-phase fractions. The Haima assignment should be checked against the paper before citing a specific core or carbonate."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.gca.2026.08.002",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-mollusc-feeding-genomes",
+    "citation_key": "SCSHaimaMolluscFeedingGenomes",
+    "doi": "10.1111/mec.70190",
+    "title": "Adaptive Feeding Strategies Facilitate Resilience of Deep‐Sea Cold Seep Molluscs Confronting Climate Change",
+    "year": 2025,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "symbiosis"
+    ],
+    "topics": [
+      "genomes",
+      "symbioses",
+      "methane"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes",
+      "Cold-seep prokaryotes"
+    ],
+    "study_type": "Comparative mollusc genomes and an in situ methane-leakage experiment",
+    "study_profile": {
+      "spatial_scope": "Two sympatric cold-seep molluscs named in the abstract: the symbiosis-dependent mussel Gigantidas haimaensis and the predatory snail Phymorhynchus buccinoides. The species epithet places the mussel at Haima; the abstract does not give coordinates.",
+      "temporal_scope": "Published online 27 November 2025. The inspected abstract does not give the experiment date.",
+      "sample_design": "Chromosome-level comparative genomes, plus an in situ experiment that mimicked warming-driven mass methane leakage and recorded metabolic and transcriptional responses.",
+      "habitats": [
+        "habitat:seep-symbiosis"
+      ],
+      "methods": [
+        "method:host-transcriptomics"
+      ],
+      "measured_or_derived": [
+        "gene-family expansions and experimental energy responses"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:chemosynthetic-symbiosis"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The mussel showed expanded gene families related to degrading bacterial components, including b4GalTs, and during the leakage experiment it increased metabolic rate and transcriptional responses. The snail showed expansions related to appetite and digestion, including ox2r, sult1 and chst, and instead suppressed energy production and translational and post-translational responses."
+    ],
+    "limitations": [
+      "Gene-family expansion is comparative genomics, not a measured feeding rate. One in situ leakage experiment does not give a climate-resilience rate for other seep molluscs."
+    ],
+    "cite_for": [
+      "Comparative mollusc genomes and an in situ methane-leakage experiment within the stated study scope.",
+      "The mussel showed expanded gene families related to degrading bacterial components, including b4GalTs, and during the leakage experiment it increased metabolic rate and transcriptional responses. The snail showed expansions related to appetite and digestion, including ox2r, sult1 and chst, and instead suppressed energy production and translational and post-translational responses."
+    ],
+    "do_not_overcite": [
+      "Gene-family expansion is comparative genomics, not a measured feeding rate. One in situ leakage experiment does not give a climate-resilience rate for other seep molluscs."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1111/mec.70190",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-shenloong-dracosphera",
+    "citation_key": "GCSShenloongDracosphera",
+    "doi": "10.1038/s41467-026-78965-0",
+    "title": "A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:japan-pacific-seeps",
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "symbiosis",
+      "sediment"
+    ],
+    "topics": [
+      "symbioses",
+      "sulfur",
+      "genomes"
+    ],
+    "sites": [
+      "japan-seeps",
+      "global-comparison"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes",
+      "Cold-seep prokaryotes"
+    ],
+    "study_type": "Chemosymbiotic organelle study",
+    "study_profile": {
+      "spatial_scope": "The cold-seep aplacophoran Chaetoderma shenloong. The acknowledgements credit one specimen from the Haima seep, South China Sea, and one from off Tanegashima, Kagoshima, Japan; they do not state that the Japan locality is itself a seep.",
+      "temporal_scope": "Published 30 October 2026. The inspected abstract and acknowledgements name cruises XYH01-2022-06, NORC2025-303 and KH-23-4 Leg 2, without sample depths for this paper.",
+      "sample_design": "Microscopy of a multilamellar compartment in the digestive gland, with genomic and spatial transcriptomic analyses cited in support of an oxygen-limitation interpretation.",
+      "habitats": [
+        "habitat:seep-symbiosis",
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:host-transcriptomics"
+      ],
+      "measured_or_derived": [
+        "multilamellar symbiont compartments"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:chemosynthetic-symbiosis",
+        "process:sulfur-oxidation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The publisher abstract reports sulphur-oxidising bacteria inside spherical multilamellar compartments about 12 μm across, named dracosphera, throughout the hypertrophied digestive gland of C. shenloong, whose gut is otherwise largely lost. It describes the symbionts as microaerobic and the host as living in anoxic sediment tens of centimetres below the surface, and suggests the organelle may limit oxygen reaching the bacteria."
+    ],
+    "limitations": [
+      "The oxygen-barrier role is an interpretation supported by genomic and spatial transcriptomic analyses, not a measured oxygen flux. Two acknowledged specimens do not show how common the organelle is at other seeps, and the Japan locality is not identified as a seep in the inspected acknowledgement."
+    ],
+    "cite_for": [
+      "Use as a mechanistic example of an intracellular chemosymbiotic compartment, and note that one acknowledged specimen is from Haima.",
+      "The publisher abstract reports sulphur-oxidising bacteria inside spherical multilamellar compartments about 12 μm across, named dracosphera, throughout the hypertrophied digestive gland of C. shenloong, whose gut is otherwise largely lost. It describes the symbionts as microaerobic and the host as living in anoxic sediment tens of centimetres below the surface, and suggests the organelle may limit oxygen reaching the bacteria."
+    ],
+    "do_not_overcite": [
+      "The oxygen-barrier role is an interpretation supported by genomic and spatial transcriptomic analyses, not a measured oxygen flux. Two acknowledged specimens do not show how common the organelle is at other seeps, and the Japan locality is not identified as a seep in the inspected acknowledgement."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; only the full-text sections in the claim locator were inspected.",
+      "access_level": "full_text_extracts",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1038/s41467-026-78965-0",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-carbonate-episodic-seepage-redox",
+    "citation_key": "GCSCarbonateEpisodicSeepageRedox",
+    "doi": "10.1016/j.chemgeo.2026.123794",
+    "title": "Authigenic carbonate mineralization records episodic methane seepage and redox transitions in cold-seep sediments",
+    "year": 2027,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "carbonate",
+      "sediment"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "global-unspecified"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Authigenic-carbonate mineralization study",
+    "study_profile": {
+      "spatial_scope": "Cold-seep sediments named in the verified title. No sampling region was stated in the title, and no abstract was retrieved.",
+      "temporal_scope": "Crossref print date is January 2027. Crossref created the record on 30 October 2026. No separate online date was retrieved.",
+      "sample_design": "Bibliographic record only. Crossref, OpenAlex, Europe PMC and Semantic Scholar returned no abstract.",
+      "habitats": [
+        "habitat:seep-carbonate",
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped carbonate record of episodic seepage"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The verified title reports that authigenic carbonate mineralization records episodic methane seepage and redox transitions in cold-seep sediments."
+    ],
+    "limitations": [
+      "No abstract was retrieved, so this profile does not extract a basin, core, isotope value or seepage episode. Author affiliations in India are not a sample site."
+    ],
+    "cite_for": [
+      "Cite only at the level of the title until a publisher abstract or full text names the seep.",
+      "The verified title reports that authigenic carbonate mineralization records episodic methane seepage and redox transitions in cold-seep sediments."
+    ],
+    "do_not_overcite": [
+      "No abstract was retrieved, so this profile does not extract a basin, core, isotope value or seepage episode. Author affiliations in India are not a sample site."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "access_level": "bibliographic_record",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.chemgeo.2026.123794",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-tatar-trough-anme-lipids",
+    "citation_key": "GCSTatarTroughAnmeLipids",
+    "doi": "10.1016/j.marchem.2026.104677",
+    "title": "Linking biogeochemical signatures to archaeal community structure at active methane seeps in the Tatar trough, far eastern Russia",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "sediment",
+      "carbonate"
+    ],
+    "topics": [
+      "methane",
+      "community",
+      "geochemistry"
+    ],
+    "sites": [
+      "global-unspecified"
+    ],
+    "domains": [
+      "Cold-seep prokaryotes",
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Lipid and archaeal-community comparison of two seep cores",
+    "study_profile": {
+      "spatial_scope": "Two sediment cores, LV67-07HC and LV67-19HC, from an active fault zone on the eastern slope of the Tatar Trough, northern East Sea (Sea of Japan), Far Eastern Russia.",
+      "temporal_scope": "Cores recovered on the 2014 SSGH expedition. The repository record lists early online publication on 6 August 2026 and print publication in September 2026.",
+      "sample_design": "Lipid and nucleic-acid analyses with gas and porewater measurements on the two cores.",
+      "habitats": [
+        "habitat:seep-sediment",
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:amplicon-sequencing",
+        "method:lipid-biomarker-analysis",
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "13C-depleted archaeal lipids, ANME-1 sequences and porewater gradients"
+      ],
+      "focal_taxa": [
+        "taxon:anme"
+      ],
+      "focal_processes": [
+        "process:anaerobic-methane-oxidation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Both cores had elevated light hydrocarbons, mainly methane, and carbon dioxide, and a sulfate-methane transition. Core LV67-07HC at 91–185 cm, around carbonate accretions, had high concentrations of 13C-depleted archaeal lipids, which the abstract links to stronger anaerobic methanotrophy under higher methane flux. Archaeal 16S rRNA sequences there were dominated by ANME-1. Differences between the cores are attributed to methane flux and fluid pathways in underlying coal-bearing strata."
+    ],
+    "limitations": [
+      "Lipid depletion and ANME-1 dominance indicate methanotrophic potential under the stated flux contrast; they are not a measured oxidation rate. The paper frames the Tatar Trough as the northern East Sea, not as an Arctic seep. The abstract used here is the Utrecht University repository copy because Crossref, OpenAlex and Europe PMC had none."
+    ],
+    "cite_for": [
+      "Use as a Far Eastern Russia / northern Sea of Japan comparison of ANME-1 and methane flux, without an Arctic label.",
+      "Both cores had elevated light hydrocarbons, mainly methane, and carbon dioxide, and a sulfate-methane transition. Core LV67-07HC at 91–185 cm, around carbonate accretions, had high concentrations of 13C-depleted archaeal lipids, which the abstract links to stronger anaerobic methanotrophy under higher methane flux. Archaeal 16S rRNA sequences there were dominated by ANME-1. Differences between the cores are attributed to methane flux and fluid pathways in underlying coal-bearing strata."
+    ],
+    "do_not_overcite": [
+      "Lipid depletion and ANME-1 dominance indicate methanotrophic potential under the stated flux contrast; they are not a measured oxidation rate. The paper frames the Tatar Trough as the northern East Sea, not as an Arctic seep. The abstract used here is the Utrecht University repository copy because Crossref, OpenAlex and Europe PMC had none."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1016/j.marchem.2026.104677",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-gom-coral-thioglobaceae",
+    "citation_key": "GCSGomCoralThioglobaceae",
+    "doi": "10.1186/s40168-025-02254-z",
+    "title": "Deep-sea corals near cold seeps associate with sulfur-oxidizing chemoautotrophs in the family Ca. Thioglobaceae",
+    "year": 2025,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:gulf-mexico-seeps"
+    ],
+    "compartments": [
+      "symbiosis",
+      "sediment",
+      "water-column"
+    ],
+    "topics": [
+      "symbioses",
+      "sulfur",
+      "genomes",
+      "community"
+    ],
+    "sites": [
+      "gulf-mexico"
+    ],
+    "domains": [
+      "Cold-seep prokaryotes",
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "Coral-associated Thioglobaceae survey",
+    "study_profile": {
+      "spatial_scope": "Gulf of Mexico deep-sea and mesophotic corals, plus shallow sites in the Florida Keys and Curaçao. The methods state that signs of seepage were observed only at collection sites deeper than 400 m.",
+      "temporal_scope": "Collections on eight cruises from 2009 to 2017; paper published 13 November 2025.",
+      "sample_design": "16S metabarcoding of 421 coral colonies from 42 morphotaxa at 31 deep-sea and mesophotic sites, with water and sediment screens, plus metagenomes and transcriptomes of one Paramuricea-associated phylotype.",
+      "habitats": [
+        "habitat:seep-symbiosis",
+        "habitat:seep-sediment",
+        "habitat:seep-water-column"
+      ],
+      "methods": [
+        "method:amplicon-sequencing",
+        "method:shotgun-metagenomics",
+        "method:metatranscriptomics"
+      ],
+      "measured_or_derived": [
+        "Thioglobaceae relative abundance, genome functions and host-tissue isotopes"
+      ],
+      "focal_taxa": [
+        "taxon:thioglobus"
+      ],
+      "focal_processes": [
+        "process:sulfur-oxidation",
+        "process:carbon-fixation",
+        "process:chemosynthetic-symbiosis"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Thioglobaceae ASVs reached 10–91% relative abundance in some corals, were host-specific, absent from water, and rare or absent in sediment. A genome from Paramuricea sp. B3 (ASV 4) encoded sulfur oxidation and carbon fixation, and those pathways were transcribed. Its relative abundance was negatively correlated with the stable-isotope composition of host tissue."
+    ],
+    "limitations": [
+      "A dietary or vitamin supplement from chemoautotrophy is the authors' proposal. The isotope correlation is not a measured carbon-transfer rate, and shallow Florida Keys and Curaçao sites are not seep sites."
+    ],
+    "cite_for": [
+      "Use as a Gulf of Mexico example of sulfur-oxidizing Thioglobaceae on corals near seeps, separate from mussel chemosymbiosis.",
+      "Thioglobaceae ASVs reached 10–91% relative abundance in some corals, were host-specific, absent from water, and rare or absent in sediment. A genome from Paramuricea sp. B3 (ASV 4) encoded sulfur oxidation and carbon fixation, and those pathways were transcribed. Its relative abundance was negatively correlated with the stable-isotope composition of host tissue."
+    ],
+    "do_not_overcite": [
+      "A dietary or vitamin supplement from chemoautotrophy is the authors' proposal. The isotope correlation is not a measured carbon-transfer rate, and shallow Florida Keys and Curaçao sites are not seep sites."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; only the full-text sections in the claim locator were inspected.",
+      "access_level": "full_text_extracts",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1186/s40168-025-02254-z",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-atlantic-monterey-nifh-seeps",
+    "citation_key": "GCSAtlanticMontereyNifhSeeps",
+    "doi": "10.1111/1462-2920.70058",
+    "title": "Abundance, Identity, and Potential Diazotrophic Activity of nifH ‐Containing Organisms at Marine Cold Seeps",
+    "year": 2025,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:atlantic-seeps",
+      "region:northeast-pacific-seeps"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "nitrogen",
+      "methane",
+      "community"
+    ],
+    "sites": [
+      "atlantic-seeps",
+      "northeast-pacific"
+    ],
+    "domains": [
+      "Cold-seep prokaryotes"
+    ],
+    "study_type": "nifH amplicon and qPCR survey inside and outside seeps",
+    "study_profile": {
+      "spatial_scope": "Six seeps named by the journal abstract only as biogeochemically heterogeneous. The linked ENA project PRJEB72160 is titled as US Atlantic margin and Monterey Bay cold-seep nifH sequences. The journal abstract itself does not list the localities.",
+      "temporal_scope": "Published online 10 March 2025; journal issue dated March 2025. The inspected abstract does not give sampling dates.",
+      "sample_design": "nifH amplicon sequencing and qPCR of genes and transcripts inside and outside the six seeps, with a correction for non-nifH amplicons.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:amplicon-sequencing",
+        "method:q-pcr"
+      ],
+      "measured_or_derived": [
+        "corrected nifH gene and transcript abundance"
+      ],
+      "focal_taxa": [
+        "taxon:anme",
+        "taxon:diazotrophs"
+      ],
+      "focal_processes": [
+        "process:nitrogen-fixation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "nifH genes spanned 18 bacterial and archaeal phyla, 17 of them inside seeps, including ANME-2, Desulfobacteraceae, Desulfuromonadales, Desulfoglaeba and Candidatus Methanoliparia. Transcripts were detected at five of the six seeps. After removing the 71% of sequences that were not bona fide nifH, abundance was up to three orders of magnitude higher inside seeps, correlated with mcrA, and negatively correlated with porewater ammonium below 25 μM."
+    ],
+    "limitations": [
+      "Transcript detection and the ammonium correlation support potential diazotrophy, not a measured nitrogen-fixation rate. Localities are not in the journal abstract; this profile assigns the US Atlantic margin and Monterey Bay from ENA project PRJEB72160 and does not treat the seeps as Arctic."
+    ],
+    "cite_for": [
+      "Use when comparing nifH-bearing ANME-2 and sulfate reducers at seeps, with the geographic assignment limited to the linked sequence project.",
+      "nifH genes spanned 18 bacterial and archaeal phyla, 17 of them inside seeps, including ANME-2, Desulfobacteraceae, Desulfuromonadales, Desulfoglaeba and Candidatus Methanoliparia. Transcripts were detected at five of the six seeps. After removing the 71% of sequences that were not bona fide nifH, abundance was up to three orders of magnitude higher inside seeps, correlated with mcrA, and negatively correlated with porewater ammonium below 25 μM."
+    ],
+    "do_not_overcite": [
+      "Transcript detection and the ammonium correlation support potential diazotrophy, not a measured nitrogen-fixation rate. Localities are not in the journal abstract; this profile assigns the US Atlantic margin and Monterey Bay from ENA project PRJEB72160 and does not treat the seeps as Arctic."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1111/1462-2920.70058",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
   }
 ]
