@@ -2,7 +2,7 @@
 
 Publication discovery window: 2016-10-12 to 2026-11-05. Source-review update: 13 October 2026.
 
-312 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 312 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
+315 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 315 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
 
 Cao, C., Wang, H., Ge, Y., Wang, W., Guo, J., Zhou, P., Gao, F., & Chen, J. (2022). Long-term in-situ monitoring and analysis of terrain in gas hydrate trial harvesting area. *Sensors, 22*(4), Article 1351. https://doi.org/10.3390/s22041351
 
@@ -27,6 +27,8 @@ Chen, C., Liu, X., Gu, X., Qiu, J.-W., & Sun, J. (2024). Integrative taxonomy of
 Chen, C., Zhong, L., Wan, Z., Cheng, C., Zhou, W., & Xu, X. (2022). Geochemical characteristics of cold-seep carbonates in Shenhu area, South China Sea. *Journal of Oceanology and Limnology, 40*(3), 969–985. https://doi.org/10.1007/s00343-021-1112-z
 
 Chen, C., Zhong, Z., Qiu, J.-W., & Sun, J. (2023). A new *Paralepetopsis limpet* from a South China Sea seep hints at a paraphyletic Neolepetopsidae. *Zoological Studies, 62*, Article 26. https://doi.org/10.6620/zs.2023.62-26
+
+Chen, H., Zhao, J., Liang, Q., Li, J., Feng, J., Xiao, X., Chen, Z., Li, Y., & Xiong, Y. (2025). Methane clumped isotopes of shallow gas hydrates in the Haima cold seeps, South China Sea: Implications for marine carbon cycling and sequestration. *Marine and Petroleum Geology, 180*, Article 107449. https://doi.org/10.1016/j.marpetgeo.2025.107449
 
 Chen, Q., Hu, Y., Peckmann, J., Chen, L., Feng, D., Liang, Q., & Chen, D. (2023). The formation of authigenic phosphorus minerals in cold-seep sediments from the South China Sea: Implications for carbon cycling below the sulfate-methane transition. *Marine and Petroleum Geology, 155*, Article 106425. https://doi.org/10.1016/j.marpetgeo.2023.106425
 
@@ -85,6 +87,8 @@ Du, L., Cai, S., Liu, J., Liu, R., & Zhang, H. (2020). The complete mitochondria
 Du, Z., Zhang, X., Luan, Z., Wang, M., Xi, S., Li, L., Wang, B., Cao, L., Lian, C., Li, C., & Yan, J. (2018). In situ Raman quantitative detection of the cold seep vents and fluids in the chemosynthetic communities in the South China Sea. *Geochemistry, Geophysics, Geosystems, 19*(7), 2049–2061. https://doi.org/10.1029/2018gc007496
 
 Du, Z., Zhang, X., Xi, S., Li, L., Luan, Z., Lian, C., Wang, B., & Yan, J. (2018). In situ Raman spectroscopy study of synthetic gas hydrate formed by cold seep flow in the South China Sea. *Journal of Asian Earth Sciences, 168*, 197–206. https://doi.org/10.1016/j.jseaes.2018.02.003
+
+Fan, J., Guan, H., Wang, Z., Xu, X., Miao, X., Li, Q., Wu, H., Li, S., & Wu, N. (2026). Archaeal lipid hydrogen isotope fractionation reveals carbon and energy metabolism in seep ecosystems. *Geochimica et Cosmochimica Acta, 433*, 260–271. https://doi.org/10.1016/j.gca.2026.10.006
 
 Fang, Y., Wei, J., Lu, H., Liang, J., Lu, J., Fu, J., & Cao, J. (2019). Chemical and structural characteristics of gas hydrates from the Haima cold seeps in the Qiongdongnan basin of the South China Sea. *Journal of Asian Earth Sciences, 182*, Article 103924. https://doi.org/10.1016/j.jseaes.2019.103924
 
@@ -323,6 +327,8 @@ Liu, Z., Wei, Z., Fang, J., Wang, B., Liu, Q., Luo, Y., Dong, L., Wan, S., Liu, 
 Lu, C., Xia, Y., Sun, X., Bian, H., Qiu, H., Lu, H., Luo, W., & Cai, J. (2019). Permeability evolution at various pressure gradients in natural gas hydrate reservoir at the Shenhu area in the South China Sea. *Energies, 12*(19), Article 3688. https://doi.org/10.3390/en12193688
 
 Lu, G., Zhang, Z., & Wang, W.-X. (2023). Metal bioaccumulation and transfer in benthic species based on isotopic signatures of individual amino acids in South China Sea cold seep environments. *Environmental Pollution, 317*, Article 120822. https://doi.org/10.1016/j.envpol.2022.120822
+
+Lu, H., Xiao, C., Xu, C., Xing, D., Liu, J., Yu, L., Li, X., Sa, R., Ning, Z., & Qi, R. (2026). Methane solubility in a gas hydrate environment at the Shenhu trial production area, northern South China Sea. *Energy & Fuels*. https://doi.org/10.1021/acs.energyfuels.6c01480
 
 Lu, R., Gao, Z.-M., Li, W.-L., Wei, Z.-F., Wei, T.-S., Huang, J.-M., Li, M., Tao, J., Wang, H.-B., & Wang, Y. (2021). Asgard archaea in the Haima cold seep: Spatial distribution and genomic insights. *Deep Sea Research Part I: Oceanographic Research Papers, 170*, Article 103489. https://doi.org/10.1016/j.dsr.2021.103489
 

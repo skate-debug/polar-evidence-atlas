@@ -88,6 +88,48 @@ Evidence locator / 证据位置：Verified DOI bibliographic record and title; n
 
 [Inspected source / 核查来源](https://doi.org/10.1016/j.jseaes.2026.107253) · `src:scs-scs-margin-mercury-isotopes`
 
+## Archaeal lipid hydrogen isotope fractionation reveals carbon and energy metabolism in seep ecosystems
+
+冷泉碳酸盐古菌脂质氢同位素分馏对碳代谢与细胞能量状态的指示
+
+Fan, J., Guan, H., Wang, Z., Xu, X., Miao, X., Li, Q., Wu, H., Li, S., & Wu, N. (2026). Archaeal lipid hydrogen isotope fractionation reveals carbon and energy metabolism in seep ecosystems. *Geochimica et Cosmochimica Acta, 433*, 260–271. https://doi.org/10.1016/j.gca.2026.10.006
+
+**Design / 研究设计**: Measure compound-specific hydrogen isotopes of archaeal lipids against porewater, and compare ANME-1 and ANME-2 lipid ε2H and ε13C with published culture ranges.
+
+测定古菌脂质的化合物特异氢同位素并与孔隙水比较，再将 ANME-1 和 ANME-2 脂质的 ε2H、ε13C 与已发表培养范围对照。
+
+**Sampling scope / 采样范围**: Authigenic carbonates from two seep sites, Haima in the South China Sea and AC818 in the Gulf of Mexico, interpreted with compiled seep lipid data.
+
+两个冷泉站的自生碳酸盐：南海海马和墨西哥湾 AC818，并结合已汇编的冷泉脂质数据解释。
+
+**Time / 时间**: Sampling dates were not stated in the inspected abstract. Crossref dates the issue to November 2026 at month precision, and the DOI record was created on 6 October 2026.
+
+所查摘要未给出采样日期。Crossref 将期次标为 2026 年 11 月且只精确到月，DOI 记录创建于 2026 年 10 月 6 日。
+
+**Methods / 方法**: Lipid biomarker analysis; Porewater and water geochemistry
+
+脂质生物标志物分析；孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: archaeal lipid ε2H and ε13C
+
+古菌脂质 ε2H 与 ε13C
+
+**Findings / 发现**: At the sampled carbonates, ε2H between ANME-derived isoprenoids and porewater had an interquartile range of −227‰ to −205‰. Compiled seep carbonate and sediment values averaged −218 ± 23‰, between published autotrophic (−252 ± 39‰) and heterotrophic (−203 ± 24‰) ranges, which the authors read as mixotrophy controlled by carbon metabolism and cellular energy status rather than by aerobic versus anaerobic respiration. ANME-1 lipids were more negative in ε2H (−233 ± 29‰) and less negative in ε13C (−53 ± 9‰) than ANME-2 (−211 ± 21‰ and −62 ± 6‰).
+
+在所测碳酸盐中，ANME 来源类异戊二烯相对孔隙水的 ε2H 四分位范围为 −227‰ 至 −205‰。汇编的冷泉碳酸盐和沉积物数值平均为 −218 ± 23‰，介于已发表的自养（−252 ± 39‰）与异养（−203 ± 24‰）范围之间；作者将其读作混合营养，并认为主控因素是碳代谢和细胞能量状态，而不是好氧与厌氧呼吸的差别。ANME-1 脂质的 ε2H 更负（−233 ± 29‰），ε13C 的负值较小（−53 ± 9‰）；ANME-2 分别为 −211 ± 21‰ 和 −62 ± 6‰。
+
+**Citation limits / 引用边界**: The fractionation ranges are not in situ anaerobic methane oxidation rates at Haima or AC818. The bioenergetic interpretation combines these carbonates with axenic culture compilations and does not show how syntrophic ANME–SRB energy sharing sets ε2H at either site.
+
+这些分馏范围不是海马或 AC818 的原位厌氧甲烷氧化速率。生物能量解释把这些碳酸盐与纯培养汇编放在一起，不能说明互营的 ANME–硫酸盐还原菌如何决定任一站位的 ε2H。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Publisher abstract on ScienceDirect; Crossref deposited no abstract.
+
+ScienceDirect 上的出版方摘要；Crossref 未存入摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.gca.2026.10.006) · `src:scs-haima-anme-lipid-hydrogen`
+
 ## Authigenic 13C-depleted perylene in marine cold seeps
 
 海马冷泉自生碳酸盐中极低 δ13C 的自生苝
@@ -1013,6 +1055,48 @@ Evidence locator / 证据位置：Abstract
 摘要
 
 [Inspected source / 核查来源](https://doi.org/10.1126/sciadv.aed8728) · `src:scs-haima-clam-sulfide-2026`
+
+## Methane Solubility in a Gas Hydrate Environment at the Shenhu Trial Production Area, Northern South China Sea
+
+神狐试采区天然气水合物环境中的甲烷溶解度
+
+Lu, H., Xiao, C., Xu, C., Xing, D., Liu, J., Yu, L., Li, X., Sa, R., Ning, Z., & Qi, R. (2026). Methane solubility in a gas hydrate environment at the Shenhu trial production area, northern South China Sea. *Energy & Fuels*. https://doi.org/10.1021/acs.energyfuels.6c01480
+
+**Design / 研究设计**: Calculate the in situ methane solubility profile under hydrate phase equilibrium with the marine approach of Davie (2004), and compare the gradient with Cascadia site 889 and sediment organic carbon.
+
+在水合物相平衡条件下，用 Davie（2004）的海洋方法计算原位甲烷溶解度剖面，并与卡斯卡迪亚 889 站的梯度以及沉积物有机碳比较。
+
+**Sampling scope / 采样范围**: The SHSC-4 trial-production site in the Shenhu area, northern South China Sea.
+
+南海北部神狐海域的 SHSC-4 试采站。
+
+**Time / 时间**: Published online 27 May 2026. The inspected abstract does not give a sampling date.
+
+2026 年 5 月 27 日在线发表。所查摘要未给出采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: calculated methane solubility
+
+计算的甲烷溶解度
+
+**Findings / 发现**: Calculated solubility was 120.23 mM at the base of the hydrate stability zone and fell exponentially to 58.02 mM toward the seafloor. The authors describe that slope as comparable to Cascadia site 889 and, together with low total organic carbon, infer a mainly deep methane supply and insufficient in situ microbial methanogenesis to sustain the local hydrate accumulation.
+
+计算得到的溶解度在水合物稳定带底界为 120.23 mM，向海底呈指数降至 58.02 mM。作者认为该梯度与卡斯卡迪亚 889 站相当，并结合较低的总有机碳，推断甲烷供应主要来自深部，原位微生物产甲烷不足以维持当地的水合物聚集。
+
+**Citation limits / 引用边界**: The profile is a solubility calculation, not a measured methane concentration or a methanogenesis rate. A slope likened to Cascadia and low organic carbon do not fingerprint the gas source.
+
+该剖面是溶解度计算，不是实测甲烷浓度，也不是产甲烷速率。与卡斯卡迪亚类比的梯度加上较低的有机碳，不能作为气体来源的指纹。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Publisher abstract as indexed by OpenAlex; Crossref deposited no abstract.
+
+OpenAlex 收录的出版方摘要；Crossref 未存入摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1021/acs.energyfuels.6c01480) · `src:scs-shenhu-methane-solubility`
 
 ## Microbial processing of organic matter in cold seep sediments revealed by amino compound distributions and degradation indices
 
@@ -2617,6 +2701,48 @@ Evidence locator / 证据位置：Abstract; Metagenomic and metatranscriptomic d
 摘要； 宏基因组和宏转录组数据集和处理
 
 [Inspected source / 核查来源](https://doi.org/10.1038/s41467-025-60142-4) · `src:scs-phosphorus-lucapcycle`
+
+## Methane clumped isotopes of shallow gas hydrates in the Haima cold seeps, South China Sea: Implications for marine carbon cycling and sequestration
+
+海马冷泉浅层天然气水合物的甲烷团簇同位素
+
+Chen, H., Zhao, J., Liang, Q., Li, J., Feng, J., Xiao, X., Chen, Z., Li, Y., & Xiong, Y. (2025). Methane clumped isotopes of shallow gas hydrates in the Haima cold seeps, South China Sea: Implications for marine carbon cycling and sequestration. *Marine and Petroleum Geology, 180*, Article 107449. https://doi.org/10.1016/j.marpetgeo.2025.107449
+
+**Design / 研究设计**: Use methane clumped isotopes with headspace-gas and pore-water chemistry, and compare the shallow hydrates with published deep gas-hydrate datasets.
+
+用甲烷团簇同位素，并结合顶空气和孔隙水化学，再与已发表的深层天然气水合物数据比较。
+
+**Sampling scope / 采样范围**: Hydrate-bound gas and pore fluid from shallow sediments at the Haima cold seeps, Qiongdongnan Basin, South China Sea.
+
+南海琼东南盆地海马冷泉浅层沉积物中的水合物结合气和孔隙流体。
+
+**Time / 时间**: The inspected abstract does not give sampling dates. Crossref dates the issue to October 2025.
+
+所查摘要未给出采样日期。Crossref 将期次标为 2025 年 10 月。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: methane clumped-isotope source split
+
+甲烷团簇同位素的来源划分
+
+**Findings / 发现**: Clumped isotopes assigned 47.3% of the methane in these shallow Haima gas hydrates to a thermogenic source and the remainder to microbial methane. Headspace gas and pore water were taken as a trace of anaerobic methane oxidation in the methane captured by the shallow hydrates. Comparison with published deep-hydrate data placed biogenic methane generation and accumulation in the Pliocene to Quaternary.
+
+团簇同位素把这些海马浅层天然气水合物中 47.3% 的甲烷归为热成因，其余归为微生物成因。顶空气和孔隙水被当作浅层水合物所捕获甲烷发生过厌氧氧化的痕迹。与已发表深层水合物数据的比较，把生物成因甲烷的生成和聚集放在上新世至第四纪。
+
+**Citation limits / 引用边界**: The 47.3% figure is a source estimate for the sampled shallow hydrates, not a Qiongdongnan inventory or a measured oxidation rate. The Pliocene–Quaternary span is a comparison with published deep-hydrate datasets, not a new date for every sample.
+
+47.3% 是所采浅层水合物的来源估计，不是琼东南的清单，也不是实测氧化速率。上新世至第四纪来自与已发表深层水合物数据的比较，不是每件样品的新定年。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Publisher abstract as carried by the NASA ADS record; Crossref deposited no abstract.
+
+NASA ADS 记录所载的出版方摘要；Crossref 未存入摘要。
+
+[Inspected source / 核查来源](https://ui.adsabs.harvard.edu/abs/2025MarPG.18007449C/abstract) · `src:scs-haima-hydrate-clumped-methane`
 
 ## Methane filtration and metabolic cooperation of microbial communities in cold seep water columns from South China Sea
 

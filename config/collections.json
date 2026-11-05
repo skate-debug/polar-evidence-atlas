@@ -53,6 +53,7 @@
     {"id": "arctic-seeps", "label": "Arctic and Nordic seep sites", "zh": "北极与北欧冷泉", "concept_id": "region:arctic-nordic-seeps"},
     {"id": "arctic-ocean", "label": "Arctic Ocean", "zh": "北冰洋", "concept_id": "region:arctic-ocean"},
     {"id": "north-sea", "label": "North Sea", "zh": "北海", "concept_id": "region:north-sea-seeps"},
+    {"id": "bothnian-sea", "label": "Bothnian Sea", "zh": "波的尼亚海", "concept_id": "region:bothnian-sea"},
     {"id": "hikurangi", "label": "Hikurangi margin, New Zealand", "zh": "新西兰希库朗伊陆缘", "concept_id": "region:hikurangi-seeps"},
     {"id": "indian-ocean-seeps", "label": "Indian Ocean seep margins", "zh": "印度洋冷泉陆缘", "concept_id": "region:indian-ocean-seeps"},
     {"id": "japan-seeps", "label": "Japan and northwest Pacific margins", "zh": "日本与西北太平洋陆缘", "concept_id": "region:japan-pacific-seeps"},

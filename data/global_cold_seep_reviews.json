@@ -4882,6 +4882,34 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1126/sciadv.aei5868",
+      "candidate_id": "global-seep-candidate:10-1126-sciadv-aei5868",
+      "source_id": "src:gcs-bothnian-anme-aom-pathways",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "full_text_extracts",
+      "evidence_url": "https://www.science.org/doi/10.1126/sciadv.aei5868",
+      "locator": "Abstract; Introduction; Materials and Methods site description; Data availability. Not every figure or the supplement was reviewed.",
+      "reason": "Use as a mechanistic comparator for multi-acceptor ANME-2a oxidation in a brackish sulfate–methane transition zone, not as an Arctic or South China Sea seep rate.",
+      "reason_zh": "作为半咸水硫酸盐–甲烷转换带中 ANME-2a 多电子受体氧化的机制对照，而不是北极或南海冷泉的速率。",
+      "next_action": "Add further figure-specific comparisons when relevant.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "genomes",
+        "geochemistry"
+      ],
+      "sites": [
+        "bothnian-sea"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "7e0e296a024644d79bf349487e2ca320626d4301d29251456c970ea6ebb87274"
+    },
+    {
       "doi": "10.1126/science.1246298",
       "candidate_id": "global-seep-candidate:10-1126-science-1246298",
       "source_id": "src:gcs-svalbard-seepage-timescale",
