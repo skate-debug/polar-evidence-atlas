@@ -361,6 +361,32 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1007/s00227-026-04853-2",
+      "candidate_id": "global-seep-candidate:10-1007-s00227-026-04853-2",
+      "source_id": "src:gcs-arctic-seep-chemotone",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1007/s00227-026-04853-2",
+      "locator": "Abstract read from OpenAlex and the Springer record. Crossref deposited no abstract.",
+      "reason": "Use for seep-edge chemotone fauna at a groundwater-fed Arctic seep, not as a count of obligate seep species.",
+      "reason_zh": "用于地下水补给的北极冷泉边缘化学过渡带生物，而不是专性冷泉物种计数。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "interface"
+      ],
+      "topics": [
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "52ded58fba784e3503a64ed5c383b24d011c22b6320f6c38ad6022b7d495aa6c"
+    },
+    {
       "doi": "10.1007/s00248-018-1299-5",
       "candidate_id": "global-seep-candidate:10-1007-s00248-018-1299-5",
       "status": "awaiting_source_review",
@@ -7686,6 +7712,34 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.59717/j.tiw.2026.100006",
+      "candidate_id": "global-seep-candidate:10-59717-j-tiw-2026-100006",
+      "source_id": "src:gcs-paleo-seep-gas-venting",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "full_text_opening",
+      "evidence_url": "https://doi.org/10.59717/j.tiw.2026.100006",
+      "locator": "CC BY PDF opening: publication dates, the paleo-seep definition, and the Shenhu ROV observation.",
+      "reason": "Use as 2026 context for gas venting from paleo-seep plumbing, and keep the new observation at Shenhu Canyon 12.",
+      "reason_zh": "作为 2026 年古冷泉通道仍在排气的背景，并把新观测保留在神狐峡谷 12。",
+      "next_action": "Add further figure-specific comparisons when relevant.",
+      "compartments": [
+        "bottom-water",
+        "water-column"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "e142fe19a8aa0199f26a64d9b6426cb6947f0c49e2abb42fd68bf17955b057c7"
     },
     {
       "doi": "10.61733/jconch/4521",

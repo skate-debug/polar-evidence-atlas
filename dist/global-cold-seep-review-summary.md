@@ -1,15 +1,15 @@
 # International seep review queue / 国际冷泉核查队列
 
-Window: 2016-10-13–2026-11-05. 505 active DOI records; 131 persistent curated comparisons; 18 archived records.
+Window: 2016-10-13–2026-11-05. 507 active DOI records; 133 persistent curated comparisons; 18 archived records.
 
-Access: 95 abstract-scoped, 13 bibliographic-record only, 23 inspected full-text passages. / 核查材料：95 篇限于摘要，13 篇仅有经核验书目记录，23 篇已核查相关全文段落。
+Access: 96 abstract-scoped, 13 bibliographic-record only, 24 inspected full-text passages. / 核查材料：96 篇限于摘要，13 篇仅有经核验书目记录，24 篇已核查相关全文段落。
 
 Shared DOI sources are counted once in the atlas, even when they appear in multiple collections. Candidates have no scientific claim until inspected. / 跨专题共享 DOI 在全图谱仅计一次；候选文献经核查后才产生科学论断。
 
 | Status / 状态 | Records / 记录数 |
 |---|---:|
 | awaiting_source_review | 336 |
-| curated | 113 |
+| curated | 115 |
 | excluded | 1 |
 | version_check | 55 |
 

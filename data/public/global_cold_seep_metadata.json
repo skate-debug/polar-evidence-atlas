@@ -4014,6 +4014,185 @@
       "URL": "https://doi.org/10.1007/s00227-020-3656-4",
       "article-number": "42"
     },
+    "10.1007/s00227-026-04853-2": {
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                5,
+                28
+              ]
+            ],
+            "date-time": "2026-05-28T00:00:00Z",
+            "timestamp": 1779926400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                5,
+                28
+              ]
+            ],
+            "date-time": "2026-05-28T00:00:00Z",
+            "timestamp": 1779926400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1007/s00227-026-04853-2",
+      "type": "journal-article",
+      "title": [
+        "Life on the edge: distinctive and diverse communities in the chemotone peripheral to Arctic seeps"
+      ],
+      "volume": "173",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7847-2137",
+          "authenticated-orcid": false,
+          "given": "Arunima",
+          "family": "Sen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Brian",
+          "family": "Sevin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Antonia",
+          "family": "Kotliarov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei Li",
+          "family": "Hong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Beata",
+          "family": "Szymczycha",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Magdalena",
+          "family": "Diak",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Aivo",
+          "family": "Lepland",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jochen",
+          "family": "Knies",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Marine Biology"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            28
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/s00227-026-04853-2",
+      "relation": {},
+      "article-number": "113",
+      "metadata_verification_url": "https://doi.org/10.1007/s00227-026-04853-2",
+      "metadata_verification_basis": "Crossref published-online date. The abstract was read from OpenAlex and the Springer page; Crossref deposited no abstract."
+    },
     "10.1007/s00248-018-1299-5": {
       "publisher": "Springer Science and Business Media LLC",
       "issue": "2",
@@ -88339,6 +88518,124 @@
         ]
       },
       "URL": "https://doi.org/10.5852/ejt.2023.910.2365"
+    },
+    "10.59717/j.tiw.2026.100006": {
+      "publisher": "Innovation Press Co., Limited",
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "DOI": "10.59717/j.tiw.2026.100006",
+      "type": "journal-article",
+      "page": "100006",
+      "title": [
+        "Global seafloor gas venting: New insights from paleo-coldseep systems"
+      ],
+      "volume": "1",
+      "author": [
+        {
+          "given": "Zhaojie",
+          "family": "Cheng",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhuangcai",
+          "family": "Tian",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jingxin",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhenchao",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sicheng",
+          "family": "Bian",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ming",
+          "family": "Su",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiujun",
+          "family": "Guo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "The Innovation Water"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.59717/j.tiw.2026.100006",
+      "relation": {},
+      "metadata_verification_url": "https://doi.org/10.59717/j.tiw.2026.100006",
+      "metadata_verification_basis": "Crossref issued year is 2026. The CC BY PDF prints published online 24 August 2026, received 19 May 2026, and accepted 21 August 2026."
     },
     "10.61733/jconch/4521": {
       "publisher": "Conchological Society of Great Britain & Ireland",
