@@ -2755,6 +2755,83 @@
       "publication_stage": "journal_record"
     },
     {
+      "id": "seep-candidate:10-1016-j-chemgeo-2026-123408",
+      "doi": "10.1016/j.chemgeo.2026.123408",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Reactive phosphorus retention in seabed cold-seep carbonates: Implications for phosphorus recycling and efflux in anoxic marine environments",
+      "publication_date": "2026-06-20",
+      "publication_date_precision": "day",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Chao Gao",
+        "Yu Hu",
+        "Jörn Peckmann",
+        "Linying Chen",
+        "Qianyong Liang",
+        "Duofu Chen",
+        "Dong Feng"
+      ],
+      "author_records": [
+        {
+          "firstName": "Chao",
+          "lastName": "Gao"
+        },
+        {
+          "firstName": "Yu",
+          "lastName": "Hu"
+        },
+        {
+          "firstName": "Jörn",
+          "lastName": "Peckmann"
+        },
+        {
+          "firstName": "Linying",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Qianyong",
+          "lastName": "Liang"
+        },
+        {
+          "firstName": "Duofu",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Dong",
+          "lastName": "Feng"
+        }
+      ],
+      "journal": "Chemical Geology",
+      "volume": "711",
+      "issue": "",
+      "pages": "123408",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1016/j.chemgeo.2026.123408",
+      "compartments": [
+        "carbonate",
+        "sediment"
+      ],
+      "topics": [
+        "phosphorus",
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "regional"
+      ],
+      "priority": "context",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T20:16:46.635745+00:00",
+      "last_seen_at": "2026-11-05T20:16:46.635745+00:00"
+    },
+    {
       "id": "seep-candidate:10-1016-j-isci-2026-116441",
       "collection": "scs-cold-seeps",
       "status": "candidate",
@@ -4535,6 +4612,75 @@
         "Journal Article"
       ],
       "publication_stage": "journal_record"
+    },
+    {
+      "id": "seep-candidate:10-1007-s42995-026-00368-3",
+      "doi": "10.1007/s42995-026-00368-3",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Specialised gut symbionts in deep-sea holothurian Chiridota hydrothermica support host nutrition and biogeochemical cycling in cold seep ecosystems",
+      "publication_date": "2026-03-18",
+      "publication_date_precision": "day",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Dian-Hang Jiang",
+        "Ting Xu",
+        "Kai Zhang",
+        "Wei-Zhi Song",
+        "Pei-Yuan Qian"
+      ],
+      "author_records": [
+        {
+          "firstName": "Dian-Hang",
+          "lastName": "Jiang"
+        },
+        {
+          "firstName": "Ting",
+          "lastName": "Xu"
+        },
+        {
+          "firstName": "Kai",
+          "lastName": "Zhang"
+        },
+        {
+          "firstName": "Wei-Zhi",
+          "lastName": "Song"
+        },
+        {
+          "firstName": "Pei-Yuan",
+          "lastName": "Qian"
+        }
+      ],
+      "journal": "Marine Life Science & Technology",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1007/s42995-026-00368-3",
+      "compartments": [
+        "symbiosis",
+        "sediment"
+      ],
+      "topics": [
+        "genomes",
+        "symbioses",
+        "carbon",
+        "methane",
+        "sulfur"
+      ],
+      "sites": [
+        "haima"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T20:16:46.635745+00:00",
+      "last_seen_at": "2026-11-05T20:16:46.635745+00:00"
     },
     {
       "id": "seep-candidate:10-1016-j-jhazmat-2026-141804",
@@ -7756,6 +7902,92 @@
       "publication_stage": "journal_record"
     },
     {
+      "id": "seep-candidate:10-1029-2025gb008735",
+      "doi": "10.1029/2025gb008735",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Chemoautotrophy Enhances Iron and Phosphorus Recycling From Sediments at Deep‐Sea Methane Seeps",
+      "publication_date": "2025-08-22",
+      "publication_date_precision": "day",
+      "year": 2025,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Yuxuan Lin",
+        "Jing Sun",
+        "Xiaotian Zhou",
+        "Cheng Zhong",
+        "Xingyu Yang",
+        "Liuqian Yu",
+        "Jin Sun",
+        "Pei-Yuan Qian",
+        "Jiying Li"
+      ],
+      "author_records": [
+        {
+          "firstName": "Yuxuan",
+          "lastName": "Lin"
+        },
+        {
+          "firstName": "Jing",
+          "lastName": "Sun"
+        },
+        {
+          "firstName": "Xiaotian",
+          "lastName": "Zhou"
+        },
+        {
+          "firstName": "Cheng",
+          "lastName": "Zhong"
+        },
+        {
+          "firstName": "Xingyu",
+          "lastName": "Yang"
+        },
+        {
+          "firstName": "Liuqian",
+          "lastName": "Yu"
+        },
+        {
+          "firstName": "Jin",
+          "lastName": "Sun"
+        },
+        {
+          "firstName": "Pei-Yuan",
+          "lastName": "Qian"
+        },
+        {
+          "firstName": "Jiying",
+          "lastName": "Li"
+        }
+      ],
+      "journal": "Global Biogeochemical Cycles",
+      "volume": "39",
+      "issue": "8",
+      "pages": "",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1029/2025gb008735",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "phosphorus",
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "haima"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T20:16:46.635745+00:00",
+      "last_seen_at": "2026-11-05T20:16:46.635745+00:00"
+    },
+    {
       "id": "seep-candidate:10-1029-2025gl115957",
       "doi": "10.1029/2025gl115957",
       "collection": "scs-cold-seeps",
@@ -10821,6 +11053,87 @@
       "discovery_source": "Crossref publisher-deposited metadata",
       "first_discovered_at": "2026-10-13T04:24:28.324104+00:00",
       "last_seen_at": "2026-10-13T04:24:28.324104+00:00"
+    },
+    {
+      "id": "seep-candidate:10-3389-fmars-2025-1528106",
+      "doi": "10.3389/fmars.2025.1528106",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Combined uranium-series and trace elements analysis in cold seep bivalves: possibility in hundred-year-scale reconstruction of deep-sea temperature and acidification",
+      "publication_date": "2025-03-13",
+      "publication_date_precision": "day",
+      "year": 2025,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Chaofeng Cai",
+        "Jing-Chun Feng",
+        "Guozhong Wu",
+        "Rui Hou",
+        "Xiao Chen",
+        "Jinyi Liu",
+        "Xiaochun Zhang",
+        "Si Zhang"
+      ],
+      "author_records": [
+        {
+          "firstName": "Chaofeng",
+          "lastName": "Cai"
+        },
+        {
+          "firstName": "Jing-Chun",
+          "lastName": "Feng"
+        },
+        {
+          "firstName": "Guozhong",
+          "lastName": "Wu"
+        },
+        {
+          "firstName": "Rui",
+          "lastName": "Hou"
+        },
+        {
+          "firstName": "Xiao",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Jinyi",
+          "lastName": "Liu"
+        },
+        {
+          "firstName": "Xiaochun",
+          "lastName": "Zhang"
+        },
+        {
+          "firstName": "Si",
+          "lastName": "Zhang"
+        }
+      ],
+      "journal": "Frontiers in Marine Science",
+      "volume": "12",
+      "issue": "",
+      "pages": "",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.3389/fmars.2025.1528106",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "phosphorus"
+      ],
+      "sites": [
+        "site-f",
+        "haima"
+      ],
+      "priority": "context",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T20:16:46.635745+00:00",
+      "last_seen_at": "2026-11-05T20:16:46.635745+00:00"
     },
     {
       "id": "seep-candidate:10-1038-s41429-025-00812-z",

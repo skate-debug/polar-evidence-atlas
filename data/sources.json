@@ -27194,5 +27194,292 @@
       "evidence_url": "https://doi.org/10.1007/s11802-026-6174-2",
       "review_packet": "config/cold_seep_reviewed.json"
     }
+  },
+  {
+    "id": "src:scs-haima-chiridota-gut-symbionts",
+    "citation_key": "SCSHaimaChiridotaGutSymbionts",
+    "doi": "10.1007/s42995-026-00368-3",
+    "title": "Specialised gut symbionts in deep-sea holothurian Chiridota hydrothermica support host nutrition and biogeochemical cycling in cold seep ecosystems",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "symbiosis",
+      "sediment"
+    ],
+    "topics": [
+      "genomes",
+      "symbioses",
+      "carbon",
+      "methane",
+      "sulfur"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep prokaryotes",
+      "Cold-seep symbioses"
+    ],
+    "study_type": "Comparative gut and sediment metagenomics",
+    "study_profile": {
+      "spatial_scope": "Chiridota hydrothermica gut contents and adjacent oxic sediment (0–5 cm, within 1 m) at Haima, 16°54′N, 110°28′E, 1380–1430 m.",
+      "temporal_scope": "ROV Haima 2 during cruise HYDZ6-202102 on Haiyangdizhi 6 in 2021; three gut and three sediment metagenomes.",
+      "sample_design": "Shotgun metagenomes were assembled and binned; MAGs were kept at ≥50% completeness and <10% contamination, and gut enrichment was a log2 fold change of at least 1 relative to sediment.",
+      "habitats": [
+        "habitat:seep-symbiosis",
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:shotgun-metagenomics",
+        "method:genome-resolved-analysis"
+      ],
+      "measured_or_derived": [
+        "gut- versus sediment-enriched MAG counts",
+        "carbohydrate, amino-acid, methane and sulfur gene content"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:organic-matter-degradation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Dereplication yielded 145 MAGs spanning 35 prokaryotic phyla: 10 gut-enriched, 64 sediment-enriched and 71 shared. Gut symbionts were rich in Gammaproteobacteria, Desulfobacterota and Bacteroidia; the gut-enriched MAGs were mainly Gammaproteobacteria and Bacteroidia and carried more carbohydrate and amino-acid metabolism genes. Bacteroidia had large CAZyme repertoires, and selected MAGs carried methane-oxidation and sulfur-cycling genes."
+    ],
+    "limitations": [
+      "Gene inventories and relative abundance are not measured nutrient or methane fluxes. The catalogue uses three samples per habitat and a 50/10 completeness filter; supplements and the full discussion were not rechecked line by line."
+    ],
+    "cite_for": [
+      "Comparative gut and sediment metagenomics within the stated study scope.",
+      "Dereplication yielded 145 MAGs spanning 35 prokaryotic phyla: 10 gut-enriched, 64 sediment-enriched and 71 shared. Gut symbionts were rich in Gammaproteobacteria, Desulfobacterota and Bacteroidia; the gut-enriched MAGs were mainly Gammaproteobacteria and Bacteroidia and carried more carbohydrate and amino-acid metabolism genes. Bacteroidia had large CAZyme repertoires, and selected MAGs carried methane-oxidation and sulfur-cycling genes."
+    ],
+    "do_not_overcite": [
+      "Gene inventories and relative abundance are not measured nutrient or methane fluxes. The catalogue uses three samples per habitat and a 50/10 completeness filter; supplements and the full discussion were not rechecked line by line."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; specific full-text sections listed in the claim locator.",
+      "last_verified": "2026-11-05",
+      "access_level": "full_text_extracts",
+      "evidence_url": "https://doi.org/10.1007/s42995-026-00368-3",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-formosa-haima-bivalve-shell-archives",
+    "citation_key": "SCSFormosaHaimaBivalveShellArchives",
+    "doi": "10.3389/fmars.2025.1528106",
+    "title": "Combined uranium-series and trace elements analysis in cold seep bivalves: possibility in hundred-year-scale reconstruction of deep-sea temperature and acidification",
+    "year": 2025,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:site-f-seep",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "carbonate"
+    ],
+    "topics": [
+      "geochemistry",
+      "phosphorus"
+    ],
+    "sites": [
+      "site-f",
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Shell trace-element and uranium-series study",
+    "study_profile": {
+      "spatial_scope": "Shells of Gigantidas platifrons from Site F / Formosa and of Gigantidas haimaensis (HM-Seep) and Archivesica marissinica (HM-Baiguabei) from Haima.",
+      "temporal_scope": "Collected alive in June 2022 at Formosa and July 2022 at Haima on R/V KEXUE.",
+      "sample_design": "LA-ICP-MS line scans along shell growth profiles, uranium–thorium dating of shell carbonate, and oxygen-isotope measurements for comparison.",
+      "habitats": [
+        "habitat:seep-carbonate"
+      ],
+      "methods": [
+        "method:geochemistry",
+        "method:trace-metal-analysis"
+      ],
+      "measured_or_derived": [
+        "shell trace-element ratios",
+        "uranium-series ages"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Trace-element ratios varied among shells from the same site and were attributed mainly to environmental variables. Sr/Ca was judged a better temperature proxy than oxygen isotopes, whereas Na/Ca and U/Ca were only proposed as acidification proxies. Median uranium-series ages were 229.5 years for Site F mussels and 323.5 years for Haima mussels; Haima clams were too short-lived to date. The reported age bias was assigned to high 232Th and a low initial 230Th/232Th rather than alpha recoil."
+    ],
+    "limitations": [
+      "Na/Ca and U/Ca were not validated as working acidification proxies, and the ages are uranium-series estimates with the stated thorium corrections. This profile does not convert Sr/Ca into a temperature time series or extend the result to the whole South China Sea."
+    ],
+    "cite_for": [
+      "Shell trace-element and uranium-series study within the stated study scope.",
+      "Trace-element ratios varied among shells from the same site and were attributed mainly to environmental variables. Sr/Ca was judged a better temperature proxy than oxygen isotopes, whereas Na/Ca and U/Ca were only proposed as acidification proxies. Median uranium-series ages were 229.5 years for Site F mussels and 323.5 years for Haima mussels; Haima clams were too short-lived to date. The reported age bias was assigned to high 232Th and a low initial 230Th/232Th rather than alpha recoil."
+    ],
+    "do_not_overcite": [
+      "Na/Ca and U/Ca were not validated as working acidification proxies, and the ages are uranium-series estimates with the stated thorium corrections. This profile does not convert Sr/Ca into a temperature time series or extend the result to the whole South China Sea."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; specific full-text sections listed in the claim locator.",
+      "last_verified": "2026-11-05",
+      "access_level": "full_text_extracts",
+      "evidence_url": "https://doi.org/10.3389/fmars.2025.1528106",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-carbonate-reactive-phosphorus",
+    "citation_key": "SCSCarbonateReactivePhosphorus",
+    "doi": "10.1016/j.chemgeo.2026.123408",
+    "title": "Reactive phosphorus retention in seabed cold-seep carbonates: Implications for phosphorus recycling and efflux in anoxic marine environments",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea"
+    ],
+    "compartments": [
+      "carbonate",
+      "sediment"
+    ],
+    "topics": [
+      "phosphorus",
+      "geochemistry",
+      "methane"
+    ],
+    "sites": [
+      "regional"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Seep-carbonate phosphorus retention study",
+    "study_profile": {
+      "spatial_scope": "Authigenic carbonates formed near the sediment–water interface at cold seeps in the South China Sea, compared with nearby sediment unaffected by seepage. The inspected abstract does not name a seep station.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Compare reactive phosphorus in high-magnesium calcite and aragonite with Mg/Ca, Sr/Ca, and carbon and sulfur isotopes of the carbonates and associated iron sulfides.",
+      "habitats": [
+        "habitat:seep-carbonate",
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "reactive phosphorus in high-magnesium calcite versus aragonite"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:phosphorus-cycling"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The publisher abstract reports that high-magnesium calcite formed under restricted sulfidic conditions, with low carbonate δ13C and high δ34S of associated iron sulfides, held more reactive phosphorus than seepage-unaffected sediment, whereas aragonite from more open, sulfate-reducing, fluid-mixed settings held less. Reactive phosphorus, including iron-bound and authigenic phosphorus, correlated positively with Mg/Ca and δ34S and negatively with Sr/Ca and δ13C."
+    ],
+    "limitations": [
+      "The ScienceDirect HTML returned HTTP 403, so this profile uses the publisher abstract indexed from the landing page, not the full text, figures, or a named station. The correlations are not a measured phosphorus efflux, and the proposed framework for ancient anoxic oceans is not a reconstructed paleo budget."
+    ],
+    "cite_for": [
+      "Seep-carbonate phosphorus retention study within the stated study scope.",
+      "The publisher abstract reports that high-magnesium calcite formed under restricted sulfidic conditions, with low carbonate δ13C and high δ34S of associated iron sulfides, held more reactive phosphorus than seepage-unaffected sediment, whereas aragonite from more open, sulfate-reducing, fluid-mixed settings held less. Reactive phosphorus, including iron-bound and authigenic phosphorus, correlated positively with Mg/Ca and δ34S and negatively with Sr/Ca and δ13C."
+    ],
+    "do_not_overcite": [
+      "The ScienceDirect HTML returned HTTP 403, so this profile uses the publisher abstract indexed from the landing page, not the full text, figures, or a named station. The correlations are not a measured phosphorus efflux, and the proposed framework for ancient anoxic oceans is not a reconstructed paleo budget."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.chemgeo.2026.123408",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-aom-iron-phosphorus-efflux",
+    "citation_key": "SCSHaimaAomIronPhosphorusEfflux",
+    "doi": "10.1029/2025gb008735",
+    "title": "Chemoautotrophy Enhances Iron and Phosphorus Recycling From Sediments at Deep‐Sea Methane Seeps",
+    "year": 2025,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "phosphorus",
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Seep sediment iron and phosphorus efflux study",
+    "study_profile": {
+      "spatial_scope": "Haima cold-seep sediments at 1,300–1,500 m, compared across methane-seepage intensities and with background sediment.",
+      "temporal_scope": "Sampling date not specified in the inspected abstract.",
+      "sample_design": "Compare dissolved-iron and phosphate effluxes and organic-matter remineralization between seep and background sediments. Only the Crossref-deposited abstract was inspected.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "dissolved iron and phosphate effluxes"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:phosphorus-cycling",
+        "process:trace-metal-cycling",
+        "process:anaerobic-methane-oxidation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The abstract reports much larger dissolved-iron and phosphate effluxes at Haima than in background sediment despite comparable organic-matter remineralization rates. At high-methane sites, phosphate efflux was 2.00–15.8 µmol m−2 d−1 and dissolved-iron efflux was 2.24–47.4 µmol m−2 d−1, against background values of 1.21 and 0.412 µmol m−2 d−1. The authors attribute the extra recycling to anaerobic methane oxidation that reduces iron oxides, releases iron-bound phosphorus, and, through sulfide, limits reformation of phosphorus-binding iron oxides."
+    ],
+    "limitations": [
+      "Abstract only; the flux ranges were not recalculated from tables. The iron–sulfide cascade is the authors' mechanistic reading, and the suggestion that undocumented seeps could affect global nutrient budgets is not a measured global flux."
+    ],
+    "cite_for": [
+      "Seep sediment iron and phosphorus efflux study within the stated study scope.",
+      "The abstract reports much larger dissolved-iron and phosphate effluxes at Haima than in background sediment despite comparable organic-matter remineralization rates. At high-methane sites, phosphate efflux was 2.00–15.8 µmol m−2 d−1 and dissolved-iron efflux was 2.24–47.4 µmol m−2 d−1, against background values of 1.21 and 0.412 µmol m−2 d−1. The authors attribute the extra recycling to anaerobic methane oxidation that reduces iron oxides, releases iron-bound phosphorus, and, through sulfide, limits reformation of phosphorus-binding iron oxides."
+    ],
+    "do_not_overcite": [
+      "Abstract only; the flux ranges were not recalculated from tables. The iron–sulfide cascade is the authors' mechanistic reading, and the suggestion that undocumented seeps could affect global nutrient budgets is not a measured global flux."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1029/2025gb008735",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
   }
 ]

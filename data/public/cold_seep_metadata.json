@@ -2985,6 +2985,143 @@
       "URL": "https://doi.org/10.1007/s42995-020-00073-9",
       "relation": {}
     },
+    "10.1007/s42995-026-00368-3": {
+      "publisher": "Springer Science and Business Media LLC",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                18
+              ]
+            ],
+            "date-time": "2026-03-18T00:00:00Z",
+            "timestamp": 1773792000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                18
+              ]
+            ],
+            "date-time": "2026-03-18T00:00:00Z",
+            "timestamp": 1773792000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            18
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            18
+          ]
+        ]
+      },
+      "DOI": "10.1007/s42995-026-00368-3",
+      "type": "journal-article",
+      "title": [
+        "Specialised gut symbionts in deep-sea holothurian Chiridota hydrothermica support host nutrition and biogeochemical cycling in cold seep ecosystems"
+      ],
+      "author": [
+        {
+          "given": "Dian-Hang",
+          "family": "Jiang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ting",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Kai",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Wei-Zhi",
+          "family": "Song",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Pei-Yuan",
+          "family": "Qian",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Marine Life Science & Technology"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            18
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/s42995-026-00368-3",
+      "relation": {}
+    },
     "10.1016/j.apenergy.2025.125482": {
       "publisher": "Elsevier BV",
       "license": [
@@ -3973,6 +4110,252 @@
         ]
       },
       "article-number": "122524"
+    },
+    "10.1016/j.chemgeo.2026.123408": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2026-06-01T00:00:00Z",
+            "timestamp": 1780272000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            20
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            20
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.chemgeo.2026.123408",
+      "type": "journal-article",
+      "page": "123408",
+      "title": [
+        "Reactive phosphorus retention in seabed cold-seep carbonates: Implications for phosphorus recycling and efflux in anoxic marine environments"
+      ],
+      "volume": "711",
+      "author": [
+        {
+          "given": "Chao",
+          "family": "Gao",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yu",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jörn",
+          "family": "Peckmann",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Linying",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Qianyong",
+          "family": "Liang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Duofu",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dong",
+          "family": "Feng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Chemical Geology"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            20
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.chemgeo.2026.123408",
+      "relation": {},
+      "article-number": "123408",
+      "metadata_verification_url": "https://api.elsevier.com/content/article/pii/S0009254126001774",
+      "metadata_verification_basis": "Publisher cover date 20 June 2026 from Elsevier article core data. Crossref issued date is month precision (June 2026) and contains no abstract."
     },
     "10.1016/j.chemgeo.2026.123625": {
       "publisher": "Elsevier BV",
@@ -23198,6 +23581,245 @@
       "URL": "https://doi.org/10.1029/2023gc011379",
       "relation": {},
       "article-number": "e2023GC011379"
+    },
+    "10.1029/2025gb008735": {
+      "publisher": "American Geophysical Union (AGU)",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                8,
+                22
+              ]
+            ],
+            "date-time": "2025-08-22T00:00:00Z",
+            "timestamp": 1755820800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 21,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            8
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            22
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1029/2025gb008735",
+      "type": "journal-article",
+      "title": [
+        "Chemoautotrophy Enhances Iron and Phosphorus Recycling From Sediments at Deep‐Sea Methane Seeps"
+      ],
+      "volume": "39",
+      "issue": "8",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-5651-8816",
+          "authenticated-orcid": false,
+          "given": "Yuxuan",
+          "family": "Lin",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Ocean Science and Otto Poon Center for Climate Resilience and Sustainability The Hong Kong University of Science and Technology  Hong Kong SAR China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7698-7679",
+          "authenticated-orcid": false,
+          "given": "Jing",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Ocean Science and Otto Poon Center for Climate Resilience and Sustainability The Hong Kong University of Science and Technology  Hong Kong SAR China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0009-8779-2875",
+          "authenticated-orcid": false,
+          "given": "Xiaotian",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Ocean Science and Otto Poon Center for Climate Resilience and Sustainability The Hong Kong University of Science and Technology  Hong Kong SAR China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8709-7444",
+          "authenticated-orcid": false,
+          "given": "Cheng",
+          "family": "Zhong",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Ocean Science and Otto Poon Center for Climate Resilience and Sustainability The Hong Kong University of Science and Technology  Hong Kong SAR China"
+            },
+            {
+              "name": "Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)  Guangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xingyu",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Ocean Science and Otto Poon Center for Climate Resilience and Sustainability The Hong Kong University of Science and Technology  Hong Kong SAR China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5492-8213",
+          "authenticated-orcid": false,
+          "given": "Liuqian",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Earth Ocean and Atmospheric Sciences Thrust The Hong Kong University of Science and Technology (Guangzhou)  Guangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8002-6881",
+          "authenticated-orcid": false,
+          "given": "Jin",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Key Laboratory of Evolution &amp; Marine Biodiversity (Ministry of Education) and Institute of Evolution &amp; Marine Biodiversity Ocean University of China  Qingdao China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4074-9078",
+          "authenticated-orcid": false,
+          "given": "Pei-Yuan",
+          "family": "Qian",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Ocean Science and Otto Poon Center for Climate Resilience and Sustainability The Hong Kong University of Science and Technology  Hong Kong SAR China"
+            },
+            {
+              "name": "Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)  Guangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1677-6922",
+          "authenticated-orcid": false,
+          "given": "Jiying",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Ocean Science and Otto Poon Center for Climate Resilience and Sustainability The Hong Kong University of Science and Technology  Hong Kong SAR China"
+            },
+            {
+              "name": "Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)  Guangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Global Biogeochemical Cycles"
+      ],
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            8
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1029/2025gb008735",
+      "relation": {},
+      "article-number": "e2025GB008735"
     },
     "10.1029/2025gl115957": {
       "publisher": "American Geophysical Union (AGU)",
@@ -45399,6 +46021,164 @@
       "URL": "https://doi.org/10.3389/fmars.2024.1451624",
       "relation": {},
       "article-number": "1451624"
+    },
+    "10.3389/fmars.2025.1528106": {
+      "publisher": "Frontiers Media SA",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                3,
+                13
+              ]
+            ],
+            "date-time": "2025-03-13T00:00:00Z",
+            "timestamp": 1741824000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            13
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            13
+          ]
+        ]
+      },
+      "DOI": "10.3389/fmars.2025.1528106",
+      "type": "journal-article",
+      "title": [
+        "Combined uranium-series and trace elements analysis in cold seep bivalves: possibility in hundred-year-scale reconstruction of deep-sea temperature and acidification"
+      ],
+      "volume": "12",
+      "author": [
+        {
+          "given": "Chaofeng",
+          "family": "Cai",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jing-Chun",
+          "family": "Feng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Guozhong",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rui",
+          "family": "Hou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiao",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jinyi",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaochun",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Si",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Frontiers in Marine Science"
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            13
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.3389/fmars.2025.1528106",
+      "relation": {},
+      "article-number": "1528106"
     },
     "10.3389/fmars.2025.1530207": {
       "DOI": "10.3389/fmars.2025.1530207",

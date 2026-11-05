@@ -2,7 +2,9 @@
 
 Publication discovery window: 2016-10-12 to 2026-11-05. Source-review update: 13 October 2026.
 
-312 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 312 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
+316 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 316 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
+
+Cai, C., Feng, J.-C., Wu, G., Hou, R., Chen, X., Liu, J., Zhang, X., & Zhang, S. (2025). Combined uranium-series and trace elements analysis in cold seep bivalves: Possibility in hundred-year-scale reconstruction of deep-sea temperature and acidification. *Frontiers in Marine Science, 12*, Article 1528106. https://doi.org/10.3389/fmars.2025.1528106
 
 Cao, C., Wang, H., Ge, Y., Wang, W., Guo, J., Zhou, P., Gao, F., & Chen, J. (2022). Long-term in-situ monitoring and analysis of terrain in gas hydrate trial harvesting area. *Sensors, 22*(4), Article 1351. https://doi.org/10.3390/s22041351
 
@@ -98,6 +100,8 @@ Feng, J.-C., Li, C.-R., Tang, L., Wu, X.-N., Wang, Y., Yang, Z., Yuan, W., Sun, 
 
 Fu, L., Liu, Y., Wang, M., Lian, C., Cao, L., Wang, W., Sun, Y., Wang, N., & Li, C. (2024). The diversification and potential function of microbiome in sediment-water interface of methane seeps in South China Sea. *Frontiers in Microbiology, 15*, Article 1287147. https://doi.org/10.3389/fmicb.2024.1287147
 
+Gao, C., Hu, Y., Peckmann, J., Chen, L., Liang, Q., Chen, D., & Feng, D. (2026). Reactive phosphorus retention in seabed cold-seep carbonates: Implications for phosphorus recycling and efflux in anoxic marine environments. *Chemical Geology, 711*, Article 123408. https://doi.org/10.1016/j.chemgeo.2026.123408
+
 Gao, J., Wang, Z., Deng, W., Sa, B., Chen, X., Cai, R., Yan, Y., Jiao, N., Leung, E. L.-H., Liu, D., & Yan, W. (2024). Improved resolution of microbial diversity in deep-sea surface sediments using PacBio long-read 16S rRNA gene sequencing. *mSphere, 9*(12), Article e00770-24. https://doi.org/10.1128/msphere.00770-24
 
 Gao, Q., Tang, Y., & Zhang, J. (2024). A new species of the genus yoldiella (Bivalvia, protobranchia, yoldiidae) from Haima cold seep, South China Sea, China. *ZooKeys, 1204*, 223–240. https://doi.org/10.3897/zookeys.1204.121088
@@ -165,6 +169,8 @@ Iqbal, S., Xu, Y., Ni, L., Dang, H., Luan, X., & Zhang, D. (2026). Biogeographic
 Jia, Z., Hu, Y., Bayon, G., Peckmann, J., Wang, X., Gong, S., Li, J., Roberts, H. H., Chen, D., & Feng, D. (2024). Molybdenum isotope fingerprinting of microbial sulfate reduction in seep carbonate rocks. *Geochemistry, Geophysics, Geosystems, 25*(3), Article e2023GC011379. https://doi.org/10.1029/2023gc011379
 
 Jia, Z., Lai, H., Cui, N., Deng, Y., Sun, X., Ren, J., Deng, W., Fang, Y., Cao, J., Chen, F., & Kuang, Z. (2026). Heavy hydrocarbons buffering by subsurface gas hydrate in cold seep systems. *Global and Planetary Change, 265*, Article 105633. https://doi.org/10.1016/j.gloplacha.2026.105633
+
+Jiang, D.-H., Xu, T., Zhang, K., Song, W.-Z., & Qian, P.-Y. (2026). Specialised gut symbionts in deep-sea holothurian *Chiridota hydrothermica* support host nutrition and biogeochemical cycling in cold seep ecosystems. *Marine Life Science & Technology*. https://doi.org/10.1007/s42995-026-00368-3
 
 Jiang, L., Liang, Z., Williams, T. A., Deng, Y., Yu, H., Hao, Q., Cao, J., Zhou, H., Lai, H., Chen, J., Chen, H., & Zhang, C. (2026). Vertical stratification and metabolic versatility of methanogens in Haima cold seep sediments: Alkane-fueled acetoclastic methanogenesis revealed by metagenomics and experimental verification. *Marine Environmental Research, 217*, Article 107972. https://doi.org/10.1016/j.marenvres.2026.107972
 
@@ -273,6 +279,8 @@ Liang, Q., Liu, X., Wang, J., Chen, T., Han, Y., Zhang, L., Li, S., Zhao, J., Do
 Liang, X., Du, M., Qin, Y., Cai, W., Huang, J., Lin, G., & Lu, J. (2025). Functional and microbial insights into the gill symbiosis and metal tolerance of the cold seep mussel Gigantidas haimaensis. *Deep Sea Research Part I: Oceanographic Research Papers, 223*, Article 104545. https://doi.org/10.1016/j.dsr.2025.104545
 
 Lin, J.-H., Huang, Y.-Q., Liang, Q.-Y., & He, X.-B. (2022). ﻿a new eyeless species of nereis (Annelida, nereididae) from deep-sea sediments of the northern South China Sea. *ZooKeys, 1134*, 23–37. https://doi.org/10.3897/zookeys.1134.94198
+
+Lin, Y., Sun, J., Zhou, X., Zhong, C., Yang, X., Yu, L., Sun, J., Qian, P.-Y., & Li, J. (2025). Chemoautotrophy enhances iron and phosphorus recycling from sediments at deep‐sea methane seeps. *Global Biogeochemical Cycles, 39*(8), Article e2025GB008735. https://doi.org/10.1029/2025gb008735
 
 Ling, J., Guan, H., Liu, L., Tao, J., Li, J., Dong, J., & Zhang, S. (2020). The diversity, composition, and putative functions of gill-associated bacteria of bathymodiolin mussel and vesicomyid clam from Haima cold seep, South China Sea. *Microorganisms, 8*(11), Article 1699. https://doi.org/10.3390/microorganisms8111699
 
