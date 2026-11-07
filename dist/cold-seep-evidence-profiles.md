@@ -1688,6 +1688,48 @@ Evidence locator / 证据位置：Abstract; Sediment and porewater sampling
 
 Data accessions / 数据登录号：PRJNA1313825, PRJNA1314185
 
+## Reactive phosphorus retention in seabed cold-seep carbonates: Implications for phosphorus recycling and efflux in anoxic marine environments
+
+南海冷泉自生碳酸盐对活性磷的滞留
+
+Gao, C., Hu, Y., Peckmann, J., Chen, L., Liang, Q., Chen, D., & Feng, D. (2026). Reactive phosphorus retention in seabed cold-seep carbonates: Implications for phosphorus recycling and efflux in anoxic marine environments. *Chemical Geology, 711*, Article 123408. https://doi.org/10.1016/j.chemgeo.2026.123408
+
+**Design / 研究设计**: Compare reactive phosphorus in high-magnesium calcite and aragonite with Mg/Ca, Sr/Ca, and carbon and sulfur isotopes of the carbonates and associated iron sulfides.
+
+比较高镁方解石与文石中的活性磷，并结合 Mg/Ca、Sr/Ca 以及碳酸盐和伴生铁硫化物的碳、硫同位素。
+
+**Sampling scope / 采样范围**: Authigenic carbonates formed near the sediment–water interface at cold seeps in the South China Sea, compared with nearby sediment unaffected by seepage. The inspected abstract does not name a seep station.
+
+南海冷泉沉积物–水界面附近形成的自生碳酸盐，并与未受渗漏影响的邻近沉积物比较。所核查摘要未给出具体冷泉站位。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: reactive phosphorus in high-magnesium calcite versus aragonite
+
+高镁方解石与文石中的活性磷
+
+**Findings / 发现**: The publisher abstract reports that high-magnesium calcite formed under restricted sulfidic conditions, with low carbonate δ13C and high δ34S of associated iron sulfides, held more reactive phosphorus than seepage-unaffected sediment, whereas aragonite from more open, sulfate-reducing, fluid-mixed settings held less. Reactive phosphorus, including iron-bound and authigenic phosphorus, correlated positively with Mg/Ca and δ34S and negatively with Sr/Ca and δ13C.
+
+出版方摘要报道，受限硫化条件下形成的高镁方解石（碳酸盐 δ13C 偏低、伴生铁硫化物 δ34S 偏高）所含活性磷高于未受渗漏影响的沉积物，而较开放、发生硫酸盐还原且流体混合条件下形成的文石活性磷较低。活性磷（含铁结合磷和自生磷）与 Mg/Ca、δ34S 正相关，与 Sr/Ca、δ13C 负相关。
+
+**Citation limits / 引用边界**: The ScienceDirect HTML returned HTTP 403, so this profile uses the publisher abstract indexed from the landing page, not the full text, figures, or a named station. The correlations are not a measured phosphorus efflux, and the proposed framework for ancient anoxic oceans is not a reconstructed paleo budget.
+
+ScienceDirect 页面返回 HTTP 403，因此本档案依据着陆页索引到的出版方摘要，未核查全文、图件或具体站位。这些相关关系不是实测磷通量，面向古代缺氧海洋的框架也不是重建的古收支。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Publisher abstract on the ScienceDirect landing page: carbonate mineralogy and phosphorus retention at South China Sea seeps.
+
+ScienceDirect 着陆页上的出版方摘要：南海冷泉碳酸盐矿物学与磷滞留。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.chemgeo.2026.123408) · `src:scs-carbonate-reactive-phosphorus`
+
 ## Salegentibacter profundi sp. nov. and Salegentibacter haimaensis sp. nov., isolated from deep-sea cold seep sediments of the South China Sea
 
 南海冷泉沉积物两种 Salegentibacter 新种的多相分类
@@ -1813,6 +1855,48 @@ Evidence locator / 证据位置：Abstract; Water Samples Collection and Pretrea
 摘要；水样采集和预处理
 
 [Inspected source / 核查来源](https://doi.org/10.1007/s00248-026-02722-5) · `src:scs-site-f-water-spatial-2026`
+
+## Specialised gut symbionts in deep-sea holothurian Chiridota hydrothermica support host nutrition and biogeochemical cycling in cold seep ecosystems
+
+海马冷泉海参 Chiridota hydrothermica 肠道专性共生体的营养与元素循环潜力
+
+Jiang, D.-H., Xu, T., Zhang, K., Song, W.-Z., & Qian, P.-Y. (2026). Specialised gut symbionts in deep-sea holothurian *Chiridota hydrothermica* support host nutrition and biogeochemical cycling in cold seep ecosystems. *Marine Life Science & Technology*. https://doi.org/10.1007/s42995-026-00368-3
+
+**Design / 研究设计**: Shotgun metagenomes were assembled and binned; MAGs were kept at ≥50% completeness and <10% contamination, and gut enrichment was a log2 fold change of at least 1 relative to sediment.
+
+对宏基因组进行组装和分箱；保留完整度不低于 50% 且污染低于 10% 的 MAG，并以相对沉积物的 log2 倍数变化不低于 1 界定肠道富集。
+
+**Sampling scope / 采样范围**: Chiridota hydrothermica gut contents and adjacent oxic sediment (0–5 cm, within 1 m) at Haima, 16°54′N, 110°28′E, 1380–1430 m.
+
+海马冷泉（16°54′N，110°28′E，水深 1380–1430 m）Chiridota hydrothermica 肠道内容物及其 1 m 范围内 0–5 cm 含氧沉积物。
+
+**Time / 时间**: ROV Haima 2 during cruise HYDZ6-202102 on Haiyangdizhi 6 in 2021; three gut and three sediment metagenomes.
+
+2021 年海洋地质六号 HYDZ6-202102 航次，海马 2 号 ROV；肠道与沉积物宏基因组各 3 个。
+
+**Methods / 方法**: Shotgun metagenomics; Genome-resolved metagenomic analysis
+
+鸟枪法宏基因组测序；基因组解析宏基因组分析
+
+**Measured or derived / 测量或推导指标**: gut- versus sediment-enriched MAG counts; carbohydrate, amino-acid, methane and sulfur gene content
+
+肠道与沉积物富集 MAG 数量；碳水化合物、氨基酸、甲烷与硫相关基因
+
+**Findings / 发现**: Dereplication yielded 145 MAGs spanning 35 prokaryotic phyla: 10 gut-enriched, 64 sediment-enriched and 71 shared. Gut symbionts were rich in Gammaproteobacteria, Desulfobacterota and Bacteroidia; the gut-enriched MAGs were mainly Gammaproteobacteria and Bacteroidia and carried more carbohydrate and amino-acid metabolism genes. Bacteroidia had large CAZyme repertoires, and selected MAGs carried methane-oxidation and sulfur-cycling genes.
+
+去冗余后得到分属 35 个原核门的 145 个 MAG，其中 10 个肠道富集、64 个沉积物富集、71 个共有。肠道共生体富含 Gammaproteobacteria、Desulfobacterota 和 Bacteroidia；肠道富集 MAG 主要为 Gammaproteobacteria 和 Bacteroidia，并携带更多碳水化合物与氨基酸代谢基因。Bacteroidia 具有大量 CAZyme，部分 MAG 携带甲烷氧化和硫循环基因。
+
+**Citation limits / 引用边界**: Gene inventories and relative abundance are not measured nutrient or methane fluxes. The catalogue uses three samples per habitat and a 50/10 completeness filter; supplements and the full discussion were not rechecked line by line.
+
+基因组成和相对丰度不是实测的营养盐或甲烷通量。该目录来自每类生境 3 个样品以及 50/10 完整度筛选；补充材料与讨论全文未逐段复核。
+
+Evidence access / 核查材料：inspected full-text excerpts / 已核查相关全文段落; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract; Materials and methods (Sample collections and metagenomic sequencing); Results (taxonomic composition, and the methane, sulfur and carbohydrate sections).
+
+摘要；材料与方法（样品采集与宏基因组测序）；结果（类群组成，以及甲烷、硫和碳水化合物部分）。
+
+[Inspected source / 核查来源](https://doi.org/10.1007/s42995-026-00368-3) · `src:scs-haima-chiridota-gut-symbionts`
 
 ## Syntrophic interactions driving anaerobic methane oxidation in deep-sea cold seeps revealed by DNA-SIP
 
@@ -2317,6 +2401,90 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/40257116) · `src:scs-carbonate-black-carbon`
+
+## Chemoautotrophy Enhances Iron and Phosphorus Recycling From Sediments at Deep‐Sea Methane Seeps
+
+化能自养作用促进海马甲烷冷泉沉积物铁与磷的再循环
+
+Lin, Y., Sun, J., Zhou, X., Zhong, C., Yang, X., Yu, L., Sun, J., Qian, P.-Y., & Li, J. (2025). Chemoautotrophy enhances iron and phosphorus recycling from sediments at deep‐sea methane seeps. *Global Biogeochemical Cycles, 39*(8), Article e2025GB008735. https://doi.org/10.1029/2025gb008735
+
+**Design / 研究设计**: Compare dissolved-iron and phosphate effluxes and organic-matter remineralization between seep and background sediments. Only the Crossref-deposited abstract was inspected.
+
+比较冷泉与背景沉积物的溶解铁、磷酸盐通量和有机质再矿化。仅核查了 Crossref 存缴的摘要。
+
+**Sampling scope / 采样范围**: Haima cold-seep sediments at 1,300–1,500 m, compared across methane-seepage intensities and with background sediment.
+
+水深 1300–1500 m 的海马冷泉沉积物，比较不同甲烷渗漏强度并对照背景沉积物。
+
+**Time / 时间**: Sampling date not specified in the inspected abstract.
+
+所核查摘要未说明采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: dissolved iron and phosphate effluxes
+
+溶解铁与磷酸盐通量
+
+**Findings / 发现**: The abstract reports much larger dissolved-iron and phosphate effluxes at Haima than in background sediment despite comparable organic-matter remineralization rates. At high-methane sites, phosphate efflux was 2.00–15.8 µmol m−2 d−1 and dissolved-iron efflux was 2.24–47.4 µmol m−2 d−1, against background values of 1.21 and 0.412 µmol m−2 d−1. The authors attribute the extra recycling to anaerobic methane oxidation that reduces iron oxides, releases iron-bound phosphorus, and, through sulfide, limits reformation of phosphorus-binding iron oxides.
+
+摘要报道，在有机质再矿化速率相近的情况下，海马冷泉的溶解铁和磷酸盐通量远高于背景沉积物。高甲烷站位的磷酸盐通量为 2.00–15.8 µmol m−2 d−1，溶解铁通量为 2.24–47.4 µmol m−2 d−1，背景值分别为 1.21 和 0.412 µmol m−2 d−1。作者将额外的再循环归因于厌氧甲烷氧化：它还原铁氧化物并释放铁结合磷，同时硫化物限制了可结合磷的铁氧化物再生。
+
+**Citation limits / 引用边界**: Abstract only; the flux ranges were not recalculated from tables. The iron–sulfide cascade is the authors' mechanistic reading, and the suggestion that undocumented seeps could affect global nutrient budgets is not a measured global flux.
+
+仅依据摘要；通量区间未据表格重算。铁–硫化物级联是作者的机制解释，关于未记录冷泉可能影响全球营养盐收支的表述不是实测的全球通量。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Crossref-deposited abstract: efflux comparison and the proposed anaerobic-methane-oxidation cascade.
+
+Crossref 存缴摘要：通量比较及所提出的厌氧甲烷氧化级联。
+
+[Inspected source / 核查来源](https://doi.org/10.1029/2025gb008735) · `src:scs-haima-aom-iron-phosphorus-efflux`
+
+## Combined uranium-series and trace elements analysis in cold seep bivalves: possibility in hundred-year-scale reconstruction of deep-sea temperature and acidification
+
+福尔摩沙与海马冷泉双壳类壳体的铀系测年与微量元素
+
+Cai, C., Feng, J.-C., Wu, G., Hou, R., Chen, X., Liu, J., Zhang, X., & Zhang, S. (2025). Combined uranium-series and trace elements analysis in cold seep bivalves: Possibility in hundred-year-scale reconstruction of deep-sea temperature and acidification. *Frontiers in Marine Science, 12*, Article 1528106. https://doi.org/10.3389/fmars.2025.1528106
+
+**Design / 研究设计**: LA-ICP-MS line scans along shell growth profiles, uranium–thorium dating of shell carbonate, and oxygen-isotope measurements for comparison.
+
+沿壳体生长剖面做 LA-ICP-MS 线扫描，对壳体碳酸盐做铀–钍定年，并测定氧同位素用于比较。
+
+**Sampling scope / 采样范围**: Shells of Gigantidas platifrons from Site F / Formosa and of Gigantidas haimaensis (HM-Seep) and Archivesica marissinica (HM-Baiguabei) from Haima.
+
+F 站／福尔摩沙的 Gigantidas platifrons 壳体，以及海马 HM-Seep 的 Gigantidas haimaensis 与 HM-Baiguabei 的 Archivesica marissinica 壳体。
+
+**Time / 时间**: Collected alive in June 2022 at Formosa and July 2022 at Haima on R/V KEXUE.
+
+2022 年 6 月在福尔摩沙、7 月在海马由“科学”号采集活体。
+
+**Methods / 方法**: Porewater and water geochemistry; Trace-metal analysis
+
+孔隙水与水体地球化学；痕量金属分析
+
+**Measured or derived / 测量或推导指标**: shell trace-element ratios; uranium-series ages
+
+壳体微量元素比值；铀系年龄
+
+**Findings / 发现**: Trace-element ratios varied among shells from the same site and were attributed mainly to environmental variables. Sr/Ca was judged a better temperature proxy than oxygen isotopes, whereas Na/Ca and U/Ca were only proposed as acidification proxies. Median uranium-series ages were 229.5 years for Site F mussels and 323.5 years for Haima mussels; Haima clams were too short-lived to date. The reported age bias was assigned to high 232Th and a low initial 230Th/232Th rather than alpha recoil.
+
+同一站位壳体的微量元素比值差异明显，作者主要将其归因于环境变量。Sr/Ca 被判断为优于氧同位素的温度代用指标，Na/Ca 和 U/Ca 仅被提议为酸化代用指标。铀系中位年龄为 F 站贻贝 229.5 年、海马贻贝 323.5 年；海马蛤类寿命过短而无法准确测年。文中将年龄偏差归因于高 232Th 和偏低的初始 230Th/232Th，而不是 α 反冲。
+
+**Citation limits / 引用边界**: Na/Ca and U/Ca were not validated as working acidification proxies, and the ages are uranium-series estimates with the stated thorium corrections. This profile does not convert Sr/Ca into a temperature time series or extend the result to the whole South China Sea.
+
+Na/Ca 与 U/Ca 尚未被证实为可用的酸化代用指标；年龄是带有所述钍校正的铀系估计。本档案未把 Sr/Ca 换算成温度序列，也不外推到整个南海。
+
+Evidence access / 核查材料：inspected full-text excerpts / 已核查相关全文段落; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract; section 2.1 Sample acquisition and pretreatment; opening of section 3.1 on element heterogeneity.
+
+摘要；2.1 节样品采集与前处理；3.1 节关于元素异质性的开头。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/fmars.2025.1528106) · `src:scs-formosa-haima-bivalve-shell-archives`
 
 ## Community differences and potential function along the particle size spectrum of microbes in the twilight zone
 

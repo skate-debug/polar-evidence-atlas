@@ -11739,6 +11739,116 @@
       ],
       "curation_basis": "已核查国际比较文献；仅核查论断证据位置记录的相关全文段落。",
       "_source_hash": "5f3ec2b7dc6aac10"
+    },
+    "src:scs-haima-chiridota-gut-symbionts": {
+      "title": "海马冷泉海参 Chiridota hydrothermica 肠道专性共生体的营养与元素循环潜力",
+      "study_type": "肠道与沉积物比较宏基因组",
+      "study_profile": {
+        "spatial_scope": "海马冷泉（16°54′N，110°28′E，水深 1380–1430 m）Chiridota hydrothermica 肠道内容物及其 1 m 范围内 0–5 cm 含氧沉积物。",
+        "temporal_scope": "2021 年海洋地质六号 HYDZ6-202102 航次，海马 2 号 ROV；肠道与沉积物宏基因组各 3 个。",
+        "sample_design": "对宏基因组进行组装和分箱；保留完整度不低于 50% 且污染低于 10% 的 MAG，并以相对沉积物的 log2 倍数变化不低于 1 界定肠道富集。",
+        "measured_or_derived": [
+          "肠道与沉积物富集 MAG 数量",
+          "碳水化合物、氨基酸、甲烷与硫相关基因"
+        ]
+      },
+      "key_findings": [
+        "去冗余后得到分属 35 个原核门的 145 个 MAG，其中 10 个肠道富集、64 个沉积物富集、71 个共有。肠道共生体富含 Gammaproteobacteria、Desulfobacterota 和 Bacteroidia；肠道富集 MAG 主要为 Gammaproteobacteria 和 Bacteroidia，并携带更多碳水化合物与氨基酸代谢基因。Bacteroidia 具有大量 CAZyme，部分 MAG 携带甲烷氧化和硫循环基因。"
+      ],
+      "limitations": [
+        "基因组成和相对丰度不是实测的营养盐或甲烷通量。该目录来自每类生境 3 个样品以及 50/10 完整度筛选；补充材料与讨论全文未逐段复核。"
+      ],
+      "cite_for": [
+        "肠道与沉积物比较宏基因组，适用范围以采样设计为准。",
+        "去冗余后得到分属 35 个原核门的 145 个 MAG，其中 10 个肠道富集、64 个沉积物富集、71 个共有。肠道共生体富含 Gammaproteobacteria、Desulfobacterota 和 Bacteroidia；肠道富集 MAG 主要为 Gammaproteobacteria 和 Bacteroidia，并携带更多碳水化合物与氨基酸代谢基因。Bacteroidia 具有大量 CAZyme，部分 MAG 携带甲烷氧化和硫循环基因。"
+      ],
+      "do_not_overcite": [
+        "基因组成和相对丰度不是实测的营养盐或甲烷通量。该目录来自每类生境 3 个样品以及 50/10 完整度筛选；补充材料与讨论全文未逐段复核。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "fc6b9b3b49c4cd9e"
+    },
+    "src:scs-formosa-haima-bivalve-shell-archives": {
+      "title": "福尔摩沙与海马冷泉双壳类壳体的铀系测年与微量元素",
+      "study_type": "壳体微量元素与铀系测年",
+      "study_profile": {
+        "spatial_scope": "F 站／福尔摩沙的 Gigantidas platifrons 壳体，以及海马 HM-Seep 的 Gigantidas haimaensis 与 HM-Baiguabei 的 Archivesica marissinica 壳体。",
+        "temporal_scope": "2022 年 6 月在福尔摩沙、7 月在海马由“科学”号采集活体。",
+        "sample_design": "沿壳体生长剖面做 LA-ICP-MS 线扫描，对壳体碳酸盐做铀–钍定年，并测定氧同位素用于比较。",
+        "measured_or_derived": [
+          "壳体微量元素比值",
+          "铀系年龄"
+        ]
+      },
+      "key_findings": [
+        "同一站位壳体的微量元素比值差异明显，作者主要将其归因于环境变量。Sr/Ca 被判断为优于氧同位素的温度代用指标，Na/Ca 和 U/Ca 仅被提议为酸化代用指标。铀系中位年龄为 F 站贻贝 229.5 年、海马贻贝 323.5 年；海马蛤类寿命过短而无法准确测年。文中将年龄偏差归因于高 232Th 和偏低的初始 230Th/232Th，而不是 α 反冲。"
+      ],
+      "limitations": [
+        "Na/Ca 与 U/Ca 尚未被证实为可用的酸化代用指标；年龄是带有所述钍校正的铀系估计。本档案未把 Sr/Ca 换算成温度序列，也不外推到整个南海。"
+      ],
+      "cite_for": [
+        "壳体微量元素与铀系测年，适用范围以采样设计为准。",
+        "同一站位壳体的微量元素比值差异明显，作者主要将其归因于环境变量。Sr/Ca 被判断为优于氧同位素的温度代用指标，Na/Ca 和 U/Ca 仅被提议为酸化代用指标。铀系中位年龄为 F 站贻贝 229.5 年、海马贻贝 323.5 年；海马蛤类寿命过短而无法准确测年。文中将年龄偏差归因于高 232Th 和偏低的初始 230Th/232Th，而不是 α 反冲。"
+      ],
+      "do_not_overcite": [
+        "Na/Ca 与 U/Ca 尚未被证实为可用的酸化代用指标；年龄是带有所述钍校正的铀系估计。本档案未把 Sr/Ca 换算成温度序列，也不外推到整个南海。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；全文核查范围见论断中的证据位置。",
+      "_source_hash": "bb039f3ee7ea8d57"
+    },
+    "src:scs-carbonate-reactive-phosphorus": {
+      "title": "南海冷泉自生碳酸盐对活性磷的滞留",
+      "study_type": "冷泉碳酸盐磷滞留研究",
+      "study_profile": {
+        "spatial_scope": "南海冷泉沉积物–水界面附近形成的自生碳酸盐，并与未受渗漏影响的邻近沉积物比较。所核查摘要未给出具体冷泉站位。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较高镁方解石与文石中的活性磷，并结合 Mg/Ca、Sr/Ca 以及碳酸盐和伴生铁硫化物的碳、硫同位素。",
+        "measured_or_derived": [
+          "高镁方解石与文石中的活性磷"
+        ]
+      },
+      "key_findings": [
+        "出版方摘要报道，受限硫化条件下形成的高镁方解石（碳酸盐 δ13C 偏低、伴生铁硫化物 δ34S 偏高）所含活性磷高于未受渗漏影响的沉积物，而较开放、发生硫酸盐还原且流体混合条件下形成的文石活性磷较低。活性磷（含铁结合磷和自生磷）与 Mg/Ca、δ34S 正相关，与 Sr/Ca、δ13C 负相关。"
+      ],
+      "limitations": [
+        "ScienceDirect 页面返回 HTTP 403，因此本档案依据着陆页索引到的出版方摘要，未核查全文、图件或具体站位。这些相关关系不是实测磷通量，面向古代缺氧海洋的框架也不是重建的古收支。"
+      ],
+      "cite_for": [
+        "冷泉碳酸盐磷滞留研究，适用范围以采样设计为准。",
+        "出版方摘要报道，受限硫化条件下形成的高镁方解石（碳酸盐 δ13C 偏低、伴生铁硫化物 δ34S 偏高）所含活性磷高于未受渗漏影响的沉积物，而较开放、发生硫酸盐还原且流体混合条件下形成的文石活性磷较低。活性磷（含铁结合磷和自生磷）与 Mg/Ca、δ34S 正相关，与 Sr/Ca、δ13C 负相关。"
+      ],
+      "do_not_overcite": [
+        "ScienceDirect 页面返回 HTTP 403，因此本档案依据着陆页索引到的出版方摘要，未核查全文、图件或具体站位。这些相关关系不是实测磷通量，面向古代缺氧海洋的框架也不是重建的古收支。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "678ba1594c154a1e"
+    },
+    "src:scs-haima-aom-iron-phosphorus-efflux": {
+      "title": "化能自养作用促进海马甲烷冷泉沉积物铁与磷的再循环",
+      "study_type": "冷泉沉积物铁、磷通量研究",
+      "study_profile": {
+        "spatial_scope": "水深 1300–1500 m 的海马冷泉沉积物，比较不同甲烷渗漏强度并对照背景沉积物。",
+        "temporal_scope": "所核查摘要未说明采样日期。",
+        "sample_design": "比较冷泉与背景沉积物的溶解铁、磷酸盐通量和有机质再矿化。仅核查了 Crossref 存缴的摘要。",
+        "measured_or_derived": [
+          "溶解铁与磷酸盐通量"
+        ]
+      },
+      "key_findings": [
+        "摘要报道，在有机质再矿化速率相近的情况下，海马冷泉的溶解铁和磷酸盐通量远高于背景沉积物。高甲烷站位的磷酸盐通量为 2.00–15.8 µmol m−2 d−1，溶解铁通量为 2.24–47.4 µmol m−2 d−1，背景值分别为 1.21 和 0.412 µmol m−2 d−1。作者将额外的再循环归因于厌氧甲烷氧化：它还原铁氧化物并释放铁结合磷，同时硫化物限制了可结合磷的铁氧化物再生。"
+      ],
+      "limitations": [
+        "仅依据摘要；通量区间未据表格重算。铁–硫化物级联是作者的机制解释，关于未记录冷泉可能影响全球营养盐收支的表述不是实测的全球通量。"
+      ],
+      "cite_for": [
+        "冷泉沉积物铁、磷通量研究，适用范围以采样设计为准。",
+        "摘要报道，在有机质再矿化速率相近的情况下，海马冷泉的溶解铁和磷酸盐通量远高于背景沉积物。高甲烷站位的磷酸盐通量为 2.00–15.8 µmol m−2 d−1，溶解铁通量为 2.24–47.4 µmol m−2 d−1，背景值分别为 1.21 和 0.412 µmol m−2 d−1。作者将额外的再循环归因于厌氧甲烷氧化：它还原铁氧化物并释放铁结合磷，同时硫化物限制了可结合磷的铁氧化物再生。"
+      ],
+      "do_not_overcite": [
+        "仅依据摘要；通量区间未据表格重算。铁–硫化物级联是作者的机制解释，关于未记录冷泉可能影响全球营养盐收支的表述不是实测的全球通量。"
+      ],
+      "curation_basis": "已核查 DOI 出版信息及支持论断的原文；本档案仅依据公开摘要。",
+      "_source_hash": "849b1a757a1bdf5d"
     }
   },
   "claims": {
@@ -15109,6 +15219,38 @@
       "locator": "摘要；仅补充图 S3 图注中的生境图例。未提取结果正文。",
       "confidence_note": "预测最适条件与基因存在不能当作实测生长温度或甲烷氧化速率。补充图 S3 图注将北极盐泉沉积物列为热液、冷泉、其他海洋和陆地来源之外的一类生境，因此该研究既不以北极为主，也不是南海站位调查。",
       "_source_hash": "34b4004427803677"
+    },
+    "claim:scs-haima-chiridota-gut-symbionts": {
+      "statement": "去冗余后得到分属 35 个原核门的 145 个 MAG，其中 10 个肠道富集、64 个沉积物富集、71 个共有。肠道共生体富含 Gammaproteobacteria、Desulfobacterota 和 Bacteroidia；肠道富集 MAG 主要为 Gammaproteobacteria 和 Bacteroidia，并携带更多碳水化合物与氨基酸代谢基因。Bacteroidia 具有大量 CAZyme，部分 MAG 携带甲烷氧化和硫循环基因。",
+      "scope": "海马冷泉（16°54′N，110°28′E，水深 1380–1430 m）Chiridota hydrothermica 肠道内容物及其 1 m 范围内 0–5 cm 含氧沉积物。",
+      "evidence_basis": "对宏基因组进行组装和分箱；保留完整度不低于 50% 且污染低于 10% 的 MAG，并以相对沉积物的 log2 倍数变化不低于 1 界定肠道富集。",
+      "locator": "摘要；材料与方法（样品采集与宏基因组测序）；结果（类群组成，以及甲烷、硫和碳水化合物部分）。",
+      "confidence_note": "基因组成和相对丰度不是实测的营养盐或甲烷通量。该目录来自每类生境 3 个样品以及 50/10 完整度筛选；补充材料与讨论全文未逐段复核。",
+      "_source_hash": "c0843b555994e1ae"
+    },
+    "claim:scs-formosa-haima-bivalve-shell-archives": {
+      "statement": "同一站位壳体的微量元素比值差异明显，作者主要将其归因于环境变量。Sr/Ca 被判断为优于氧同位素的温度代用指标，Na/Ca 和 U/Ca 仅被提议为酸化代用指标。铀系中位年龄为 F 站贻贝 229.5 年、海马贻贝 323.5 年；海马蛤类寿命过短而无法准确测年。文中将年龄偏差归因于高 232Th 和偏低的初始 230Th/232Th，而不是 α 反冲。",
+      "scope": "F 站／福尔摩沙的 Gigantidas platifrons 壳体，以及海马 HM-Seep 的 Gigantidas haimaensis 与 HM-Baiguabei 的 Archivesica marissinica 壳体。",
+      "evidence_basis": "沿壳体生长剖面做 LA-ICP-MS 线扫描，对壳体碳酸盐做铀–钍定年，并测定氧同位素用于比较。",
+      "locator": "摘要；2.1 节样品采集与前处理；3.1 节关于元素异质性的开头。",
+      "confidence_note": "Na/Ca 与 U/Ca 尚未被证实为可用的酸化代用指标；年龄是带有所述钍校正的铀系估计。本档案未把 Sr/Ca 换算成温度序列，也不外推到整个南海。",
+      "_source_hash": "1c9d13ef471c30ab"
+    },
+    "claim:scs-carbonate-reactive-phosphorus": {
+      "statement": "出版方摘要报道，受限硫化条件下形成的高镁方解石（碳酸盐 δ13C 偏低、伴生铁硫化物 δ34S 偏高）所含活性磷高于未受渗漏影响的沉积物，而较开放、发生硫酸盐还原且流体混合条件下形成的文石活性磷较低。活性磷（含铁结合磷和自生磷）与 Mg/Ca、δ34S 正相关，与 Sr/Ca、δ13C 负相关。",
+      "scope": "南海冷泉沉积物–水界面附近形成的自生碳酸盐，并与未受渗漏影响的邻近沉积物比较。所核查摘要未给出具体冷泉站位。",
+      "evidence_basis": "比较高镁方解石与文石中的活性磷，并结合 Mg/Ca、Sr/Ca 以及碳酸盐和伴生铁硫化物的碳、硫同位素。",
+      "locator": "ScienceDirect 着陆页上的出版方摘要：南海冷泉碳酸盐矿物学与磷滞留。",
+      "confidence_note": "ScienceDirect 页面返回 HTTP 403，因此本档案依据着陆页索引到的出版方摘要，未核查全文、图件或具体站位。这些相关关系不是实测磷通量，面向古代缺氧海洋的框架也不是重建的古收支。",
+      "_source_hash": "ec4a65cd8368de54"
+    },
+    "claim:scs-haima-aom-iron-phosphorus-efflux": {
+      "statement": "摘要报道，在有机质再矿化速率相近的情况下，海马冷泉的溶解铁和磷酸盐通量远高于背景沉积物。高甲烷站位的磷酸盐通量为 2.00–15.8 µmol m−2 d−1，溶解铁通量为 2.24–47.4 µmol m−2 d−1，背景值分别为 1.21 和 0.412 µmol m−2 d−1。作者将额外的再循环归因于厌氧甲烷氧化：它还原铁氧化物并释放铁结合磷，同时硫化物限制了可结合磷的铁氧化物再生。",
+      "scope": "水深 1300–1500 m 的海马冷泉沉积物，比较不同甲烷渗漏强度并对照背景沉积物。",
+      "evidence_basis": "比较冷泉与背景沉积物的溶解铁、磷酸盐通量和有机质再矿化。仅核查了 Crossref 存缴的摘要。",
+      "locator": "Crossref 存缴摘要：通量比较及所提出的厌氧甲烷氧化级联。",
+      "confidence_note": "仅依据摘要；通量区间未据表格重算。铁–硫化物级联是作者的机制解释，关于未记录冷泉可能影响全球营养盐收支的表述不是实测的全球通量。",
+      "_source_hash": "0eb60ee41782b78f"
     }
   },
   "concepts": {
@@ -17169,6 +17311,6 @@
       "Concept": "概念"
     }
   },
-  "generated_at": "2026-11-07T10:36:50.589453+00:00",
+  "generated_at": "2026-11-07T10:38:15.265831+00:00",
   "translation_note": "Terminology-normalized Simplified-Chinese reading translation; English evidence records remain canonical."
 }

@@ -5438,6 +5438,38 @@
       "schema:sameAs": "https://doi.org/10.1186/s40793-026-00968-7"
     },
     {
+      "@id": "src:scs-haima-chiridota-gut-symbionts",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Specialised gut symbionts in deep-sea holothurian Chiridota hydrothermica support host nutrition and biogeochemical cycling in cold seep ecosystems",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1007/s42995-026-00368-3",
+      "schema:sameAs": "https://doi.org/10.1007/s42995-026-00368-3"
+    },
+    {
+      "@id": "src:scs-formosa-haima-bivalve-shell-archives",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Combined uranium-series and trace elements analysis in cold seep bivalves: possibility in hundred-year-scale reconstruction of deep-sea temperature and acidification",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.3389/fmars.2025.1528106",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2025.1528106"
+    },
+    {
+      "@id": "src:scs-carbonate-reactive-phosphorus",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Reactive phosphorus retention in seabed cold-seep carbonates: Implications for phosphorus recycling and efflux in anoxic marine environments",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.chemgeo.2026.123408",
+      "schema:sameAs": "https://doi.org/10.1016/j.chemgeo.2026.123408"
+    },
+    {
+      "@id": "src:scs-haima-aom-iron-phosphorus-efflux",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Chemoautotrophy Enhances Iron and Phosphorus Recycling From Sediments at Deep‐Sea Methane Seeps",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1029/2025gb008735",
+      "schema:sameAs": "https://doi.org/10.1029/2025gb008735"
+    },
+    {
       "@id": "claim:001-rothera-viral-novelty",
       "@type": "pkg:Claim",
       "schema:text": "The Rothera coastal time series yielded 7,957 mid- to high-quality vOTUs, about 75% of which lacked species-level representation in the comparison ocean-virus catalogues.",
@@ -12590,6 +12622,74 @@
       },
       "prov:wasDerivedFrom": {
         "@id": "src:gcs-anme1-diversification-mags"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-chiridota-gut-symbionts",
+      "@type": "pkg:Claim",
+      "schema:text": "Dereplication yielded 145 MAGs spanning 35 prokaryotic phyla: 10 gut-enriched, 64 sediment-enriched and 71 shared. Gut symbionts were rich in Gammaproteobacteria, Desulfobacterota and Bacteroidia; the gut-enriched MAGs were mainly Gammaproteobacteria and Bacteroidia and carried more carbohydrate and amino-acid metabolism genes. Bacteroidia had large CAZyme repertoires, and selected MAGs carried methane-oxidation and sulfur-cycling genes.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-chiridota-gut-symbionts"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:organic-matter-degradation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-chiridota-gut-symbionts"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-formosa-haima-bivalve-shell-archives",
+      "@type": "pkg:Claim",
+      "schema:text": "Trace-element ratios varied among shells from the same site and were attributed mainly to environmental variables. Sr/Ca was judged a better temperature proxy than oxygen isotopes, whereas Na/Ca and U/Ca were only proposed as acidification proxies. Median uranium-series ages were 229.5 years for Site F mussels and 323.5 years for Haima mussels; Haima clams were too short-lived to date. The reported age bias was assigned to high 232Th and a low initial 230Th/232Th rather than alpha recoil.",
+      "pkg:subject": {
+        "@id": "src:scs-formosa-haima-bivalve-shell-archives"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-formosa-haima-bivalve-shell-archives"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-carbonate-reactive-phosphorus",
+      "@type": "pkg:Claim",
+      "schema:text": "The publisher abstract reports that high-magnesium calcite formed under restricted sulfidic conditions, with low carbonate δ13C and high δ34S of associated iron sulfides, held more reactive phosphorus than seepage-unaffected sediment, whereas aragonite from more open, sulfate-reducing, fluid-mixed settings held less. Reactive phosphorus, including iron-bound and authigenic phosphorus, correlated positively with Mg/Ca and δ34S and negatively with Sr/Ca and δ13C.",
+      "pkg:subject": {
+        "@id": "src:scs-carbonate-reactive-phosphorus"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:phosphorus-cycling"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-carbonate-reactive-phosphorus"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-aom-iron-phosphorus-efflux",
+      "@type": "pkg:Claim",
+      "schema:text": "The abstract reports much larger dissolved-iron and phosphate effluxes at Haima than in background sediment despite comparable organic-matter remineralization rates. At high-methane sites, phosphate efflux was 2.00–15.8 µmol m−2 d−1 and dissolved-iron efflux was 2.24–47.4 µmol m−2 d−1, against background values of 1.21 and 0.412 µmol m−2 d−1. The authors attribute the extra recycling to anaerobic methane oxidation that reduces iron oxides, releases iron-bound phosphorus, and, through sulfide, limits reformation of phosphorus-binding iron oxides.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-aom-iron-phosphorus-efflux"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-aom-iron-phosphorus-efflux"
       },
       "pkg:evidenceType": "inferred",
       "pkg:confidence": "moderate"

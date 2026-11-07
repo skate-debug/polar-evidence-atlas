@@ -15,7 +15,7 @@ from citation_utils import bibliographic_date_parts
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 OUTPUT = DATA / "cold_seep_metadata.json"
-GENERA = "Abyssisolibacter Acharax Aequorivita Alternaria Alvinocaris Arcobacter Archivesica Aspergillus Bacillus Bathyacmaea Bathymodiolus Calyptogena Curvularia Cyphocaris Cycloclasticus Dechloromonas Desulfosarcina Enigmaticolus Fontisubflavum Gigantidas Hwangdonia Iocasia Lindaspio Lysinibacillus Macellicephaloides Marinobacter Methanochimaera Methanofollis Methylobacter Methyloprofundus Munidopsis Mytilus Natsushima Neorhizobium Nitrincola Oligobrachia Ophioplinthaca Ophiophthalmus Paraescarpia Paralepetopsis Penicillium Phymorhynchus Psychrosphaera Pyropelta Reniuristis Salegentibacter Sericosura Shinkaia Stenotrophomonas Streptomyces Sulfurimonas Sulfurovum Talaromyces Thermochiton Toxicocladosporium Trichoderma Westerdykella".split()
+GENERA = "Abyssisolibacter Acharax Aequorivita Alternaria Alvinocaris Arcobacter Archivesica Aspergillus Bacillus Bathyacmaea Bathymodiolus Calyptogena Chiridota Curvularia Cyphocaris Cycloclasticus Dechloromonas Desulfosarcina Enigmaticolus Fontisubflavum Gigantidas Hwangdonia Iocasia Lindaspio Lysinibacillus Macellicephaloides Marinobacter Methanochimaera Methanofollis Methylobacter Methyloprofundus Munidopsis Mytilus Natsushima Neorhizobium Nitrincola Oligobrachia Ophioplinthaca Ophiophthalmus Paraescarpia Paralepetopsis Penicillium Phymorhynchus Psychrosphaera Pyropelta Reniuristis Salegentibacter Sericosura Shinkaia Stenotrophomonas Streptomyces Sulfurimonas Sulfurovum Talaromyces Thermochiton Toxicocladosporium Trichoderma Westerdykella".split()
 
 
 def load(name, fallback):
