@@ -5262,6 +5262,134 @@
       "schema:sameAs": "https://doi.org/10.1007/s11802-026-6174-2"
     },
     {
+      "@id": "src:scs-shenhu-trial-carbon-cycling",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Environmental effects of Shenhu gas hydrate trial production: A perspective on carbon cycling in shallow sediments",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.dsr.2026.104652",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr.2026.104652"
+    },
+    {
+      "@id": "src:scs-shenhu-two-stage-hydrate",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Dynamic accumulation of gas hydrates in the Shenhu area, northern South China Sea: A two-stage evolution model constrained by temporally varying fluid flow",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.31035/cg2025196",
+      "schema:sameAs": "https://doi.org/10.31035/cg2025196"
+    },
+    {
+      "@id": "src:scs-nscs-pyrite-trace-metals",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The process of trace metals enrichment in pyrite under methane seepage in the northern South China Sea",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.3389/fmars.2025.1653453",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2025.1653453"
+    },
+    {
+      "@id": "src:scs-haima-sediment-hydrate-patterns",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Content gradient of “Haima” cold seep sediments controls methane hydrate formation patterns: multi-mechanism regulatory analysis",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.dsr.2026.104745",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr.2026.104745"
+    },
+    {
+      "@id": "src:gcs-paleo-seep-gas-venting",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Global seafloor gas venting: New insights from paleo-coldseep systems",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.59717/j.tiw.2026.100006",
+      "schema:sameAs": "https://doi.org/10.59717/j.tiw.2026.100006"
+    },
+    {
+      "@id": "src:gcs-arctic-seep-chemotone",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Life on the edge: distinctive and diverse communities in the chemotone peripheral to Arctic seeps",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1007/s00227-026-04853-2",
+      "schema:sameAs": "https://doi.org/10.1007/s00227-026-04853-2"
+    },
+    {
+      "@id": "src:scs-site-f-hydrate-bubble-sequestration",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Quantitative Study of Methane Sequestration by Hydrate-Encapsulated Bubbles at Cold Seeps: Kinetic Characteristics and Environmental Implications",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1021/acs.est.6c11347",
+      "schema:sameAs": "https://doi.org/10.1021/acs.est.6c11347"
+    },
+    {
+      "@id": "src:scs-qiongdongnan-pore-pressure",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Post-Penetration Excess Pore-Pressure Evolution at Cold Seeps: Sustained Negative Responses at Active Vents",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.3390/jmse14212012",
+      "schema:sameAs": "https://doi.org/10.3390/jmse14212012"
+    },
+    {
+      "@id": "src:scs-haima-sers-cyanide-nitrogen",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "In situ deep-sea surface-enhanced Raman scattering sensor reveals cyanide as a key factor in cold seep nitrogen cycling",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1126/sciadv.aef5836",
+      "schema:sameAs": "https://doi.org/10.1126/sciadv.aef5836"
+    },
+    {
+      "@id": "src:scs-haima-uranium-isotopes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Uranium isotopic constraints on the biogeochemistry of methane-seep environments",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.gca.2026.08.002",
+      "schema:sameAs": "https://doi.org/10.1016/j.gca.2026.08.002"
+    },
+    {
+      "@id": "src:scs-haima-mollusc-feeding-genomes",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Adaptive Feeding Strategies Facilitate Resilience of Deep‐Sea Cold Seep Molluscs Confronting Climate Change",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1111/mec.70190",
+      "schema:sameAs": "https://doi.org/10.1111/mec.70190"
+    },
+    {
+      "@id": "src:gcs-shenloong-dracosphera",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1038/s41467-026-78965-0",
+      "schema:sameAs": "https://doi.org/10.1038/s41467-026-78965-0"
+    },
+    {
+      "@id": "src:gcs-carbonate-episodic-seepage-redox",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Authigenic carbonate mineralization records episodic methane seepage and redox transitions in cold-seep sediments",
+      "schema:datePublished": 2027,
+      "schema:identifier": "10.1016/j.chemgeo.2026.123794",
+      "schema:sameAs": "https://doi.org/10.1016/j.chemgeo.2026.123794"
+    },
+    {
+      "@id": "src:gcs-tatar-trough-anme-lipids",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Linking biogeochemical signatures to archaeal community structure at active methane seeps in the Tatar trough, far eastern Russia",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.marchem.2026.104677",
+      "schema:sameAs": "https://doi.org/10.1016/j.marchem.2026.104677"
+    },
+    {
+      "@id": "src:gcs-gom-coral-thioglobaceae",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Deep-sea corals near cold seeps associate with sulfur-oxidizing chemoautotrophs in the family Ca. Thioglobaceae",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1186/s40168-025-02254-z",
+      "schema:sameAs": "https://doi.org/10.1186/s40168-025-02254-z"
+    },
+    {
+      "@id": "src:gcs-atlantic-monterey-nifh-seeps",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Abundance, Identity, and Potential Diazotrophic Activity of nifH ‐Containing Organisms at Marine Cold Seeps",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1111/1462-2920.70058",
+      "schema:sameAs": "https://doi.org/10.1111/1462-2920.70058"
+    },
+    {
       "@id": "src:scs-haima-anme-lipid-hydrogen",
       "@type": "schema:ScholarlyArticle",
       "schema:name": "Archaeal lipid hydrogen isotope fractionation reveals carbon and energy metabolism in seep ecosystems",
@@ -12074,6 +12202,278 @@
         "@id": "src:scs-site-f-methane-leakage-flux"
       },
       "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-trial-carbon-cycling",
+      "@type": "pkg:Claim",
+      "schema:text": "The abstract reports artificial cold seeps from borehole leakage. The sulfate–methane transition near the trial well shoaled from 18.9 mbsf in the background area to 10.8 mbsf. Organic sulfate reduction dominated shallow sediments. A numerical model assigned deeper sulfate consumption about 7:3 between organic sulfate reduction and anaerobic methane oxidation, and sediments supplied bottom water with 5.7–9.1 mmol m−2 a−1 dissolved inorganic carbon and 0.65–0.71 mmol m−2 a−1 organic carbon.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-trial-carbon-cycling"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-trial-carbon-cycling"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-two-stage-hydrate",
+      "@type": "pkg:Claim",
+      "schema:text": "A layer near the base of the present gas-hydrate stability zone reaches 48% saturation and then falls to nearly zero above it. The time-varying flow model reproduces that profile. Under present sedimentation and flow, burial and dissociation of older hydrate below the stability zone outpace new hydrate formation, so the modeled inventory declines.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-two-stage-hydrate"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:hydrate-bearing-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-two-stage-hydrate"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-nscs-pyrite-trace-metals",
+      "@type": "pkg:Claim",
+      "schema:text": "Two sulfate–methane transition intervals were placed at 181–481 and 1,101–1,401 cm below the seafloor, where chromium-reducible-sulfur δ34S became more positive, reaching −36.54‰, and Mg/Ca increased. Pyrite there was enriched in Co, Ni, Mo, and Pb and depleted in Mn, Zn, Cu, and V. The authors link that pattern to anaerobic methane oxidation, iron and manganese reduction, and separate sulfide minerals for the faster-exchanging metals.",
+      "pkg:subject": {
+        "@id": "src:scs-nscs-pyrite-trace-metals"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-nscs-pyrite-trace-metals"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-sediment-hydrate-patterns",
+      "@type": "pkg:Claim",
+      "schema:text": "The verified title states that a content gradient in Haima cold-seep sediments controls methane-hydrate formation patterns through more than one mechanism.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-sediment-hydrate-patterns"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:hydrate-bearing-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-sediment-hydrate-patterns"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-paleo-seep-gas-venting",
+      "@type": "pkg:Claim",
+      "schema:text": "The opening reports present-day gas venting inside a relict paleo-cold-seep field at Shenhu. The authors use low-intensity fluid activity as a qualitative description, not as a methane-flux class.",
+      "pkg:subject": {
+        "@id": "src:gcs-paleo-seep-gas-venting"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-bottom-water"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-paleo-seep-gas-venting"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-arctic-seep-chemotone",
+      "@type": "pkg:Claim",
+      "schema:text": "Peripheral communities were about an order of magnitude more diverse and species-rich than the seep interior. The abstract reports no specialist fauna in either habitat, chemosynthetically derived carbon in peripheral animals, and abundant suspension feeders, including thousands of colonial anemones.",
+      "pkg:subject": {
+        "@id": "src:gcs-arctic-seep-chemotone"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-interface"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-arctic-seep-chemotone"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-site-f-hydrate-bubble-sequestration",
+      "@type": "pkg:Claim",
+      "schema:text": "In the tested cold-seep bubble flows, low salinity and small particles accelerated hydrate growth, and large-cage occupancy was 15% higher relative to small cages. The field model estimates that hydrate-encapsulated bubbles at Site F sequester about 0.34–2.77 t of methane per year, roughly 3.3–26.9% of that site's methane leakage flux.",
+      "pkg:subject": {
+        "@id": "src:scs-site-f-hydrate-bubble-sequestration"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-water-column"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-site-f-hydrate-bubble-sequestration"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-qiongdongnan-pore-pressure",
+      "@type": "pkg:Claim",
+      "schema:text": "Non-vent sites mainly dissipated positive excess pore pressure. Only the two active vents switched to sustained negative excess pore pressure, with zero-crossing times of 0.3–3.2 min and 5.6–8.7 min. Minimum values were about −22.1 to −19.8 kPa and −27.3 to −22.0 kPa. At the nearby A2 vane-shear site, sediment at 85 cm had higher peak shear strength and lower sensitivity than at 55 and 70 cm.",
+      "pkg:subject": {
+        "@id": "src:scs-qiongdongnan-pore-pressure"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-qiongdongnan-pore-pressure"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-sers-cyanide-nitrogen",
+      "@type": "pkg:Claim",
+      "schema:text": "The abstract presents the sensor record as in situ evidence for an energy-efficient nitrogen-fixation pathway and interprets cyanide as a microbial circulating currency that was consumed along the measured gradient. The deployment section and Figure 5 place those tests at the Haima cold seep.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-sers-cyanide-nitrogen"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:nitrogen-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-sers-cyanide-nitrogen"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-uranium-isotopes",
+      "@type": "pkg:Claim",
+      "schema:text": "The verified title reports uranium-isotope constraints on the biogeochemistry of methane-seep environments. The author laboratory states that the materials are Haima seep sediment and authigenic carbonate.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-uranium-isotopes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-uranium-isotopes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-mollusc-feeding-genomes",
+      "@type": "pkg:Claim",
+      "schema:text": "The mussel showed expanded gene families related to degrading bacterial components, including b4GalTs, and during the leakage experiment it increased metabolic rate and transcriptional responses. The snail showed expansions related to appetite and digestion, including ox2r, sult1 and chst, and instead suppressed energy production and translational and post-translational responses.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-mollusc-feeding-genomes"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-mollusc-feeding-genomes"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-shenloong-dracosphera",
+      "@type": "pkg:Claim",
+      "schema:text": "The publisher abstract reports sulphur-oxidising bacteria inside spherical multilamellar compartments about 12 μm across, named dracosphera, throughout the hypertrophied digestive gland of C. shenloong, whose gut is otherwise largely lost. It describes the symbionts as microaerobic and the host as living in anoxic sediment tens of centimetres below the surface, and suggests the organelle may limit oxygen reaching the bacteria.",
+      "pkg:subject": {
+        "@id": "src:gcs-shenloong-dracosphera"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:chemosynthetic-symbiosis"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-shenloong-dracosphera"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-carbonate-episodic-seepage-redox",
+      "@type": "pkg:Claim",
+      "schema:text": "The verified title reports that authigenic carbonate mineralization records episodic methane seepage and redox transitions in cold-seep sediments.",
+      "pkg:subject": {
+        "@id": "src:gcs-carbonate-episodic-seepage-redox"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-carbonate"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-carbonate-episodic-seepage-redox"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-tatar-trough-anme-lipids",
+      "@type": "pkg:Claim",
+      "schema:text": "Both cores had elevated light hydrocarbons, mainly methane, and carbon dioxide, and a sulfate-methane transition. Core LV67-07HC at 91–185 cm, around carbonate accretions, had high concentrations of 13C-depleted archaeal lipids, which the abstract links to stronger anaerobic methanotrophy under higher methane flux. Archaeal 16S rRNA sequences there were dominated by ANME-1. Differences between the cores are attributed to methane flux and fluid pathways in underlying coal-bearing strata.",
+      "pkg:subject": {
+        "@id": "src:gcs-tatar-trough-anme-lipids"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-tatar-trough-anme-lipids"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-gom-coral-thioglobaceae",
+      "@type": "pkg:Claim",
+      "schema:text": "Thioglobaceae ASVs reached 10–91% relative abundance in some corals, were host-specific, absent from water, and rare or absent in sediment. A genome from Paramuricea sp. B3 (ASV 4) encoded sulfur oxidation and carbon fixation, and those pathways were transcribed. Its relative abundance was negatively correlated with the stable-isotope composition of host tissue.",
+      "pkg:subject": {
+        "@id": "src:gcs-gom-coral-thioglobaceae"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "taxon:thioglobus"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-gom-coral-thioglobaceae"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-atlantic-monterey-nifh-seeps",
+      "@type": "pkg:Claim",
+      "schema:text": "nifH genes spanned 18 bacterial and archaeal phyla, 17 of them inside seeps, including ANME-2, Desulfobacteraceae, Desulfuromonadales, Desulfoglaeba and Candidatus Methanoliparia. Transcripts were detected at five of the six seeps. After removing the 71% of sequences that were not bona fide nifH, abundance was up to three orders of magnitude higher inside seeps, correlated with mcrA, and negatively correlated with porewater ammonium below 25 μM.",
+      "pkg:subject": {
+        "@id": "src:gcs-atlantic-monterey-nifh-seeps"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:nitrogen-fixation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-atlantic-monterey-nifh-seeps"
+      },
+      "pkg:evidenceType": "reported",
       "pkg:confidence": "moderate"
     },
     {

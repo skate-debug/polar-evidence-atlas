@@ -340,6 +340,48 @@ Evidence locator / 证据位置：Abstract; Methods: Metagenomic datasets
 
 [Inspected source / 核查来源](https://doi.org/10.1038/s41467-025-68174-6) · `src:scs-seep-defense-systems`
 
+## Content gradient of “Haima” cold seep sediments controls methane hydrate formation patterns: multi-mechanism regulatory analysis
+
+海马冷泉沉积物的含量梯度对甲烷水合物形成模式的控制
+
+Zhang, Z., Feng, J.-C., Jiang, S., Wang, B., Xie, Y., Xu, L., Pan, H., Yang, Z., & Zhang, S. (2026). Content gradient of “Haima” cold seep sediments controls methane hydrate formation patterns: Multi-mechanism regulatory analysis. *Deep Sea Research Part I: Oceanographic Research Papers, 232*, Article 104745. https://doi.org/10.1016/j.dsr.2026.104745
+
+**Design / 研究设计**: Bibliographic record only. Crossref, OpenAlex, and Europe PMC returned no abstract, and the publisher page was not openly readable.
+
+仅有书目记录。Crossref、OpenAlex 和 Europe PMC 未返回摘要，出版页面也不能公开阅读。
+
+**Sampling scope / 采样范围**: Haima cold-seep sediments, as named in the verified title.
+
+经核验标题所指的海马冷泉沉积物。
+
+**Time / 时间**: First-online date 28 August 2026. Crossref dates the print issue to December 2026.
+
+首次在线日期为 2026 年 8 月 28 日。Crossref 把印刷期定为 2026 年 12 月。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: title-scoped sediment gradient and hydrate formation
+
+标题范围内的沉积物梯度与水合物形成
+
+**Findings / 发现**: The verified title states that a content gradient in Haima cold-seep sediments controls methane-hydrate formation patterns through more than one mechanism.
+
+经核验的标题指出，海马冷泉沉积物的含量梯度通过不止一种机制控制甲烷水合物的形成模式。
+
+**Citation limits / 引用边界**: No abstract was retrieved, so this profile does not extract gradients, mechanisms, rates, or depths beyond the verified title.
+
+未检索到摘要，因此本档案不提取标题之外的梯度、机制、速率或深度。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.dsr.2026.104745) · `src:scs-haima-sediment-hydrate-patterns`
+
 ## Continuous Characterization of Water-Column Velocity in Cold Seep Plumes Using Pre-Stack Allied Elastic Impedance Inversion
 
 用叠前联合弹性阻抗反演连续刻画冷泉羽流的水体速度
@@ -636,6 +678,48 @@ Evidence locator / 证据位置：Abstract: design and primary findings.
 
 [Inspected source / 核查来源](https://doi.org/10.1021/acs.analchem.6c04761) · `src:scs-scs-dissolved-methane-sensor`
 
+## Dynamic accumulation of gas hydrates in the Shenhu area, northern South China Sea: A two-stage evolution model constrained by temporally varying fluid flow
+
+神狐水合物的动态聚集：受流体通量随时间变化约束的两阶段模型
+
+Zheng, S., Wu, Y.-F., & Wu, N.-Y. (2026). Dynamic accumulation of gas hydrates in the Shenhu area, northern South China Sea: A two-stage evolution model constrained by temporally varying fluid flow. *China Geology, 9*(3), 456–467. https://doi.org/10.31035/cg2025196
+
+**Design / 研究设计**: A coupled fluid–heat numerical model with time-varying water flow, compared with the observed hydrate-saturation profile. The open-access abstract and article opening were read.
+
+用随时间变化的水流做流体–热耦合数值模型，并与观测到的水合物饱和度剖面比较。已阅读开放获取摘要和正文开头。
+
+**Sampling scope / 采样范围**: Pleistocene gas-hydrate-bearing sediments in the Shenhu area, northern South China Sea.
+
+南海北部神狐地区的更新世天然气水合物沉积物。
+
+**Time / 时间**: Available online 25 February 2026. Crossref records only the year 2026.
+
+2026 年 2 月 25 日在线发表。Crossref 只记录了 2026 年。
+
+**Methods / 方法**: Reactive-transport modeling
+
+反应输运模拟
+
+**Measured or derived / 测量或推导指标**: hydrate saturation and modeled inventory change
+
+水合物饱和度与模拟储量变化
+
+**Findings / 发现**: A layer near the base of the present gas-hydrate stability zone reaches 48% saturation and then falls to nearly zero above it. The time-varying flow model reproduces that profile. Under present sedimentation and flow, burial and dissociation of older hydrate below the stability zone outpace new hydrate formation, so the modeled inventory declines.
+
+现今天然气水合物稳定带底部附近有一层饱和度达到 48%，向上迅速降到接近零。随时间变化的流体模型能够重现该剖面。在现今沉积和流体条件下，稳定带之下老水合物的埋藏与分解快于新水合物形成，因此模拟的总量下降。
+
+**Citation limits / 引用边界**: This is a Shenhu inventory model. It is not a production forecast and does not give a methane flux to the water column. Deeper saturation details in the article opening are not repeated here.
+
+这是神狐储量模型，不是开采预测，也不给出进入水体的甲烷通量。正文开头中更具体的饱和度细节未写入本档案。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Open-access PDF abstract and the saturation description in the article opening.
+
+开放获取 PDF 的摘要，以及正文开头对饱和度的描述。
+
+[Inspected source / 核查来源](https://doi.org/10.31035/cg2025196) · `src:scs-shenhu-two-stage-hydrate`
+
 ## Enrichment of potential polyvinyl chloride and polycarbonate microplastic-degrading bacteria and their distribution characteristics in deep-sea cold seep
 
 海马冷泉 PVC 与聚碳酸酯潜在降解菌的富集与分布
@@ -677,6 +761,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/42214985) · `src:scs-haima-plastic-enrichments`
+
+## Environmental effects of Shenhu gas hydrate trial production: A perspective on carbon cycling in shallow sediments
+
+神狐天然气水合物试采对浅层沉积物碳循环的环境影响
+
+Lv, T., Xu, C., Sun, Z., Cao, H., Zhang, X., Geng, W., Chen, Y., Xu, S., Zhang, D., Zhou, Y., Li, S., Sun, Y., & Zhai, B. (2026). Environmental effects of Shenhu gas hydrate trial production: A perspective on carbon cycling in shallow sediments. *Deep Sea Research Part I: Oceanographic Research Papers, 228*, Article 104652. https://doi.org/10.1016/j.dsr.2026.104652
+
+**Design / 研究设计**: Visual multi-tube samples at the sediment–water interface, with geochemical profiles and a numerical simulation of dissolved carbon. Crossref, OpenAlex, and Europe PMC had no abstract; the same abstract was read on Booksci and EurekaMag.
+
+在沉积物–水界面用可视多管采样，结合地球化学剖面和溶解碳数值模拟。Crossref、OpenAlex 和 Europe PMC 没有摘要；Booksci 与 EurekaMag 上的同一摘要已核对。
+
+**Sampling scope / 采样范围**: Sediment–water interface at SH-1 and SH-2, beside artificial vents in the Shenhu hydrate trial-production area.
+
+神狐水合物试采区人工喷口附近 SH-1 与 SH-2 的沉积物–水界面。
+
+**Time / 时间**: Epub date 17 January 2026; Crossref print issue is April 2026. The inspected abstract does not give the sampling date.
+
+在线发表日期为 2026 年 1 月 17 日；Crossref 印刷期为 2026 年 4 月。所查摘要未给出采样日期。
+
+**Methods / 方法**: Porewater and water geochemistry; Reactive-transport modeling
+
+孔隙水与水体地球化学；反应输运模拟
+
+**Measured or derived / 测量或推导指标**: SMTZ depth and modeled dissolved-carbon fluxes
+
+硫酸盐–甲烷过渡带深度与模拟的溶解碳通量
+
+**Findings / 发现**: The abstract reports artificial cold seeps from borehole leakage. The sulfate–methane transition near the trial well shoaled from 18.9 mbsf in the background area to 10.8 mbsf. Organic sulfate reduction dominated shallow sediments. A numerical model assigned deeper sulfate consumption about 7:3 between organic sulfate reduction and anaerobic methane oxidation, and sediments supplied bottom water with 5.7–9.1 mmol m−2 a−1 dissolved inorganic carbon and 0.65–0.71 mmol m−2 a−1 organic carbon.
+
+摘要报道井漏形成人工冷泉。试采井附近的硫酸盐–甲烷过渡带从背景区的海床下 18.9 m 变浅到 10.8 m。浅层沉积物以有机硫酸盐还原为主。数值模型把较深层硫酸盐消耗划为有机硫酸盐还原与厌氧甲烷氧化约 7:3，沉积物向底层水输出 5.7–9.1 mmol m−2 a−1 溶解无机碳和 0.65–0.71 mmol m−2 a−1 有机碳。
+
+**Citation limits / 引用边界**: The 7:3 split and the carbon fluxes are numerical-model results in a reproduced abstract. They are not a basin-wide carbon budget, and the abstract was not deposited with Crossref.
+
+7:3 的分配和碳通量是转载摘要中的数值模型结果，不是海盆尺度碳收支，而且 Crossref 没有存入这段摘要。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract reproduced on Booksci and EurekaMag. Crossref, OpenAlex, and Europe PMC returned no abstract.
+
+摘要见于 Booksci 与 EurekaMag 的转载。Crossref、OpenAlex 和 Europe PMC 未返回摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.dsr.2026.104652) · `src:scs-shenhu-trial-carbon-cycling`
 
 ## Estimation of Methane Leakage Flux from an Active Cold Seep in the South China Sea: A Case Study at Site F
 
@@ -1014,6 +1140,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/42425006) · `src:scs-pressure-hydrocarbon-consortia`
 
+## In situ deep-sea surface-enhanced Raman scattering sensor reveals cyanide as a key factor in cold seep nitrogen cycling
+
+原位深海表面增强拉曼传感器显示氰化物参与冷泉氮循环
+
+Wang, S., Zhao, T., He, W., Li, F., Wang, Z., Pan, R., Li, L., Xi, S., Luan, Z., Zhang, Z., Li, B., Chen, L., & Zhang, X. (2026). In situ deep-sea surface-enhanced Raman scattering sensor reveals cyanide as a key factor in cold seep nitrogen cycling. *Science Advances, 12*(33), Article eaef5836. https://doi.org/10.1126/sciadv.aef5836
+
+**Design / 研究设计**: A deep-sea surface-enhanced Raman scattering sensor, with the abstract stating operation at or above 350 °C and 2,000 m and a limit of detection of 5.7 μM, used for cyanide gradients at the seep.
+
+深海表面增强拉曼散射传感器；摘要称其可在不低于 350 °C 和 2,000 m 的条件下工作，检测限为 5.7 μM，并用于冷泉氰化物梯度。
+
+**Sampling scope / 采样范围**: Haima cold seep, South China Sea. The deployment section describes ship-based tests about 100 m above the seafloor near 1,400 m and in situ tests near 1,500 m and 1,200 m.
+
+南海海马冷泉。部署章节描述了海底以上约 100 m、水深约 1,400 m 的船基测试，以及约 1,500 m 和 1,200 m 的原位测试。
+
+**Time / 时间**: Published 14 August 2026. The inspected sections do not give the cruise dates.
+
+2026 年 8 月 14 日发表。所查章节未给出航次日期。
+
+**Methods / 方法**: In situ seabed monitoring
+
+海底原位监测
+
+**Measured or derived / 测量或推导指标**: in situ cyanide gradient and sensor performance
+
+原位氰化物梯度与传感器性能
+
+**Findings / 发现**: The abstract presents the sensor record as in situ evidence for an energy-efficient nitrogen-fixation pathway and interprets cyanide as a microbial circulating currency that was consumed along the measured gradient. The deployment section and Figure 5 place those tests at the Haima cold seep.
+
+摘要把传感器记录作为一条节能固氮途径的原位证据，并把氰化物解释为沿所测梯度被消耗的微生物“流通货币”。部署章节和图 5 将这些测试放在海马冷泉。
+
+**Citation limits / 引用边界**: The nitrogen-fixation pathway and the currency metaphor are interpretations of the cyanide gradient, not measured fixation rates. Sensor limits in the abstract are instrument performance, not seep concentrations, and this profile does not cover every supplementary figure.
+
+固氮途径和“流通货币”的说法是对氰化物梯度的解释，不是实测固氮速率。摘要中的传感器限度是仪器性能，不是冷泉浓度；本档案也未覆盖全部补充图。
+
+Evidence access / 核查材料：inspected full-text excerpts / 已核查相关全文段落; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: sensor performance and the cyanide interpretation. Section “Deep-sea application of the D-SERS sensor” and Figure 5 caption: Haima deployment.
+
+摘要：传感器性能与氰化物解释。章节“Deep-sea application of the D-SERS sensor”和图 5 说明：海马部署。
+
+[Inspected source / 核查来源](https://doi.org/10.1126/sciadv.aef5836) · `src:scs-haima-sers-cyanide-nitrogen`
+
 ## In situ evidence of tiered adaptations buffering a chemosynthetic clam holobiont against environmental sulfide fluctuations
 
 原位证据揭示化能合成蛤共生整体应对硫化物波动的分层适应
@@ -1266,6 +1434,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/42190835) · `src:scs-scs-pfas-core-occurrence`
 
+## Post-Penetration Excess Pore-Pressure Evolution at Cold Seeps: Sustained Negative Responses at Active Vents
+
+冷泉贯入后的超孔隙压力演化：活动喷口持续负压响应
+
+Luo, S., Lu, L., Wei, W., Jiang, Z., & Li, Y. (2026). Post-penetration excess pore-pressure evolution at cold seeps: Sustained negative responses at active vents. *Journal of Marine Science and Engineering, 14*(21), Article 2012. https://doi.org/10.3390/jmse14212012
+
+**Design / 研究设计**: In situ excess pore-pressure records after probe penetration, compared between non-vent and active-vent sites, with vane-shear tests on nearby sediment.
+
+比较非喷口与活动喷口在探头贯入后的原位超孔隙压力，并对附近沉积物做十字板剪切。
+
+**Sampling scope / 采样范围**: Six Jiaolong submersible sites in the Qiongdongnan cold-seep area, northern South China Sea, plus a nearby vane-shear site.
+
+南海北部琼东南冷泉区蛟龙号载人潜水器的六个站位，以及附近一个十字板剪切站。
+
+**Time / 时间**: Published 26 October 2026. The inspected abstract does not give the dive dates.
+
+2026 年 10 月 26 日发表。所查摘要未给出下潜日期。
+
+**Methods / 方法**: In situ seabed monitoring; Porewater and water geochemistry
+
+海底原位监测；孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: post-penetration excess pore pressure and vane shear strength
+
+贯入后超孔隙压力与十字板抗剪强度
+
+**Findings / 发现**: Non-vent sites mainly dissipated positive excess pore pressure. Only the two active vents switched to sustained negative excess pore pressure, with zero-crossing times of 0.3–3.2 min and 5.6–8.7 min. Minimum values were about −22.1 to −19.8 kPa and −27.3 to −22.0 kPa. At the nearby A2 vane-shear site, sediment at 85 cm had higher peak shear strength and lower sensitivity than at 55 and 70 cm.
+
+非喷口站位主要表现为正超孔隙压力消散。只有两个活动喷口转为持续的负超孔隙压力，过零时间分别为 0.3–3.2 min 和 5.6–8.7 min，最低值约为 −22.1 至 −19.8 kPa 和 −27.3 至 −22.0 kPa。附近 A2 十字板站 85 cm 沉积物的峰值抗剪强度高于 55 cm 和 70 cm，灵敏度则更低。
+
+**Citation limits / 引用边界**: The negative-pressure pathway is a short-term response to penetration and is associated spatially with visible venting. It is not a regional pore-pressure law or a methane flux.
+
+负压路径是贯入后的短期响应，并在空间上与可见喷溢相伴。它不是区域孔隙压力定律，也不是甲烷通量。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Publisher abstract: design and the vent versus non-vent pressure results.
+
+出版方摘要：研究设计以及喷口与非喷口的压力结果。
+
+[Inspected source / 核查来源](https://doi.org/10.3390/jmse14212012) · `src:scs-qiongdongnan-pore-pressure`
+
 ## Quantifying Thermo‐Fluid‐Chemical Coupling: Advection Governs Multi‐Phase Zonation and Self‐Sealing in a Hydrate‐Cold Seep System
 
 南海水合物–冷泉系统的热流体化学耦合模型
@@ -1349,6 +1559,48 @@ Evidence locator / 证据位置：Verified DOI bibliographic record and title; n
 经核验的 DOI 书目记录与标题；未检索到摘要。
 
 [Inspected source / 核查来源](https://doi.org/10.1016/j.dsr.2025.104644) · `src:scs-shenhu-multibeam-gas-flux`
+
+## Quantitative Study of Methane Sequestration by Hydrate-Encapsulated Bubbles at Cold Seeps: Kinetic Characteristics and Environmental Implications
+
+水合物包壳气泡对冷泉甲烷的定量封存：动力学与 F 站环境含义
+
+Zhang, Y., Xi, S., Ma, L., Li, L., He, W., Du, Z., Wang, Z., Tao, J., & Zhang, X. (2026). Quantitative study of methane sequestration by hydrate-encapsulated bubbles at cold seeps: Kinetic characteristics and environmental implications. *Environmental Science & Technology, 60*(43), 30540–30550. https://doi.org/10.1021/acs.est.6c11347
+
+**Design / 研究设计**: Time-series Raman spectroscopy of methane-hydrate growth across fluid-bubble flows, followed by a field model of hydrate-encapsulated bubbles at Site F.
+
+用时间序列拉曼光谱监测不同流体–气泡流中的甲烷水合物生长，再对 F 站水合物包壳气泡做现场模型估计。
+
+**Sampling scope / 采样范围**: Laboratory fluid-bubble flows, with the field estimate applied to Site F in the South China Sea.
+
+实验室流体–气泡流，现场估计用于南海 F 站。
+
+**Time / 时间**: Published online 30 September 2026; print issue dated 3 November 2026. The inspected abstract does not give a cruise date.
+
+2026 年 9 月 30 日在线发表，纸本日期为 2026 年 11 月 3 日。所查摘要未给出航次日期。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: hydrate growth, cage occupancy and a Site F sequestration estimate
+
+水合物生长、笼占有率与 F 站封存估计
+
+**Findings / 发现**: In the tested cold-seep bubble flows, low salinity and small particles accelerated hydrate growth, and large-cage occupancy was 15% higher relative to small cages. The field model estimates that hydrate-encapsulated bubbles at Site F sequester about 0.34–2.77 t of methane per year, roughly 3.3–26.9% of that site's methane leakage flux.
+
+在所测试的冷泉气泡流中，低盐度和小颗粒加快了水合物生长，大笼占有率相对小笼高 15%。现场模型估计 F 站水合物包壳气泡每年封存约 0.34–2.77 t 甲烷，大约相当于该站甲烷泄漏通量的 3.3–26.9%。
+
+**Citation limits / 引用边界**: The Site F tonnage is a field model, not a measured bubble flux, and the cage-occupancy contrast is for the tested flows. Neither result is a South China Sea methane budget.
+
+F 站的吨位是现场模型，不是实测气泡通量；笼占有率差异针对所测试的流态。两者都不是南海甲烷收支。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: kinetic experiments and the Site F field estimate.
+
+摘要：动力学实验与 F 站现场估计。
+
+[Inspected source / 核查来源](https://doi.org/10.1021/acs.est.6c11347) · `src:scs-site-f-hydrate-bubble-sequestration`
 
 ## Rapid Post-Recovery Changes in the Gill Holobiont of the Deep-Sea Mussel Gigantidas haimaensis During Short-Term Ex Situ Maintenance
 
@@ -1730,6 +1982,48 @@ Evidence locator / 证据位置：Verified DOI bibliographic record and title; n
 
 [Inspected source / 核查来源](https://doi.org/10.1016/j.dsr.2026.104675) · `src:scs-haima-macrofauna-edna`
 
+## Uranium isotopic constraints on the biogeochemistry of methane-seep environments
+
+甲烷冷泉环境生物地球化学的铀同位素约束
+
+Miao, X., Li, J., Liu, X., Jia, X., Nan, H., He, Z., Li, J., Guan, H., & Algeo, T. J. (2026). Uranium isotopic constraints on the biogeochemistry of methane-seep environments. *Geochimica et Cosmochimica Acta, 429*, 221–236. https://doi.org/10.1016/j.gca.2026.08.002
+
+**Design / 研究设计**: Bibliographic record only. Crossref, OpenAlex, Europe PMC and Semantic Scholar returned no abstract. The Haima sample types are taken from the Ocean University of China laboratory note of 9 September 2026, not from a publisher abstract.
+
+仅有书目记录。Crossref、OpenAlex、Europe PMC 和 Semantic Scholar 均未返回摘要。海马样品类型来自中国海洋大学实验室 2026 年 9 月 9 日的说明，不是出版方摘要。
+
+**Sampling scope / 采样范围**: Haima cold-seep sediment and authigenic carbonate, as stated by the authors' laboratory note. The verified title does not name the site.
+
+作者实验室说明中的海马冷泉沉积物与自生碳酸盐。经核验的标题没有点名站位。
+
+**Time / 时间**: Crossref issued date is September 2026. No publisher abstract was retrieved.
+
+Crossref 的发表日期为 2026 年 9 月。未检索到出版方摘要。
+
+**Methods / 方法**: Porewater and water geochemistry
+
+孔隙水与水体地球化学
+
+**Measured or derived / 测量或推导指标**: title-scoped uranium-isotope constraints
+
+标题范围内的铀同位素约束
+
+**Findings / 发现**: The verified title reports uranium-isotope constraints on the biogeochemistry of methane-seep environments. The author laboratory states that the materials are Haima seep sediment and authigenic carbonate.
+
+经核验的标题报道铀同位素对甲烷冷泉环境生物地球化学的约束。作者实验室称材料为海马冷泉沉积物和自生碳酸盐。
+
+**Citation limits / 引用边界**: No publisher abstract was available, so this profile does not extract isotope values, redox thresholds or host-phase fractions. The Haima assignment should be checked against the paper before citing a specific core or carbonate.
+
+没有出版方摘要，因此本档案不提取同位素数值、氧化还原阈值或赋存相比例。在引用具体岩芯或碳酸盐之前，海马这一归属仍应以原文核对。
+
+Evidence access / 核查材料：bibliographic record only / 仅有经核验书目记录; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved. Site and materials: author laboratory note https://geolab.ouc.edu.cn/2026/0909/c14456a536841/page.htm.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。站位与材料：作者实验室说明 https://geolab.ouc.edu.cn/2026/0909/c14456a536841/page.htm。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.gca.2026.08.002) · `src:scs-haima-uranium-isotopes`
+
 ## Vertical stratification and metabolic versatility of methanogens in Haima cold seep sediments: Alkane-fueled acetoclastic methanogenesis revealed by metagenomics and experimental verification
 
 海马沉积物产甲烷古菌的垂向分层与烷烃相关代谢潜力
@@ -1813,6 +2107,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/38099373) · `src:scs-aspergillus-fumitremorgin`
+
+## Adaptive Feeding Strategies Facilitate Resilience of Deep‐Sea Cold Seep Molluscs Confronting Climate Change
+
+深海冷泉软体动物的取食适应与甲烷泄漏下的能量响应
+
+Chen, Y., Liu, Y., Li, J., Yu, H., Yang, J., Li, Q., Lyu, L., & Zhang, S. (2025). Adaptive feeding strategies facilitate resilience of deep‐sea cold seep molluscs confronting climate change. *Molecular Ecology, 34*(24), Article e70190. https://doi.org/10.1111/mec.70190
+
+**Design / 研究设计**: Chromosome-level comparative genomes, plus an in situ experiment that mimicked warming-driven mass methane leakage and recorded metabolic and transcriptional responses.
+
+染色体水平的比较基因组，以及一次模拟变暖导致大规模甲烷泄漏的原位实验，记录代谢和转录响应。
+
+**Sampling scope / 采样范围**: Two sympatric cold-seep molluscs named in the abstract: the symbiosis-dependent mussel Gigantidas haimaensis and the predatory snail Phymorhynchus buccinoides. The species epithet places the mussel at Haima; the abstract does not give coordinates.
+
+摘要点名的两种同域冷泉软体动物：依赖共生的贻贝 Gigantidas haimaensis 和捕食性螺 Phymorhynchus buccinoides。种加词把贻贝放在海马；摘要没有给出坐标。
+
+**Time / 时间**: Published online 27 November 2025. The inspected abstract does not give the experiment date.
+
+2025 年 11 月 27 日在线发表。所查摘要未给出实验日期。
+
+**Methods / 方法**: Host transcriptomics
+
+宿主转录组学
+
+**Measured or derived / 测量或推导指标**: gene-family expansions and experimental energy responses
+
+基因家族扩张与实验中的能量响应
+
+**Findings / 发现**: The mussel showed expanded gene families related to degrading bacterial components, including b4GalTs, and during the leakage experiment it increased metabolic rate and transcriptional responses. The snail showed expansions related to appetite and digestion, including ox2r, sult1 and chst, and instead suppressed energy production and translational and post-translational responses.
+
+贻贝与细菌组分降解相关的基因家族扩张，包括 b4GalTs；在泄漏实验中代谢速率上升并出现转录响应。螺类与食欲和消化相关的基因家族扩张，包括 ox2r、sult1 和 chst，并转而抑制能量产生以及翻译和翻译后响应。
+
+**Citation limits / 引用边界**: Gene-family expansion is comparative genomics, not a measured feeding rate. One in situ leakage experiment does not give a climate-resilience rate for other seep molluscs.
+
+基因家族扩张是比较基因组结果，不是实测摄食速率。一次原位泄漏实验不能给出其他冷泉软体动物的气候恢复力速率。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: genomes, gene-family contrasts and the in situ leakage experiment.
+
+摘要：基因组、基因家族差异与原位泄漏实验。
+
+[Inspected source / 核查来源](https://doi.org/10.1111/mec.70190) · `src:scs-haima-mollusc-feeding-genomes`
 
 ## Arcobacter iocasae sp. nov., a bacterium isolated from the gill homogenate of the mussel Gigantidas platifrons in a cold seep
 
@@ -3249,6 +3585,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 摘要：研究设计与主要结果。
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/39644640) · `src:scs-haima-six-host-gills`
+
+## The process of trace metals enrichment in pyrite under methane seepage in the northern South China Sea
+
+南海北部甲烷渗漏下黄铁矿中微量金属的富集过程
+
+Ling, Y., Chen, X., Wu, D., Zhang, Q., Mao, S., Jin, G., Liu, J., Zhai, H., Yang, C., Su, Z., & Wu, N. (2025). The process of trace metals enrichment in pyrite under methane seepage in the northern South China Sea. *Frontiers in Marine Science, 12*, Article 1653453. https://doi.org/10.3389/fmars.2025.1653453
+
+**Design / 研究设计**: Laser-ablation ICP-MS of pyrite, with bulk Sr/Ca, Mg/Ca, molybdenum/uranium enrichment, chromium-reducible sulfur, organic carbon, δ34S, and δ13C used to place the sulfate–methane transition.
+
+用激光剥蚀 ICP-MS 分析黄铁矿，并用全岩 Sr/Ca、Mg/Ca、钼/铀富集、铬可还原硫、有机碳、δ34S 和 δ13C 确定硫酸盐–甲烷过渡带。
+
+**Sampling scope / 采样范围**: Core Z22-3 in the northern South China Sea. The inspected abstract does not assign the core to Haima or Shenhu.
+
+南海北部岩芯 Z22-3。所查摘要没有把该岩芯归到海马或神狐。
+
+**Time / 时间**: Published online 7 October 2025.
+
+2025 年 10 月 7 日在线发表。
+
+**Methods / 方法**: Porewater and water geochemistry; Trace-metal analysis
+
+孔隙水与水体地球化学；痕量金属分析
+
+**Measured or derived / 测量或推导指标**: pyrite trace metals and SMTZ position
+
+黄铁矿微量金属与硫酸盐–甲烷过渡带位置
+
+**Findings / 发现**: Two sulfate–methane transition intervals were placed at 181–481 and 1,101–1,401 cm below the seafloor, where chromium-reducible-sulfur δ34S became more positive, reaching −36.54‰, and Mg/Ca increased. Pyrite there was enriched in Co, Ni, Mo, and Pb and depleted in Mn, Zn, Cu, and V. The authors link that pattern to anaerobic methane oxidation, iron and manganese reduction, and separate sulfide minerals for the faster-exchanging metals.
+
+两个硫酸盐–甲烷过渡带位于海床下 181–481 cm 和 1,101–1,401 cm；那里铬可还原硫的 δ34S 更偏正，达到 −36.54‰，Mg/Ca 升高。该处黄铁矿富集 Co、Ni、Mo 和 Pb，亏损 Mn、Zn、Cu 和 V。作者把这一模式与厌氧甲烷氧化、铁锰还原，以及交换更快的金属形成独立硫化物联系起来。
+
+**Citation limits / 引用边界**: The metal pattern comes from one northern South China Sea core. It is not a seep-wide flux, and the substitution pathway is an interpretation of the enrichments.
+
+该金属模式来自南海北部的一根岩芯，不是整个冷泉的通量，替代途径也是对富集结果的解释。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：CC BY abstract deposited with Crossref.
+
+随 Crossref 存入的 CC BY 摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.3389/fmars.2025.1653453) · `src:scs-nscs-pyrite-trace-metals`
 
 ## The thiodiketopiperazine derivatives shovelmycin A–B and ansamycin derivative divergolide X from the cold-seep-derived Streptomyces olivaceus HDN22-001
 

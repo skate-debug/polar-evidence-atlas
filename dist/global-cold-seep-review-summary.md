@@ -1,15 +1,15 @@
 # International seep review queue / 国际冷泉核查队列
 
-Window: 2016-10-13–2026-11-05. 506 active DOI records; 132 persistent curated comparisons; 18 archived records.
+Window: 2016-10-13–2026-11-05. 510 active DOI records; 140 persistent curated comparisons; 19 archived records.
 
-Access: 95 abstract-scoped, 13 bibliographic-record only, 24 inspected full-text passages. / 核查材料：95 篇限于摘要，13 篇仅有经核验书目记录，24 篇已核查相关全文段落。
+Access: 98 abstract-scoped, 14 bibliographic-record only, 28 inspected full-text passages. / 核查材料：98 篇限于摘要，14 篇仅有经核验书目记录，28 篇已核查相关全文段落。
 
 Shared DOI sources are counted once in the atlas, even when they appear in multiple collections. Candidates have no scientific claim until inspected. / 跨专题共享 DOI 在全图谱仅计一次；候选文献经核查后才产生科学论断。
 
 | Status / 状态 | Records / 记录数 |
 |---|---:|
-| awaiting_source_review | 336 |
-| curated | 114 |
+| awaiting_source_review | 333 |
+| curated | 121 |
 | excluded | 1 |
 | version_check | 55 |
 
@@ -26,8 +26,6 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
 - [Chemosymbiotic trophic strategy in an Ediacaran tubular animal.](https://doi.org/10.1073/pnas.2526201123) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Atmospheric distribution, source apportionment, and sea-air fluxes of gaseous elemental mercury over the Barents, Kara, Laptev and East Siberian Seas.](https://doi.org/10.1016/j.envpol.2026.128996) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [In situ deep-sea surface-enhanced Raman scattering sensor reveals cyanide as a key factor in cold seep nitrogen cycling.](https://doi.org/10.1126/sciadv.aef5836) (2026; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [When seeps give ANME-SRB the cold shoulder: putative role of denitrification mediated methane oxidation in an Antarctic Cold Seep](https://doi.org/10.64898/2026.08.07.738775) (2026; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
@@ -107,8 +105,6 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Description of a new bathyal species of Notocomplana (Platyhelminthes, Polycladida) collected from Bathymodiolus aggregations in a deep-sea hydrocarbon seep.](https://doi.org/10.11646/zootaxa.5722.2.6) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [Deep-sea corals near cold seeps associate with sulfur-oxidizing chemoautotrophs in the family Ca. Thioglobaceae.](https://doi.org/10.1186/s40168-025-02254-z) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Isotopologue Ratios Identify 13C-Depleted Biomarkers in Environmental Samples Impacted by Methane Turnover.](https://doi.org/10.1002/rcm.10118) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [CompleteBin: A transformer-based framework unlocks microbial dark matter through improved short contig binning](https://doi.org/10.21203/rs.3.rs-7962084/v1) (2025; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
@@ -164,8 +160,6 @@ Shared DOI sources are counted once in the atlas, even when they appear in multi
 - [A new genus and species of feather duster worm (Annelida, Sabellidae) from shallow hydrocarbon seeps in the Gulf of Mexico.](https://doi.org/10.3897/bdj.13.e139552) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [An Anaerobic Microbial Community Mediates Epigenetic Native Sulfur and Carbonate Formation During Replacement of Messinian Gypsum at Monte Palco, Sicily.](https://doi.org/10.1111/gbi.70015) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
-  Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
-- [Abundance, Identity, and Potential Diazotrophic Activity of nifH-Containing Organisms at Marine Cold Seeps.](https://doi.org/10.1111/1462-2920.70058) (2025; awaiting_source_review). Discovered comparison candidate; sample geography and scientific claim support await editorial inspection. 发现的比较候选文献；采样地域与科学论断支持范围待人工核查。
   Next action: Read source material, confirm non-SCS sampling, record design and extract a supported comparison.
 - [Diversity and single-cell activity of endolithic microbes in sediment-hosted carbonate nodules within and below the sulfate-methane transition zone](https://doi.org/10.1101/2025.02.26.640391) (2025; version_check). Preprint status identified in DOI metadata; the source and any peer-reviewed successor still require review. DOI 出版信息识别为预印本；原文及可能的同行评议后续版本仍待核查。
   Next action: Resolve official version relations, confirm sample scope and inspect supported findings before promotion.
@@ -915,6 +909,7 @@ Older source profiles and decisions remain available after their discovery recor
 - [Role of tectonic stress in seepage evolution along the gas hydrate‐charged Vestnesa Ridge, Fram Strait](https://doi.org/10.1002/2014gl062474): Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation..
 - [A mass budget for mercury and methylmercury in the Arctic Ocean](https://doi.org/10.1002/2015gb005280): Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation..
 - [Effects of climate change on methane emissions from seafloor sediments in the Arctic Ocean: A review](https://doi.org/10.1002/lno.10307): Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation..
+- [Authigenic carbonate mineralization records episodic methane seepage and redox transitions in cold-seep sediments](https://doi.org/10.1016/j.chemgeo.2026.123794): Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation..
 - [Biogeography, biodiversity and fluid dependence of deep-sea cold-seep communities at active and passive margins](https://doi.org/10.1016/s0967-0645(97)00074-x): Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation..
 - [Oceanic Methane Biogeochemistry](https://doi.org/10.1021/cr050362v): Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation..
 - [Escape of methane gas from the seabed along the West Spitsbergen continental margin](https://doi.org/10.1029/2009gl039191): Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation..

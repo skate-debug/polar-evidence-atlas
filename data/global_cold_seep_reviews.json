@@ -361,6 +361,32 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1007/s00227-026-04853-2",
+      "candidate_id": "global-seep-candidate:10-1007-s00227-026-04853-2",
+      "source_id": "src:gcs-arctic-seep-chemotone",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1007/s00227-026-04853-2",
+      "locator": "Abstract read from OpenAlex and the Springer record. Crossref deposited no abstract.",
+      "reason": "Use for seep-edge chemotone fauna at a groundwater-fed Arctic seep, not as a count of obligate seep species.",
+      "reason_zh": "用于地下水补给的北极冷泉边缘化学过渡带生物，而不是专性冷泉物种计数。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "interface"
+      ],
+      "topics": [
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "52ded58fba784e3503a64ed5c383b24d011c22b6320f6c38ad6022b7d495aa6c"
+    },
+    {
       "doi": "10.1007/s00248-018-1299-5",
       "candidate_id": "global-seep-candidate:10-1007-s00248-018-1299-5",
       "status": "awaiting_source_review",
@@ -652,6 +678,34 @@
       ],
       "sites": [
         "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": null
+    },
+    {
+      "doi": "10.1016/j.chemgeo.2026.123794",
+      "candidate_id": "global-seep-candidate:10-1016-j-chemgeo-2026-123794",
+      "source_id": "src:gcs-carbonate-episodic-seepage-redox",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.chemgeo.2026.123794",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "reason": "Cite only at the level of the title until a publisher abstract or full text names the seep.",
+      "reason_zh": "在出版方摘要或全文点名冷泉之前，只在标题范围内引用。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "carbonate",
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "global-unspecified"
       ],
       "comparison_role": "regional_comparison",
       "inspected_abstract_sha256": null
@@ -1153,6 +1207,35 @@
       ],
       "sites": [
         "arctic-seeps"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": null
+    },
+    {
+      "doi": "10.1016/j.marchem.2026.104677",
+      "candidate_id": "global-seep-candidate:10-1016-j-marchem-2026-104677",
+      "source_id": "src:gcs-tatar-trough-anme-lipids",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.marchem.2026.104677",
+      "locator": "Utrecht University repository abstract: design and the two-core contrast. https://research-portal.uu.nl/en/publications/linking-biogeochemical-signatures-to-archaeal-community-structure/",
+      "reason": "Use as a Far Eastern Russia / northern Sea of Japan comparison of ANME-1 and methane flux, without an Arctic label.",
+      "reason_zh": "作为俄罗斯远东／日本海北部 ANME-1 与甲烷通量的比较，不要标成北极。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment",
+        "carbonate"
+      ],
+      "topics": [
+        "methane",
+        "community",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-unspecified"
       ],
       "comparison_role": "regional_comparison",
       "inspected_abstract_sha256": null
@@ -2949,6 +3032,36 @@
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
     },
     {
+      "doi": "10.1038/s41467-026-78965-0",
+      "candidate_id": "global-seep-candidate:10-1038-s41467-026-78965-0",
+      "source_id": "src:gcs-shenloong-dracosphera",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "full_text_extracts",
+      "evidence_url": "https://doi.org/10.1038/s41467-026-78965-0",
+      "locator": "Publisher abstract: organelle description. Acknowledgements: Haima and Tanegashima specimens.",
+      "reason": "Use as a mechanistic example of an intracellular chemosymbiotic compartment, and note that one acknowledged specimen is from Haima.",
+      "reason_zh": "作为细胞内化能共生区室的机制实例，并注明致谢中的一号标本来自海马。",
+      "next_action": "Add further figure-specific comparisons when relevant.",
+      "compartments": [
+        "symbiosis",
+        "sediment"
+      ],
+      "topics": [
+        "symbioses",
+        "sulfur",
+        "genomes"
+      ],
+      "sites": [
+        "japan-seeps",
+        "global-comparison"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "aefadb397fcc7e9db91d6c986670092e7eb10c57a2e6712752c37bddca0d036c"
+    },
+    {
       "doi": "10.1038/s41522-023-00382-8",
       "candidate_id": "global-seep-candidate:10-1038-s41522-023-00382-8",
       "status": "awaiting_source_review",
@@ -4485,13 +4598,31 @@
     {
       "doi": "10.1111/1462-2920.70058",
       "candidate_id": "global-seep-candidate:10-1111-1462-2920-70058",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-atlantic-monterey-nifh-seeps",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1111/1462-2920.70058",
+      "locator": "Abstract: nifH diversity, transcripts and the ammonium correlation. Geography: ENA project PRJEB72160 title, not the journal abstract.",
+      "reason": "Use when comparing nifH-bearing ANME-2 and sulfate reducers at seeps, with the geographic assignment limited to the linked sequence project.",
+      "reason_zh": "在比较冷泉中携带 nifH 的 ANME-2 和硫酸盐还原菌时使用，地理归属以关联的序列项目为限。",
+      "next_action": "Inspect complete Methods and supplements before extracting further quantitative comparisons.",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "nitrogen",
+        "methane",
+        "community"
+      ],
+      "sites": [
+        "atlantic-seeps",
+        "northeast-pacific"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "e6a2d9f8cc1af3fbab279740c3b6210d716c8492dc60cd54fa305dca13902338"
     },
     {
       "doi": "10.1111/1462-2920.70151",
@@ -4873,13 +5004,31 @@
     {
       "doi": "10.1126/sciadv.aef5836",
       "candidate_id": "global-seep-candidate:10-1126-sciadv-aef5836",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:scs-haima-sers-cyanide-nitrogen",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "full_text_extracts",
+      "evidence_url": "https://doi.org/10.1126/sciadv.aef5836",
+      "locator": "Existing SCS claim: abstract and Haima deployment section.",
+      "reason": "Reuse the SCS Haima profile for this DOI, which was already in the international discovery inventory.",
+      "reason_zh": "该 DOI 已在国际发现清单中，证据请复用南海海马档案。",
+      "next_action": "Add further figure-specific comparisons when relevant.",
+      "compartments": [
+        "bottom-water",
+        "water-column"
+      ],
+      "topics": [
+        "nitrogen",
+        "methane",
+        "methods"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "a345cb146505107622cf6ce92f0962a1655752477f95a74fddb59c2ea79574c6"
     },
     {
       "doi": "10.1126/sciadv.aei5868",
@@ -5860,13 +6009,33 @@
     {
       "doi": "10.1186/s40168-025-02254-z",
       "candidate_id": "global-seep-candidate:10-1186-s40168-025-02254-z",
-      "status": "awaiting_source_review",
-      "access_level": "unreviewed",
+      "source_id": "src:gcs-gom-coral-thioglobaceae",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
       "metadata_status": "verified",
-      "support_status": "unresolved",
-      "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
-      "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
-      "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+      "support_status": "supported_after_narrowing",
+      "access_level": "full_text_extracts",
+      "evidence_url": "https://doi.org/10.1186/s40168-025-02254-z",
+      "locator": "Abstract: abundance, genome and isotope correlation. Methods, Collections: Gulf of Mexico sites and the 400 m seepage cutoff.",
+      "reason": "Use as a Gulf of Mexico example of sulfur-oxidizing Thioglobaceae on corals near seeps, separate from mussel chemosymbiosis.",
+      "reason_zh": "作为墨西哥湾冷泉附近珊瑚上硫氧化 Thioglobaceae 的实例，与贻贝化能共生分开讨论。",
+      "next_action": "Add further figure-specific comparisons when relevant.",
+      "compartments": [
+        "symbiosis",
+        "sediment",
+        "water-column"
+      ],
+      "topics": [
+        "symbioses",
+        "sulfur",
+        "genomes",
+        "community"
+      ],
+      "sites": [
+        "gulf-mexico"
+      ],
+      "comparison_role": "regional_comparison",
+      "inspected_abstract_sha256": "8f4414a9d9ca3dca0ca1f5370ab513bde605cc4fec85f9a37b827c3ee4666423"
     },
     {
       "doi": "10.1186/s40168-025-02280-x",
@@ -7714,6 +7883,34 @@
       "reason": "Discovered comparison candidate; sample geography and scientific claim support await editorial inspection.",
       "reason_zh": "发现的比较候选文献；采样地域与科学论断支持范围待人工核查。",
       "next_action": "Read source material, confirm non-SCS sampling, record design and extract a supported comparison."
+    },
+    {
+      "doi": "10.59717/j.tiw.2026.100006",
+      "candidate_id": "global-seep-candidate:10-59717-j-tiw-2026-100006",
+      "source_id": "src:gcs-paleo-seep-gas-venting",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "access_level": "full_text_opening",
+      "evidence_url": "https://doi.org/10.59717/j.tiw.2026.100006",
+      "locator": "CC BY PDF opening: publication dates, the paleo-seep definition, and the Shenhu ROV observation.",
+      "reason": "Use as 2026 context for gas venting from paleo-seep plumbing, and keep the new observation at Shenhu Canyon 12.",
+      "reason_zh": "作为 2026 年古冷泉通道仍在排气的背景，并把新观测保留在神狐峡谷 12。",
+      "next_action": "Add further figure-specific comparisons when relevant.",
+      "compartments": [
+        "bottom-water",
+        "water-column"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "comparison_role": "mechanistic_context",
+      "inspected_abstract_sha256": "e142fe19a8aa0199f26a64d9b6426cb6947f0c49e2abb42fd68bf17955b057c7"
     },
     {
       "doi": "10.61733/jconch/4521",

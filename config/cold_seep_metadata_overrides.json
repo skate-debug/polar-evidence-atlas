@@ -11,6 +11,12 @@
       "author": [{"family":"Hui","given":"Fan"},{"family":"Lin","given":"Yi-Tao"},{"family":"Perez","given":"Maeva"},{"family":"Qiu","given":"Jian-Wen"},{"family":"Sun","given":"Yanan"}],
       "container-title": "Zoological Studies", "volume": "63", "article-number": "41", "issued": {"date-parts":[[2024,12,5]]}, "type": "journal-article",
       "metadata_verification_url": "https://zoolstud.sinica.edu.tw/Journals/63/63-41.pdf", "metadata_verification_basis": "Publisher PDF first page inspected"
+    },
+    "10.31035/cg2025196": {
+      "DOI": "10.31035/cg2025196", "title": "Dynamic accumulation of gas hydrates in the Shenhu area, northern South China Sea: A two-stage evolution model constrained by temporally varying fluid flow",
+      "author": [{"family":"Zheng","given":"Su"},{"family":"Wu","given":"Yi-fan"},{"family":"Wu","given":"Neng-you"}],
+      "container-title": "China Geology", "volume": "9", "issue": "3", "page": "456-467", "issued": {"date-parts":[[2026]]}, "published-print": {"date-parts":[[2026]]}, "type": "journal-article",
+      "metadata_verification_url": "http://chinageology.cgs.cn/en/article/doi/10.31035/cg2025196", "metadata_verification_basis": "Publisher HTML and open-access PDF inspected. Authors are Zheng Su, Yi-fan Wu, and Neng-you Wu; pages are 456-467; available online 25 February 2026. Crossref author and page fields were malformed and are not used."
     }
   },
   "Co-production of gas hydrates, shallow gas, and deep gas in the Qiongdongnan Basin: A pathway to commercial production": {

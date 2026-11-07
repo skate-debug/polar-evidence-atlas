@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:05:55.347576+00:00",
+  "generated_at": "2026-11-05T17:26:03.169611+00:00",
   "since": "2016-10-13",
   "until": "2026-11-05",
   "collection": "global-cold-seeps",
@@ -638,6 +638,56 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-1038-s41467-026-78965-0",
+      "doi": "10.1038/s41467-026-78965-0",
+      "title": "A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment",
+      "publication_date": "2026-10-30",
+      "year": 2026,
+      "authors": [
+        "Yunlong Li",
+        "Chong Chen",
+        "Xu Liu",
+        "Menggong Li",
+        "Guoyong Yan",
+        "Haiyun Zhou",
+        "Hui Wang",
+        "Xiaoshan Zheng",
+        "Xing He",
+        "Shanshan Liu",
+        "Jian-Wen Qiu",
+        "Pei-Yuan Qian",
+        "Jin Sun"
+      ],
+      "journal": "Nature Communications",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1038/s41467-026-78965-0",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "symbiosis",
+        "sediment"
+      ],
+      "topics": [
+        "symbioses",
+        "sulfur",
+        "genomes"
+      ],
+      "sites": [
+        "japan-seeps",
+        "global-comparison"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T17:26:03.169611+00:00",
+      "last_seen_at": "2026-11-05T17:26:03.169611+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1016-j-marenvres-2026-108522",
       "doi": "10.1016/j.marenvres.2026.108522",
       "title": "Fauna of shallow water Arctic seep related to dynamic water masses",
@@ -1252,6 +1302,52 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-1016-j-marchem-2026-104677",
+      "doi": "10.1016/j.marchem.2026.104677",
+      "title": "Linking biogeochemical signatures to archaeal community structure at active methane seeps in the Tatar trough, far eastern Russia",
+      "publication_date": "2026-09",
+      "year": 2026,
+      "authors": [
+        "Dong-Hun Lee",
+        "Jung-Hyun Kim",
+        "Yung Mi Lee",
+        "Alina Stadnitskaia",
+        "Helge Niemann",
+        "Carme Huguet",
+        "Young-Keun Jin",
+        "Hirotsugu Minami",
+        "Akihiro Hachikubo",
+        "Kyung-Hoon Shin"
+      ],
+      "journal": "Marine Chemistry",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.marchem.2026.104677",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment",
+        "carbonate"
+      ],
+      "topics": [
+        "methane",
+        "community",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T17:26:03.169611+00:00",
+      "last_seen_at": "2026-11-05T17:26:03.169611+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1016-j-jmarsys-2026-104262",
       "doi": "10.1016/j.jmarsys.2026.104262",
       "title": "A hot encounter at a cold seep: a new endemic Frigidoalvania Warén, 1974 (Mollusca: Caenogastropoda: Rissoidae) from the Arctic and its phylogenetic ties",
@@ -1380,6 +1476,48 @@
       "discovery_source": "Inspected primary-source DOI follow-up",
       "first_discovered_at": "2026-11-05T06:05:55.347576+00:00",
       "last_seen_at": "2026-11-05T06:05:55.347576+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-59717-j-tiw-2026-100006",
+      "doi": "10.59717/j.tiw.2026.100006",
+      "title": "Global seafloor gas venting: New insights from paleo-coldseep systems",
+      "publication_date": "2026-08-24",
+      "year": 2026,
+      "authors": [
+        "Zhaojie Cheng",
+        "Zhuangcai Tian",
+        "Jingxin Wu",
+        "Zhenchao Zhang",
+        "Sicheng Bian",
+        "Ming Su",
+        "Xiujun Guo"
+      ],
+      "journal": "The Innovation Water",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.59717/j.tiw.2026.100006",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "bottom-water",
+        "water-column"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Crossref-verified supplementary DOI from the 2026-11-05 literature watch",
+      "first_discovered_at": "2026-11-05T16:02:00+00:00",
+      "last_seen_at": "2026-11-05T16:02:00+00:00",
+      "pmid": "",
+      "pmcid": "",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -1743,21 +1881,19 @@
       "url": "https://doi.org/10.1126/sciadv.aef5836",
       "publication_stage": "journal_record",
       "compartments": [
-        "unspecified"
+        "bottom-water",
+        "water-column"
       ],
       "topics": [
-        "community",
-        "sulfur",
         "nitrogen",
-        "phosphorus",
-        "cultivation",
+        "methane",
         "methods"
       ],
       "sites": [
         "global-unspecified"
       ],
       "priority": "microbial",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "pmid": "42600033",
       "pmcid": "PMC13475640",
       "volume": "12",
@@ -3713,6 +3849,47 @@
         "southwest_pacific"
       ],
       "discovery_source": "Europe PMC core API",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1007-s00227-026-04853-2",
+      "doi": "10.1007/s00227-026-04853-2",
+      "title": "Life on the edge: distinctive and diverse communities in the chemotone peripheral to Arctic seeps",
+      "publication_date": "2026-05-28",
+      "year": 2026,
+      "authors": [
+        "Arunima Sen",
+        "Brian Sevin",
+        "Antonia Kotliarov",
+        "Wei Li Hong",
+        "Beata Szymczycha",
+        "Magdalena Diak",
+        "Aivo Lepland",
+        "Jochen Knies"
+      ],
+      "journal": "Marine Biology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1007/s00227-026-04853-2",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "interface"
+      ],
+      "topics": [
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Crossref-verified supplementary DOI from the 2026-11-05 literature watch",
+      "first_discovered_at": "2026-11-05T16:02:00+00:00",
+      "last_seen_at": "2026-11-05T16:02:00+00:00",
+      "pmid": "",
+      "pmcid": "",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
@@ -9386,21 +9563,21 @@
       "url": "https://doi.org/10.1186/s40168-025-02254-z",
       "publication_stage": "journal_record",
       "compartments": [
+        "symbiosis",
         "sediment",
-        "symbiosis"
+        "water-column"
       ],
       "topics": [
-        "genomes",
-        "sulfur",
-        "phosphorus",
         "symbioses",
-        "geochemistry"
+        "sulfur",
+        "genomes",
+        "community"
       ],
       "sites": [
-        "global-unspecified"
+        "gulf-mexico"
       ],
       "priority": "microbial",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "pmid": "41233919",
       "pmcid": "PMC12613352",
       "volume": "13",
@@ -14179,17 +14356,16 @@
         "sediment"
       ],
       "topics": [
-        "methane",
-        "sulfur",
         "nitrogen",
-        "carbon",
-        "geochemistry"
+        "methane",
+        "community"
       ],
       "sites": [
-        "global-unspecified"
+        "atlantic-seeps",
+        "northeast-pacific"
       ],
       "priority": "microbial",
-      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "classification_basis": "Explicit inspected international comparison packet",
       "pmid": "40065596",
       "pmcid": "",
       "volume": "27",

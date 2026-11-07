@@ -2,6 +2,42 @@
 
 Use these source-specific comparisons to interpret documented SCS findings. The user's manuscript Results have not been supplied. / 这些文献特定比较用于解释已记录的南海研究发现，目前尚未提供用户稿件的结果。
 
+## Authigenic carbonate mineralization records episodic methane seepage and redox transitions in cold-seep sediments
+
+自生碳酸盐矿化记录冷泉沉积物中的间歇性甲烷渗漏与氧化还原转变
+
+Sadique, M., Mazumdar, A., Ghosh, A., Peketi, A., Mishra, S., Sivan, K., Verma, S., Pillutla, S. P., Karapurkar, S. G., Panchal, R. K., & Joardar, R. (2027). Authigenic carbonate mineralization records episodic methane seepage and redox transitions in cold-seep sediments. *Chemical Geology, 727*, Article 123794. https://doi.org/10.1016/j.chemgeo.2026.123794
+
+**Study scope / 研究范围**: Cold-seep sediments named in the verified title. No sampling region was stated in the title, and no abstract was retrieved.
+
+经核验标题所指的冷泉沉积物。标题没有给出采样区域，也未检索到摘要。
+
+**Design / 研究设计**: Bibliographic record only. Crossref, OpenAlex, Europe PMC and Semantic Scholar returned no abstract.
+
+仅有书目记录。Crossref、OpenAlex、Europe PMC 和 Semantic Scholar 均未返回摘要。
+
+**Finding / 发现**: The verified title reports that authigenic carbonate mineralization records episodic methane seepage and redox transitions in cold-seep sediments.
+
+经核验的标题报道自生碳酸盐矿化记录了冷泉沉积物中的间歇性甲烷渗漏和氧化还原转变。
+
+**Citation limits / 引用边界**: No abstract was retrieved, so this profile does not extract a basin, core, isotope value or seepage episode. Author affiliations in India are not a sample site.
+
+未检索到摘要，因此本档案不提取盆地、岩芯、同位素数值或渗漏期次。作者的印度单位不是采样地点。
+
+**Discussion use / 讨论用途**: Cite only at the level of the title until a publisher abstract or full text names the seep.
+
+在出版方摘要或全文点名冷泉之前，只在标题范围内引用。
+
+Sampling time / 采样时间：Crossref print date is January 2027. Crossref created the record on 30 October 2026. No separate online date was retrieved. Crossref 纸本日期为 2027 年 1 月。Crossref 于 2026 年 10 月 30 日创建该记录。未检索到单独的在线日期。
+
+Evidence access / 核查材料：bibliographic_record; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Verified DOI bibliographic record and title; no abstract retrieved.
+
+经核验的 DOI 书目记录与标题；未检索到摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.chemgeo.2026.123794) · `src:gcs-carbonate-episodic-seepage-redox` · Regional comparison / 区域比较
+
 ## Cryosphere-driven freshening and methane source shift at Beaufort Sea mud volcanoes
 
 波弗特海泥火山的冰冻圈淡化与甲烷来源转变
@@ -105,6 +141,42 @@ Evidence locator / 证据位置：Verified DOI bibliographic record and title; n
 经核验的 DOI 书目记录与标题；未检索到摘要。
 
 [Inspected source / 核查来源](https://doi.org/10.1016/j.jmarsys.2026.104262) · `src:gcs-arctic-seep-frigidoalvania` · Regional comparison / 区域比较
+
+## A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment
+
+无板纲软体动物用于化能共生的多层膜细胞器
+
+Li, Y., Chen, C., Liu, X., Li, M., Yan, G., Zhou, H., Wang, H., Zheng, X., He, X., Liu, S., Qiu, J.-W., Qian, P.-Y., & Sun, J. (2026). A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment. *Nature Communications*. https://doi.org/10.1038/s41467-026-78965-0
+
+**Study scope / 研究范围**: The cold-seep aplacophoran Chaetoderma shenloong. The acknowledgements credit one specimen from the Haima seep, South China Sea, and one from off Tanegashima, Kagoshima, Japan; they do not state that the Japan locality is itself a seep.
+
+冷泉无板纲动物 Chaetoderma shenloong。致谢中一号标本来自南海海马冷泉，一号标本来自日本鹿儿岛种子岛外海；致谢并未说明日本地点本身是冷泉。
+
+**Design / 研究设计**: Microscopy of a multilamellar compartment in the digestive gland, with genomic and spatial transcriptomic analyses cited in support of an oxygen-limitation interpretation.
+
+观察消化腺中的多层膜区室，并以基因组和空间转录组分析支持限氧解释。
+
+**Finding / 发现**: The publisher abstract reports sulphur-oxidising bacteria inside spherical multilamellar compartments about 12 μm across, named dracosphera, throughout the hypertrophied digestive gland of C. shenloong, whose gut is otherwise largely lost. It describes the symbionts as microaerobic and the host as living in anoxic sediment tens of centimetres below the surface, and suggests the organelle may limit oxygen reaching the bacteria.
+
+出版方摘要报道硫氧化细菌位于直径约 12 μm 的球形多层膜区室中，作者将其命名为 dracosphera，遍布 C. shenloong 肥大的消化腺；该消化腺之外的肠道大多已经失去。摘要称共生菌微需氧，宿主生活在表层以下数十厘米的缺氧沉积物中，并认为该细胞器可能限制到达细菌的氧气。
+
+**Citation limits / 引用边界**: The oxygen-barrier role is an interpretation supported by genomic and spatial transcriptomic analyses, not a measured oxygen flux. Two acknowledged specimens do not show how common the organelle is at other seeps, and the Japan locality is not identified as a seep in the inspected acknowledgement.
+
+限氧作用是基因组和空间转录组所支持的解释，不是实测氧通量。致谢中的两号标本不能说明该细胞器在其他冷泉有多普遍，而且所查致谢没有把日本地点标识为冷泉。
+
+**Discussion use / 讨论用途**: Use as a mechanistic example of an intracellular chemosymbiotic compartment, and note that one acknowledged specimen is from Haima.
+
+作为细胞内化能共生区室的机制实例，并注明致谢中的一号标本来自海马。
+
+Sampling time / 采样时间：Published 30 October 2026. The inspected abstract and acknowledgements name cruises XYH01-2022-06, NORC2025-303 and KH-23-4 Leg 2, without sample depths for this paper. 2026 年 10 月 30 日发表。所查摘要和致谢提到航次 XYH01-2022-06、NORC2025-303 和 KH-23-4 第 2 航段，但没有给出本文的样品深度。
+
+Evidence access / 核查材料：full_text_extracts; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Publisher abstract: organelle description. Acknowledgements: Haima and Tanegashima specimens.
+
+出版方摘要：细胞器描述。致谢：海马与种子岛标本。
+
+[Inspected source / 核查来源](https://doi.org/10.1038/s41467-026-78965-0) · `src:gcs-shenloong-dracosphera` · Mechanistic precedent / 机制先例
 
 ## A persistent subtropical dip in the diversity at deep-sea cold-seeps
 
@@ -736,6 +808,76 @@ Evidence locator / 证据位置：Abstract: design and primary findings.
 
 [Inspected source / 核查来源](https://doi.org/10.1073/pnas.2533639123) · `src:gcs-global-seep-carbonate-aom-rates` · Mechanistic precedent / 机制先例
 
+## Global seafloor gas venting: New insights from paleo-coldseep systems
+
+全球海底气体排放：来自古冷泉系统的新认识
+
+Cheng, Z., Tian, Z., Wu, J., Zhang, Z., Bian, S., Su, M., & Guo, X. (2026). Global seafloor gas venting: New insights from paleo-coldseep systems. *The Innovation Water, 1*(1), Article 100006. https://doi.org/10.59717/j.tiw.2026.100006
+
+**Study scope / 研究范围**: A global discussion of gas venting from paleo-cold seeps, with new ROV observations from a relict field in the Shenhu area.
+
+关于古冷泉气体排放的全球讨论，并包含神狐一处残余冷泉的新 ROV 观测。
+
+**Design / 研究设计**: CC BY commentary. The inspected PDF opening defines paleo-cold seeps and reports multiple Haiqin ROV dives on the eastern ridge of Canyon 12 in Shenhu. Later sections and figures were not read.
+
+CC BY 述评。所查 PDF 开头定义了古冷泉，并报道海琴 ROV 在神狐峡谷 12 东脊的多次下潜。后续章节和图件未阅读。
+
+**Finding / 发现**: The opening reports present-day gas venting inside a relict paleo-cold-seep field at Shenhu. The authors use low-intensity fluid activity as a qualitative description, not as a methane-flux class.
+
+正文开头报道神狐一处残余古冷泉内仍有现今气体排放。作者把低强度流体活动用作定性描述，而不是甲烷通量等级。
+
+**Citation limits / 引用边界**: One canyon observation in the opening is not a revised global methane budget. Unread sections may add sites or quantities that are not in this profile.
+
+开头中的一处峡谷观测不能改写全球甲烷收支。未读部分可能还有本档案未收录的站位或定量结果。
+
+**Discussion use / 讨论用途**: Use as 2026 context for gas venting from paleo-seep plumbing, and keep the new observation at Shenhu Canyon 12.
+
+作为 2026 年古冷泉通道仍在排气的背景，并把新观测保留在神狐峡谷 12。
+
+Sampling time / 采样时间：Published online 24 August 2026. Haiqin ROV dives in August 2025. Crossref records only the year 2026. 2026 年 8 月 24 日在线发表。海琴 ROV 于 2025 年 8 月下潜。Crossref 只记录了 2026 年。
+
+Evidence access / 核查材料：full_text_opening; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：CC BY PDF opening: publication dates, the paleo-seep definition, and the Shenhu ROV observation.
+
+CC BY PDF 开头：发表日期、古冷泉定义和神狐 ROV 观测。
+
+[Inspected source / 核查来源](https://doi.org/10.59717/j.tiw.2026.100006) · `src:gcs-paleo-seep-gas-venting` · Mechanistic precedent / 机制先例
+
+## In situ deep-sea surface-enhanced Raman scattering sensor reveals cyanide as a key factor in cold seep nitrogen cycling
+
+海马冷泉原位拉曼传感器与氰化物氮循环证据（复用南海档案）
+
+Wang, S., Zhao, T., He, W., Li, F., Wang, Z., Pan, R., Li, L., Xi, S., Luan, Z., Zhang, Z., Li, B., Chen, L., & Zhang, X. (2026). In situ deep-sea surface-enhanced Raman scattering sensor reveals cyanide as a key factor in cold seep nitrogen cycling. *Science Advances, 12*(33), Article eaef5836. https://doi.org/10.1126/sciadv.aef5836
+
+**Study scope / 研究范围**: Haima cold seep, South China Sea. The profile is the SCS record; this packet does not add a second source.
+
+南海海马冷泉。证据档案在南海专题中；此包不另建来源。
+
+**Design / 研究设计**: In situ surface-enhanced Raman measurements of cyanide during the Haima deployment described in the SCS profile.
+
+南海档案所描述的海马部署期间，对氰化物做原位表面增强拉曼测量。
+
+**Finding / 发现**: The SCS profile records the sensor deployment at Haima and the abstract's interpretation of cyanide in nitrogen cycling.
+
+南海档案记录了海马的传感器部署，以及摘要对氰化物参与氮循环的解释。
+
+**Citation limits / 引用边界**: Do not cite this DOI twice. Nitrogen fixation remains an interpretation, and the paper is not an international multi-seep comparison.
+
+不要把该 DOI 引用两次。固氮仍是一种解释，这篇论文也不是国际多冷泉比较。
+
+**Discussion use / 讨论用途**: Reuse the SCS Haima profile for this DOI, which was already in the international discovery inventory.
+
+该 DOI 已在国际发现清单中，证据请复用南海海马档案。
+
+Evidence access / 核查材料：full_text_extracts; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Existing SCS claim: abstract and Haima deployment section.
+
+复用南海论断：摘要与海马部署章节。
+
+[Inspected source / 核查来源](https://doi.org/10.1126/sciadv.aef5836) · `src:scs-haima-sers-cyanide-nitrogen` · Regional comparison / 区域比较
+
 ## Intensive methane seep region on the outer East Siberian Arctic Shelf shows biomarker evidence for aerobic oxidation of methane
 
 东西伯利亚北极外陆架强甲烷渗漏区的有氧甲烷氧化生物标志物
@@ -839,6 +981,78 @@ Evidence locator / 证据位置：Abstract: design and primary findings.
 摘要：研究设计与主要发现。
 
 [Inspected source / 核查来源](https://doi.org/10.1029/2026jc023988) · `src:gcs-seep-carbonate-organic-nitrogen` · Regional comparison / 区域比较
+
+## Life on the edge: distinctive and diverse communities in the chemotone peripheral to Arctic seeps
+
+北极冷泉边缘化学过渡带中独特而多样的群落
+
+Sen, A., Sevin, B., Kotliarov, A., Hong, W. L., Szymczycha, B., Diak, M., Lepland, A., & Knies, J. (2026). Life on the edge: Distinctive and diverse communities in the chemotone peripheral to Arctic seeps. *Marine Biology, 173*(7), Article 113. https://doi.org/10.1007/s00227-026-04853-2
+
+**Study scope / 研究范围**: Epifaunal megabenthos at the periphery of a submarine-groundwater-discharge seep off northern Norway.
+
+挪威北部一处由海底地下水排放形成的冷泉外围的表栖大型底栖生物。
+
+**Design / 研究设计**: Compare seep, peripheral chemotone, and background communities, and use stable isotopes to test for chemosynthetic carbon beyond the seep. Crossref had no abstract; the same abstract was read from OpenAlex and the Springer record.
+
+比较冷泉、外围化学过渡带和背景群落，并用稳定同位素检验冷泉之外是否有化能合成碳。Crossref 没有摘要；OpenAlex 和 Springer 记录中的同一摘要已核对。
+
+**Finding / 发现**: Peripheral communities were about an order of magnitude more diverse and species-rich than the seep interior. The abstract reports no specialist fauna in either habitat, chemosynthetically derived carbon in peripheral animals, and abundant suspension feeders, including thousands of colonial anemones.
+
+外围群落的多样性和物种丰富度大约比冷泉内部高一个数量级。摘要报道两处生境都没有专性动物，外围动物含有化能合成来源的碳，悬食动物很多，其中包括数以千计的群体海葵。
+
+**Citation limits / 引用边界**: The abstract does not name the station or list the species, and it does not show that every Arctic seep has a richer edge. The anemone count is an example, not a regional census.
+
+摘要没有给出站位名称和物种名录，也不能说明每个北极冷泉的边缘都更丰富。海葵数量是一个例子，不是区域普查。
+
+**Discussion use / 讨论用途**: Use for seep-edge chemotone fauna at a groundwater-fed Arctic seep, not as a count of obligate seep species.
+
+用于地下水补给的北极冷泉边缘化学过渡带生物，而不是专性冷泉物种计数。
+
+Sampling time / 采样时间：Published online 28 May 2026. The inspected abstract does not give sampling dates. 2026 年 5 月 28 日在线发表。所查摘要未给出采样日期。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract read from OpenAlex and the Springer record. Crossref deposited no abstract.
+
+摘要来自 OpenAlex 和 Springer 记录。Crossref 未存入摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1007/s00227-026-04853-2) · `src:gcs-arctic-seep-chemotone` · Regional comparison / 区域比较
+
+## Linking biogeochemical signatures to archaeal community structure at active methane seeps in the Tatar trough, far eastern Russia
+
+鞑靼海槽活动甲烷冷泉的生物地球化学特征与古菌群落
+
+Lee, D.-H., Kim, J.-H., Lee, Y. M., Stadnitskaia, A., Niemann, H., Huguet, C., Jin, Y.-K., Minami, H., Hachikubo, A., & Shin, K.-H. (2026). Linking biogeochemical signatures to archaeal community structure at active methane seeps in the Tatar Trough, Far Eastern Russia. *Marine Chemistry, 278*, Article 104677. https://doi.org/10.1016/j.marchem.2026.104677
+
+**Study scope / 研究范围**: Two sediment cores, LV67-07HC and LV67-19HC, from an active fault zone on the eastern slope of the Tatar Trough, northern East Sea (Sea of Japan), Far Eastern Russia.
+
+俄罗斯远东鞑靼海槽东坡活动断裂带的两根沉积物岩芯 LV67-07HC 和 LV67-19HC，位于东海（日本海）北部。
+
+**Design / 研究设计**: Lipid and nucleic-acid analyses with gas and porewater measurements on the two cores.
+
+对两根岩芯做脂质和核酸分析，并配合气体与孔隙水测量。
+
+**Finding / 发现**: Both cores had elevated light hydrocarbons, mainly methane, and carbon dioxide, and a sulfate-methane transition. Core LV67-07HC at 91–185 cm, around carbonate accretions, had high concentrations of 13C-depleted archaeal lipids, which the abstract links to stronger anaerobic methanotrophy under higher methane flux. Archaeal 16S rRNA sequences there were dominated by ANME-1. Differences between the cores are attributed to methane flux and fluid pathways in underlying coal-bearing strata.
+
+两根岩芯的轻烃（主要是甲烷）和二氧化碳都升高，并出现硫酸盐–甲烷转换带。LV67-07HC 在 91–185 cm、碳酸盐结核附近具有高浓度的 13C 亏损古菌脂质；摘要将其与较高甲烷通量下更强的厌氧甲烷氧化相联系。该处古菌 16S rRNA 序列以 ANME-1 为主。两根岩芯的差异被归因于下伏含煤地层中的甲烷通量和流体路径。
+
+**Citation limits / 引用边界**: Lipid depletion and ANME-1 dominance indicate methanotrophic potential under the stated flux contrast; they are not a measured oxidation rate. The paper frames the Tatar Trough as the northern East Sea, not as an Arctic seep. The abstract used here is the Utrecht University repository copy because Crossref, OpenAlex and Europe PMC had none.
+
+脂质亏损和 ANME-1 占优说明在所述通量差异下具有甲烷氧化潜力，不是实测氧化速率。论文把鞑靼海槽放在东海北部，而不是北极冷泉。这里使用的是乌得勒支大学机构库摘要，因为 Crossref、OpenAlex 和 Europe PMC 都没有摘要。
+
+**Discussion use / 讨论用途**: Use as a Far Eastern Russia / northern Sea of Japan comparison of ANME-1 and methane flux, without an Arctic label.
+
+作为俄罗斯远东／日本海北部 ANME-1 与甲烷通量的比较，不要标成北极。
+
+Sampling time / 采样时间：Cores recovered on the 2014 SSGH expedition. The repository record lists early online publication on 6 August 2026 and print publication in September 2026. 岩芯取自 2014 年 SSGH 航次。机构库记录的提前在线日期为 2026 年 8 月 6 日，纸本为 2026 年 9 月。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Utrecht University repository abstract: design and the two-core contrast. https://research-portal.uu.nl/en/publications/linking-biogeochemical-signatures-to-archaeal-community-structure/
+
+乌得勒支大学机构库摘要：研究设计与两根岩芯的差异。https://research-portal.uu.nl/en/publications/linking-biogeochemical-signatures-to-archaeal-community-structure/
+
+[Inspected source / 核查来源](https://doi.org/10.1016/j.marchem.2026.104677) · `src:gcs-tatar-trough-anme-lipids` · Regional comparison / 区域比较
 
 ## Macrofauna Associated With Submarine Groundwater Discharge Sites and a Cold Seep in Svalbard Fjords
 
@@ -1084,6 +1298,42 @@ Evidence locator / 证据位置：Abstract: discovery of ten mud volcanoes and t
 
 [Inspected source / 核查来源](https://doi.org/10.1038/s41598-025-99578-5) · `src:gcs-barents-polaris-mud-volcanoes` · Regional comparison / 区域比较
 
+## Abundance, Identity, and Potential Diazotrophic Activity of nifH ‐Containing Organisms at Marine Cold Seeps
+
+海洋冷泉中含 nifH 生物的丰度、身份与潜在固氮活性
+
+Semler, A. C., Paris, E. R., Salvador, M., & Dekas, A. E. (2025). Abundance, identity, and potential diazotrophic activity of *nifH* ‐containing organisms at marine cold seeps. *Environmental Microbiology, 27*(3), Article e70058. https://doi.org/10.1111/1462-2920.70058
+
+**Study scope / 研究范围**: Six seeps named by the journal abstract only as biogeochemically heterogeneous. The linked ENA project PRJEB72160 is titled as US Atlantic margin and Monterey Bay cold-seep nifH sequences. The journal abstract itself does not list the localities.
+
+期刊摘要只称这六个冷泉的生物地球化学性质不同。关联的 ENA 项目 PRJEB72160 标题为美国大西洋陆缘和蒙特雷湾冷泉的 nifH 序列。期刊摘要本身没有列出地点。
+
+**Design / 研究设计**: nifH amplicon sequencing and qPCR of genes and transcripts inside and outside the six seeps, with a correction for non-nifH amplicons.
+
+对六个冷泉内外的 nifH 基因和转录本做扩增子测序和 qPCR，并校正非 nifH 扩增子。
+
+**Finding / 发现**: nifH genes spanned 18 bacterial and archaeal phyla, 17 of them inside seeps, including ANME-2, Desulfobacteraceae, Desulfuromonadales, Desulfoglaeba and Candidatus Methanoliparia. Transcripts were detected at five of the six seeps. After removing the 71% of sequences that were not bona fide nifH, abundance was up to three orders of magnitude higher inside seeps, correlated with mcrA, and negatively correlated with porewater ammonium below 25 μM.
+
+nifH 基因分布于 18 个细菌和古菌门，其中 17 个出现在冷泉内，包括 ANME-2、Desulfobacteraceae、Desulfuromonadales、Desulfoglaeba 和 Candidatus Methanoliparia。六个冷泉中有五个检测到转录本。剔除 71% 并非真正 nifH 的序列后，冷泉内丰度最高可比外部高三个数量级，与 mcrA 正相关，并与低于 25 μM 的孔隙水铵呈负相关。
+
+**Citation limits / 引用边界**: Transcript detection and the ammonium correlation support potential diazotrophy, not a measured nitrogen-fixation rate. Localities are not in the journal abstract; this profile assigns the US Atlantic margin and Monterey Bay from ENA project PRJEB72160 and does not treat the seeps as Arctic.
+
+转录本和铵相关支持的是潜在固氮，不是实测固氮速率。地点不在期刊摘要中；本档案根据 ENA 项目 PRJEB72160 将其标为美国大西洋陆缘和蒙特雷湾，并不把这些冷泉当作北极。
+
+**Discussion use / 讨论用途**: Use when comparing nifH-bearing ANME-2 and sulfate reducers at seeps, with the geographic assignment limited to the linked sequence project.
+
+在比较冷泉中携带 nifH 的 ANME-2 和硫酸盐还原菌时使用，地理归属以关联的序列项目为限。
+
+Sampling time / 采样时间：Published online 10 March 2025; journal issue dated March 2025. The inspected abstract does not give sampling dates. 2025 年 3 月 10 日在线发表，期刊期次为 2025 年 3 月。所查摘要未给出采样日期。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: nifH diversity, transcripts and the ammonium correlation. Geography: ENA project PRJEB72160 title, not the journal abstract.
+
+摘要：nifH 多样性、转录本和铵相关。地理：ENA 项目 PRJEB72160 的标题，不是期刊摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1111/1462-2920.70058) · `src:gcs-atlantic-monterey-nifh-seeps` · Regional comparison / 区域比较
+
 ## Authigenic pyrite from the Laptev Sea continental slope: the impact of methane seepage activity
 
 拉普捷夫海陆坡自生黄铁矿对甲烷渗漏的记录
@@ -1255,6 +1505,42 @@ Evidence locator / 证据位置：Verified DOI bibliographic record and title; n
 经核验的 DOI 书目记录与标题；未检索到摘要。
 
 [Inspected source / 核查来源](https://doi.org/10.1007/s00300-024-03320-2) · `src:gcs-vestnesa-monothalamid-barcodes` · Regional comparison / 区域比较
+
+## Deep-sea corals near cold seeps associate with sulfur-oxidizing chemoautotrophs in the family Ca. Thioglobaceae
+
+冷泉附近深海珊瑚与硫氧化 Ca. Thioglobaceae 的关联
+
+Vohsen, S. A., Gruber-Vodicka, H. R., Osman, E. O., Saxton, M. A., Joye, S. B., Dubilier, N., Fisher, C. R., & Baums, I. B. (2025). Deep-sea corals near cold seeps associate with sulfur-oxidizing chemoautotrophs in the family Ca. Thioglobaceae. *Microbiome, 13*(1), Article 232. https://doi.org/10.1186/s40168-025-02254-z
+
+**Study scope / 研究范围**: Gulf of Mexico deep-sea and mesophotic corals, plus shallow sites in the Florida Keys and Curaçao. The methods state that signs of seepage were observed only at collection sites deeper than 400 m.
+
+墨西哥湾深海和中光层珊瑚，以及佛罗里达礁岛群和库拉索的浅水站。方法写明只有深于 400 m 的采集站观察到渗漏迹象。
+
+**Design / 研究设计**: 16S metabarcoding of 421 coral colonies from 42 morphotaxa at 31 deep-sea and mesophotic sites, with water and sediment screens, plus metagenomes and transcriptomes of one Paramuricea-associated phylotype.
+
+对 31 个深海和中光层站位、42 个形态分类单元的 421 个珊瑚群体做 16S 扩增子测序，并筛查水体和沉积物；再对一个与 Paramuricea 相关的系统型做宏基因组和转录组。
+
+**Finding / 发现**: Thioglobaceae ASVs reached 10–91% relative abundance in some corals, were host-specific, absent from water, and rare or absent in sediment. A genome from Paramuricea sp. B3 (ASV 4) encoded sulfur oxidation and carbon fixation, and those pathways were transcribed. Its relative abundance was negatively correlated with the stable-isotope composition of host tissue.
+
+一些珊瑚中 Thioglobaceae ASV 的相对丰度达到 10–91%，具有宿主特异性，水体中没有，沉积物中稀少或没有。来自 Paramuricea sp. B3（ASV 4）的基因组编码硫氧化和碳固定，而且这些途径有转录。其相对丰度与宿主组织稳定同位素组成呈负相关。
+
+**Citation limits / 引用边界**: A dietary or vitamin supplement from chemoautotrophy is the authors' proposal. The isotope correlation is not a measured carbon-transfer rate, and shallow Florida Keys and Curaçao sites are not seep sites.
+
+化能自养为宿主补充食物或维生素是作者的提议。同位素相关不是实测的碳转移速率；佛罗里达礁岛群和库拉索的浅水站不是冷泉。
+
+**Discussion use / 讨论用途**: Use as a Gulf of Mexico example of sulfur-oxidizing Thioglobaceae on corals near seeps, separate from mussel chemosymbiosis.
+
+作为墨西哥湾冷泉附近珊瑚上硫氧化 Thioglobaceae 的实例，与贻贝化能共生分开讨论。
+
+Sampling time / 采样时间：Collections on eight cruises from 2009 to 2017; paper published 13 November 2025. 2009 年至 2017 年八个航次采集；论文于 2025 年 11 月 13 日发表。
+
+Evidence access / 核查材料：full_text_extracts; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract: abundance, genome and isotope correlation. Methods, Collections: Gulf of Mexico sites and the 400 m seepage cutoff.
+
+摘要：丰度、基因组与同位素相关。方法中的 Collections：墨西哥湾站位和 400 m 渗漏界限。
+
+[Inspected source / 核查来源](https://doi.org/10.1186/s40168-025-02254-z) · `src:gcs-gom-coral-thioglobaceae` · Regional comparison / 区域比较
 
 ## Deep-sea gas hydrate mounds and chemosynthetic fauna discovered at 3640 m on the Molloy Ridge, Greenland Sea
 
