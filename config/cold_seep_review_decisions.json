@@ -12,18 +12,6 @@
     "next_action": "Check the preprint server and DOI relations, compare authors/data with possible successors, then extract bounded preliminary evidence if still appropriate."
   },
   {
-    "doi": "10.20944/preprints202609.0451.v1",
-    "status": "excluded",
-    "access_level": "title_only",
-    "metadata_status": "verified",
-    "support_status": "not_extracted_for_graph",
-    "evidence_url": "https://doi.org/10.20944/preprints202609.0451.v1",
-    "locator": "Published title and independently resolved bibliographic record.",
-    "reason": "Title-level scope screen: reservoir-production, stimulation, mechanical-engineering or desalination study without a direct seep-microbiome/ecosystem focus.",
-    "reason_zh": "标题范围初筛：储层生产、增产、力学工程或海水淡化研究，缺少直接冷泉微生物／生态系统重点。",
-    "next_action": "Retain discovery provenance; reconsider if a hydrate-engineering collection is requested."
-  },
-  {
     "doi": "10.1038/s41598-026-58898-w",
     "status": "excluded",
     "access_level": "title_only",
