@@ -1,6 +1,6 @@
 # Curated South China Sea studies: APA 7 / 南海冷泉精选文献
 
-186 curated source profiles. Evidence access and citation limits are recorded in each profile. / 共 186 篇证据档案，核查材料及引用边界见各档案。
+190 curated source profiles. Evidence access and citation limits are recorded in each profile. / 共 190 篇证据档案，核查材料及引用边界见各档案。
 
 Cao, J., Liu, X., Feng, J., Deng, Y., Zhou, J., Tian, D., Li, Y., Hu, G., Yang, S., Lu, H., & Zhou, J. (2025). Formation of the authigenic pyrite in the gas hydrate-bearing layer of the Shenhu region, northern South China Sea: Constraints from geochemical and sulfur isotope compositions. *GEOCHEMICAL JOURNAL, 59*(3), Article GJ25004. https://doi.org/10.2343/geochemj.gj25004
 
@@ -160,6 +160,8 @@ Liang, X., Du, M., Qin, Y., Cai, W., Huang, J., Lin, G., & Lu, J. (2025). Functi
 
 Ling, J., Guan, H., Liu, L., Tao, J., Li, J., Dong, J., & Zhang, S. (2020). The diversity, composition, and putative functions of gill-associated bacteria of bathymodiolin mussel and vesicomyid clam from Haima cold seep, South China Sea. *Microorganisms, 8*(11), Article 1699. https://doi.org/10.3390/microorganisms8111699
 
+Ling, Y., Chen, X., Wu, D., Zhang, Q., Mao, S., Jin, G., Liu, J., Zhai, H., Yang, C., Su, Z., & Wu, N. (2025). The process of trace metals enrichment in pyrite under methane seepage in the northern South China Sea. *Frontiers in Marine Science, 12*, Article 1653453. https://doi.org/10.3389/fmars.2025.1653453
+
 Liu, H., Chen, X., Hu, M., Wang, H., Yao, L., Xu, Z., Ma, G., Wang, Q., & Kan, R. (2024). In situ high-precision measurement of deep-sea dissolved methane by quartz-enhanced photoacoustic and light-induced thermoelastic spectroscopy. *Analytical Chemistry, 96*(31), 12846–12853. https://doi.org/10.1021/acs.analchem.4c02557
 
 Liu, L., Guan, H., Wu, N., Chang, B., Chen, F., Feng, D., & Li, S. (2024). Seep carbonate clumped isotopes revealing ocean warming-induced gas hydrate dissociation. *Global and Planetary Change, 237*, Article 104439. https://doi.org/10.1016/j.gloplacha.2024.104439
@@ -185,6 +187,8 @@ Lu, R., Gao, Z.-M., Li, W.-L., Wei, Z.-F., Wei, T.-S., Huang, J.-M., Li, M., Tao
 Luo, S., Lu, L., Wei, W., Jiang, Z., & Li, Y. (2026). Post-penetration excess pore-pressure evolution at cold seeps: Sustained negative responses at active vents. *Journal of Marine Science and Engineering, 14*(21), Article 2012. https://doi.org/10.3390/jmse14212012
 
 Lv, F.-Y., Mándi, A., Li, X.-M., Chi, L.-P., Li, X., Wang, B.-G., Kurtán, T., & Meng, L.-H. (2023). Emestrin-type thiodiketopiperazines from *Aspergillus nidulans* SD-531, a fungus obtained from the deep-sea sediment of cold seep in the South China Sea. *Deep Sea Research Part I: Oceanographic Research Papers, 195*, Article 104004. https://doi.org/10.1016/j.dsr.2023.104004
+
+Lv, T., Xu, C., Sun, Z., Cao, H., Zhang, X., Geng, W., Chen, Y., Xu, S., Zhang, D., Zhou, Y., Li, S., Sun, Y., & Zhai, B. (2026). Environmental effects of Shenhu gas hydrate trial production: A perspective on carbon cycling in shallow sediments. *Deep Sea Research Part I: Oceanographic Research Papers, 228*, Article 104652. https://doi.org/10.1016/j.dsr.2026.104652
 
 Lyu, L., Li, J., Chen, Y., Mai, Z., Wang, L., Li, Q., & Zhang, S. (2022). Degradation potential of alkanes by diverse oil-degrading bacteria from deep-sea sediments of Haima cold seep areas, South China Sea. *Frontiers in Microbiology, 13*, Article 920067. https://doi.org/10.3389/fmicb.2022.920067
 
@@ -354,7 +358,11 @@ Zhang, Y., Liu, H., & Jing, H. (2025). Community differences and potential funct
 
 Zhang, Y., Xi, S., Ma, L., Li, L., He, W., Du, Z., Wang, Z., Tao, J., & Zhang, X. (2026). Quantitative study of methane sequestration by hydrate-encapsulated bubbles at cold seeps: Kinetic characteristics and environmental implications. *Environmental Science & Technology, 60*(43), 30540–30550. https://doi.org/10.1021/acs.est.6c11347
 
+Zhang, Z., Feng, J.-C., Jiang, S., Wang, B., Xie, Y., Xu, L., Pan, H., Yang, Z., & Zhang, S. (2026). Content gradient of “Haima” cold seep sediments controls methane hydrate formation patterns: Multi-mechanism regulatory analysis. *Deep Sea Research Part I: Oceanographic Research Papers, 232*, Article 104745. https://doi.org/10.1016/j.dsr.2026.104745
+
 Zhao, J., Wu, X., Zhang, W., Wan, Z., Dong, Y., Xiao, X., Wu, Y., Wu, X., Feng, J., & Liang, Q. (2025). Multistage formation and geochemical response of pipe-morphology cold seep carbonate in the Qiongdongnan basin, northern South China Sea. *Chemical Geology, 673*, Article 122524. https://doi.org/10.1016/j.chemgeo.2024.122524
+
+Zheng, S., Wu, Y.-F., & Wu, N.-Y. (2026). Dynamic accumulation of gas hydrates in the Shenhu area, northern South China Sea: A two-stage evolution model constrained by temporally varying fluid flow. *China Geology, 9*(3), 456–467. https://doi.org/10.31035/cg2025196
 
 Zhong, S., Feng, J., Kong, J., Huang, Y., Chen, X., & Zhang, S. (2023). Differences in bacterial co-occurrence networks and ecological niches at the surface sediments and bottom seawater in the Haima cold seep. *Microorganisms, 11*(12), Article 3001. https://doi.org/10.3390/microorganisms11123001
 

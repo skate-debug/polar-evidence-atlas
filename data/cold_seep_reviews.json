@@ -601,6 +601,22 @@
       "inspected_abstract_sha256": null
     },
     {
+      "doi": "10.1016/j.dsr.2026.104652",
+      "candidate_id": "seep-candidate:10-1016-j-dsr-2026-104652",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-shenhu-trial-carbon-cycling",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.dsr.2026.104652",
+      "locator": "Abstract reproduced on Booksci and EurekaMag. Crossref, OpenAlex, and Europe PMC returned no abstract.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "ad0f64c9bfd2208e41abbaaa62e79088767ca6064c9a3303e35342ac1609bcd0"
+    },
+    {
       "doi": "10.1016/j.dsr.2026.104675",
       "candidate_id": "seep-candidate:10-1016-j-dsr-2026-104675",
       "status": "curated",
@@ -608,6 +624,22 @@
       "source_id": "src:scs-haima-macrofauna-edna",
       "access_level": "bibliographic_record",
       "evidence_url": "https://doi.org/10.1016/j.dsr.2026.104675",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Extend with additional section- or figure-specific claims as needed.",
+      "inspected_abstract_sha256": null
+    },
+    {
+      "doi": "10.1016/j.dsr.2026.104745",
+      "candidate_id": "seep-candidate:10-1016-j-dsr-2026-104745",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-haima-sediment-hydrate-patterns",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.dsr.2026.104745",
       "locator": "Verified DOI bibliographic record and title; no abstract retrieved.",
       "metadata_status": "verified",
       "support_status": "supported_after_narrowing",
@@ -3606,6 +3638,22 @@
       "reviewed_at": "2026-10-13"
     },
     {
+      "doi": "10.31035/cg2025196",
+      "candidate_id": "seep-candidate:10-31035-cg2025196",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-shenhu-two-stage-hydrate",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.31035/cg2025196",
+      "locator": "Open-access PDF abstract and the saturation description in the article opening.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "1cb7bcfae6b6aff4c1606666c376475647832e6a78835cc530b799d43fdc5f20"
+    },
+    {
       "doi": "10.3389/feart.2022.1014976",
       "candidate_id": "seep-candidate:10-3389-feart-2022-1014976",
       "status": "curated",
@@ -3884,6 +3932,22 @@
       "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
       "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
       "inspected_abstract_sha256": "d0b21e14390d578455fd5ac17b0f5286f3007c0f820a3e483b14dc4b3acf432f"
+    },
+    {
+      "doi": "10.3389/fmars.2025.1653453",
+      "candidate_id": "seep-candidate:10-3389-fmars-2025-1653453",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-nscs-pyrite-trace-metals",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3389/fmars.2025.1653453",
+      "locator": "CC BY abstract deposited with Crossref.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "beacdae97dcd10e45c562b18fede5629e09da44e32ab01f648ed70f917c3abb2"
     },
     {
       "doi": "10.3389/fmars.2025.1714180",

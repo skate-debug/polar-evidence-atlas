@@ -1437,6 +1437,48 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-59717-j-tiw-2026-100006",
+      "doi": "10.59717/j.tiw.2026.100006",
+      "title": "Global seafloor gas venting: New insights from paleo-coldseep systems",
+      "publication_date": "2026-08-24",
+      "year": 2026,
+      "authors": [
+        "Zhaojie Cheng",
+        "Zhuangcai Tian",
+        "Jingxin Wu",
+        "Zhenchao Zhang",
+        "Sicheng Bian",
+        "Ming Su",
+        "Xiujun Guo"
+      ],
+      "journal": "The Innovation Water",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.59717/j.tiw.2026.100006",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "bottom-water",
+        "water-column"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Crossref-verified supplementary DOI from the 2026-11-05 literature watch",
+      "first_discovered_at": "2026-11-05T16:02:00+00:00",
+      "last_seen_at": "2026-11-05T16:02:00+00:00",
+      "pmid": "",
+      "pmcid": "",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1073-pnas-2526201123",
       "doi": "10.1073/pnas.2526201123",
       "title": "Chemosymbiotic trophic strategy in an Ediacaran tubular animal.",
@@ -3765,6 +3807,47 @@
         "southwest_pacific"
       ],
       "discovery_source": "Europe PMC core API",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
+      "id": "global-seep-candidate:10-1007-s00227-026-04853-2",
+      "doi": "10.1007/s00227-026-04853-2",
+      "title": "Life on the edge: distinctive and diverse communities in the chemotone peripheral to Arctic seeps",
+      "publication_date": "2026-05-28",
+      "year": 2026,
+      "authors": [
+        "Arunima Sen",
+        "Brian Sevin",
+        "Antonia Kotliarov",
+        "Wei Li Hong",
+        "Beata Szymczycha",
+        "Magdalena Diak",
+        "Aivo Lepland",
+        "Jochen Knies"
+      ],
+      "journal": "Marine Biology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1007/s00227-026-04853-2",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "interface"
+      ],
+      "topics": [
+        "community"
+      ],
+      "sites": [
+        "arctic-seeps"
+      ],
+      "priority": "context",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Crossref-verified supplementary DOI from the 2026-11-05 literature watch",
+      "first_discovered_at": "2026-11-05T16:02:00+00:00",
+      "last_seen_at": "2026-11-05T16:02:00+00:00",
+      "pmid": "",
+      "pmcid": "",
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {

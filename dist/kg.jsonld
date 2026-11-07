@@ -5256,6 +5256,54 @@
       "schema:sameAs": "https://doi.org/10.1007/s11802-026-6174-2"
     },
     {
+      "@id": "src:scs-shenhu-trial-carbon-cycling",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Environmental effects of Shenhu gas hydrate trial production: A perspective on carbon cycling in shallow sediments",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.dsr.2026.104652",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr.2026.104652"
+    },
+    {
+      "@id": "src:scs-shenhu-two-stage-hydrate",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Dynamic accumulation of gas hydrates in the Shenhu area, northern South China Sea: A two-stage evolution model constrained by temporally varying fluid flow",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.31035/cg2025196",
+      "schema:sameAs": "https://doi.org/10.31035/cg2025196"
+    },
+    {
+      "@id": "src:scs-nscs-pyrite-trace-metals",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "The process of trace metals enrichment in pyrite under methane seepage in the northern South China Sea",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.3389/fmars.2025.1653453",
+      "schema:sameAs": "https://doi.org/10.3389/fmars.2025.1653453"
+    },
+    {
+      "@id": "src:scs-haima-sediment-hydrate-patterns",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Content gradient of “Haima” cold seep sediments controls methane hydrate formation patterns: multi-mechanism regulatory analysis",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.dsr.2026.104745",
+      "schema:sameAs": "https://doi.org/10.1016/j.dsr.2026.104745"
+    },
+    {
+      "@id": "src:gcs-paleo-seep-gas-venting",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Global seafloor gas venting: New insights from paleo-coldseep systems",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.59717/j.tiw.2026.100006",
+      "schema:sameAs": "https://doi.org/10.59717/j.tiw.2026.100006"
+    },
+    {
+      "@id": "src:gcs-arctic-seep-chemotone",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Life on the edge: distinctive and diverse communities in the chemotone peripheral to Arctic seeps",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1007/s00227-026-04853-2",
+      "schema:sameAs": "https://doi.org/10.1007/s00227-026-04853-2"
+    },
+    {
       "@id": "src:scs-site-f-hydrate-bubble-sequestration",
       "@type": "schema:ScholarlyArticle",
       "schema:name": "Quantitative Study of Methane Sequestration by Hydrate-Encapsulated Bubbles at Cold Seeps: Kinetic Characteristics and Environmental Implications",
@@ -12116,6 +12164,108 @@
         "@id": "src:scs-site-f-methane-leakage-flux"
       },
       "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-trial-carbon-cycling",
+      "@type": "pkg:Claim",
+      "schema:text": "The abstract reports artificial cold seeps from borehole leakage. The sulfate–methane transition near the trial well shoaled from 18.9 mbsf in the background area to 10.8 mbsf. Organic sulfate reduction dominated shallow sediments. A numerical model assigned deeper sulfate consumption about 7:3 between organic sulfate reduction and anaerobic methane oxidation, and sediments supplied bottom water with 5.7–9.1 mmol m−2 a−1 dissolved inorganic carbon and 0.65–0.71 mmol m−2 a−1 organic carbon.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-trial-carbon-cycling"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-trial-carbon-cycling"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-two-stage-hydrate",
+      "@type": "pkg:Claim",
+      "schema:text": "A layer near the base of the present gas-hydrate stability zone reaches 48% saturation and then falls to nearly zero above it. The time-varying flow model reproduces that profile. Under present sedimentation and flow, burial and dissociation of older hydrate below the stability zone outpace new hydrate formation, so the modeled inventory declines.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-two-stage-hydrate"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:hydrate-bearing-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-two-stage-hydrate"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-nscs-pyrite-trace-metals",
+      "@type": "pkg:Claim",
+      "schema:text": "Two sulfate–methane transition intervals were placed at 181–481 and 1,101–1,401 cm below the seafloor, where chromium-reducible-sulfur δ34S became more positive, reaching −36.54‰, and Mg/Ca increased. Pyrite there was enriched in Co, Ni, Mo, and Pb and depleted in Mn, Zn, Cu, and V. The authors link that pattern to anaerobic methane oxidation, iron and manganese reduction, and separate sulfide minerals for the faster-exchanging metals.",
+      "pkg:subject": {
+        "@id": "src:scs-nscs-pyrite-trace-metals"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-nscs-pyrite-trace-metals"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-sediment-hydrate-patterns",
+      "@type": "pkg:Claim",
+      "schema:text": "The verified title states that a content gradient in Haima cold-seep sediments controls methane-hydrate formation patterns through more than one mechanism.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-sediment-hydrate-patterns"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:hydrate-bearing-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-sediment-hydrate-patterns"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-paleo-seep-gas-venting",
+      "@type": "pkg:Claim",
+      "schema:text": "The opening reports present-day gas venting inside a relict paleo-cold-seep field at Shenhu. The authors use low-intensity fluid activity as a qualitative description, not as a methane-flux class.",
+      "pkg:subject": {
+        "@id": "src:gcs-paleo-seep-gas-venting"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-bottom-water"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-paleo-seep-gas-venting"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-arctic-seep-chemotone",
+      "@type": "pkg:Claim",
+      "schema:text": "Peripheral communities were about an order of magnitude more diverse and species-rich than the seep interior. The abstract reports no specialist fauna in either habitat, chemosynthetically derived carbon in peripheral animals, and abundant suspension feeders, including thousands of colonial anemones.",
+      "pkg:subject": {
+        "@id": "src:gcs-arctic-seep-chemotone"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-interface"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-arctic-seep-chemotone"
+      },
+      "pkg:evidenceType": "reported",
       "pkg:confidence": "moderate"
     },
     {

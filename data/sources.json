@@ -27196,6 +27196,413 @@
     }
   },
   {
+    "id": "src:scs-shenhu-trial-carbon-cycling",
+    "citation_key": "SCSShenhuTrialCarbonCycling",
+    "doi": "10.1016/j.dsr.2026.104652",
+    "title": "Environmental effects of Shenhu gas hydrate trial production: A perspective on carbon cycling in shallow sediments",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:shenhu"
+    ],
+    "compartments": [
+      "sediment",
+      "interface"
+    ],
+    "topics": [
+      "carbon",
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "shenhu"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Shenhu trial-production carbon-cycling study",
+    "study_profile": {
+      "spatial_scope": "Sediment–water interface at SH-1 and SH-2, beside artificial vents in the Shenhu hydrate trial-production area.",
+      "temporal_scope": "Epub date 17 January 2026; Crossref print issue is April 2026. The inspected abstract does not give the sampling date.",
+      "sample_design": "Visual multi-tube samples at the sediment–water interface, with geochemical profiles and a numerical simulation of dissolved carbon. Crossref, OpenAlex, and Europe PMC had no abstract; the same abstract was read on Booksci and EurekaMag.",
+      "habitats": [
+        "habitat:seep-sediment",
+        "habitat:seep-interface"
+      ],
+      "methods": [
+        "method:geochemistry",
+        "method:reactive-transport-model"
+      ],
+      "measured_or_derived": [
+        "SMTZ depth and modeled dissolved-carbon fluxes"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:anaerobic-methane-oxidation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The abstract reports artificial cold seeps from borehole leakage. The sulfate–methane transition near the trial well shoaled from 18.9 mbsf in the background area to 10.8 mbsf. Organic sulfate reduction dominated shallow sediments. A numerical model assigned deeper sulfate consumption about 7:3 between organic sulfate reduction and anaerobic methane oxidation, and sediments supplied bottom water with 5.7–9.1 mmol m−2 a−1 dissolved inorganic carbon and 0.65–0.71 mmol m−2 a−1 organic carbon."
+    ],
+    "limitations": [
+      "The 7:3 split and the carbon fluxes are numerical-model results in a reproduced abstract. They are not a basin-wide carbon budget, and the abstract was not deposited with Crossref."
+    ],
+    "cite_for": [
+      "Shenhu trial-production carbon-cycling study within the stated study scope.",
+      "The abstract reports artificial cold seeps from borehole leakage. The sulfate–methane transition near the trial well shoaled from 18.9 mbsf in the background area to 10.8 mbsf. Organic sulfate reduction dominated shallow sediments. A numerical model assigned deeper sulfate consumption about 7:3 between organic sulfate reduction and anaerobic methane oxidation, and sediments supplied bottom water with 5.7–9.1 mmol m−2 a−1 dissolved inorganic carbon and 0.65–0.71 mmol m−2 a−1 organic carbon."
+    ],
+    "do_not_overcite": [
+      "The 7:3 split and the carbon fluxes are numerical-model results in a reproduced abstract. They are not a basin-wide carbon budget, and the abstract was not deposited with Crossref."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.dsr.2026.104652",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-shenhu-two-stage-hydrate",
+    "citation_key": "SCSShenhuTwoStageHydrate",
+    "doi": "10.31035/cg2025196",
+    "title": "Dynamic accumulation of gas hydrates in the Shenhu area, northern South China Sea: A two-stage evolution model constrained by temporally varying fluid flow",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:shenhu"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "shenhu"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Shenhu hydrate-accumulation model",
+    "study_profile": {
+      "spatial_scope": "Pleistocene gas-hydrate-bearing sediments in the Shenhu area, northern South China Sea.",
+      "temporal_scope": "Available online 25 February 2026. Crossref records only the year 2026.",
+      "sample_design": "A coupled fluid–heat numerical model with time-varying water flow, compared with the observed hydrate-saturation profile. The open-access abstract and article opening were read.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:reactive-transport-model"
+      ],
+      "measured_or_derived": [
+        "hydrate saturation and modeled inventory change"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "A layer near the base of the present gas-hydrate stability zone reaches 48% saturation and then falls to nearly zero above it. The time-varying flow model reproduces that profile. Under present sedimentation and flow, burial and dissociation of older hydrate below the stability zone outpace new hydrate formation, so the modeled inventory declines."
+    ],
+    "limitations": [
+      "This is a Shenhu inventory model. It is not a production forecast and does not give a methane flux to the water column. Deeper saturation details in the article opening are not repeated here."
+    ],
+    "cite_for": [
+      "Shenhu hydrate-accumulation model within the stated study scope.",
+      "A layer near the base of the present gas-hydrate stability zone reaches 48% saturation and then falls to nearly zero above it. The time-varying flow model reproduces that profile. Under present sedimentation and flow, burial and dissociation of older hydrate below the stability zone outpace new hydrate formation, so the modeled inventory declines."
+    ],
+    "do_not_overcite": [
+      "This is a Shenhu inventory model. It is not a production forecast and does not give a methane flux to the water column. Deeper saturation details in the article opening are not repeated here."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.31035/cg2025196",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-nscs-pyrite-trace-metals",
+    "citation_key": "SCSNscsPyriteTraceMetals",
+    "doi": "10.3389/fmars.2025.1653453",
+    "title": "The process of trace metals enrichment in pyrite under methane seepage in the northern South China Sea",
+    "year": 2025,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "geochemistry",
+      "methane",
+      "sulfur",
+      "phosphorus"
+    ],
+    "sites": [
+      "regional"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Northern SCS pyrite trace-metal study",
+    "study_profile": {
+      "spatial_scope": "Core Z22-3 in the northern South China Sea. The inspected abstract does not assign the core to Haima or Shenhu.",
+      "temporal_scope": "Published online 7 October 2025.",
+      "sample_design": "Laser-ablation ICP-MS of pyrite, with bulk Sr/Ca, Mg/Ca, molybdenum/uranium enrichment, chromium-reducible sulfur, organic carbon, δ34S, and δ13C used to place the sulfate–methane transition.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry",
+        "method:trace-metal-analysis"
+      ],
+      "measured_or_derived": [
+        "pyrite trace metals and SMTZ position"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [
+        "process:anaerobic-methane-oxidation"
+      ],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Two sulfate–methane transition intervals were placed at 181–481 and 1,101–1,401 cm below the seafloor, where chromium-reducible-sulfur δ34S became more positive, reaching −36.54‰, and Mg/Ca increased. Pyrite there was enriched in Co, Ni, Mo, and Pb and depleted in Mn, Zn, Cu, and V. The authors link that pattern to anaerobic methane oxidation, iron and manganese reduction, and separate sulfide minerals for the faster-exchanging metals."
+    ],
+    "limitations": [
+      "The metal pattern comes from one northern South China Sea core. It is not a seep-wide flux, and the substitution pathway is an interpretation of the enrichments."
+    ],
+    "cite_for": [
+      "Northern SCS pyrite trace-metal study within the stated study scope.",
+      "Two sulfate–methane transition intervals were placed at 181–481 and 1,101–1,401 cm below the seafloor, where chromium-reducible-sulfur δ34S became more positive, reaching −36.54‰, and Mg/Ca increased. Pyrite there was enriched in Co, Ni, Mo, and Pb and depleted in Mn, Zn, Cu, and V. The authors link that pattern to anaerobic methane oxidation, iron and manganese reduction, and separate sulfide minerals for the faster-exchanging metals."
+    ],
+    "do_not_overcite": [
+      "The metal pattern comes from one northern South China Sea core. It is not a seep-wide flux, and the substitution pathway is an interpretation of the enrichments."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "DOI bibliographic metadata and source passage inspected; abstract-scoped evidence only.",
+      "last_verified": "2026-11-05",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3389/fmars.2025.1653453",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:scs-haima-sediment-hydrate-patterns",
+    "citation_key": "SCSHaimaSedimentHydratePatterns",
+    "doi": "10.1016/j.dsr.2026.104745",
+    "title": "Content gradient of “Haima” cold seep sediments controls methane hydrate formation patterns: multi-mechanism regulatory analysis",
+    "year": 2026,
+    "poles": [],
+    "collection": "scs-cold-seeps",
+    "regions": [
+      "region:south-china-sea",
+      "region:haima-seep"
+    ],
+    "compartments": [
+      "sediment"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "haima"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Haima sediment–hydrate study",
+    "study_profile": {
+      "spatial_scope": "Haima cold-seep sediments, as named in the verified title.",
+      "temporal_scope": "First-online date 28 August 2026. Crossref dates the print issue to December 2026.",
+      "sample_design": "Bibliographic record only. Crossref, OpenAlex, and Europe PMC returned no abstract, and the publisher page was not openly readable.",
+      "habitats": [
+        "habitat:seep-sediment"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "title-scoped sediment gradient and hydrate formation"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The verified title states that a content gradient in Haima cold-seep sediments controls methane-hydrate formation patterns through more than one mechanism."
+    ],
+    "limitations": [
+      "No abstract was retrieved, so this profile does not extract gradients, mechanisms, rates, or depths beyond the verified title."
+    ],
+    "cite_for": [
+      "Haima sediment–hydrate study within the stated study scope.",
+      "The verified title states that a content gradient in Haima cold-seep sediments controls methane-hydrate formation patterns through more than one mechanism."
+    ],
+    "do_not_overcite": [
+      "No abstract was retrieved, so this profile does not extract gradients, mechanisms, rates, or depths beyond the verified title."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "SCS source inspected from the verified DOI bibliographic record; no abstract was available from Crossref, Europe PMC, or OpenAlex.",
+      "last_verified": "2026-11-05",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.dsr.2026.104745",
+      "review_packet": "config/cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-paleo-seep-gas-venting",
+    "citation_key": "GCSPaleoSeepGasVenting",
+    "doi": "10.59717/j.tiw.2026.100006",
+    "title": "Global seafloor gas venting: New insights from paleo-coldseep systems",
+    "year": 2026,
+    "poles": [],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:global-seeps"
+    ],
+    "compartments": [
+      "bottom-water",
+      "water-column"
+    ],
+    "topics": [
+      "methane",
+      "geochemistry"
+    ],
+    "sites": [
+      "global-comparison"
+    ],
+    "domains": [
+      "Cold-seep biogeochemistry"
+    ],
+    "study_type": "Paleo-cold-seep gas-venting commentary",
+    "study_profile": {
+      "spatial_scope": "A global discussion of gas venting from paleo-cold seeps, with new ROV observations from a relict field in the Shenhu area.",
+      "temporal_scope": "Published online 24 August 2026. Haiqin ROV dives in August 2025. Crossref records only the year 2026.",
+      "sample_design": "CC BY commentary. The inspected PDF opening defines paleo-cold seeps and reports multiple Haiqin ROV dives on the eastern ridge of Canyon 12 in Shenhu. Later sections and figures were not read.",
+      "habitats": [
+        "habitat:seep-bottom-water",
+        "habitat:seep-water-column"
+      ],
+      "methods": [
+        "method:in-situ-monitoring"
+      ],
+      "measured_or_derived": [
+        "reported gas venting in a relict Shenhu seep"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "The opening reports present-day gas venting inside a relict paleo-cold-seep field at Shenhu. The authors use low-intensity fluid activity as a qualitative description, not as a methane-flux class."
+    ],
+    "limitations": [
+      "One canyon observation in the opening is not a revised global methane budget. Unread sections may add sites or quantities that are not in this profile."
+    ],
+    "cite_for": [
+      "Use as 2026 context for gas venting from paleo-seep plumbing, and keep the new observation at Shenhu Canyon 12.",
+      "The opening reports present-day gas venting inside a relict paleo-cold-seep field at Shenhu. The authors use low-intensity fluid activity as a qualitative description, not as a methane-flux class."
+    ],
+    "do_not_overcite": [
+      "One canyon observation in the opening is not a revised global methane budget. Unread sections may add sites or quantities that are not in this profile."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; only the full-text sections in the claim locator were inspected.",
+      "access_level": "full_text_opening",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.59717/j.tiw.2026.100006",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
+    "id": "src:gcs-arctic-seep-chemotone",
+    "citation_key": "GCSArcticSeepChemotone",
+    "doi": "10.1007/s00227-026-04853-2",
+    "title": "Life on the edge: distinctive and diverse communities in the chemotone peripheral to Arctic seeps",
+    "year": 2026,
+    "poles": [
+      "Arctic"
+    ],
+    "collection": "global-cold-seeps",
+    "regions": [
+      "region:arctic-nordic-seeps"
+    ],
+    "compartments": [
+      "interface"
+    ],
+    "topics": [
+      "community"
+    ],
+    "sites": [
+      "arctic-seeps"
+    ],
+    "domains": [
+      "Cold-seep eukaryotes"
+    ],
+    "study_type": "Arctic seep-edge chemotone survey",
+    "study_profile": {
+      "spatial_scope": "Epifaunal megabenthos at the periphery of a submarine-groundwater-discharge seep off northern Norway.",
+      "temporal_scope": "Published online 28 May 2026. The inspected abstract does not give sampling dates.",
+      "sample_design": "Compare seep, peripheral chemotone, and background communities, and use stable isotopes to test for chemosynthetic carbon beyond the seep. Crossref had no abstract; the same abstract was read from OpenAlex and the Springer record.",
+      "habitats": [
+        "habitat:seep-interface"
+      ],
+      "methods": [
+        "method:geochemistry"
+      ],
+      "measured_or_derived": [
+        "chemotone versus seep diversity and peripheral stable isotopes"
+      ],
+      "focal_taxa": [],
+      "focal_processes": [],
+      "environmental_drivers": []
+    },
+    "key_findings": [
+      "Peripheral communities were about an order of magnitude more diverse and species-rich than the seep interior. The abstract reports no specialist fauna in either habitat, chemosynthetically derived carbon in peripheral animals, and abundant suspension feeders, including thousands of colonial anemones."
+    ],
+    "limitations": [
+      "The abstract does not name the station or list the species, and it does not show that every Arctic seep has a richer edge. The anemone count is an example, not a regional census."
+    ],
+    "cite_for": [
+      "Use for seep-edge chemotone fauna at a groundwater-fed Arctic seep, not as a count of obligate seep species.",
+      "Peripheral communities were about an order of magnitude more diverse and species-rich than the seep interior. The abstract reports no specialist fauna in either habitat, chemosynthetically derived carbon in peripheral animals, and abundant suspension feeders, including thousands of colonial anemones."
+    ],
+    "do_not_overcite": [
+      "The abstract does not name the station or list the species, and it does not show that every Arctic seep has a richer edge. The anemone count is an example, not a regional census."
+    ],
+    "data_accessions": [],
+    "curation": {
+      "status": "curated",
+      "basis": "International comparison source inspected; abstract-scoped findings only.",
+      "access_level": "abstract",
+      "last_verified": "2026-11-05",
+      "evidence_url": "https://doi.org/10.1007/s00227-026-04853-2",
+      "review_packet": "config/global_cold_seep_reviewed.json"
+    }
+  },
+  {
     "id": "src:scs-site-f-hydrate-bubble-sequestration",
     "citation_key": "SCSSiteFHydrateBubbleSequestration",
     "doi": "10.1021/acs.est.6c11347",
