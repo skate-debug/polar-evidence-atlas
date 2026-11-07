@@ -6818,6 +6818,264 @@
       "relation": {},
       "article-number": "128425"
     },
+    "10.1016/j.gca.2026.08.002": {
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2026-09-01T00:00:00Z",
+            "timestamp": 1788220800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2026-09-01T00:00:00Z",
+            "timestamp": 1788220800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2026-09-01T00:00:00Z",
+            "timestamp": 1788220800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2026-09-01T00:00:00Z",
+            "timestamp": 1788220800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2026-09-01T00:00:00Z",
+            "timestamp": 1788220800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2026-09-01T00:00:00Z",
+            "timestamp": 1788220800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2026-09-01T00:00:00Z",
+            "timestamp": 1788220800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.gca.2026.08.002",
+      "type": "journal-article",
+      "page": "221-236",
+      "title": "Uranium isotopic constraints on the biogeochemistry of methane-seep environments",
+      "volume": "429",
+      "author": [
+        {
+          "given": "Xiaoming",
+          "family": "Miao",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jingrui",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0188-5504",
+          "authenticated-orcid": false,
+          "given": "Xiting",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xuexue",
+          "family": "Jia",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hangyu",
+          "family": "Nan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhiwei",
+          "family": "He",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jiangtao",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5662-8137",
+          "authenticated-orcid": false,
+          "given": "Hongxiang",
+          "family": "Guan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3333-7035",
+          "authenticated-orcid": false,
+          "given": "Thomas J.",
+          "family": "Algeo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Geochimica et Cosmochimica Acta",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1016/j.gca.2026.08.002",
+      "relation": {}
+    },
     "10.1016/j.gloplacha.2024.104439": {
       "publisher": "Elsevier BV",
       "license": [
@@ -22296,6 +22554,281 @@
       "URL": "https://doi.org/10.1021/acs.est.5c18624",
       "relation": {}
     },
+    "10.1021/acs.est.6c11347": {
+      "publisher": "American Chemical Society (ACS)",
+      "issue": "43",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                30
+              ]
+            ],
+            "date-time": "2026-09-30T00:00:00Z",
+            "timestamp": 1790726400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1021/acs.est.6c11347",
+      "type": "journal-article",
+      "page": "30540-30550",
+      "title": "Quantitative\nStudy of Methane Sequestration by Hydrate-Encapsulated\nBubbles at Cold Seeps: Kinetic Characteristics and Environmental Implications",
+      "volume": "60",
+      "author": [
+        {
+          "given": "Yitong",
+          "family": "Zhang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Laoshan Laboratory , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            },
+            {
+              "name": "Qingdao Marine Science and Technology Center , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shichuan",
+          "family": "Xi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laoshan Laboratory , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            },
+            {
+              "name": "Qingdao Marine Science and Technology Center , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Liang",
+          "family": "Ma",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shandong Institute of Geological Sciences , , ,",
+              "place": [
+                "Jinan, China, 250013"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lianfu",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laoshan Laboratory , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            },
+            {
+              "name": "Qingdao Marine Science and Technology Center , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wanying",
+          "family": "He",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laoshan Laboratory , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            },
+            {
+              "name": "Qingdao Marine Science and Technology Center , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zengfeng",
+          "family": "Du",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Oceanology, Chinese Academy of Sciences , , ,",
+              "place": [
+                "Qingdao, China, 266071"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhicheng",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laoshan Laboratory , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            },
+            {
+              "name": "Qingdao Marine Science and Technology Center , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jun",
+          "family": "Tao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laoshan Laboratory , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            },
+            {
+              "name": "Qingdao Marine Science and Technology Center , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4898-5956",
+          "authenticated-orcid": true,
+          "given": "Xin",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laoshan Laboratory , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            },
+            {
+              "name": "Qingdao Marine Science and Technology Center , ,",
+              "place": [
+                "Qingdao, China, 266237"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ]
+      },
+      "container-title": "Environmental Science &amp;\nTechnology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1021/acs.est.6c11347",
+      "relation": {}
+    },
     "10.1021/acs.jnatprod.1c00907": {
       "publisher": "American Chemical Society (ACS)",
       "issue": "12",
@@ -33872,6 +34405,206 @@
       "relation": {},
       "article-number": "e17200"
     },
+    "10.1111/mec.70190": {
+      "publisher": "Wiley",
+      "issue": "24",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                11,
+                27
+              ]
+            ],
+            "date-time": "2025-11-27T00:00:00Z",
+            "timestamp": 1764201600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1111/mec.70190",
+      "type": "journal-article",
+      "title": "Adaptive Feeding Strategies Facilitate Resilience of Deep‐Sea Cold Seep Molluscs Confronting Climate Change",
+      "volume": "34",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-5572-7173",
+          "authenticated-orcid": false,
+          "given": "Yu",
+          "family": "Chen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)  Guangzhou China"
+            },
+            {
+              "name": "State Key Laboratory of Tropical Oceanography, CAS Key Laboratory of Tropical Marine Bio‐Resources and Ecology South China Sea Institute of Oceanology, Chinese Academy of Sciences  Guangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Yali",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Tropical Oceanography, CAS Key Laboratory of Tropical Marine Bio‐Resources and Ecology South China Sea Institute of Oceanology, Chinese Academy of Sciences  Guangzhou China"
+            },
+            {
+              "name": "Guangdong Provincial Key Laboratory of Applied Marine Biology  Guangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2524-5915",
+          "authenticated-orcid": false,
+          "given": "Jie",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Tropical Oceanography, CAS Key Laboratory of Tropical Marine Bio‐Resources and Ecology South China Sea Institute of Oceanology, Chinese Academy of Sciences  Guangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Haiyan",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Tropical Oceanography, CAS Key Laboratory of Tropical Marine Bio‐Resources and Ecology South China Sea Institute of Oceanology, Chinese Academy of Sciences  Guangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Junyi",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Mechanical Engineering Hangzhou Dianzi University  Hangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Qiqi",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Tropical Oceanography, CAS Key Laboratory of Tropical Marine Bio‐Resources and Ecology South China Sea Institute of Oceanology, Chinese Academy of Sciences  Guangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Lina",
+          "family": "Lyu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Tropical Oceanography, CAS Key Laboratory of Tropical Marine Bio‐Resources and Ecology South China Sea Institute of Oceanology, Chinese Academy of Sciences  Guangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Si",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)  Guangzhou China"
+            },
+            {
+              "name": "State Key Laboratory of Tropical Oceanography, CAS Key Laboratory of Tropical Marine Bio‐Resources and Ecology South China Sea Institute of Oceanology, Chinese Academy of Sciences  Guangzhou China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            27
+          ]
+        ]
+      },
+      "container-title": "Molecular Ecology",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            27
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1111/mec.70190",
+      "relation": {},
+      "article-number": "e70190"
+    },
     "10.1111/mec.70476": {
       "publisher": "Wiley",
       "issue": "14",
@@ -34687,6 +35420,269 @@
       "URL": "http://dx.doi.org/10.1126/sciadv.aed8728",
       "relation": {},
       "article-number": "eaed8728"
+    },
+    "10.1126/sciadv.aef5836": {
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "issue": "33",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            14
+          ]
+        ]
+      },
+      "DOI": "10.1126/sciadv.aef5836",
+      "type": "journal-article",
+      "title": "In situ deep-sea surface-enhanced Raman scattering sensor reveals cyanide as a key factor in cold seep nitrogen cycling",
+      "volume": "12",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0004-1646-9388",
+          "authenticated-orcid": true,
+          "given": "Siyu",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "LaoShan Laboratory, Qingdao 266237, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tingting",
+          "family": "Zhao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shandong Key Laboratory of Coastal Zone Environmental Processes and Ecological Security, Coastal Zone Ecological Environment Monitoring Technology and Equipment Shandong Engineering Research Center, Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences, Yantai 264003, China."
+            },
+            {
+              "name": "School of Chemistry and Chemical Engineering, Linyi University, Linyi, 276005 Shandong, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0002-2883-1677",
+          "authenticated-orcid": true,
+          "given": "Wanying",
+          "family": "He",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "LaoShan Laboratory, Qingdao 266237, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0007-7557-7161",
+          "authenticated-orcid": true,
+          "given": "Fei",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Safety and Environmental Engineering, Shandong University of Science and Technology, Qingdao 266590, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhicheng",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "LaoShan Laboratory, Qingdao 266237, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5573-2992",
+          "authenticated-orcid": true,
+          "given": "Ruhao",
+          "family": "Pan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0009-0356-709X",
+          "authenticated-orcid": true,
+          "given": "Lianfu",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "LaoShan Laboratory, Qingdao 266237, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shichuan",
+          "family": "Xi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "LaoShan Laboratory, Qingdao 266237, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhendong",
+          "family": "Luan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Key Laboratory of Marine Geology and Environment &amp; Center of Deep Sea Research, Institute of Oceanology, Center for Ocean Mega-Science, Chinese Academy of Sciences, Qingdao 266071, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhiyang",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shandong Key Laboratory of Coastal Zone Environmental Processes and Ecological Security, Coastal Zone Ecological Environment Monitoring Technology and Equipment Shandong Engineering Research Center, Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences, Yantai 264003, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6262-8248",
+          "authenticated-orcid": true,
+          "given": "Bowei",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shandong Key Laboratory of Coastal Zone Environmental Processes and Ecological Security, Coastal Zone Ecological Environment Monitoring Technology and Equipment Shandong Engineering Research Center, Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences, Yantai 264003, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3764-3515",
+          "authenticated-orcid": true,
+          "given": "Lingxin",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shandong Key Laboratory of Coastal Zone Environmental Processes and Ecological Security, Coastal Zone Ecological Environment Monitoring Technology and Equipment Shandong Engineering Research Center, Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences, Yantai 264003, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4898-5956",
+          "authenticated-orcid": true,
+          "given": "Xin",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "LaoShan Laboratory, Qingdao 266237, China."
+            },
+            {
+              "name": "Key Laboratory of Marine Geology and Environment &amp; Center of Deep Sea Research, Institute of Oceanology, Center for Ocean Mega-Science, Chinese Academy of Sciences, Qingdao 266071, China."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": "Science Advances",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            14
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.1126/sciadv.aef5836",
+      "relation": {},
+      "article-number": "eaef5836"
     },
     "10.1126/scirobotics.adp7821": {
       "publisher": "American Association for the Advancement of Science (AAAS)",
@@ -49874,6 +50870,158 @@
           ]
         ]
       }
+    },
+    "10.3390/jmse14212012": {
+      "publisher": "MDPI AG",
+      "issue": "21",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                26
+              ]
+            ],
+            "date-time": "2026-10-26T00:00:00Z",
+            "timestamp": 1792972800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                26
+              ]
+            ],
+            "date-time": "2026-10-26T00:00:00Z",
+            "timestamp": 1792972800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "DOI": "10.3390/jmse14212012",
+      "type": "journal-article",
+      "page": "2012",
+      "title": "Post-Penetration Excess Pore-Pressure Evolution at Cold Seeps: Sustained Negative Responses at Active Vents",
+      "volume": "14",
+      "author": [
+        {
+          "given": "Shiyao",
+          "family": "Luo",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Shandong Provincial Key Laboratory of Marine Engineering Geology and the Environment, Ocean University of China, Qingdao 266100, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Longyu",
+          "family": "Lu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shandong Provincial Key Laboratory of Marine Engineering Geology and the Environment, Ocean University of China, Qingdao 266100, China"
+            },
+            {
+              "name": "Laoshan Laboratory, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0000-9408-7992",
+          "authenticated-orcid": false,
+          "given": "Wang",
+          "family": "Wei",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laoshan Laboratory, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhiyang",
+          "family": "Jiang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laoshan Laboratory, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yanlong",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Laoshan Laboratory, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            26
+          ]
+        ]
+      },
+      "container-title": "Journal of Marine Science and Engineering",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            26
+          ]
+        ]
+      },
+      "URL": "http://dx.doi.org/10.3390/jmse14212012",
+      "relation": {}
     },
     "10.3390/md19030171": {
       "publisher": "MDPI AG",

@@ -2,13 +2,13 @@
 
 Publication window / 发表时间范围：2016-10-12–2026-11-05.
 
-316 inventory DOI records; 185 curated profiles. DOI records are not necessarily distinct studies: notices and retained preprints are counted separately.
+321 inventory DOI records; 190 curated profiles. DOI records are not necessarily distinct studies: notices and retained preprints are counted separately.
 
 DOI 记录数不等于独立研究数：勘误及保留的预印本单独计数。原文初筛、摘要证据提取与全文核查分别记录，背景初筛不产生图谱论断。
 
 | Review stage / 核查阶段 | Records / 记录数 |
 | --- | ---: |
-| Curated evidence / 已建立证据档案 | 185 |
+| Curated evidence / 已建立证据档案 | 190 |
 | Awaiting source review / 待核查原文 | 0 |
 | Source text needed / 需获取支持性原文 | 41 |
 | Screened context / 已初筛背景文献 | 68 |
@@ -16,7 +16,7 @@ DOI 记录数不等于独立研究数：勘误及保留的预印本单独计数�
 | Linked correction / 已关联勘误 | 3 |
 | Publication version check / 需核查发表版本 | 7 |
 
-Curated access / 精选档案核查材料：134 abstract-scoped / 限于摘要；13 bibliographic-record only / 仅有经核验书目记录；38 inspected full-text excerpts / 已核查相关全文段落。
+Curated access / 精选档案核查材料：137 abstract-scoped / 限于摘要；14 bibliographic-record only / 仅有经核验书目记录；39 inspected full-text excerpts / 已核查相关全文段落。
 
 A full-text-excerpt label identifies the sections actually inspected; it does not claim that every figure or supplement was reviewed. Abstract-scoped packets must be narrowed to explicit abstract findings. Neither DOI verification nor title screening is treated as claim verification.
 

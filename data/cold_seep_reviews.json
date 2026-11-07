@@ -693,6 +693,22 @@
       "inspected_abstract_sha256": "656c0a431a993551c30a7fafd3c1e8d67f40253a1a60c598863f78701496819a"
     },
     {
+      "doi": "10.1016/j.gca.2026.08.002",
+      "candidate_id": "seep-candidate:10-1016-j-gca-2026-08-002",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-haima-uranium-isotopes",
+      "access_level": "bibliographic_record",
+      "evidence_url": "https://doi.org/10.1016/j.gca.2026.08.002",
+      "locator": "Verified DOI bibliographic record and title; no abstract retrieved. Site and materials: author laboratory note https://geolab.ouc.edu.cn/2026/0909/c14456a536841/page.htm.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Extend with additional section- or figure-specific claims as needed.",
+      "inspected_abstract_sha256": null
+    },
+    {
       "doi": "10.1016/j.gloplacha.2024.104439",
       "candidate_id": "seep-candidate:10-1016-j-gloplacha-2024-104439",
       "status": "curated",
@@ -1915,6 +1931,22 @@
       "inspected_abstract_sha256": "5093677bbc59a0ae3db0efbdfe1d97e8561ac0b0ed7843693cb9b1705e95e7e2"
     },
     {
+      "doi": "10.1021/acs.est.6c11347",
+      "candidate_id": "seep-candidate:10-1021-acs-est-6c11347",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-site-f-hydrate-bubble-sequestration",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1021/acs.est.6c11347",
+      "locator": "Abstract: kinetic experiments and the Site F field estimate.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "417dcfeaca4720cae214577c0bbf0251c97d82a279dd54b7d2e3dd9fa6167b4a"
+    },
+    {
       "doi": "10.1021/acs.jnatprod.1c00907",
       "candidate_id": "seep-candidate:10-1021-acs-jnatprod-1c00907",
       "status": "curated",
@@ -2775,6 +2807,22 @@
       "reviewed_at": "2026-10-13"
     },
     {
+      "doi": "10.1111/mec.70190",
+      "candidate_id": "seep-candidate:10-1111-mec-70190",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-haima-mollusc-feeding-genomes",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1111/mec.70190",
+      "locator": "Abstract: genomes, gene-family contrasts and the in situ leakage experiment.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "1df7aa89f0da5bd9c2840c8774a0a65d2abab7156929ca9d1ef6a60f25dba423"
+    },
+    {
       "doi": "10.1111/mec.70476",
       "candidate_id": "seep-candidate:10-1111-mec-70476",
       "status": "curated",
@@ -2816,6 +2864,22 @@
       "support_status": "supported_after_narrowing",
       "reason": "Reviewed source profile retained from the initial SCS release.",
       "reason_zh": "保留南海冷泉首版中已核查的证据档案。"
+    },
+    {
+      "doi": "10.1126/sciadv.aef5836",
+      "candidate_id": "seep-candidate:10-1126-sciadv-aef5836",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-haima-sers-cyanide-nitrogen",
+      "access_level": "full_text_extracts",
+      "evidence_url": "https://doi.org/10.1126/sciadv.aef5836",
+      "locator": "Abstract: sensor performance and the cyanide interpretation. Section “Deep-sea application of the D-SERS sensor” and Figure 5 caption: Haima deployment.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Extend with additional section- or figure-specific claims as needed.",
+      "inspected_abstract_sha256": "a345cb146505107622cf6ce92f0962a1655752477f95a74fddb59c2ea79574c6"
     },
     {
       "doi": "10.1126/scirobotics.adp7821",
@@ -4205,6 +4269,22 @@
       "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
       "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
       "inspected_abstract_sha256": "b25f0dcea343524db277b294575f6cf4c142ffaebe6c888a0ee53f873609144a"
+    },
+    {
+      "doi": "10.3390/jmse14212012",
+      "candidate_id": "seep-candidate:10-3390-jmse14212012",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-qiongdongnan-pore-pressure",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.3390/jmse14212012",
+      "locator": "Publisher abstract: design and the vent versus non-vent pressure results.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "06f1c531789414e9a91c1a9907c83aba8ee23d28afca518a392c56e167c3e262"
     },
     {
       "doi": "10.3390/md19030171",

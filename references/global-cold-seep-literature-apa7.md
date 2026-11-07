@@ -1,6 +1,6 @@
 # International cold-seep inventory: APA 7 / 国际冷泉目录参考文献
 
-Discovery window: 2016-10-13–2026-11-05; 507 DOI records.
+Discovery window: 2016-10-13–2026-11-05; 509 DOI records.
 
 Discovery records include unreviewed candidates and retained preprints. Use the curated bibliography for extracted evidence. / 发现记录包括未核查候选及保留的预印本。已提取证据请使用精选参考文献。
 
@@ -408,6 +408,8 @@ Leduc, D. (2023). Six new species of free-living nematodes (nematoda: Enoplida) 
 
 Lee, D.-H., Kim, J.-H., Lee, Y. M., Bayon, G., Kim, D., Joe, Y. J., Wang, X., Shin, K.-H., & Jin, Y. K. (2022). Metalloenzyme signatures in authigenic carbonates from the Chukchi borderlands in the western Arctic Ocean. *Scientific Reports, 12*(1), Article 16597. https://doi.org/10.1038/s41598-022-21184-6
 
+Lee, D.-H., Kim, J.-H., Lee, Y. M., Stadnitskaia, A., Niemann, H., Huguet, C., Jin, Y.-K., Minami, H., Hachikubo, A., & Shin, K.-H. (2026). Linking biogeochemical signatures to archaeal community structure at active methane seeps in the Tatar Trough, Far Eastern Russia. *Marine Chemistry, 278*, Article 104677. https://doi.org/10.1016/j.marchem.2026.104677
+
 Lengger, S. K., Weber, Y., Taylor, K. W., Kopf, S. H., Berstan, R., Bull, I. D., Mayser, J., Leavitt, W. D., Blewett, J., Pearson, A., & Pancost, R. D. (2021). Determination of the δ 2 h values of high molecular weight lipids by high‐temperature gas chromatography coupled to isotope ratio mass spectrometry. *Rapid Communications in Mass Spectrometry, 35*(4), Article e8983. https://doi.org/10.1002/rcm.8983
 
 Leonte, M., Wang, B., Socolofsky, S. A., Mau, S., Breier, J. A., & Kessler, J. D. (2018). Using carbon isotope fractionation to constrain the extent of methane dissolution into the water column surrounding a natural hydrocarbon gas seep in the northern Gulf of Mexico. *Geochemistry, Geophysics, Geosystems, 19*(11), 4459–4475. https://doi.org/10.1029/2018gc007705
@@ -431,6 +433,8 @@ Li, J., Feng, J., Wang, P., Zhu, M., Huang, Y., Wu, Y., Fan, J., Hu, J., Dong, X
 Li, M., Chen, H., Wang, M., Zhong, Z., Wang, H., Zhou, L., Zhang, H., & Li, C. (2021). A toll-like receptor identified in *Gigantidas platifrons* and its potential role in the immune recognition of endosymbiotic methane oxidation bacteria. *PeerJ, 9*, Article e11282. https://doi.org/10.7717/peerj.11282
 
 Li, M., Chen, H., Wang, M., Zhong, Z., Zhou, L., & Li, C. (2020). Identification and characterization of endosymbiosis-related immune genes in deep-sea mussels Gigantidas platifrons. *Journal of Oceanology and Limnology, 38*(4), 1292–1303. https://doi.org/10.1007/s00343-020-0040-7
+
+Li, Y., Chen, C., Liu, X., Li, M., Yan, G., Zhou, H., Wang, H., Zheng, X., He, X., Liu, S., Qiu, J.-W., Qian, P.-Y., & Sun, J. (2026). A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment. *Nature Communications*. https://doi.org/10.1038/s41467-026-78965-0
 
 Li, Y., Chen, C., Liu, X., Li, M., Zhou, H., Wang, H., Zheng, X., He, X., Liu, S., Qiu, J.-W., Qian, P.-Y., & Sun, J. (2025). *A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment*. [Preprint]. Preprint server. https://doi.org/10.1101/2025.01.16.633305
 
@@ -836,7 +840,7 @@ Villalobos-Guerrero, T. F., Huč, S., Tilic, E., Hiley, A. S., & Rouse, G. W. (2
 
 Vohsen, S. A., Gruber-Vodicka, H. R., Osman, E. O., Saxton, M. A., Joye, S. B., Dubilier, N., Fisher, C. R., & Baums, I. B. (2020). *Deep-sea corals near cold seeps associate with chemoautotrophic bacteria that are related to the symbionts of cold seep and hydrothermal vent mussels*. [Preprint]. Preprint server. https://doi.org/10.1101/2020.02.27.968453
 
-Vohsen, S. A., Gruber-Vodicka, H. R., Osman, E. O., Saxton, M. A., Joye, S. B., Dubilier, N., Fisher, C. R., & Baums, I. B. (2025). Deep-sea corals near cold seeps associate with sulfur-oxidizing chemoautotrophs in the family Ca. thioglobaceae. *Microbiome, 13*(1), Article 232. https://doi.org/10.1186/s40168-025-02254-z
+Vohsen, S. A., Gruber-Vodicka, H. R., Osman, E. O., Saxton, M. A., Joye, S. B., Dubilier, N., Fisher, C. R., & Baums, I. B. (2025). Deep-sea corals near cold seeps associate with sulfur-oxidizing chemoautotrophs in the family Ca. Thioglobaceae. *Microbiome, 13*(1), Article 232. https://doi.org/10.1186/s40168-025-02254-z
 
 Vokhshoori, N. L., McCarthy, M. D., Close, H. G., Demopoulos, A. W. J., & Prouty, N. G. (2021). New geochemical tools for investigating resource and energy functions at deep‐sea cold seeps using amino acid δ15n in chemosymbiotic mussels (*Bathymodiolus childressi*). *Geobiology, 19*(6), 601–617. https://doi.org/10.1111/gbi.12458
 
