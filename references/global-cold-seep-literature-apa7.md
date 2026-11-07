@@ -1,6 +1,6 @@
 # International cold-seep inventory: APA 7 / 国际冷泉目录参考文献
 
-Discovery window: 2016-10-13–2026-11-05; 509 DOI records.
+Discovery window: 2016-10-13–2026-11-05; 510 DOI records.
 
 Discovery records include unreviewed candidates and retained preprints. Use the curated bibliography for extracted evidence. / 发现记录包括未核查候选及保留的预印本。已提取证据请使用精选参考文献。
 
@@ -367,6 +367,8 @@ Klasek, S. A., Hong, W.-L., Torres, M. E., Ross, S., Hostetler, K., Portnov, A.,
 Klasek, S., Hong, W.-L., Torres, M., Ross, S., Hostetler, K., Portnov, A., Grundger, F., & Colwell, F. (2020). *Distinct methane-driven biogeochemical regimes in Arctic seafloor gas hydrate mounds*. [Preprint]. Preprint server. https://doi.org/10.21203/rs.3.rs-93738/v1
 
 Kleindienst, S., Polerecky, L., Amann, R., Musat, F., & Knittel, K. (2025). In situ metabolic rates of alkane‐degrading sulphate‐reducing bacteria in hydrocarbon seep sediments revealed by combining CARD-FISH, NanoSIMS, and mathematical modelling. *Environmental Microbiology, 27*(8), Article e70151. https://doi.org/10.1111/1462-2920.70151
+
+Klomp, R., Wallenius, A. J., Schutgens, M. A. W., van Alen, T., Röckmann, T., Jetten, M. S. M., & Slomp, C. P. (2026). ANME-2a perform methane oxidation in brackish coastal sediments via multiple pathways. *Science Advances, 12*(44), Article eaei5868. https://doi.org/10.1126/sciadv.aei5868
 
 Knies, J., Vadakkepuliyambatta, S., Sen, A., Grundvåg, S.-A., Himmler, T., Velle Heggdal, J., Lindgren, M., & Krogh Johansen, S. (2023). CAGE20-0 cruise report: From seep to source – Lofoten canyons and PL998 license. *CAGE – Centre for Arctic Gas Hydrate, Environment and Climate Report Series, 8*. https://doi.org/10.7557/cage.6741
 

@@ -1,6 +1,6 @@
 # Curated South China Sea studies: APA 7 / 南海冷泉精选文献
 
-190 curated source profiles. Evidence access and citation limits are recorded in each profile. / 共 190 篇证据档案，核查材料及引用边界见各档案。
+193 curated source profiles. Evidence access and citation limits are recorded in each profile. / 共 193 篇证据档案，核查材料及引用边界见各档案。
 
 Cao, J., Liu, X., Feng, J., Deng, Y., Zhou, J., Tian, D., Li, Y., Hu, G., Yang, S., Lu, H., & Zhou, J. (2025). Formation of the authigenic pyrite in the gas hydrate-bearing layer of the Shenhu region, northern South China Sea: Constraints from geochemical and sulfur isotope compositions. *GEOCHEMICAL JOURNAL, 59*(3), Article GJ25004. https://doi.org/10.2343/geochemj.gj25004
 
@@ -11,6 +11,8 @@ Che, Y.-H., Ding, W.-P., Xiao, Z.-H., Wu, J.-M., Yin, H., Wang, F.-Z., & Zhang, 
 Che, Y.-H., Wang, J.-F., Ding, W.-P., Xiao, Z.-H., Shi, X.-F., Wu, J.-M., Wang, F.-Z., & Zhang, S. (2024). New diketopiperazine alkaloids from the Haima cold seep-derived fungus *Toxicocladosporium* sp. CYH-18. *Phytochemistry Letters, 60*, 96–100. https://doi.org/10.1016/j.phytol.2024.01.017
 
 Che, Y.-H., Wang, J.-F., Shi, X.-F., Ding, W.-P., Xiao, Z.-H., Wu, J.-M., Wang, F.-Z., & Zhang, S. (2025). 8*R*-methoxy-9*R*-hydroxyl-fumitremorgin C, a new diketopiperazine alkaloid from Haima cold seep-derived fungus *Aspergillus fumigatus* CYH-5. *Natural Product Research, 39*(8), 2197–2202. https://doi.org/10.1080/14786419.2023.2294483
+
+Chen, H., Zhao, J., Liang, Q., Li, J., Feng, J., Xiao, X., Chen, Z., Li, Y., & Xiong, Y. (2025). Methane clumped isotopes of shallow gas hydrates in the Haima cold seeps, South China Sea: Implications for marine carbon cycling and sequestration. *Marine and Petroleum Geology, 180*, Article 107449. https://doi.org/10.1016/j.marpetgeo.2025.107449
 
 Chen, S.-C., Teng, N.-H., Lin, Y.-S., Lai, M.-C., Chen, H.-H., & Wang, C.-C. (2020). *Methanofollis fontis* sp. nov., a methanogen isolated from marine sediment near a cold seep at Four-Way Closure Ridge offshore southwestern Taiwan. *International Journal of Systematic and Evolutionary Microbiology, 70*(10), 5497–5502. https://doi.org/10.1099/ijsem.0.004440
 
@@ -47,6 +49,8 @@ Dong, X., Peng, Y., Wang, M., Woods, L., Wu, W., Wang, Y., Xiao, X., Li, J., Jia
 Dong, X., Zhang, C., Peng, Y., Zhang, H.-X., Shi, L.-D., Wei, G., Hubert, C. R. J., Wang, Y., & Greening, C. (2022). Phylogenetically and catabolically diverse diazotrophs reside in deep-sea cold seep sediments. *Nature Communications, 13*(1), Article 4885. https://doi.org/10.1038/s41467-022-32503-w
 
 Du, Z., Zhang, X., Luan, Z., Wang, M., Xi, S., Li, L., Wang, B., Cao, L., Lian, C., Li, C., & Yan, J. (2018). In situ Raman quantitative detection of the cold seep vents and fluids in the chemosynthetic communities in the South China Sea. *Geochemistry, Geophysics, Geosystems, 19*(7), 2049–2061. https://doi.org/10.1029/2018gc007496
+
+Fan, J., Guan, H., Wang, Z., Xu, X., Miao, X., Li, Q., Wu, H., Li, S., & Wu, N. (2026). Archaeal lipid hydrogen isotope fractionation reveals carbon and energy metabolism in seep ecosystems. *Geochimica et Cosmochimica Acta, 433*, 260–271. https://doi.org/10.1016/j.gca.2026.10.006
 
 Feng, J., Yang, S., Wang, H., Liang, J., Fang, Y., & Luo, M. (2019). Methane source and turnover in the shallow sediments to the west of Haima cold seeps on the northwestern slope of the South China Sea. *Geofluids, 2019*, 1–18. https://doi.org/10.1155/2019/1010824
 
@@ -181,6 +185,8 @@ Liu, S., Yu, S., Lu, X., Yang, H., Li, Y., Xu, X., Lu, H., & Fang, Y. (2022). Mi
 Liu, Y., Chen, S., Wang, J., Shao, B., Fang, J., & Cao, J. (2023). The phylogeny, metabolic potentials, and environmental adaptation of an anaerobe, *Abyssisolibacter* sp. M8S5, isolated from cold seep sediments of the South China Sea. *Microorganisms, 11*(9), Article 2156. https://doi.org/10.3390/microorganisms11092156
 
 Liu, Y., Zhang, H., Cao, L., Fu, L., Lian, C., Guo, Y., Zhong, Z., Seim, I., Wang, M., & Li, C. (2025). Methane filtration and metabolic cooperation of microbial communities in cold seep water columns from South China Sea. *Communications Biology, 8*(1), Article 1052. https://doi.org/10.1038/s42003-025-08471-4
+
+Lu, H., Xiao, C., Xu, C., Xing, D., Liu, J., Yu, L., Li, X., Sa, R., Ning, Z., & Qi, R. (2026). Methane solubility in a gas hydrate environment at the Shenhu trial production area, northern South China Sea. *Energy & Fuels*. https://doi.org/10.1021/acs.energyfuels.6c01480
 
 Lu, R., Gao, Z.-M., Li, W.-L., Wei, Z.-F., Wei, T.-S., Huang, J.-M., Li, M., Tao, J., Wang, H.-B., & Wang, Y. (2021). Asgard archaea in the Haima cold seep: Spatial distribution and genomic insights. *Deep Sea Research Part I: Oceanographic Research Papers, 170*, Article 103489. https://doi.org/10.1016/j.dsr.2021.103489
 

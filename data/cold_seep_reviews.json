@@ -4777,6 +4777,54 @@
       "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
       "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
       "inspected_abstract_sha256": "b873b55a87cc375b2be10a2c2f5ab1ece7e8b388c86ef0ff226432688929f77f"
+    },
+    {
+      "doi": "10.1016/j.gca.2026.10.006",
+      "candidate_id": "seep-candidate:10-1016-j-gca-2026-10-006",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-haima-anme-lipid-hydrogen",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1016/j.gca.2026.10.006",
+      "locator": "Publisher abstract on ScienceDirect; Crossref deposited no abstract.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "34493cb62d4ea466d1f4e320674813bb86776ec3eb2cb72d3d874da44a29fddd"
+    },
+    {
+      "doi": "10.1016/j.marpetgeo.2025.107449",
+      "candidate_id": "seep-candidate:10-1016-j-marpetgeo-2025-107449",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-haima-hydrate-clumped-methane",
+      "access_level": "abstract",
+      "evidence_url": "https://ui.adsabs.harvard.edu/abs/2025MarPG.18007449C/abstract",
+      "locator": "Publisher abstract as carried by the NASA ADS record; Crossref deposited no abstract.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "fdb102ca6057de8e1d9e1423add55d714e4453606d26b1bea670d76ebd6ee71b"
+    },
+    {
+      "doi": "10.1021/acs.energyfuels.6c01480",
+      "candidate_id": "seep-candidate:10-1021-acs-energyfuels-6c01480",
+      "status": "curated",
+      "reviewed_at": "2026-11-05",
+      "source_id": "src:scs-shenhu-methane-solubility",
+      "access_level": "abstract",
+      "evidence_url": "https://doi.org/10.1021/acs.energyfuels.6c01480",
+      "locator": "Publisher abstract as indexed by OpenAlex; Crossref deposited no abstract.",
+      "metadata_status": "verified",
+      "support_status": "supported_after_narrowing",
+      "reason": "Source-scoped evidence profile and claim added; see the specific study limitation.",
+      "reason_zh": "已建立与原文范围一致的证据档案和论断；使用时请参阅研究局限。",
+      "next_action": "Inspect full Methods, results and supplements before extracting finer quantitative claims.",
+      "inspected_abstract_sha256": "c3811a94ce0807290d2dc971fc55ea395d5bd2307bff54e6d33193d323188c03"
     }
   ]
 }

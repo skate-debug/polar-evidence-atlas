@@ -596,6 +596,48 @@
   ],
   "candidates": [
     {
+      "id": "global-seep-candidate:10-1126-sciadv-aei5868",
+      "doi": "10.1126/sciadv.aei5868",
+      "title": "ANME-2a perform methane oxidation in brackish coastal sediments via multiple pathways",
+      "publication_date": "2026-10-30",
+      "year": 2026,
+      "authors": [
+        "Robin Klomp",
+        "Anna J. Wallenius",
+        "Merijn A. W. Schutgens",
+        "Theo van Alen",
+        "Thomas Röckmann",
+        "Mike S. M. Jetten",
+        "Caroline P. Slomp"
+      ],
+      "journal": "Science Advances",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1126/sciadv.aei5868",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "methane",
+        "genomes",
+        "geochemistry"
+      ],
+      "sites": [
+        "bothnian-sea"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T18:50:35.617460+00:00",
+      "last_seen_at": "2026-11-05T18:50:35.617460+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1038-s41467-026-78965-0",
       "doi": "10.1038/s41467-026-78965-0",
       "title": "A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment",

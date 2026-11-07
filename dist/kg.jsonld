@@ -2138,6 +2138,12 @@
       "schema:description": "Ship-based acoustic, seismic, or related geophysical observations; the instrument and resolution follow each source."
     },
     {
+      "@id": "region:bothnian-sea",
+      "@type": "pkg:Region",
+      "rdfs:label": "Bothnian Sea",
+      "schema:description": "Named comparison area; exact stations and sample scope follow each source."
+    },
+    {
       "@id": "domain:antarctic-prokaryotes",
       "@type": "pkg:Domain",
       "rdfs:label": "Antarctic prokaryotes",
@@ -5382,6 +5388,38 @@
       "schema:datePublished": 2025,
       "schema:identifier": "10.1111/1462-2920.70058",
       "schema:sameAs": "https://doi.org/10.1111/1462-2920.70058"
+    },
+    {
+      "@id": "src:scs-haima-anme-lipid-hydrogen",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Archaeal lipid hydrogen isotope fractionation reveals carbon and energy metabolism in seep ecosystems",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1016/j.gca.2026.10.006",
+      "schema:sameAs": "https://doi.org/10.1016/j.gca.2026.10.006"
+    },
+    {
+      "@id": "src:scs-haima-hydrate-clumped-methane",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Methane clumped isotopes of shallow gas hydrates in the Haima cold seeps, South China Sea: Implications for marine carbon cycling and sequestration",
+      "schema:datePublished": 2025,
+      "schema:identifier": "10.1016/j.marpetgeo.2025.107449",
+      "schema:sameAs": "https://doi.org/10.1016/j.marpetgeo.2025.107449"
+    },
+    {
+      "@id": "src:scs-shenhu-methane-solubility",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "Methane Solubility in a Gas Hydrate Environment at the Shenhu Trial Production Area, Northern South China Sea",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1021/acs.energyfuels.6c01480",
+      "schema:sameAs": "https://doi.org/10.1021/acs.energyfuels.6c01480"
+    },
+    {
+      "@id": "src:gcs-bothnian-anme-aom-pathways",
+      "@type": "schema:ScholarlyArticle",
+      "schema:name": "ANME-2a perform methane oxidation in brackish coastal sediments via multiple pathways",
+      "schema:datePublished": 2026,
+      "schema:identifier": "10.1126/sciadv.aei5868",
+      "schema:sameAs": "https://doi.org/10.1126/sciadv.aei5868"
     },
     {
       "@id": "claim:001-rothera-viral-novelty",
@@ -12434,6 +12472,74 @@
       },
       "prov:wasDerivedFrom": {
         "@id": "src:gcs-atlantic-monterey-nifh-seeps"
+      },
+      "pkg:evidenceType": "reported",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-anme-lipid-hydrogen",
+      "@type": "pkg:Claim",
+      "schema:text": "At the sampled carbonates, ε2H between ANME-derived isoprenoids and porewater had an interquartile range of −227‰ to −205‰. Compiled seep carbonate and sediment values averaged −218 ± 23‰, between published autotrophic (−252 ± 39‰) and heterotrophic (−203 ± 24‰) ranges, which the authors read as mixotrophy controlled by carbon metabolism and cellular energy status rather than by aerobic versus anaerobic respiration. ANME-1 lipids were more negative in ε2H (−233 ± 29‰) and less negative in ε13C (−53 ± 9‰) than ANME-2 (−211 ± 21‰ and −62 ± 6‰).",
+      "pkg:subject": {
+        "@id": "src:scs-haima-anme-lipid-hydrogen"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-anme-lipid-hydrogen"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-haima-hydrate-clumped-methane",
+      "@type": "pkg:Claim",
+      "schema:text": "Clumped isotopes assigned 47.3% of the methane in these shallow Haima gas hydrates to a thermogenic source and the remainder to microbial methane. Headspace gas and pore water were taken as a trace of anaerobic methane oxidation in the methane captured by the shallow hydrates. Comparison with published deep-hydrate data placed biogenic methane generation and accumulation in the Pliocene to Quaternary.",
+      "pkg:subject": {
+        "@id": "src:scs-haima-hydrate-clumped-methane"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-haima-hydrate-clumped-methane"
+      },
+      "pkg:evidenceType": "inferred",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:scs-shenhu-methane-solubility",
+      "@type": "pkg:Claim",
+      "schema:text": "Calculated solubility was 120.23 mM at the base of the hydrate stability zone and fell exponentially to 58.02 mM toward the seafloor. The authors describe that slope as comparable to Cascadia site 889 and, together with low total organic carbon, infer a mainly deep methane supply and insufficient in situ microbial methanogenesis to sustain the local hydrate accumulation.",
+      "pkg:subject": {
+        "@id": "src:scs-shenhu-methane-solubility"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "habitat:seep-sediment"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:scs-shenhu-methane-solubility"
+      },
+      "pkg:evidenceType": "modeled",
+      "pkg:confidence": "moderate"
+    },
+    {
+      "@id": "claim:gcs-bothnian-anme-aom-pathways",
+      "@type": "pkg:Claim",
+      "schema:text": "ANME-2a were the only methanotrophs detected. Their transcripts were highest in the shallow, metal-oxide-rich sulfate–methane transition zone, placed at about 12–22 cm, while 13C-methane incubations showed AOM potential with sulfate, metal oxides, and graphene oxide and the highest potential rates below that zone.",
+      "pkg:subject": {
+        "@id": "src:gcs-bothnian-anme-aom-pathways"
+      },
+      "pkg:predicate": "associated_with",
+      "pkg:object": {
+        "@id": "process:anaerobic-methane-oxidation"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "src:gcs-bothnian-anme-aom-pathways"
       },
       "pkg:evidenceType": "reported",
       "pkg:confidence": "moderate"

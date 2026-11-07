@@ -5977,5 +5977,61 @@
     "locator": "Abstract: nifH diversity, transcripts and the ammonium correlation. Geography: ENA project PRJEB72160 title, not the journal abstract.",
     "confidence": "moderate",
     "confidence_note": "Transcript detection and the ammonium correlation support potential diazotrophy, not a measured nitrogen-fixation rate. Localities are not in the journal abstract; this profile assigns the US Atlantic margin and Monterey Bay from ENA project PRJEB72160 and does not treat the seeps as Arctic."
+  },
+  {
+    "id": "claim:scs-haima-anme-lipid-hydrogen",
+    "source_id": "src:scs-haima-anme-lipid-hydrogen",
+    "subject": "src:scs-haima-anme-lipid-hydrogen",
+    "predicate": "associated_with",
+    "object": "process:anaerobic-methane-oxidation",
+    "statement": "At the sampled carbonates, ε2H between ANME-derived isoprenoids and porewater had an interquartile range of −227‰ to −205‰. Compiled seep carbonate and sediment values averaged −218 ± 23‰, between published autotrophic (−252 ± 39‰) and heterotrophic (−203 ± 24‰) ranges, which the authors read as mixotrophy controlled by carbon metabolism and cellular energy status rather than by aerobic versus anaerobic respiration. ANME-1 lipids were more negative in ε2H (−233 ± 29‰) and less negative in ε13C (−53 ± 9‰) than ANME-2 (−211 ± 21‰ and −62 ± 6‰).",
+    "scope": "Authigenic carbonates from two seep sites, Haima in the South China Sea and AC818 in the Gulf of Mexico, interpreted with compiled seep lipid data.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Measure compound-specific hydrogen isotopes of archaeal lipids against porewater, and compare ANME-1 and ANME-2 lipid ε2H and ε13C with published culture ranges.",
+    "locator": "Publisher abstract on ScienceDirect; Crossref deposited no abstract.",
+    "confidence": "moderate",
+    "confidence_note": "The fractionation ranges are not in situ anaerobic methane oxidation rates at Haima or AC818. The bioenergetic interpretation combines these carbonates with axenic culture compilations and does not show how syntrophic ANME–SRB energy sharing sets ε2H at either site."
+  },
+  {
+    "id": "claim:scs-haima-hydrate-clumped-methane",
+    "source_id": "src:scs-haima-hydrate-clumped-methane",
+    "subject": "src:scs-haima-hydrate-clumped-methane",
+    "predicate": "associated_with",
+    "object": "process:anaerobic-methane-oxidation",
+    "statement": "Clumped isotopes assigned 47.3% of the methane in these shallow Haima gas hydrates to a thermogenic source and the remainder to microbial methane. Headspace gas and pore water were taken as a trace of anaerobic methane oxidation in the methane captured by the shallow hydrates. Comparison with published deep-hydrate data placed biogenic methane generation and accumulation in the Pliocene to Quaternary.",
+    "scope": "Hydrate-bound gas and pore fluid from shallow sediments at the Haima cold seeps, Qiongdongnan Basin, South China Sea.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Use methane clumped isotopes with headspace-gas and pore-water chemistry, and compare the shallow hydrates with published deep gas-hydrate datasets.",
+    "locator": "Publisher abstract as carried by the NASA ADS record; Crossref deposited no abstract.",
+    "confidence": "moderate",
+    "confidence_note": "The 47.3% figure is a source estimate for the sampled shallow hydrates, not a Qiongdongnan inventory or a measured oxidation rate. The Pliocene–Quaternary span is a comparison with published deep-hydrate datasets, not a new date for every sample."
+  },
+  {
+    "id": "claim:scs-shenhu-methane-solubility",
+    "source_id": "src:scs-shenhu-methane-solubility",
+    "subject": "src:scs-shenhu-methane-solubility",
+    "predicate": "associated_with",
+    "object": "habitat:seep-sediment",
+    "statement": "Calculated solubility was 120.23 mM at the base of the hydrate stability zone and fell exponentially to 58.02 mM toward the seafloor. The authors describe that slope as comparable to Cascadia site 889 and, together with low total organic carbon, infer a mainly deep methane supply and insufficient in situ microbial methanogenesis to sustain the local hydrate accumulation.",
+    "scope": "The SHSC-4 trial-production site in the Shenhu area, northern South China Sea.",
+    "evidence_type": "modeled",
+    "evidence_basis": "Calculate the in situ methane solubility profile under hydrate phase equilibrium with the marine approach of Davie (2004), and compare the gradient with Cascadia site 889 and sediment organic carbon.",
+    "locator": "Publisher abstract as indexed by OpenAlex; Crossref deposited no abstract.",
+    "confidence": "moderate",
+    "confidence_note": "The profile is a solubility calculation, not a measured methane concentration or a methanogenesis rate. A slope likened to Cascadia and low organic carbon do not fingerprint the gas source."
+  },
+  {
+    "id": "claim:gcs-bothnian-anme-aom-pathways",
+    "source_id": "src:gcs-bothnian-anme-aom-pathways",
+    "subject": "src:gcs-bothnian-anme-aom-pathways",
+    "predicate": "associated_with",
+    "object": "process:anaerobic-methane-oxidation",
+    "statement": "ANME-2a were the only methanotrophs detected. Their transcripts were highest in the shallow, metal-oxide-rich sulfate–methane transition zone, placed at about 12–22 cm, while 13C-methane incubations showed AOM potential with sulfate, metal oxides, and graphene oxide and the highest potential rates below that zone.",
+    "scope": "Brackish coastal sediments at site US2 (62°50.99′N, 18°53.53′E) in the Bothnian Sea, northern Baltic. A mechanistic comparator, not an Arctic or South China Sea cold seep.",
+    "evidence_type": "reported",
+    "evidence_basis": "Combine porewater and sediment profiles with 16S amplicons, metagenomes, metatranscriptomes, and 13C-methane incubations using sulfate, metal oxides, and graphene oxide.",
+    "locator": "Abstract; Introduction; Materials and Methods site description; Data availability. Not every figure or the supplement was reviewed.",
+    "confidence": "moderate",
+    "confidence_note": "Incubation potentials are not in situ fluxes, and graphene oxide is an analog. One Bothnian Sea station does not supply an Arctic or South China Sea cold-seep rate, and the historical shallowing of the transition zone is an interpretation."
   }
 ]

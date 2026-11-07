@@ -60612,6 +60612,186 @@
       "relation": {},
       "article-number": "eaef5836"
     },
+    "10.1126/sciadv.aei5868": {
+      "DOI": "10.1126/sciadv.aei5868",
+      "URL": "https://doi.org/10.1126/sciadv.aei5868",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0008-3588-6792",
+          "authenticated-orcid": true,
+          "given": "Robin",
+          "family": "Klomp",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Microbiology, Radboud Institute for Biological and Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525AJ Nijmegen, Netherlands."
+            },
+            {
+              "name": "Department of Earth Sciences, Utrecht University, Princetonlaan 8a, 3584 CB Utrecht, Netherlands."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1510-4318",
+          "authenticated-orcid": true,
+          "given": "Anna J.",
+          "family": "Wallenius",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Microbiology, Radboud Institute for Biological and Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525AJ Nijmegen, Netherlands."
+            },
+            {
+              "name": "Stockholm University Baltic Sea Center, Svante Arrheniusväg 20F, Stockholm, Sweden."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0000-1227-6539",
+          "authenticated-orcid": true,
+          "given": "Merijn A. W.",
+          "family": "Schutgens",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Microbiology, Radboud Institute for Biological and Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525AJ Nijmegen, Netherlands."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0008-5602-3937",
+          "authenticated-orcid": true,
+          "given": "Theo",
+          "family": "van Alen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Microbiology, Radboud Institute for Biological and Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525AJ Nijmegen, Netherlands."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6688-8968",
+          "authenticated-orcid": true,
+          "given": "Thomas",
+          "family": "Röckmann",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Marine and Atmospheric Research Utrecht, Utrecht University, Princetonplein 5, 3584CC Utrecht, Netherlands."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4691-7039",
+          "authenticated-orcid": true,
+          "given": "Mike S. M.",
+          "family": "Jetten",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Microbiology, Radboud Institute for Biological and Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525AJ Nijmegen, Netherlands."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7272-0109",
+          "authenticated-orcid": true,
+          "given": "Caroline P.",
+          "family": "Slomp",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Microbiology, Radboud Institute for Biological and Environmental Sciences, Radboud University, Heyendaalseweg 135, 6525AJ Nijmegen, Netherlands."
+            },
+            {
+              "name": "Department of Earth Sciences, Utrecht University, Princetonlaan 8a, 3584 CB Utrecht, Netherlands."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Science Advances"
+      ],
+      "issue": "44",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ]
+      },
+      "language": "en",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "title": [
+        "ANME-2a perform methane oxidation in brackish coastal sediments via multiple pathways"
+      ],
+      "type": "journal-article",
+      "volume": "12",
+      "article-number": "eaei5868",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ]
+      }
+    },
     "10.1126/science.1246298": {
       "publisher": "American Association for the Advancement of Science (AAAS)",
       "issue": "6168",

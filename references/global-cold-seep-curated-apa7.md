@@ -1,6 +1,6 @@
 # International discussion studies: APA 7 / 国际冷泉讨论精选文献
 
-139 inspected comparison profiles; 5 reuse existing atlas sources by DOI. / 共 139 篇已核查比较档案，5 篇按 DOI 复用已有来源。
+140 inspected comparison profiles; 5 reuse existing atlas sources by DOI. / 共 140 篇已核查比较档案，5 篇按 DOI 复用已有来源。
 
 Andreassen, K., Hubbard, A., Winsborrow, M., Patton, H., Vadakkepuliyambatta, S., Plaza-Faverola, A., Gudlaugsson, E., Serov, P., Deryabin, A., Mattingsdal, R., Mienert, J., & Bünz, S. (2017). Massive blow-out craters formed by hydrate-controlled methane expulsion from the Arctic seafloor. *Science, 356*(6341), 948–953. https://doi.org/10.1126/science.aal4500
 
@@ -117,6 +117,8 @@ Kim, J.-H., Ryu, J.-S., Lee, D.-H., Hong, W.-L., Paull, C. K., Hur, J., Hachikub
 Klasek, S. A., Hong, W.-L., Torres, M. E., Ross, S., Hostetler, K., Portnov, A., Gründger, F., & Colwell, F. S. (2021). Distinct methane-dependent biogeochemical states in Arctic seafloor gas hydrate mounds. *Nature Communications, 12*(1), Article 6296. https://doi.org/10.1038/s41467-021-26549-5
 
 Kleindienst, S., Polerecky, L., Amann, R., Musat, F., & Knittel, K. (2025). In situ metabolic rates of alkane‐degrading sulphate‐reducing bacteria in hydrocarbon seep sediments revealed by combining CARD-FISH, NanoSIMS, and mathematical modelling. *Environmental Microbiology, 27*(8), Article e70151. https://doi.org/10.1111/1462-2920.70151
+
+Klomp, R., Wallenius, A. J., Schutgens, M. A. W., van Alen, T., Röckmann, T., Jetten, M. S. M., & Slomp, C. P. (2026). ANME-2a perform methane oxidation in brackish coastal sediments via multiple pathways. *Science Advances, 12*(44), Article eaei5868. https://doi.org/10.1126/sciadv.aei5868
 
 Knittel, K., & Boetius, A. (2009). Anaerobic oxidation of methane: Progress with an unknown process. *Annual Review of Microbiology, 63*(1), 311–334. https://doi.org/10.1146/annurev.micro.61.080706.093130
 

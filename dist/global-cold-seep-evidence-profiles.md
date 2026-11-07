@@ -214,6 +214,44 @@ Evidence locator / 证据位置：Abstract: design and primary findings.
 
 [Inspected source / 核查来源](https://doi.org/10.1098/rsbl.2026.0095) · `src:gcs-subtropical-seep-diversity-dip` · Mechanistic precedent / 机制先例
 
+## ANME-2a perform methane oxidation in brackish coastal sediments via multiple pathways
+
+ANME-2a 在半咸水海岸沉积物中经多条途径氧化甲烷
+
+Klomp, R., Wallenius, A. J., Schutgens, M. A. W., van Alen, T., Röckmann, T., Jetten, M. S. M., & Slomp, C. P. (2026). ANME-2a perform methane oxidation in brackish coastal sediments via multiple pathways. *Science Advances, 12*(44), Article eaei5868. https://doi.org/10.1126/sciadv.aei5868
+
+**Study scope / 研究范围**: Brackish coastal sediments at site US2 (62°50.99′N, 18°53.53′E) in the Bothnian Sea, northern Baltic. A mechanistic comparator, not an Arctic or South China Sea cold seep.
+
+波罗的海北部波的尼亚海 US2 站（62°50.99′N，18°53.53′E）的半咸水海岸沉积物。这是机制对照，不是北极或南海冷泉。
+
+**Design / 研究设计**: Combine porewater and sediment profiles with 16S amplicons, metagenomes, metatranscriptomes, and 13C-methane incubations using sulfate, metal oxides, and graphene oxide.
+
+把孔隙水和沉积物剖面与 16S 扩增子、宏基因组、宏转录组以及使用硫酸盐、金属氧化物和氧化石墨烯的 13C 甲烷培养结合起来。
+
+**Finding / 发现**: ANME-2a were the only methanotrophs detected. Their transcripts were highest in the shallow, metal-oxide-rich sulfate–methane transition zone, placed at about 12–22 cm, while 13C-methane incubations showed AOM potential with sulfate, metal oxides, and graphene oxide and the highest potential rates below that zone.
+
+检测到的甲烷氧化菌只有 ANME-2a。其转录本在浅层、富金属氧化物的硫酸盐–甲烷转换带最高，该带大约在 12–22 cm；13C 甲烷培养显示硫酸盐、金属氧化物和氧化石墨烯都能支持 AOM 潜力，最高潜在速率出现在该带之下。
+
+**Citation limits / 引用边界**: Incubation potentials are not in situ fluxes, and graphene oxide is an analog. One Bothnian Sea station does not supply an Arctic or South China Sea cold-seep rate, and the historical shallowing of the transition zone is an interpretation.
+
+培养潜力不是原位通量，氧化石墨烯只是类似物。波的尼亚海的一个站位不能提供北极或南海冷泉的速率，转换带历史上的变浅也是一种解释。
+
+**Discussion use / 讨论用途**: Use as a mechanistic comparator for multi-acceptor ANME-2a oxidation in a brackish sulfate–methane transition zone, not as an Arctic or South China Sea seep rate.
+
+作为半咸水硫酸盐–甲烷转换带中 ANME-2a 多电子受体氧化的机制对照，而不是北极或南海冷泉的速率。
+
+Sampling time / 采样时间：Published 30 October 2026. The inspected sections do not give the sampling date. 2026 年 10 月 30 日发表。所查段落未给出采样日期。
+
+Evidence access / 核查材料：full_text_extracts; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract; Introduction; Materials and Methods site description; Data availability. Not every figure or the supplement was reviewed.
+
+摘要；引言；材料与方法中的站位说明；数据可用性。并未审阅全部图件或补充材料。
+
+[Inspected source / 核查来源](https://www.science.org/doi/10.1126/sciadv.aei5868) · `src:gcs-bothnian-anme-aom-pathways` · Mechanistic precedent / 机制先例
+
+Data accessions / 数据登录号：10.5281/zenodo.16920164, PRJNA1306556
+
 ## Anaerobic oxidation of methane supports a minimal microbial community in a subsurface biofilm at Ginsburg mud volcano
 
 Ginsburg 泥火山深部生物膜的简化甲烷氧化群落

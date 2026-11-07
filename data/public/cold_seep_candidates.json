@@ -360,6 +360,92 @@
       "last_seen_at": "2026-10-13T02:52:28.834675+00:00"
     },
     {
+      "id": "seep-candidate:10-1016-j-gca-2026-10-006",
+      "doi": "10.1016/j.gca.2026.10.006",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Archaeal lipid hydrogen isotope fractionation reveals carbon and energy metabolism in seep ecosystems",
+      "publication_date": "2026-10-06",
+      "publication_date_precision": "day",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Jiachen Fan",
+        "Hongxiang Guan",
+        "Zeji Wang",
+        "Xiaoyan Xu",
+        "Xiaoming Miao",
+        "Qi Li",
+        "Huaichun Wu",
+        "Sanzhong Li",
+        "Nengyou Wu"
+      ],
+      "author_records": [
+        {
+          "firstName": "Jiachen",
+          "lastName": "Fan"
+        },
+        {
+          "firstName": "Hongxiang",
+          "lastName": "Guan"
+        },
+        {
+          "firstName": "Zeji",
+          "lastName": "Wang"
+        },
+        {
+          "firstName": "Xiaoyan",
+          "lastName": "Xu"
+        },
+        {
+          "firstName": "Xiaoming",
+          "lastName": "Miao"
+        },
+        {
+          "firstName": "Qi",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Huaichun",
+          "lastName": "Wu"
+        },
+        {
+          "firstName": "Sanzhong",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Nengyou",
+          "lastName": "Wu"
+        }
+      ],
+      "journal": "Geochimica et Cosmochimica Acta",
+      "volume": "433",
+      "issue": "",
+      "pages": "260-271",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1016/j.gca.2026.10.006",
+      "compartments": [
+        "carbonate"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "haima",
+        "comparative"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T18:50:35.617460+00:00",
+      "last_seen_at": "2026-11-05T18:50:35.617460+00:00"
+    },
+    {
       "id": "seep-candidate:10-1126-sciadv-aed8728",
       "collection": "scs-cold-seeps",
       "status": "candidate",
@@ -4159,6 +4245,96 @@
       "publication_stage": "journal_record"
     },
     {
+      "id": "seep-candidate:10-1021-acs-energyfuels-6c01480",
+      "doi": "10.1021/acs.energyfuels.6c01480",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Methane Solubility in a Gas Hydrate Environment at the Shenhu Trial Production Area, Northern South China Sea",
+      "publication_date": "2026-05-27",
+      "publication_date_precision": "day",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Hongfeng Lu",
+        "Changwen Xiao",
+        "Chenlu Xu",
+        "Donghui Xing",
+        "Jiyong Liu",
+        "Lu Yu",
+        "Xian Li",
+        "Rina Sa",
+        "Zijie Ning",
+        "Rongrong Qi"
+      ],
+      "author_records": [
+        {
+          "firstName": "Hongfeng",
+          "lastName": "Lu"
+        },
+        {
+          "firstName": "Changwen",
+          "lastName": "Xiao"
+        },
+        {
+          "firstName": "Chenlu",
+          "lastName": "Xu"
+        },
+        {
+          "firstName": "Donghui",
+          "lastName": "Xing"
+        },
+        {
+          "firstName": "Jiyong",
+          "lastName": "Liu"
+        },
+        {
+          "firstName": "Lu",
+          "lastName": "Yu"
+        },
+        {
+          "firstName": "Xian",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Rina",
+          "lastName": "Sa"
+        },
+        {
+          "firstName": "Zijie",
+          "lastName": "Ning"
+        },
+        {
+          "firstName": "Rongrong",
+          "lastName": "Qi"
+        }
+      ],
+      "journal": "Energy & Fuels",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1021/acs.energyfuels.6c01480",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "shenhu"
+      ],
+      "priority": "context",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T18:50:35.617460+00:00",
+      "last_seen_at": "2026-11-05T18:50:35.617460+00:00"
+    },
+    {
       "id": "seep-candidate:10-1016-j-envpol-2026-128425",
       "collection": "scs-cold-seeps",
       "status": "candidate",
@@ -7817,6 +7993,92 @@
       "discovery_source": "Crossref publisher-deposited metadata",
       "first_discovered_at": "2026-10-13T02:52:28.834675+00:00",
       "last_seen_at": "2026-10-13T02:52:28.834675+00:00"
+    },
+    {
+      "id": "seep-candidate:10-1016-j-marpetgeo-2025-107449",
+      "doi": "10.1016/j.marpetgeo.2025.107449",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Methane clumped isotopes of shallow gas hydrates in the Haima cold seeps, South China Sea: Implications for marine carbon cycling and sequestration",
+      "publication_date": "2025-10",
+      "publication_date_precision": "month",
+      "year": 2025,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Haodong Chen",
+        "Jing Zhao",
+        "Qianyong Liang",
+        "Jiacheng Li",
+        "Junxi Feng",
+        "Xi Xiao",
+        "Zongheng Chen",
+        "Yun Li",
+        "Yongqiang Xiong"
+      ],
+      "author_records": [
+        {
+          "firstName": "Haodong",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Jing",
+          "lastName": "Zhao"
+        },
+        {
+          "firstName": "Qianyong",
+          "lastName": "Liang"
+        },
+        {
+          "firstName": "Jiacheng",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Junxi",
+          "lastName": "Feng"
+        },
+        {
+          "firstName": "Xi",
+          "lastName": "Xiao"
+        },
+        {
+          "firstName": "Zongheng",
+          "lastName": "Chen"
+        },
+        {
+          "firstName": "Yun",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Yongqiang",
+          "lastName": "Xiong"
+        }
+      ],
+      "journal": "Marine and Petroleum Geology",
+      "volume": "180",
+      "issue": "",
+      "pages": "107449",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.1016/j.marpetgeo.2025.107449",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "geochemistry",
+        "methane"
+      ],
+      "sites": [
+        "haima",
+        "qiongdongnan"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Source-scoped classification from the inspected curation profile",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T18:50:35.617460+00:00",
+      "last_seen_at": "2026-11-05T18:50:35.617460+00:00"
     },
     {
       "id": "seep-candidate:10-1016-j-marpolbul-2025-118763",
