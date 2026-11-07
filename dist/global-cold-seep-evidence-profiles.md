@@ -698,6 +698,42 @@ Evidence locator / 证据位置：Abstract: design and primary findings.
 
 [Inspected source / 核查来源](https://doi.org/10.1073/pnas.2533639123) · `src:gcs-global-seep-carbonate-aom-rates` · Mechanistic precedent / 机制先例
 
+## Global seafloor gas venting: New insights from paleo-coldseep systems
+
+全球海底气体排放：来自古冷泉系统的新认识
+
+Cheng, Z., Tian, Z., Wu, J., Zhang, Z., Bian, S., Su, M., & Guo, X. (2026). Global seafloor gas venting: New insights from paleo-coldseep systems. *The Innovation Water, 1*(1), Article 100006. https://doi.org/10.59717/j.tiw.2026.100006
+
+**Study scope / 研究范围**: A global discussion of gas venting from paleo-cold seeps, with new ROV observations from a relict field in the Shenhu area.
+
+关于古冷泉气体排放的全球讨论，并包含神狐一处残余冷泉的新 ROV 观测。
+
+**Design / 研究设计**: CC BY commentary. The inspected PDF opening defines paleo-cold seeps and reports multiple Haiqin ROV dives on the eastern ridge of Canyon 12 in Shenhu. Later sections and figures were not read.
+
+CC BY 述评。所查 PDF 开头定义了古冷泉，并报道海琴 ROV 在神狐峡谷 12 东脊的多次下潜。后续章节和图件未阅读。
+
+**Finding / 发现**: The opening reports present-day gas venting inside a relict paleo-cold-seep field at Shenhu. The authors use low-intensity fluid activity as a qualitative description, not as a methane-flux class.
+
+正文开头报道神狐一处残余古冷泉内仍有现今气体排放。作者把低强度流体活动用作定性描述，而不是甲烷通量等级。
+
+**Citation limits / 引用边界**: One canyon observation in the opening is not a revised global methane budget. Unread sections may add sites or quantities that are not in this profile.
+
+开头中的一处峡谷观测不能改写全球甲烷收支。未读部分可能还有本档案未收录的站位或定量结果。
+
+**Discussion use / 讨论用途**: Use as 2026 context for gas venting from paleo-seep plumbing, and keep the new observation at Shenhu Canyon 12.
+
+作为 2026 年古冷泉通道仍在排气的背景，并把新观测保留在神狐峡谷 12。
+
+Sampling time / 采样时间：Published online 24 August 2026. Haiqin ROV dives in August 2025. Crossref records only the year 2026. 2026 年 8 月 24 日在线发表。海琴 ROV 于 2025 年 8 月下潜。Crossref 只记录了 2026 年。
+
+Evidence access / 核查材料：full_text_opening; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：CC BY PDF opening: publication dates, the paleo-seep definition, and the Shenhu ROV observation.
+
+CC BY PDF 开头：发表日期、古冷泉定义和神狐 ROV 观测。
+
+[Inspected source / 核查来源](https://doi.org/10.59717/j.tiw.2026.100006) · `src:gcs-paleo-seep-gas-venting` · Mechanistic precedent / 机制先例
+
 ## Intensive methane seep region on the outer East Siberian Arctic Shelf shows biomarker evidence for aerobic oxidation of methane
 
 东西伯利亚北极外陆架强甲烷渗漏区的有氧甲烷氧化生物标志物
@@ -801,6 +837,42 @@ Evidence locator / 证据位置：Abstract: design and primary findings.
 摘要：研究设计与主要发现。
 
 [Inspected source / 核查来源](https://doi.org/10.1029/2026jc023988) · `src:gcs-seep-carbonate-organic-nitrogen` · Regional comparison / 区域比较
+
+## Life on the edge: distinctive and diverse communities in the chemotone peripheral to Arctic seeps
+
+北极冷泉边缘化学过渡带中独特而多样的群落
+
+Sen, A., Sevin, B., Kotliarov, A., Hong, W. L., Szymczycha, B., Diak, M., Lepland, A., & Knies, J. (2026). Life on the edge: Distinctive and diverse communities in the chemotone peripheral to Arctic seeps. *Marine Biology, 173*(7), Article 113. https://doi.org/10.1007/s00227-026-04853-2
+
+**Study scope / 研究范围**: Epifaunal megabenthos at the periphery of a submarine-groundwater-discharge seep off northern Norway.
+
+挪威北部一处由海底地下水排放形成的冷泉外围的表栖大型底栖生物。
+
+**Design / 研究设计**: Compare seep, peripheral chemotone, and background communities, and use stable isotopes to test for chemosynthetic carbon beyond the seep. Crossref had no abstract; the same abstract was read from OpenAlex and the Springer record.
+
+比较冷泉、外围化学过渡带和背景群落，并用稳定同位素检验冷泉之外是否有化能合成碳。Crossref 没有摘要；OpenAlex 和 Springer 记录中的同一摘要已核对。
+
+**Finding / 发现**: Peripheral communities were about an order of magnitude more diverse and species-rich than the seep interior. The abstract reports no specialist fauna in either habitat, chemosynthetically derived carbon in peripheral animals, and abundant suspension feeders, including thousands of colonial anemones.
+
+外围群落的多样性和物种丰富度大约比冷泉内部高一个数量级。摘要报道两处生境都没有专性动物，外围动物含有化能合成来源的碳，悬食动物很多，其中包括数以千计的群体海葵。
+
+**Citation limits / 引用边界**: The abstract does not name the station or list the species, and it does not show that every Arctic seep has a richer edge. The anemone count is an example, not a regional census.
+
+摘要没有给出站位名称和物种名录，也不能说明每个北极冷泉的边缘都更丰富。海葵数量是一个例子，不是区域普查。
+
+**Discussion use / 讨论用途**: Use for seep-edge chemotone fauna at a groundwater-fed Arctic seep, not as a count of obligate seep species.
+
+用于地下水补给的北极冷泉边缘化学过渡带生物，而不是专性冷泉物种计数。
+
+Sampling time / 采样时间：Published online 28 May 2026. The inspected abstract does not give sampling dates. 2026 年 5 月 28 日在线发表。所查摘要未给出采样日期。
+
+Evidence access / 核查材料：abstract; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract read from OpenAlex and the Springer record. Crossref deposited no abstract.
+
+摘要来自 OpenAlex 和 Springer 记录。Crossref 未存入摘要。
+
+[Inspected source / 核查来源](https://doi.org/10.1007/s00227-026-04853-2) · `src:gcs-arctic-seep-chemotone` · Regional comparison / 区域比较
 
 ## Macrofauna Associated With Submarine Groundwater Discharge Sites and a Cold Seep in Svalbard Fjords
 

@@ -1,6 +1,6 @@
 # International cold-seep inventory: APA 7 / 国际冷泉目录参考文献
 
-Discovery window: 2016-10-13–2026-11-05; 505 DOI records.
+Discovery window: 2016-10-13–2026-11-05; 507 DOI records.
 
 Discovery records include unreviewed candidates and retained preprints. Use the curated bibliography for extracted evidence. / 发现记录包括未核查候选及保留的预印本。已提取证据请使用精选参考文献。
 
@@ -119,6 +119,8 @@ Chen, J., Li, Y., Zhong, C., Xu, Z., Lu, G., Jing, H., & Liu, H. (2023). Genomic
 Chen, Y., Dong, X., Sun, Z., Xu, C., Zhang, X., Qin, S., Geng, W., Cao, H., Zhai, B., Li, X., & Wu, N. (2024). Potential coupling of microbial methane, nitrogen, and sulphur cycling in the Okinawa Trough cold seep sediments. *Microbiology Spectrum, 12*(6), Article e03490-23. https://doi.org/10.1128/spectrum.03490-23
 
 Chen, Y., Xu, C., Wu, N., Sun, Z., Liu, C., Zhen, Y., Xin, Y., Zhang, X., Geng, W., Cao, H., Zhai, B., Li, J., Qin, S., & Zhou, Y. (2022). Diversity of anaerobic methane oxidizers in the cold seep sediments of the Okinawa Trough. *Frontiers in Microbiology, 13*, Article 819187. https://doi.org/10.3389/fmicb.2022.819187
+
+Cheng, Z., Tian, Z., Wu, J., Zhang, Z., Bian, S., Su, M., & Guo, X. (2026). Global seafloor gas venting: New insights from paleo-coldseep systems. *The Innovation Water, 1*(1), Article 100006. https://doi.org/10.59717/j.tiw.2026.100006
 
 Chernitsyna, S. M., Khalzov, I. A., Sitnikova, T. Y., Naumova, T. V., Khabuev, A. V., & Zemskaya, T. I. (2021). Microbial communities associated with bentic invertebrates of lake baikal. *Current Microbiology, 78*(8), 3020–3031. https://doi.org/10.1007/s00284-021-02563-0
 
@@ -717,6 +719,8 @@ Sen, A., Chitkara, C., Hong, W.-L., Lepland, A., Cochrane, S., di Primio, R., & 
 Sen, A., Didriksen, A., Hourdez, S., Svenning, M. M., & Rasmussen, T. L. (2020). Frenulate siboglinids at high Arctic methane seeps and insight into high latitude frenulate distribution. *Ecology and Evolution, 10*(3), 1339–1351. https://doi.org/10.1002/ece3.5988
 
 Sen, A., Duperron, S., Hourdez, S., Piquet, B., Léger, N., Gebruk, A., Le Port, A.-S., Svenning, M. M., & Andersen, A. C. (2018). Cryptic frenulates are the dominant chemosymbiotrophic fauna at Arctic and high latitude Atlantic cold seeps. *PLOS ONE, 13*(12), Article e0209273. https://doi.org/10.1371/journal.pone.0209273
+
+Sen, A., Sevin, B., Kotliarov, A., Hong, W. L., Szymczycha, B., Diak, M., Lepland, A., & Knies, J. (2026). Life on the edge: Distinctive and diverse communities in the chemotone peripheral to Arctic seeps. *Marine Biology, 173*(7), Article 113. https://doi.org/10.1007/s00227-026-04853-2
 
 Sen, A., Tanguy, G., Galand, P. E., Andersen, A. C., & Hourdez, S. (2023). Bacterial symbiont diversity in Arctic seep Oligobrachia siboglinids. *Animal Microbiome, 5*(1), Article 30. https://doi.org/10.1186/s42523-023-00251-x
 
