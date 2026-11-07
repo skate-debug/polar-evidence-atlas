@@ -2020,5 +2020,11 @@
     "type": "Method",
     "label": "Marine geophysical survey",
     "description": "Ship-based acoustic, seismic, or related geophysical observations; the instrument and resolution follow each source."
+  },
+  {
+    "id": "region:bothnian-sea",
+    "type": "Region",
+    "label": "Bothnian Sea",
+    "description": "Named comparison area; exact stations and sample scope follow each source."
   }
 ]

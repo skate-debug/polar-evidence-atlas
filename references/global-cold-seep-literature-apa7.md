@@ -1,6 +1,6 @@
 # International cold-seep inventory: APA 7 / 国际冷泉目录参考文献
 
-Discovery window: 2016-10-13–2026-11-05; 506 DOI records.
+Discovery window: 2016-10-13–2026-11-05; 511 DOI records.
 
 Discovery records include unreviewed candidates and retained preprints. Use the curated bibliography for extracted evidence. / 发现记录包括未核查候选及保留的预印本。已提取证据请使用精选参考文献。
 
@@ -119,6 +119,8 @@ Chen, J., Li, Y., Zhong, C., Xu, Z., Lu, G., Jing, H., & Liu, H. (2023). Genomic
 Chen, Y., Dong, X., Sun, Z., Xu, C., Zhang, X., Qin, S., Geng, W., Cao, H., Zhai, B., Li, X., & Wu, N. (2024). Potential coupling of microbial methane, nitrogen, and sulphur cycling in the Okinawa Trough cold seep sediments. *Microbiology Spectrum, 12*(6), Article e03490-23. https://doi.org/10.1128/spectrum.03490-23
 
 Chen, Y., Xu, C., Wu, N., Sun, Z., Liu, C., Zhen, Y., Xin, Y., Zhang, X., Geng, W., Cao, H., Zhai, B., Li, J., Qin, S., & Zhou, Y. (2022). Diversity of anaerobic methane oxidizers in the cold seep sediments of the Okinawa Trough. *Frontiers in Microbiology, 13*, Article 819187. https://doi.org/10.3389/fmicb.2022.819187
+
+Cheng, Z., Tian, Z., Wu, J., Zhang, Z., Bian, S., Su, M., & Guo, X. (2026). Global seafloor gas venting: New insights from paleo-coldseep systems. *The Innovation Water, 1*(1), Article 100006. https://doi.org/10.59717/j.tiw.2026.100006
 
 Chernitsyna, S. M., Khalzov, I. A., Sitnikova, T. Y., Naumova, T. V., Khabuev, A. V., & Zemskaya, T. I. (2021). Microbial communities associated with bentic invertebrates of lake baikal. *Current Microbiology, 78*(8), 3020–3031. https://doi.org/10.1007/s00284-021-02563-0
 
@@ -366,6 +368,8 @@ Klasek, S., Hong, W.-L., Torres, M., Ross, S., Hostetler, K., Portnov, A., Grund
 
 Kleindienst, S., Polerecky, L., Amann, R., Musat, F., & Knittel, K. (2025). In situ metabolic rates of alkane‐degrading sulphate‐reducing bacteria in hydrocarbon seep sediments revealed by combining CARD-FISH, NanoSIMS, and mathematical modelling. *Environmental Microbiology, 27*(8), Article e70151. https://doi.org/10.1111/1462-2920.70151
 
+Klomp, R., Wallenius, A. J., Schutgens, M. A. W., van Alen, T., Röckmann, T., Jetten, M. S. M., & Slomp, C. P. (2026). ANME-2a perform methane oxidation in brackish coastal sediments via multiple pathways. *Science Advances, 12*(44), Article eaei5868. https://doi.org/10.1126/sciadv.aei5868
+
 Knies, J., Vadakkepuliyambatta, S., Sen, A., Grundvåg, S.-A., Himmler, T., Velle Heggdal, J., Lindgren, M., & Krogh Johansen, S. (2023). CAGE20-0 cruise report: From seep to source – Lofoten canyons and PL998 license. *CAGE – Centre for Arctic Gas Hydrate, Environment and Climate Report Series, 8*. https://doi.org/10.7557/cage.6741
 
 Kocherla, M., Ray, D., Satyanarayanan, M., João, H., & Sojan, C. (2024). Trace and rare earth element systematics of cold-seep carbonates from the Krishna-Godavari basin: A comparison between isotopically distinct carbonate deposits. *Marine Chemistry, 259*, Article 104363. https://doi.org/10.1016/j.marchem.2024.104363
@@ -406,6 +410,8 @@ Leduc, D. (2023). Six new species of free-living nematodes (nematoda: Enoplida) 
 
 Lee, D.-H., Kim, J.-H., Lee, Y. M., Bayon, G., Kim, D., Joe, Y. J., Wang, X., Shin, K.-H., & Jin, Y. K. (2022). Metalloenzyme signatures in authigenic carbonates from the Chukchi borderlands in the western Arctic Ocean. *Scientific Reports, 12*(1), Article 16597. https://doi.org/10.1038/s41598-022-21184-6
 
+Lee, D.-H., Kim, J.-H., Lee, Y. M., Stadnitskaia, A., Niemann, H., Huguet, C., Jin, Y.-K., Minami, H., Hachikubo, A., & Shin, K.-H. (2026). Linking biogeochemical signatures to archaeal community structure at active methane seeps in the Tatar Trough, Far Eastern Russia. *Marine Chemistry, 278*, Article 104677. https://doi.org/10.1016/j.marchem.2026.104677
+
 Lengger, S. K., Weber, Y., Taylor, K. W., Kopf, S. H., Berstan, R., Bull, I. D., Mayser, J., Leavitt, W. D., Blewett, J., Pearson, A., & Pancost, R. D. (2021). Determination of the δ 2 h values of high molecular weight lipids by high‐temperature gas chromatography coupled to isotope ratio mass spectrometry. *Rapid Communications in Mass Spectrometry, 35*(4), Article e8983. https://doi.org/10.1002/rcm.8983
 
 Leonte, M., Wang, B., Socolofsky, S. A., Mau, S., Breier, J. A., & Kessler, J. D. (2018). Using carbon isotope fractionation to constrain the extent of methane dissolution into the water column surrounding a natural hydrocarbon gas seep in the northern Gulf of Mexico. *Geochemistry, Geophysics, Geosystems, 19*(11), 4459–4475. https://doi.org/10.1029/2018gc007705
@@ -429,6 +435,8 @@ Li, J., Feng, J., Wang, P., Zhu, M., Huang, Y., Wu, Y., Fan, J., Hu, J., Dong, X
 Li, M., Chen, H., Wang, M., Zhong, Z., Wang, H., Zhou, L., Zhang, H., & Li, C. (2021). A toll-like receptor identified in *Gigantidas platifrons* and its potential role in the immune recognition of endosymbiotic methane oxidation bacteria. *PeerJ, 9*, Article e11282. https://doi.org/10.7717/peerj.11282
 
 Li, M., Chen, H., Wang, M., Zhong, Z., Zhou, L., & Li, C. (2020). Identification and characterization of endosymbiosis-related immune genes in deep-sea mussels Gigantidas platifrons. *Journal of Oceanology and Limnology, 38*(4), 1292–1303. https://doi.org/10.1007/s00343-020-0040-7
+
+Li, Y., Chen, C., Liu, X., Li, M., Yan, G., Zhou, H., Wang, H., Zheng, X., He, X., Liu, S., Qiu, J.-W., Qian, P.-Y., & Sun, J. (2026). A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment. *Nature Communications*. https://doi.org/10.1038/s41467-026-78965-0
 
 Li, Y., Chen, C., Liu, X., Li, M., Zhou, H., Wang, H., Zheng, X., He, X., Liu, S., Qiu, J.-W., Qian, P.-Y., & Sun, J. (2025). *A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment*. [Preprint]. Preprint server. https://doi.org/10.1101/2025.01.16.633305
 
@@ -718,6 +726,8 @@ Sen, A., Didriksen, A., Hourdez, S., Svenning, M. M., & Rasmussen, T. L. (2020).
 
 Sen, A., Duperron, S., Hourdez, S., Piquet, B., Léger, N., Gebruk, A., Le Port, A.-S., Svenning, M. M., & Andersen, A. C. (2018). Cryptic frenulates are the dominant chemosymbiotrophic fauna at Arctic and high latitude Atlantic cold seeps. *PLOS ONE, 13*(12), Article e0209273. https://doi.org/10.1371/journal.pone.0209273
 
+Sen, A., Sevin, B., Kotliarov, A., Hong, W. L., Szymczycha, B., Diak, M., Lepland, A., & Knies, J. (2026). Life on the edge: Distinctive and diverse communities in the chemotone peripheral to Arctic seeps. *Marine Biology, 173*(7), Article 113. https://doi.org/10.1007/s00227-026-04853-2
+
 Sen, A., Tanguy, G., Galand, P. E., Andersen, A. C., & Hourdez, S. (2023). Bacterial symbiont diversity in Arctic seep Oligobrachia siboglinids. *Animal Microbiome, 5*(1), Article 30. https://doi.org/10.1186/s42523-023-00251-x
 
 Sen, A., Åström, E. K. L., Hong, W.-L., Portnov, A., Waage, M., Serov, P., Carroll, M. L., & Carroll, J. (2018). Geophysical and geochemical controls on the megafaunal community of a high Arctic cold seep. *Biogeosciences, 15*(14), 4533–4559. https://doi.org/10.5194/bg-15-4533-2018
@@ -834,7 +844,7 @@ Villalobos-Guerrero, T. F., Huč, S., Tilic, E., Hiley, A. S., & Rouse, G. W. (2
 
 Vohsen, S. A., Gruber-Vodicka, H. R., Osman, E. O., Saxton, M. A., Joye, S. B., Dubilier, N., Fisher, C. R., & Baums, I. B. (2020). *Deep-sea corals near cold seeps associate with chemoautotrophic bacteria that are related to the symbionts of cold seep and hydrothermal vent mussels*. [Preprint]. Preprint server. https://doi.org/10.1101/2020.02.27.968453
 
-Vohsen, S. A., Gruber-Vodicka, H. R., Osman, E. O., Saxton, M. A., Joye, S. B., Dubilier, N., Fisher, C. R., & Baums, I. B. (2025). Deep-sea corals near cold seeps associate with sulfur-oxidizing chemoautotrophs in the family Ca. thioglobaceae. *Microbiome, 13*(1), Article 232. https://doi.org/10.1186/s40168-025-02254-z
+Vohsen, S. A., Gruber-Vodicka, H. R., Osman, E. O., Saxton, M. A., Joye, S. B., Dubilier, N., Fisher, C. R., & Baums, I. B. (2025). Deep-sea corals near cold seeps associate with sulfur-oxidizing chemoautotrophs in the family Ca. Thioglobaceae. *Microbiome, 13*(1), Article 232. https://doi.org/10.1186/s40168-025-02254-z
 
 Vokhshoori, N. L., McCarthy, M. D., Close, H. G., Demopoulos, A. W. J., & Prouty, N. G. (2021). New geochemical tools for investigating resource and energy functions at deep‐sea cold seeps using amino acid δ15n in chemosymbiotic mussels (*Bathymodiolus childressi*). *Geobiology, 19*(6), 601–617. https://doi.org/10.1111/gbi.12458
 

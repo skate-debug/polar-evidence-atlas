@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:17:10.668019+00:00",
+  "generated_at": "2026-11-05T17:26:03.169611+00:00",
   "policy": "Records aging out of the rolling window retain source and review joins; no scientific claim is removed by discovery",
   "candidates": [
     {
@@ -138,6 +138,53 @@
       "first_discovered_at": "2026-11-04T16:42:44.779167+00:00",
       "last_seen_at": "2026-11-04T16:42:44.779167+00:00",
       "archived_at": "2026-11-04T16:42:44.779167+00:00",
+      "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
+    },
+    {
+      "id": "global-seep-candidate:10-1016-j-chemgeo-2026-123794",
+      "doi": "10.1016/j.chemgeo.2026.123794",
+      "title": "Authigenic carbonate mineralization records episodic methane seepage and redox transitions in cold-seep sediments",
+      "publication_date": "2027-01",
+      "year": 2027,
+      "authors": [
+        "Mohd Sadique",
+        "Aninda Mazumdar",
+        "Ankita Ghosh",
+        "Aditya Peketi",
+        "Subhashree Mishra",
+        "Kalyani Sivan",
+        "Swati Verma",
+        "Sai Pavan Pillutla",
+        "Supriya G. Karapurkar",
+        "Renuka K. Panchal",
+        "Rudrajit Joardar"
+      ],
+      "journal": "Chemical Geology",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1016/j.chemgeo.2026.123794",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment",
+        "carbonate"
+      ],
+      "topics": [
+        "methane",
+        "geochemistry"
+      ],
+      "sites": [
+        "global-unspecified"
+      ],
+      "priority": "context",
+      "classification_basis": "Provisional title/abstract tags; sample geography and evidence require source review",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T17:26:03.169611+00:00",
+      "last_seen_at": "2026-11-05T17:26:03.169611+00:00",
+      "archived_at": "2026-11-05T17:26:03.169611+00:00",
       "archive_reason": "Explicit supplementary DOI outside the rolling discovery window; retained for historical or mechanistic citation."
     },
     {
