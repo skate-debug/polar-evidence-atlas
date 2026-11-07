@@ -6033,5 +6033,33 @@
     "locator": "Abstract; Introduction; Materials and Methods site description; Data availability. Not every figure or the supplement was reviewed.",
     "confidence": "moderate",
     "confidence_note": "Incubation potentials are not in situ fluxes, and graphene oxide is an analog. One Bothnian Sea station does not supply an Arctic or South China Sea cold-seep rate, and the historical shallowing of the transition zone is an interpretation."
+  },
+  {
+    "id": "claim:scs-shenhu-hydrate-free-gas-logs",
+    "source_id": "src:scs-shenhu-hydrate-free-gas-logs",
+    "subject": "src:scs-shenhu-hydrate-free-gas-logs",
+    "predicate": "associated_with",
+    "object": "habitat:hydrate-bearing-sediment",
+    "statement": "The abstract describes hydrate at the top, free gas at the bottom and coexistence in between, and states that the log-derived hydrate saturation agreed with core experiments.",
+    "scope": "Gas-hydrate reservoirs in the Shenhu area, northern South China Sea.",
+    "evidence_type": "modeled",
+    "evidence_basis": "Identify the vertical hydrate–free-gas pattern from the intersection of three porosity logs, then estimate coexisting gas and hydrate saturations with a core-calibrated resistivity model and neutron–density normalization.",
+    "locator": "Crossref-deposited publisher abstract: log identification and the core-experiment comparison.",
+    "confidence": "moderate",
+    "confidence_note": "Agreement with core experiments supports the calculation for the studied Shenhu interval. The abstract gives no saturation values, well identifiers or regional resource volume, and it does not describe a microbial community."
+  },
+  {
+    "id": "claim:gcs-anme1-diversification-mags",
+    "source_id": "src:gcs-anme1-diversification-mags",
+    "subject": "src:gcs-anme1-diversification-mags",
+    "predicate": "associated_with",
+    "object": "taxon:anme",
+    "statement": "The MAGs resolve 14 genus-level clusters within ANME-1a, ANME-1b and ANME-1c. A conserved Fae-Hps arrangement is a candidate formaldehyde route where canonical mer is nearly absent, and acs is reported in ANME-1a and ANME-1b. Available ANME-1c genomes are associated with hydrothermal settings and have the highest predicted optimum temperatures, with a stated median of 71.6 °C, while ANME-1a and ANME-1b have broader predicted pH and salinity ranges.",
+    "scope": "132 ANME-1 MAGs from hydrothermal vents, cold seeps, and other marine and terrestrial habitats.",
+    "evidence_type": "inferred",
+    "evidence_basis": "Compare phylogeny and gene content across 132 ANME-1 MAGs.",
+    "locator": "Abstract; Supplementary Figure S3 caption habitat legend only. The results body was not extracted.",
+    "confidence": "moderate",
+    "confidence_note": "Predicted optima and gene presence are not measured growth temperatures or methane-oxidation rates. The Supplementary Figure S3 caption lists Arctic saline-spring sediments as one habitat class beside hydrothermal, cold-seep, other marine and terrestrial sources, so the study is not Arctic-primary and is not an SCS-site survey."
   }
 ]

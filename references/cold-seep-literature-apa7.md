@@ -2,7 +2,7 @@
 
 Publication discovery window: 2016-10-12 to 2026-11-05. Source-review update: 13 October 2026.
 
-324 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 324 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
+325 unique inventory DOI records. Bibliographic metadata has been independently retrieved for 325 records. This discovery bibliography also preserves screened background, excluded records, notices and preprints; it is not a count of distinct included studies. Inventory membership does not mean full-text review. Scientific claims should be traced to curated profiles or checked directly against the original paper.
 
 Cao, C., Wang, H., Ge, Y., Wang, W., Guo, J., Zhou, P., Gao, F., & Chen, J. (2022). Long-term in-situ monitoring and analysis of terrain in gas hydrate trial harvesting area. *Sensors, 22*(4), Article 1351. https://doi.org/10.3390/s22041351
 
@@ -213,6 +213,8 @@ Li, C.-P., Shi, Z.-Z., Fang, S.-T., Song, Y.-P., & Ji, N.-Y. (2023). Lipids and 
 Li, H., Lei, Y., Jin, H., Yang, Z., Shi, J., & Yu, F. (2026). Foraminiferal eDNA reveals ecological dynamics of a deep-sea cold seep ecosystem: Evidence from the “Haima” seep, South China Sea. *Journal of Sea Research, 212*, Article 102725. https://doi.org/10.1016/j.seares.2026.102725
 
 Li, H., Wei, B., Kang, D., Liu, J., Qu, C., Xie, Y., Zhong, C., & Zhang, Y. (2026). *Well-log-based identification and quantitative evaluation for marine gas hydrate-free gas co-existence zones*. [Preprint]. Preprint server. https://doi.org/10.20944/preprints202609.0451.v1
+
+Li, H., Wei, B., Kang, D., Liu, J., Qu, C., Xie, Y., Zhong, C., & Zhang, Y. (2026). Well-log-based identification and quantitative evaluation of marine gas hydrate–free gas co-existence zones in the Shenhu area, South China Sea. *Journal of Marine Science and Engineering, 14*(19), Article 1846. https://doi.org/10.3390/jmse14191846
 
 Li, J., Dong, X., Liu, S., Chen, W., Liao, J., Zhang, C., Bai, S., Xu, H., Zhang, J., Chen, S., Ta, K., Dasgupta, S., & Peng, X. (2025). Methane‐driven arsenic biogeochemical cycling in deep‐sea cold seeps: Implications for oceanic arsenic geochemistry. *Geophysical Research Letters, 52*(16), Article e2025GL115957. https://doi.org/10.1029/2025gl115957
 

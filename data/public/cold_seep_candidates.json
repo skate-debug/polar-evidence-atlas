@@ -446,6 +446,83 @@
       "last_seen_at": "2026-11-05T18:50:35.617460+00:00"
     },
     {
+      "id": "seep-candidate:10-3390-jmse14191846",
+      "doi": "10.3390/jmse14191846",
+      "collection": "scs-cold-seeps",
+      "status": "candidate",
+      "title": "Well-Log-Based Identification and Quantitative Evaluation of Marine Gas Hydrate–Free Gas Co-Existence Zones in the Shenhu Area, South China Sea",
+      "publication_date": "2026-10-03",
+      "publication_date_precision": "day",
+      "year": 2026,
+      "publication_stage": "journal_record",
+      "authors": [
+        "Haiyan Li",
+        "Bing Wei",
+        "Dongju Kang",
+        "Jundong Liu",
+        "Cuixia Qu",
+        "Yingfeng Xie",
+        "Chao Zhong",
+        "Yanlong Zhang"
+      ],
+      "author_records": [
+        {
+          "firstName": "Haiyan",
+          "lastName": "Li"
+        },
+        {
+          "firstName": "Bing",
+          "lastName": "Wei"
+        },
+        {
+          "firstName": "Dongju",
+          "lastName": "Kang"
+        },
+        {
+          "firstName": "Jundong",
+          "lastName": "Liu"
+        },
+        {
+          "firstName": "Cuixia",
+          "lastName": "Qu"
+        },
+        {
+          "firstName": "Yingfeng",
+          "lastName": "Xie"
+        },
+        {
+          "firstName": "Chao",
+          "lastName": "Zhong"
+        },
+        {
+          "firstName": "Yanlong",
+          "lastName": "Zhang"
+        }
+      ],
+      "journal": "Journal of Marine Science and Engineering",
+      "volume": "14",
+      "issue": "19",
+      "pages": "1846",
+      "pmid": "",
+      "pmcid": "",
+      "url": "https://doi.org/10.3390/jmse14191846",
+      "compartments": [],
+      "topics": [
+        "geochemistry"
+      ],
+      "sites": [
+        "shenhu"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit source-review shortlist; SCS sampling inspected separately from automatic topic tags",
+      "matched_queries": [
+        "inspected-scs-supplement"
+      ],
+      "discovery_source": "Primary-source citation and Methods follow-up",
+      "first_discovered_at": "2026-11-05T19:17:09.999776+00:00",
+      "last_seen_at": "2026-11-05T19:17:09.999776+00:00"
+    },
+    {
       "id": "seep-candidate:10-1126-sciadv-aed8728",
       "collection": "scs-cold-seeps",
       "status": "candidate",

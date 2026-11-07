@@ -2066,6 +2066,48 @@ Evidence locator / 证据位置：Abstract: study design and principal results.
 
 [Inspected source / 核查来源](https://europepmc.org/article/MED/41855937) · `src:scs-haima-alkane-methanogens`
 
+## Well-Log-Based Identification and Quantitative Evaluation of Marine Gas Hydrate–Free Gas Co-Existence Zones in the Shenhu Area, South China Sea
+
+测井识别并定量评价南海神狐海域天然气水合物–游离气共存带
+
+Li, H., Wei, B., Kang, D., Liu, J., Qu, C., Xie, Y., Zhong, C., & Zhang, Y. (2026). Well-log-based identification and quantitative evaluation of marine gas hydrate–free gas co-existence zones in the Shenhu area, South China Sea. *Journal of Marine Science and Engineering, 14*(19), Article 1846. https://doi.org/10.3390/jmse14191846
+
+**Design / 研究设计**: Identify the vertical hydrate–free-gas pattern from the intersection of three porosity logs, then estimate coexisting gas and hydrate saturations with a core-calibrated resistivity model and neutron–density normalization.
+
+用三条孔隙度测井的交会识别水合物–游离气的垂向分布，再用岩芯标定的电阻率模型和中子–密度归一化估计共存带的含气与水合物饱和度。
+
+**Sampling scope / 采样范围**: Gas-hydrate reservoirs in the Shenhu area, northern South China Sea.
+
+南海北部神狐海域的天然气水合物储层。
+
+**Time / 时间**: Published 3 October 2026. The inspected abstract does not give well names or logging dates.
+
+2026 年 10 月 3 日发表。所查摘要未给出井名或测井日期。
+
+**Methods / 方法**: Marine geophysical survey
+
+海洋地球物理调查
+
+**Measured or derived / 测量或推导指标**: log-derived hydrate and free-gas saturation
+
+测井求得的水合物与游离气饱和度
+
+**Findings / 发现**: The abstract describes hydrate at the top, free gas at the bottom and coexistence in between, and states that the log-derived hydrate saturation agreed with core experiments.
+
+摘要描述上部为水合物、下部为游离气、中部为共存带，并称测井求得的水合物饱和度与岩芯实验一致。
+
+**Citation limits / 引用边界**: Agreement with core experiments supports the calculation for the studied Shenhu interval. The abstract gives no saturation values, well identifiers or regional resource volume, and it does not describe a microbial community.
+
+与岩芯实验一致只支持所研究神狐层段的计算。摘要没有给出饱和度数值、井号或区域资源量，也没有描述微生物群落。
+
+Evidence access / 核查材料：abstract-scoped / 限于摘要; verified / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Crossref-deposited publisher abstract: log identification and the core-experiment comparison.
+
+Crossref 存缴的出版方摘要：测井识别以及与岩芯实验的比较。
+
+[Inspected source / 核查来源](https://doi.org/10.3390/jmse14191846) · `src:scs-shenhu-hydrate-free-gas-logs`
+
 ## 8 R -methoxy-9 R -hydroxyl-fumitremorgin C, a new diketopiperazine alkaloid from Haima cold seep-derived fungus Aspergillus fumigatus CYH-5
 
 海马 Aspergillus fumigatus 的二酮哌嗪衍生物及活性筛查

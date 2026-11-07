@@ -704,6 +704,42 @@ Evidence locator / 证据位置：Abstract: design and primary findings.
 
 [Inspected source / 核查来源](https://doi.org/10.1139/as-2026-0033) · `src:gcs-saglek-seep-corals` · Regional comparison / 区域比较
 
+## Evolutionary diversification and metabolic adaptations of ANME-1 archaea
+
+ANME-1 古菌的演化分化与代谢适应
+
+Su, L., Teske, A. P., Marshall, I. P. G., Qi, W., Liu, W., Zhou, K., & Li, J. (2026). Evolutionary diversification and metabolic adaptations of ANME-1 archaea. *Environmental Microbiome*. https://doi.org/10.1186/s40793-026-00968-7
+
+**Study scope / 研究范围**: 132 ANME-1 MAGs from hydrothermal vents, cold seeps, and other marine and terrestrial habitats.
+
+来自热液喷口、冷泉以及其他海洋与陆地生境的 132 个 ANME-1 MAG。
+
+**Design / 研究设计**: Compare phylogeny and gene content across 132 ANME-1 MAGs.
+
+比较 132 个 ANME-1 MAG 的系统发育与基因组成。
+
+**Finding / 发现**: The MAGs resolve 14 genus-level clusters within ANME-1a, ANME-1b and ANME-1c. A conserved Fae-Hps arrangement is a candidate formaldehyde route where canonical mer is nearly absent, and acs is reported in ANME-1a and ANME-1b. Available ANME-1c genomes are associated with hydrothermal settings and have the highest predicted optimum temperatures, with a stated median of 71.6 °C, while ANME-1a and ANME-1b have broader predicted pH and salinity ranges.
+
+这些 MAG 在 ANME-1a、ANME-1b 和 ANME-1c 中解析出 14 个属级簇。在几乎普遍缺少经典 mer 时，保守的 Fae-Hps 排布是甲醛处理的候选途径；acs 见于 ANME-1a 和 ANME-1b。现有 ANME-1c 基因组与热液环境相关，预测最适温度最高，所述中位数为 71.6 °C，而 ANME-1a 和 ANME-1b 的预测 pH 与盐度范围更宽。
+
+**Citation limits / 引用边界**: Predicted optima and gene presence are not measured growth temperatures or methane-oxidation rates. The Supplementary Figure S3 caption lists Arctic saline-spring sediments as one habitat class beside hydrothermal, cold-seep, other marine and terrestrial sources, so the study is not Arctic-primary and is not an SCS-site survey.
+
+预测最适条件与基因存在不能当作实测生长温度或甲烷氧化速率。补充图 S3 图注将北极盐泉沉积物列为热液、冷泉、其他海洋和陆地来源之外的一类生境，因此该研究既不以北极为主，也不是南海站位调查。
+
+**Discussion use / 讨论用途**: Use as a multi-habitat ANME-1 genomic comparison. Do not treat the MAG set as an SCS-site profile or as an Arctic-primary dataset.
+
+作为跨生境的 ANME-1 基因组比较。不要把该 MAG 集合当作南海站位档案或以北极为主的数据集。
+
+Sampling time / 采样时间：Published online 21 September 2026. Sampling dates are not given in the inspected abstract. 2026 年 9 月 21 日在线发表。所查摘要未给出采样日期。
+
+Evidence access / 核查材料：full_text_extracts; reviewed / 核查日期：2026-11-05.
+
+Evidence locator / 证据位置：Abstract; Supplementary Figure S3 caption habitat legend only. The results body was not extracted.
+
+摘要；仅补充图 S3 图注中的生境图例。未提取结果正文。
+
+[Inspected source / 核查来源](https://doi.org/10.1186/s40793-026-00968-7) · `src:gcs-anme1-diversification-mags` · Mechanistic precedent / 机制先例
+
 ## Geochemical characteristics of deep-water cold seeps influenced by offshore Arctic groundwater discharge
 
 受近海北极地下水排放影响的深水冷泉地球化学特征

@@ -985,6 +985,47 @@
       "discovery_scope_screen": "lexical_or_editorial"
     },
     {
+      "id": "global-seep-candidate:10-1186-s40793-026-00968-7",
+      "doi": "10.1186/s40793-026-00968-7",
+      "title": "Evolutionary diversification and metabolic adaptations of ANME-1 archaea",
+      "publication_date": "2026-09-21",
+      "year": 2026,
+      "authors": [
+        "Lei Su",
+        "Andreas P. Teske",
+        "Ian P. G. Marshall",
+        "Wenlong Qi",
+        "Wenqi Liu",
+        "Kun Zhou",
+        "Jiangtao Li"
+      ],
+      "journal": "Environmental Microbiome",
+      "collection": "global-cold-seeps",
+      "url": "https://doi.org/10.1186/s40793-026-00968-7",
+      "publication_stage": "journal_record",
+      "compartments": [
+        "sediment"
+      ],
+      "topics": [
+        "genomes",
+        "methane"
+      ],
+      "sites": [
+        "global-comparison"
+      ],
+      "priority": "microbial",
+      "classification_basis": "Explicit inspected international comparison packet",
+      "pmid": "",
+      "pmcid": "",
+      "matched_queries": [
+        "explicit-comparison-supplement"
+      ],
+      "discovery_source": "Inspected primary-source DOI follow-up",
+      "first_discovered_at": "2026-11-05T19:17:10.668019+00:00",
+      "last_seen_at": "2026-11-05T19:17:10.668019+00:00",
+      "discovery_scope_screen": "lexical_or_editorial"
+    },
+    {
       "id": "global-seep-candidate:10-1016-j-marenvres-2026-108410",
       "doi": "10.1016/j.marenvres.2026.108410",
       "title": "Biogeographic patterns and metabolic potential of chemoautotrophic communities in cold seep sediments across subarctic to tropical regions.",
